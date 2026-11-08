@@ -1,0 +1,486 @@
+[
+  {
+    "id": "acf508b32ec45d47cbb8fb0c33338a27",
+    "source_file": "brosur_magister_ekonomi_syariah_tagged_v2.md",
+    "heading": "## INFORMASI LEBIH LANJUT",
+    "parent_context": "BROSUR MAGISTER EKONOMI SYARIAH > INFORMASI LEBIH LANJUT",
+    "intents": [
+      "tanya_kontak"
+    ],
+    "topik": "Informasi Lebih Lanjut Magister Ekonomi Syariah",
+    "alias_topik": [
+      "kontak S2 Ekonomi Syariah",
+      "informasi Magister Ekonomi Syariah"
+    ],
+    "search_text": "Judul: Informasi Lebih Lanjut Magister Ekonomi Syariah\nKonteks: BROSUR MAGISTER EKONOMI SYARIAH > INFORMASI LEBIH LANJUT\nAlias: kontak S2 Ekonomi Syariah, informasi Magister Ekonomi Syariah\nIntent: tanya_kontak\n\n## INFORMASI LEBIH LANJUT\n\nAGUS PRIYONO : +62 813-1084-1841\nFADIL        : +62857-7554-5445\nEmail        : MAGISTER.ES.FEB@APPS.UINJKT.AC.ID",
+    "content": "## INFORMASI LEBIH LANJUT\n\nAGUS PRIYONO : +62 813-1084-1841\nFADIL        : +62857-7554-5445\nEmail        : MAGISTER.ES.FEB@APPS.UINJKT.AC.ID"
+  },
+  {
+    "id": "55e7eca963610c354b7de468beff91cb",
+    "source_file": "brosur_magister_ekonomi_syariah_tagged_v2.md",
+    "heading": "## LOKASI",
+    "parent_context": "BROSUR MAGISTER EKONOMI SYARIAH > LOKASI",
+    "intents": [
+      "tanya_kontak"
+    ],
+    "topik": "Lokasi Magister Ekonomi Syariah",
+    "alias_topik": [
+      "lokasi S2 Ekonomi Syariah",
+      "kampus Magister Ekonomi Syariah"
+    ],
+    "search_text": "Judul: Lokasi Magister Ekonomi Syariah\nKonteks: BROSUR MAGISTER EKONOMI SYARIAH > LOKASI\nAlias: lokasi S2 Ekonomi Syariah, kampus Magister Ekonomi Syariah\nIntent: tanya_kontak\n\n## LOKASI\n\nLokasi:\nGedung Pascasarjana FEB (Kampus 1)\nJl. H. Juanda No. 95, Ciputat, Tangsel",
+    "content": "## LOKASI\n\nLokasi:\nGedung Pascasarjana FEB (Kampus 1)\nJl. H. Juanda No. 95, Ciputat, Tangsel"
+  },
+  {
+    "id": "a3a4ca59bba33fdf27e0a1d62b63b4e3",
+    "source_file": "brosur_magister_ekonomi_syariah_tagged_v2.md",
+    "heading": "## KONTAK DAN MEDIA SOSIAL",
+    "parent_context": "BROSUR MAGISTER EKONOMI SYARIAH > KONTAK DAN MEDIA SOSIAL",
+    "intents": [
+      "tanya_kontak"
+    ],
+    "topik": "Kontak dan Media Sosial Magister Ekonomi Syariah",
+    "alias_topik": [
+      "kontak Magister Ekonomi Syariah",
+      "instagram Magister Ekonomi Syariah",
+      "email Magister Ekonomi Syariah"
+    ],
+    "search_text": "Judul: Kontak dan Media Sosial Magister Ekonomi Syariah\nKonteks: BROSUR MAGISTER EKONOMI SYARIAH > KONTAK DAN MEDIA SOSIAL\nAlias: kontak Magister Ekonomi Syariah, instagram Magister Ekonomi Syariah, email Magister Ekonomi Syariah\nIntent: tanya_kontak\n\n## KONTAK DAN MEDIA SOSIAL\n\nEmail       : magister.es.feb@apps.uinjkt.ac.id\nInstagram   : @magistereksyar_uinjkt\nProgram     : Magister Ekonomi Syariah FEB UIN Syarif Hidayatullah Jakarta",
+    "content": "## KONTAK DAN MEDIA SOSIAL\n\nEmail       : magister.es.feb@apps.uinjkt.ac.id\nInstagram   : @magistereksyar_uinjkt\nProgram     : Magister Ekonomi Syariah FEB UIN Syarif Hidayatullah Jakarta"
+  },
+  {
+    "id": "16529cc21521956ee85b1023abe35c9e",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### I. Layanan Aduan",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > I. Layanan Aduan",
+    "intents": [
+      "tanya_kontak",
+      "tanya_link"
+    ],
+    "topik": "Layanan Aduan UM-PTKIN",
+    "alias_topik": [
+      "aduan UM-PTKIN",
+      "helpdesk UM-PTKIN",
+      "sapa PTKIN"
+    ],
+    "search_text": "Judul: Layanan Aduan UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > I. Layanan Aduan\nAlias: aduan UM-PTKIN, helpdesk UM-PTKIN, sapa PTKIN\nIntent: tanya_kontak, tanya_link\n\n### I. Layanan Aduan\n\nSiswa dapat mengajukan aduan melalui WhatsApp/ Email dengan Format aduan NPSN#Nama_Sekolah#NISN#Nama_Siswa#Tuliskan_Aduan yang diajukan atau melalui aplikasi SAPA pada laman https://sapa.ptkin.ac.id/ bagi siswa (registrasi terlebih dahulu pada akun sapa).",
+    "content": "### I. Layanan Aduan\n\nSiswa dapat mengajukan aduan melalui WhatsApp/ Email dengan Format aduan NPSN#Nama_Sekolah#NISN#Nama_Siswa#Tuliskan_Aduan yang diajukan atau melalui aplikasi SAPA pada laman https://sapa.ptkin.ac.id/ bagi siswa (registrasi terlebih dahulu pada akun sapa)."
+  },
+  {
+    "id": "0d7b78b99dc489a9c3df4442c620bbfa",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### J. Kontak Kami",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_kontak"
+    ],
+    "topik": "Kontak UM-PTKIN",
+    "alias_topik": [
+      "kontak UM-PTKIN",
+      "email UM-PTKIN",
+      "WhatsApp UM-PTKIN"
+    ],
+    "search_text": "Judul: Kontak UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: kontak UM-PTKIN, email UM-PTKIN, WhatsApp UM-PTKIN\nIntent: tanya_kontak\n\n### J. Kontak Kami\n\nSekolah dapat menghubungi kami melalui Email : info@ptkin.ac.id\nWebsite : https://um.ptkin.ac.id\nWhatsApp : 081578901030 (WA Chat)\nCall : 085768723600\n\nAlamat Panitia PMB-PTKIN:\nUIN Sayyid Ali Rahmatullah Tulungagung Jl. Mayor Sujadi Timur No. 46 Plosokandang, Kedungwaru, Tulungagung, Jawa Timur 66221",
+    "content": "### J. Kontak Kami\n\nSekolah dapat menghubungi kami melalui Email : info@ptkin.ac.id\nWebsite : https://um.ptkin.ac.id\nWhatsApp : 081578901030 (WA Chat)\nCall : 085768723600\n\nAlamat Panitia PMB-PTKIN:\nUIN Sayyid Ali Rahmatullah Tulungagung Jl. Mayor Sujadi Timur No. 46 Plosokandang, Kedungwaru, Tulungagung, Jawa Timur 66221"
+  },
+  {
+    "id": "d1e957e6f9182d7efb5bf6858e8b5800",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## ChatBot WhatsApp UIN Jakarta",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > ChatBot WhatsApp UIN Jakarta",
+    "intents": [
+      "tanya_kontak",
+      "tanya_link"
+    ],
+    "topik": "ChatBot WhatsApp UIN Jakarta",
+    "alias_topik": [
+      "WA PMB UIN Jakarta",
+      "WhatsApp PMB UIN Jakarta",
+      "chatbot PMB UIN Jakarta"
+    ],
+    "search_text": "Judul: ChatBot WhatsApp UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > ChatBot WhatsApp UIN Jakarta\nAlias: WA PMB UIN Jakarta, WhatsApp PMB UIN Jakarta, chatbot PMB UIN Jakarta\nIntent: tanya_kontak, tanya_link\n\n## ChatBot WhatsApp UIN Jakarta\n\nChatBot WhatsApp UIN Jakarta (layanan 08.00–16.00 WIB) https://wa.me/+6285136908556",
+    "content": "## ChatBot WhatsApp UIN Jakarta\n\nChatBot WhatsApp UIN Jakarta (layanan 08.00–16.00 WIB) https://wa.me/+6285136908556"
+  },
+  {
+    "id": "17f8ffdf6e101c5fdd5955a75a8d3797",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Media Sosial & Informasi Resmi UIN Jakarta",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Media Sosial & Informasi Resmi UIN Jakarta",
+    "intents": [
+      "tanya_kontak",
+      "tanya_link"
+    ],
+    "topik": "Media Sosial dan Informasi Resmi UIN Jakarta",
+    "alias_topik": [
+      "media sosial UIN Jakarta",
+      "instagram UIN Jakarta",
+      "website UIN Jakarta"
+    ],
+    "search_text": "Judul: Media Sosial dan Informasi Resmi UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Media Sosial & Informasi Resmi UIN Jakarta\nAlias: media sosial UIN Jakarta, instagram UIN Jakarta, website UIN Jakarta\nIntent: tanya_kontak, tanya_link\n\n## Media Sosial & Informasi Resmi UIN Jakarta\n\nInstagram Resmi UIN Jakartahttps://www.instagram.com/uinjktofficial/\nTikTok Resmi UIN Jakartahttps://www.tiktok.com/@uinjktofficial\nWhatsApp Channel UIN Jakartahttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\nWebsite Resmi (Berita PMB UIN Jakarta)https://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta\n\nInstagram Resmi UIN Jakarta\nhttps://www.instagram.com/uinjktofficial/\n\nTikTok Resmi UIN Jakarta\nhttps://www.tiktok.com/@uinjktofficial\n\nWhatsApp Channel UIN Jakarta\nhttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\n\nWebsite Resmi Berita PMB UIN Jakarta\nhttps://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta",
+    "content": "## Media Sosial & Informasi Resmi UIN Jakarta\n\nInstagram Resmi UIN Jakartahttps://www.instagram.com/uinjktofficial/\nTikTok Resmi UIN Jakartahttps://www.tiktok.com/@uinjktofficial\nWhatsApp Channel UIN Jakartahttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\nWebsite Resmi (Berita PMB UIN Jakarta)https://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta\n\nInstagram Resmi UIN Jakarta\nhttps://www.instagram.com/uinjktofficial/\n\nTikTok Resmi UIN Jakarta\nhttps://www.tiktok.com/@uinjktofficial\n\nWhatsApp Channel UIN Jakarta\nhttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\n\nWebsite Resmi Berita PMB UIN Jakarta\nhttps://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta"
+  },
+  {
+    "id": "a2c99fd5f19ce6b3f2727d22d571cd62",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## INFORMASI LENGKAP DAN PENDAFTARAN",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > INFORMASI LENGKAP DAN PENDAFTARAN",
+    "intents": [
+      "tanya_link",
+      "tanya_kontak"
+    ],
+    "topik": "Informasi Lengkap dan Pendaftaran SNBP dan UTBK-SNBT",
+    "alias_topik": [
+      "Link informasi SNBP",
+      "informasi SNBT",
+      "link pendaftaran SNBP",
+      "link pendaftaran SNBT"
+    ],
+    "search_text": "Judul: Informasi Lengkap dan Pendaftaran SNBP dan UTBK-SNBT\nKonteks: Kontak Informasi PMB UIN Jakarta > INFORMASI LENGKAP DAN PENDAFTARAN\nAlias: Link informasi SNBP, informasi SNBT, link pendaftaran SNBP, link pendaftaran SNBT\nIntent: tanya_link, tanya_kontak\n\n## INFORMASI LENGKAP DAN PENDAFTARAN\n\n- https://snpmb.id/\n- https://uinjkt.ac.id/id/program-sarjana\nWebsite : https://uinjkt.ac.id\nEmail   : humas@apps.uinjkt.ac.id\nInstagram: @uinjktofficial\nTelepon : +62 851-3690-8556",
+    "content": "## INFORMASI LENGKAP DAN PENDAFTARAN\n\n- https://snpmb.id/\n- https://uinjkt.ac.id/id/program-sarjana\nWebsite : https://uinjkt.ac.id\nEmail   : humas@apps.uinjkt.ac.id\nInstagram: @uinjktofficial\nTelepon : +62 851-3690-8556"
+  },
+  {
+    "id": "e75abd3b4c2b31231ea1ca4a6a70e67a",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## Informasi Tambahan",
+    "parent_context": "Informasi Tambahan",
+    "intents": [
+      "tanya_profesi",
+      "tanya_kontak",
+      "tanya_ujian",
+      "tanya_link"
+    ],
+    "topik": "Informasi Tambahan Profesi Apoteker",
+    "alias_topik": [
+      "kontak profesi apoteker",
+      "ujian profesi apoteker",
+      "materi ujian apoteker"
+    ],
+    "search_text": "Judul: Informasi Tambahan Profesi Apoteker\nKonteks: Informasi Tambahan\nAlias: kontak profesi apoteker, ujian profesi apoteker, materi ujian apoteker\nIntent: tanya_profesi, tanya_kontak, tanya_ujian, tanya_link\n\n## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian.",
+    "content": "## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian."
+  },
+  {
+    "id": "3b86e1390a365ca093a819af3588a474",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ilmu Tarbiyah dan Keguruan:",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Tarbiyah dan Keguruan:",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak",
+    "alias_topik": [
+      "kontak FITK",
+      "kontak Fakultas Ilmu Tarbiyah dan Keguruan"
+    ],
+    "search_text": "Judul: Kontak\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Tarbiyah dan Keguruan:\nAlias: kontak FITK, kontak Fakultas Ilmu Tarbiyah dan Keguruan\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ilmu Tarbiyah dan Keguruan:\n\nKontak Fakultas Ilmu Tarbiyah dan Keguruan:\nPhone number: (021) 7401925 ext 1723\nEmail address: fitk[@]apps.uinjkt.ac.id\nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412\nCampus Address PPG: Jalan Raya Bojongsari No. 55, Bojongsari Baru, Kec. Bojongsari, Depok City, Wes 16516",
+    "content": "### Kontak Fakultas Ilmu Tarbiyah dan Keguruan:\n\nKontak Fakultas Ilmu Tarbiyah dan Keguruan:\nPhone number: (021) 7401925 ext 1723\nEmail address: fitk[@]apps.uinjkt.ac.id\nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412\nCampus Address PPG: Jalan Raya Bojongsari No. 55, Bojongsari Baru, Kec. Bojongsari, Depok City, Wes 16516"
+  },
+  {
+    "id": "86c066d008c33516d0b4ffbca05ae2fd",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Adab dan Humaniora",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Adab dan Humaniora",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Adab dan Humaniora",
+    "alias_topik": [
+      "kontak Fakultas Adab dan Humaniora",
+      "kontak FAH",
+      "nomor telepon Fakultas Adab dan Humaniora",
+      "email Fakultas Adab dan Humaniora",
+      "alamat Fakultas Adab dan Humaniora",
+      "kontak Fakultas Adab"
+    ],
+    "search_text": "Judul: Kontak Fakultas Adab dan Humaniora\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Adab dan Humaniora\nAlias: kontak Fakultas Adab dan Humaniora, kontak FAH, nomor telepon Fakultas Adab dan Humaniora, email Fakultas Adab dan Humaniora, alamat Fakultas Adab dan Humaniora, kontak Fakultas Adab\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Adab dan Humaniora\n\nKontak Fakultas Adab dan Humaniora\nPhone number: (021)22741771  \nEmail address: fah[@]apps.uinjkt.ac.id  \nCampus Address: Jl. Tarumanegara, Pisangan, Ciputat, South Tangerang, Banten 15419",
+    "content": "### Kontak Fakultas Adab dan Humaniora\n\nKontak Fakultas Adab dan Humaniora\nPhone number: (021)22741771  \nEmail address: fah[@]apps.uinjkt.ac.id  \nCampus Address: Jl. Tarumanegara, Pisangan, Ciputat, South Tangerang, Banten 15419"
+  },
+  {
+    "id": "825ef0d435916cd112fd17d6901f5450",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ushuluddin",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ushuluddin",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ushuluddin",
+    "alias_topik": [
+      "kontak Fakultas Ushuluddin",
+      "kontak FU",
+      "nomor telepon Fakultas Ushuluddin",
+      "email Fakultas Ushuluddin",
+      "alamat Fakultas Ushuluddin",
+      "fax Fakultas Ushuluddin"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ushuluddin\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ushuluddin\nAlias: kontak Fakultas Ushuluddin, kontak FU, nomor telepon Fakultas Ushuluddin, email Fakultas Ushuluddin, alamat Fakultas Ushuluddin, fax Fakultas Ushuluddin\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ushuluddin\n\nKontak Fakultas Ushuluddin\nPhone number: (021) 7493677, (021) 7401925  \nFax Number: (021) 7493579  \nEmail address: tu.fu[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Ushuluddin\n\nKontak Fakultas Ushuluddin\nPhone number: (021) 7493677, (021) 7401925  \nFax Number: (021) 7493579  \nEmail address: tu.fu[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "d4087ec6ac4e588006210e2900217615",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Syariah dan Hukum",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Syariah dan Hukum",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Syariah dan Hukum",
+    "alias_topik": [
+      "kontak Fakultas Syariah dan Hukum",
+      "kontak FSH",
+      "nomor telepon Fakultas Syariah dan Hukum",
+      "email Fakultas Syariah dan Hukum",
+      "alamat Fakultas Syariah dan Hukum"
+    ],
+    "search_text": "Judul: Kontak Fakultas Syariah dan Hukum\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Syariah dan Hukum\nAlias: kontak Fakultas Syariah dan Hukum, kontak FSH, nomor telepon Fakultas Syariah dan Hukum, email Fakultas Syariah dan Hukum, alamat Fakultas Syariah dan Hukum\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Syariah dan Hukum\n\nKontak Fakultas Syariah dan Hukum\nPhone number: (021) 747401925  \nEmail address: fsh[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Syariah dan Hukum\n\nKontak Fakultas Syariah dan Hukum\nPhone number: (021) 747401925  \nEmail address: fsh[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "0ff9323d598f1f5c8765a6498edffdbb",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Dakwah dan Ilmu Komunikasi",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dakwah dan Ilmu Komunikasi",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Dakwah dan Ilmu Komunikasi",
+    "alias_topik": [
+      "kontak Fakultas Dakwah dan Ilmu Komunikasi",
+      "kontak FDIKOM",
+      "nomor telepon Fakultas Dakwah dan Ilmu Komunikasi",
+      "email Fakultas Dakwah dan Ilmu Komunikasi",
+      "alamat Fakultas Dakwah dan Ilmu Komunikasi"
+    ],
+    "search_text": "Judul: Kontak Fakultas Dakwah dan Ilmu Komunikasi\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dakwah dan Ilmu Komunikasi\nAlias: kontak Fakultas Dakwah dan Ilmu Komunikasi, kontak FDIKOM, nomor telepon Fakultas Dakwah dan Ilmu Komunikasi, email Fakultas Dakwah dan Ilmu Komunikasi, alamat Fakultas Dakwah dan Ilmu Komunikasi\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Dakwah dan Ilmu Komunikasi\n\nKontak Fakultas Dakwah dan Ilmu Komunikasi\nPhone number: (021)74703580  \nEmail address: fdikom@apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Dakwah dan Ilmu Komunikasi\n\nKontak Fakultas Dakwah dan Ilmu Komunikasi\nPhone number: (021)74703580  \nEmail address: fdikom@apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "04317414058c5154095bc487079170a5",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Dirasat Islamiyah",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dirasat Islamiyah",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Dirasat Islamiyah",
+    "alias_topik": [
+      "kontak Fakultas Dirasat Islamiyah",
+      "kontak FDI",
+      "nomor telepon Fakultas Dirasat Islamiyah",
+      "WhatsApp Fakultas Dirasat Islamiyah",
+      "email Fakultas Dirasat Islamiyah",
+      "alamat Fakultas Dirasat Islamiyah"
+    ],
+    "search_text": "Judul: Kontak Fakultas Dirasat Islamiyah\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dirasat Islamiyah\nAlias: kontak Fakultas Dirasat Islamiyah, kontak FDI, nomor telepon Fakultas Dirasat Islamiyah, WhatsApp Fakultas Dirasat Islamiyah, email Fakultas Dirasat Islamiyah, alamat Fakultas Dirasat Islamiyah\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Dirasat Islamiyah\n\nKontak Fakultas Dirasat Islamiyah\nPhone number: (021) 7491820; 0895414813423 (Whatsapp)  \nEmail address: fdi[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Dirasat Islamiyah\n\nKontak Fakultas Dirasat Islamiyah\nPhone number: (021) 7491820; 0895414813423 (Whatsapp)  \nEmail address: fdi[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "5c53eaf4d6cf471d88c41f5e5b535579",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ekonomi dan Bisnis",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ekonomi dan Bisnis",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ekonomi dan Bisnis",
+    "alias_topik": [
+      "kontak Fakultas Ekonomi dan Bisnis",
+      "kontak FEB",
+      "nomor telepon Fakultas Ekonomi dan Bisnis",
+      "fax Fakultas Ekonomi dan Bisnis",
+      "email Fakultas Ekonomi dan Bisnis",
+      "alamat Fakultas Ekonomi dan Bisnis",
+      "alamat pascasarjana FEB"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ekonomi dan Bisnis\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ekonomi dan Bisnis\nAlias: kontak Fakultas Ekonomi dan Bisnis, kontak FEB, nomor telepon Fakultas Ekonomi dan Bisnis, fax Fakultas Ekonomi dan Bisnis, email Fakultas Ekonomi dan Bisnis, alamat Fakultas Ekonomi dan Bisnis, alamat pascasarjana FEB\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ekonomi dan Bisnis\n\nKontak Fakultas Ekonomi dan Bisnis\nNomor Telepon: (021) 7401925  \nNomor Fax: (021) 22744615  \nAlamat Email: feb[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ibnu Taimia IV, Komplek Rumah Dinas UIN Syarif Hidayatullah Jakarta, Tangerang Selatan, Banten 15419  \nAlamat Kampus Pasca Sarjana: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412",
+    "content": "### Kontak Fakultas Ekonomi dan Bisnis\n\nKontak Fakultas Ekonomi dan Bisnis\nNomor Telepon: (021) 7401925  \nNomor Fax: (021) 22744615  \nAlamat Email: feb[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ibnu Taimia IV, Komplek Rumah Dinas UIN Syarif Hidayatullah Jakarta, Tangerang Selatan, Banten 15419  \nAlamat Kampus Pasca Sarjana: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412"
+  },
+  {
+    "id": "349d63da635b79d9a9dc3655e54fb9fe",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Psikologi",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Psikologi",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Psikologi",
+    "alias_topik": [
+      "kontak Fakultas Psikologi",
+      "kontak F.Psi",
+      "nomor telepon Fakultas Psikologi",
+      "fax Fakultas Psikologi",
+      "email Fakultas Psikologi",
+      "alamat Fakultas Psikologi",
+      "link Fakultas Psikologi"
+    ],
+    "search_text": "Judul: Kontak Fakultas Psikologi\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Psikologi\nAlias: kontak Fakultas Psikologi, kontak F.Psi, nomor telepon Fakultas Psikologi, fax Fakultas Psikologi, email Fakultas Psikologi, alamat Fakultas Psikologi, link Fakultas Psikologi\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Psikologi\n\nKontak Fakultas Psikologi\nLink Fakultas Psikologi:\nhttps://fpsi.uinjkt.ac.id/\nNomor Telepon: (021)-7433060, Fax. (021)-74714714  \nAlamat Email: fpsi@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419",
+    "content": "### Kontak Fakultas Psikologi\n\nKontak Fakultas Psikologi\nLink Fakultas Psikologi:\nhttps://fpsi.uinjkt.ac.id/\nNomor Telepon: (021)-7433060, Fax. (021)-74714714  \nAlamat Email: fpsi@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419"
+  },
+  {
+    "id": "21183b6f2124835ab65526a9f3f21579",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Sains dan Teknologi",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Sains dan Teknologi",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Sains dan Teknologi",
+    "alias_topik": [
+      "kontak Fakultas Sains dan Teknologi",
+      "kontak FST",
+      "nomor telepon Fakultas Sains dan Teknologi",
+      "email Fakultas Sains dan Teknologi",
+      "alamat Fakultas Sains dan Teknologi",
+      "link Fakultas Sains dan Teknologi"
+    ],
+    "search_text": "Judul: Kontak Fakultas Sains dan Teknologi\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Sains dan Teknologi\nAlias: kontak Fakultas Sains dan Teknologi, kontak FST, nomor telepon Fakultas Sains dan Teknologi, email Fakultas Sains dan Teknologi, alamat Fakultas Sains dan Teknologi, link Fakultas Sains dan Teknologi\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Sains dan Teknologi\n\nKontak Fakultas Sains dan Teknologi\nNomor Telepon: (021)7493606  \nAlamat Email: fst[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412\nLink Fakultas Sains dan Teknologi:\nhttps://fst.uinjkt.ac.id/",
+    "content": "### Kontak Fakultas Sains dan Teknologi\n\nKontak Fakultas Sains dan Teknologi\nNomor Telepon: (021)7493606  \nAlamat Email: fst[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412\nLink Fakultas Sains dan Teknologi:\nhttps://fst.uinjkt.ac.id/"
+  },
+  {
+    "id": "4ae664eb8bc4c4101939161e7ebb327c",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ilmu Kesehatan",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Kesehatan",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ilmu Kesehatan",
+    "alias_topik": [
+      "kontak Fakultas Ilmu Kesehatan",
+      "kontak FIKES",
+      "nomor telepon Fakultas Ilmu Kesehatan",
+      "email Fakultas Ilmu Kesehatan",
+      "alamat Fakultas Ilmu Kesehatan",
+      "link Fakultas Ilmu Kesehatan"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ilmu Kesehatan\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Kesehatan\nAlias: kontak Fakultas Ilmu Kesehatan, kontak FIKES, nomor telepon Fakultas Ilmu Kesehatan, email Fakultas Ilmu Kesehatan, alamat Fakultas Ilmu Kesehatan, link Fakultas Ilmu Kesehatan\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ilmu Kesehatan\n\nKontak Fakultas Ilmu Kesehatan\nNomor Telepon: (021) 74716718  \nAlamat Email: fikes[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Kesehatan:\nhttps://fikes.uinjkt.ac.id/",
+    "content": "### Kontak Fakultas Ilmu Kesehatan\n\nKontak Fakultas Ilmu Kesehatan\nNomor Telepon: (021) 74716718  \nAlamat Email: fikes[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Kesehatan:\nhttps://fikes.uinjkt.ac.id/"
+  },
+  {
+    "id": "49c0ef6978b805058d9c17949bd8eb1e",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ilmu Sosial dan Ilmu Politik",
+    "alias_topik": [
+      "kontak Fakultas Ilmu Sosial dan Ilmu Politik",
+      "kontak FISIP",
+      "nomor telepon Fakultas Ilmu Sosial dan Ilmu Politik",
+      "fax Fakultas Ilmu Sosial dan Ilmu Politik",
+      "email Fakultas Ilmu Sosial dan Ilmu Politik",
+      "alamat Fakultas Ilmu Sosial dan Ilmu Politik",
+      "link Fakultas Ilmu Sosial dan Ilmu Politik"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ilmu Sosial dan Ilmu Politik\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\nAlias: kontak Fakultas Ilmu Sosial dan Ilmu Politik, kontak FISIP, nomor telepon Fakultas Ilmu Sosial dan Ilmu Politik, fax Fakultas Ilmu Sosial dan Ilmu Politik, email Fakultas Ilmu Sosial dan Ilmu Politik, alamat Fakultas Ilmu Sosial dan Ilmu Politik, link Fakultas Ilmu Sosial dan Ilmu Politik\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\n\nKontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\nNomor Telepon: (021)-74705215  \nFax: (021)-74702013  \nAlamat Email: fisip[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Sosial dan Ilmu Politik:\nhttps://fisip.uinjkt.ac.id/",
+    "content": "### Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\n\nKontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\nNomor Telepon: (021)-74705215  \nFax: (021)-74702013  \nAlamat Email: fisip[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Sosial dan Ilmu Politik:\nhttps://fisip.uinjkt.ac.id/"
+  },
+  {
+    "id": "5d8f17c04d6012fca30be4893af82fbf",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Kedokteran",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Kedokteran",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Kedokteran",
+    "alias_topik": [
+      "kontak Fakultas Kedokteran",
+      "kontak FK",
+      "nomor telepon Fakultas Kedokteran",
+      "email Fakultas Kedokteran",
+      "alamat Fakultas Kedokteran",
+      "link Fakultas Kedokteran"
+    ],
+    "search_text": "Judul: Kontak Fakultas Kedokteran\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Kedokteran\nAlias: kontak Fakultas Kedokteran, kontak FK, nomor telepon Fakultas Kedokteran, email Fakultas Kedokteran, alamat Fakultas Kedokteran, link Fakultas Kedokteran\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Kedokteran\n\nNomor Telepon: (021) 7402116  \nAlamat Email: fk@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Kedokteran:\nhttps://fk.uinjkt.ac.id/",
+    "content": "### Kontak Fakultas Kedokteran\n\nNomor Telepon: (021) 7402116  \nAlamat Email: fk@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Kedokteran:\nhttps://fk.uinjkt.ac.id/"
+  },
+  {
+    "id": "c6d76fc5a69147f2e0aace565bdeb93f",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Sekolah Pascasarjana",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Sekolah Pascasarjana",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Kontak Sekolah Pascasarjana",
+    "alias_topik": [
+      "kontak Sekolah Pascasarjana",
+      "kontak SPs",
+      "kontak pascasarjana UIN Jakarta",
+      "nomor telepon Sekolah Pascasarjana",
+      "email Sekolah Pascasarjana",
+      "alamat Sekolah Pascasarjana",
+      "link Sekolah Pascasarjana"
+    ],
+    "search_text": "Judul: Kontak Sekolah Pascasarjana\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Sekolah Pascasarjana\nAlias: kontak Sekolah Pascasarjana, kontak SPs, kontak pascasarjana UIN Jakarta, nomor telepon Sekolah Pascasarjana, email Sekolah Pascasarjana, alamat Sekolah Pascasarjana, link Sekolah Pascasarjana\nIntent: tanya_kontak, tanya_prodi_fakultas, tanya_pascasarjana\n\n### Kontak Sekolah Pascasarjana\n\nLink Sekolah Pascasarjana:\nhttps://graduate.uinjkt.ac.id/\nNomor Telepon: (021)7401472  \nAlamat Email: sps[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No.5 Pisangan Barat, Cireundeu, Ciputat Timur, Tangerang Selatan 15412",
+    "content": "### Kontak Sekolah Pascasarjana\n\nLink Sekolah Pascasarjana:\nhttps://graduate.uinjkt.ac.id/\nNomor Telepon: (021)7401472  \nAlamat Email: sps[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No.5 Pisangan Barat, Cireundeu, Ciputat Timur, Tangerang Selatan 15412"
+  },
+  {
+    "id": "8699b69099600bafd3de8d02b7359d3c",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "## Pusat Informasi dan Humas",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Pusat Informasi dan Humas",
+    "intents": [
+      "tanya_kontak"
+    ],
+    "topik": "Pusat Informasi dan Humas UIN Jakarta",
+    "alias_topik": [
+      "kontak humas UIN Jakarta",
+      "pusat informasi UIN Jakarta"
+    ],
+    "search_text": "Judul: Pusat Informasi dan Humas UIN Jakarta\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Pusat Informasi dan Humas\nAlias: kontak humas UIN Jakarta, pusat informasi UIN Jakarta\nIntent: tanya_kontak\n\n## Pusat Informasi dan Humas\n\nUIN Syarif Hidayatullah Jakarta\nAlamat:\nJl. Ir. H. Juanda N0.95, Ciputat, Tangerang Selatan 15142\nTelepon:\n(021)-7401925 (ext. 1829) (Telp)\nFax:\n(021)-7402982 (Fax)\nWhatsapp:\n0878-7765-7965\nWebsite:\nwww.uinjkt.ac.id\nEmail:\nhumas@uinjkt.ac.id",
+    "content": "## Pusat Informasi dan Humas\n\nUIN Syarif Hidayatullah Jakarta\nAlamat:\nJl. Ir. H. Juanda N0.95, Ciputat, Tangerang Selatan 15142\nTelepon:\n(021)-7401925 (ext. 1829) (Telp)\nFax:\n(021)-7402982 (Fax)\nWhatsapp:\n0878-7765-7965\nWebsite:\nwww.uinjkt.ac.id\nEmail:\nhumas@uinjkt.ac.id"
+  },
+  {
+    "id": "f0e92086178c63452568c76dd1c200a8",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## CONTACT",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > CONTACT",
+    "intents": [
+      "tanya_kontak",
+      "tanya_beasiswa"
+    ],
+    "topik": "Contact Rector Scholarship International Office UIN Jakarta",
+    "alias_topik": [
+      "kontak rector scholarship",
+      "international office UIN Jakarta",
+      "WhatsApp international office"
+    ],
+    "search_text": "Judul: Contact Rector Scholarship International Office UIN Jakarta\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > CONTACT\nAlias: kontak rector scholarship, international office UIN Jakarta, WhatsApp international office\nIntent: tanya_kontak, tanya_beasiswa\n\n## CONTACT\n\nInstagram : @internationalofficeuinjkt\nWhatsApp  : +62 813-9942-664\nApply     : https://bit.ly/ADFORMUIN",
+    "content": "## CONTACT\n\nInstagram : @internationalofficeuinjkt\nWhatsApp  : +62 813-9942-664\nApply     : https://bit.ly/ADFORMUIN"
+  },
+  {
+    "id": "e32677bf50d457f3d4805638fa35359b",
+    "source_file": "s2_s3_2_tagged.md",
+    "heading": "## Info lebih lanjut:",
+    "parent_context": "Info lebih lanjut:",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Info Lebih Lanjut Program Magister dan Doktor",
+    "alias_topik": [
+      "kontak pascasarjana",
+      "info S2 S3",
+      "link pendaftaran pascasarjana"
+    ],
+    "search_text": "Judul: Info Lebih Lanjut Program Magister dan Doktor\nKonteks: Info lebih lanjut:\nAlias: kontak pascasarjana, info S2 S3, link pendaftaran pascasarjana\nIntent: tanya_kontak, tanya_prosedur_pendaftaran, tanya_link\n\n## Info lebih lanjut:\n\nlink informasi lebih lanjut\nhttps://spmb.uinjkt.ac.id/\nInstagram:\nuinjktofficial\nEmail:\nhumas@apps.uinjkt.ac.id\nWebsite:\nwww.uinjkt.ac.id",
+    "content": "## Info lebih lanjut:\n\nlink informasi lebih lanjut\nhttps://spmb.uinjkt.ac.id/\nInstagram:\nuinjktofficial\nEmail:\nhumas@apps.uinjkt.ac.id\nWebsite:\nwww.uinjkt.ac.id"
+  }
+]

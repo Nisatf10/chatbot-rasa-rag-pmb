@@ -1,0 +1,13 @@
+PPG
+
+Prosedur Login Pendaftaran Ulang Calon Mahasiswa
+
+Calon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.
+
+Calon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).
+
+Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta.
+
+Link daftar ulang
+
+https://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul

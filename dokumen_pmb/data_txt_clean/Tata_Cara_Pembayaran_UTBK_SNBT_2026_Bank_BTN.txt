@@ -1,0 +1,29 @@
+TATA CARA PEMBAYARAN BIAYA UTBK SNBT 2026
+BANK BTN
+
+Sumber PDF: Tata Cara Pembayaran UTBK-SNBT 2026 - BTN.pdf
+
+Pembayaran biaya UTBK SNBT tahun 2026 melalui Bank BTN dapat dilakukan melalui ATM BTN, Mobile Banking BTN dan Loket Bank BTN di seluruh wilayah Indonesia. Tata cara pembayaran melalui Bank BTN dapat dilakukan sebagai berikut:
+
+1. ATM BTN
+a. Masukkan PIN ATM lalu pilih menu TRANSAKSI LAINNYA.
+b. Pada menu TRANSAKSI LAINNYA, pilih menu PEMBAYARAN.
+c. Pada menu PEMBAYARAN, pilih menu MULTIPAYMENT.
+d. Pada menu MULTIPAYMENT, pilih menu MULTIBILLER.
+e. Pada menu MULTIBILLER, pilih Kode Biller: UTBK 2020: 00001.
+f. Masukkan Kode Bayar+NISN (18 digit angka) yang tercetak pada slip pembayaran biaya UTBK yang diperoleh setelah melakukan pendaftaran di laman https://portal-snpmb.bppp.kemdikbud.go.id.
+g. Menu Konfirmasi Pembayaran:
+   - Cek kembali detail pembayaran (NAMA, KODE BAYAR, NISN dan NOMINAL).
+   - Bila sudah sesuai, pilih tombol YA.
+h. Transaksi selesai. Kemudian cetak Struk/Resi sebagai bukti pembayaran.
+
+2. Channel Bale by BTN (versi baru)
+Mobile Banking Bank BTN dapat di-download melalui Appstore untuk iPhone dan Playstore untuk Android.
+a. Log in ke Bale by BTN kemudian pilih Menu "Payment" atau "Pembayaran".
+b. Masuk ke menu "Multibiller".
+c. Pada menu halaman multibiller pilih tujuan "UTBK-SNBT" kemudian masukkan kode bayar+NISN (18 digit angka) pada kolom "NISN". Kemudian klik/tekan "LANJUT".
+d. Muncul halaman konfirmasi berupa Kode Bayar, NISN, Nama, Tanggal Lahir dan Nominal Pembayaran. Apabila telah sesuai, dilanjutkan dengan pilih "LANJUT/NEXT".
+e. Kemudian akan muncul halaman Konfirmasi jika Transaksi telah sukses. Bukti transaksi ini dapat disimpan (download).
+
+3. Loket Bank BTN
+Calon peserta UTBK SNBT 2026 dapat membayar biaya UTBK SNBT 2026 melalui counter teller di seluruh loket Bank BTN dengan menyerahkan slip pembayaran biaya UTBK SNBT 2026 (berisi Kode Bayar dan NISN) yang diperoleh setelah melakukan pendaftaran pada Portal SNBT. Setelah melakukan pembayaran, bukti cetak pembayaran kepada petugas teller dapat disimpan sebagai bukti pembayaran biaya UTBK.

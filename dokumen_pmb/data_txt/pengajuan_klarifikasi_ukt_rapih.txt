@@ -1,0 +1,56 @@
+PENGAJUAN KLARIFIKASI UKT
+Sumber: Pengajuan Klarifikasi UKT.pdf
+
+============================================================
+HALAMAN 1 - LANGKAH 1: LOGIN APLIKASI
+============================================================
+
+Buka Browser dan Login Aplikasi
+- Buka browser dan login aplikasi dengan mengetik: admisi.uinjkt.ac.id
+
+Jalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:
+- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).
+  Contoh: 1234567891
+- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl (disambung/tanpa strip).
+  Contoh: 20070517
+
+Jalur SPMB Mandiri Reguler dan Non Reguler:
+- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).
+  Contoh: 1234567891
+- Password diisi dengan Password Pendaftaran Awal.
+  Contoh: 2ABCD4QZ
+
+Teks pada contoh layar aplikasi:
+- Portal PMB Online
+- Login untuk mengisi form pendaftaran:
+- Melakukan login dengan memasukkan Nomor Pendaftaran
+- Nomor Pendaftaran (Registration Number)
+- Password
+- MASUK / LOGIN / DAFTAR ULANG
+
+============================================================
+HALAMAN 2 - LANGKAH 2: ISI FORMULIR KLARIFIKASI UKT
+============================================================
+
+Instruksi:
+- Ceklist Ya untuk mengajukan Klarifikasi UKT. Klarifikasi UKT hanya dilakukan satu kali sesuai jadwal.
+- Isi Alasan Pengajuan sesuai kondisi Anda untuk permohonan keringanan UKT secara jelas.
+- Lampirkan data pendukung seperti surat keterangan pensiun, surat pernyataan mempunyai cicilan, surat kematian orang tua, dan lain-lain.
+
+Teks pada tampilan contoh aplikasi:
+- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH
+- Halaman Utama
+- No. Ujian: 123429999
+- Nama: CHA RINI
+- Fakultas: FAKULTAS SAINS DAN TEKNOLOGI
+- Prodi: TEKNIK PERTAMBANGAN
+- Jenjang: S1
+- Kelompok UKT: UKT Kelompok 6
+- Jumlah Pembayaran UKT: Rp14.500.000,00
+- Ajukan Klarifikasi UKT: Ya / Tidak
+- Alasan Pengajuan*
+- Data Pendukung*
+- Upload Berkas
+- Contoh file data dukung adalah surat pernyataan mempunyai cicilan, surat kematian orang tua, dll
+- KIRIM PENGAJUAN
+- Klik tombol Kirim Pengajuan untuk mengirim data pengajuan klarifikasi UKT Anda dan selanjutnya menunggu hasil pengumuman klarifikasi UKT.

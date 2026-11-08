@@ -1,0 +1,76 @@
+# Tata Cara Pembayaran Pendaftaran UMPTKIN
+
+---
+
+
+## 🏦 ATM Bank Mandiri
+
+1. Pilih menu **BAYAR/BELI**, kemudian pilih **PENDIDIKAN**
+2. Masukkan kode biller: **88574** (UMPTKIN)
+3. Masukkan No. VA / Kode Bayar: `8857461045xxxxx80`
+4. Tekan tombol **BENAR**
+5. Layar akan menampilkan info pembayaran (No. VA, Nama, No. HP, Nama Ujian, URL) — jika sudah sesuai, tekan **1** lalu tekan **BENAR**
+6. Simpan resi ATM sebagai bukti pembayaran yang sah
+
+
+
+## 🏦 Cabang Bank Mandiri
+
+1. Datang ke kantor cabang Bank Mandiri terdekat dan informasikan bahwa Anda akan melakukan pembayaran **Virtual Account UMPTKIN (88574)**
+2. Isi aplikasi setoran/transfer/kliring/inkaso dengan data berikut:
+
+   | Keterangan     | Isi               |
+   |----------------|-------------------|
+   | Nama Penerima  | Abba\*\*\*\*\*\*\*him |
+   | No. Rekening   | 8857\*\*\*\*\*\*\*\* |
+   | Nominal        | Rp 200.000        |
+
+3. Pembayaran dapat menggunakan **uang tunai, debit rekening, atau cek Mandiri**
+4. Serahkan slip dan informasikan kepada teller bahwa pembayaran untuk **Mandiri Virtual Account UMPTKIN kode 88574**
+5. Teller akan mengonfirmasi No. VA, Nama, No. HP, Nama Ujian, URL
+6. Simpan slip/advis tervalidasi sebagai bukti pembayaran yang sah
+
+---
+
+
+
+## 🏦 Livin by Mandiri
+
+1. Pastikan Anda sudah terdaftar sebagai pengguna **Livin by Mandiri**
+2. Buka aplikasi **Livin by Mandiri**
+3. Pilih menu **BAYAR**, lalu cari penyedia jasa dengan mengetik **88574** atau **UMPTKIN**
+4. Masukkan No. VA / Kode Bayar: `8857461xxxxx0`
+5. Klik **LANJUTKAN**, periksa data pembayaran, lalu klik **Lanjut Bayar**
+6. Masukkan **PIN Livin by Mandiri**
+7. Simpan hasil transaksi sebagai bukti pembayaran yang sah
+
+---
+
+
+
+## 🏦 Transfer Bank Non-Mandiri
+
+Lakukan transfer dari Bank Non-Mandiri melalui internet banking, mobile banking, kantor cabang, atau sarana cek/BG, dengan data berikut:
+
+| Keterangan     | Isi                    |
+|----------------|------------------------|
+| Bank Tujuan    | Bank Mandiri           |
+| No. Rekening   | `88574610456xxxx0`     |
+| Nama Penerima  | Ab\*\*\*\*\*\*\*\*\*him |
+
+Simpan slip/advis tervalidasi sebagai bukti pembayaran yang sah.
+
+---
+
+
+
+## 🏦 ATM Bank Lain
+
+1. Masukkan kartu ke mesin ATM
+2. Pilih **Transaksi Lainnya**
+3. Pilih menu **Transfer** → **Transfer ke Bank Lain**
+4. Masukkan kode Bank Mandiri **(008)** dan 16 digit No. VA / Kode Bayar: `8857xxxxxxxx5380`
+5. Masukkan nominal transfer **200000** — nominal yang berbeda tidak dapat diproses
+6. Periksa rincian transaksi di layar, lalu tekan **Ya** untuk melanjutkan
+7. Transaksi selesai
+8. Simpan struk pembayaran sebagai bukti pembayaran yang sah

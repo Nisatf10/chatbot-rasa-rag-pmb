@@ -1,0 +1,949 @@
+[
+  {
+    "id": "0e69ff6afe0b271cb0a79b008173ba05",
+    "source_file": "blu_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler BLU",
+    "alias_topik": [
+      "ketentuan BLU",
+      "syarat BLU",
+      "Beasiswa BLU",
+      "Jalur BLU"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler BLU\nKonteks: Ketentuan Peserta\nAlias: ketentuan BLU, syarat BLU, Beasiswa BLU, Jalur BLU\nIntent: tanya_persyaratan, tanya_beasiswa, tanya_jalur\n\n## Ketentuan Peserta\n\nSeleksi Beasiswa BLU merupakan seleksi bagi calon mahasiswa penerima beasiswa pada fakultas dan program studi tertentu di lingkungan UIN Syarif Hidayatullah Jakarta. Kriteria penerima beasiswa ditentukan oleh program studi masing-masing.",
+    "content": "## Ketentuan Peserta\n\nSeleksi Beasiswa BLU merupakan seleksi bagi calon mahasiswa penerima beasiswa pada fakultas dan program studi tertentu di lingkungan UIN Syarif Hidayatullah Jakarta. Kriteria penerima beasiswa ditentukan oleh program studi masing-masing."
+  },
+  {
+    "id": "9ab7dc4b6341f101ac25e414eda492e3",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 1. SNBP",
+    "parent_context": "1. SNBP",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Seleksi dan Daftar Ulang SNBP",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SNBP",
+      "jadwal SNBP",
+      "pendaftaran SNBP",
+      "pengumuman SNBP",
+      "jadwal SNBP Jenjang S1 Sarjana",
+      "Jadwal Daftar Ulang SNBP",
+      "Daftar Ulang Seleksi Nasional Berdasarkan Prestasi"
+    ],
+    "search_text": "Judul: Jadwal Seleksi dan Daftar Ulang SNBP\nKonteks: 1. SNBP\nAlias: Jadwal Daftar Ulang SNBP, jadwal SNBP, pendaftaran SNBP, pengumuman SNBP, jadwal SNBP Jenjang S1 Sarjana, Jadwal Daftar Ulang SNBP, Daftar Ulang Seleksi Nasional Berdasarkan Prestasi\nIntent: tanya_jadwal, tanya_jalur\n\n## 1. SNBP\n\nKegiatan                              Tanggal\nPengumuman Kuota Sekolah             29 Desember 2025\nMasa Sanggah                         29 Desember 2025 - 15 Januari 2026\nRegistrasi Akun SNPMB Sekolah        05 - 26 Januari 2026\nPengisian PDSS oleh Sekolah          05 Januari - 02 Februari 2026\nRegistrasi Akun SNPMB Siswa          12 Januari - 18 Februari 2026\nPendaftaran SNBP                     03 - 18 Februari 2026\nPengumuman Hasil SNBP                31 Maret 2026\nMasa Unduh Kartu Peserta SNBP        03 Februari - 30 April 2026\nDaftar Ulang: 01-07 April 2026\nProses Penentuan UKT: 08-09 April 2026\nPengumuman Kelompok UKT: 10 April 2026\nKlarifikasi UKT: 11-14 April 2026\nRapat Penentuan Klarifikasi UKT: 15-16 April 2026\nPengumuman Klarifikasi UKT: 17 April 2026\nPembayaran UKT: 10-23 April 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 24 April 2026\nNIM dan KTM: 27-28 April 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 1. SNBP\n\nKegiatan                              Tanggal\nPengumuman Kuota Sekolah             29 Desember 2025\nMasa Sanggah                         29 Desember 2025 - 15 Januari 2026\nRegistrasi Akun SNPMB Sekolah        05 - 26 Januari 2026\nPengisian PDSS oleh Sekolah          05 Januari - 02 Februari 2026\nRegistrasi Akun SNPMB Siswa          12 Januari - 18 Februari 2026\nPendaftaran SNBP                     03 - 18 Februari 2026\nPengumuman Hasil SNBP                31 Maret 2026\nMasa Unduh Kartu Peserta SNBP        03 Februari - 30 April 2026\nDaftar Ulang: 01-07 April 2026\nProses Penentuan UKT: 08-09 April 2026\nPengumuman Kelompok UKT: 10 April 2026\nKlarifikasi UKT: 11-14 April 2026\nRapat Penentuan Klarifikasi UKT: 15-16 April 2026\nPengumuman Klarifikasi UKT: 17 April 2026\nPembayaran UKT: 10-23 April 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 24 April 2026\nNIM dan KTM: 27-28 April 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "53ffff173ac4ca220720ef499e4d03fb",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 2. SPAN PTKIN",
+    "parent_context": "2. SPAN PTKIN",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran atau Seleksi dan Daftar Ulang SPAN PTKIN",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SPAN PTKIN",
+      "jadwal SPAN PTKIN",
+      "pendaftaran SPAN PTKIN",
+      "pengumuman SPAN PTKIN",
+      "daftar ulang SPAN PTKIN",
+      "jadwal SPAN PTKIN jenjang S1 Sarjana"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran atau Seleksi dan Daftar Ulang SPAN PTKIN\nKonteks: 2. SPAN PTKIN\nAlias: Jadwal Daftar Ulang SPAN PTKIN, jadwal SPAN PTKIN, pendaftaran SPAN PTKIN, pengumuman SPAN PTKIN, daftar ulang SPAN PTKIN, jadwal SPAN PTKIN jenjang S1 Sarjana\nIntent: tanya_jadwal, tanya_jalur\n\n## 2. SPAN PTKIN\n\nKegiatan                                      Tanggal\nPendaftaran PDSS                             05 Januari - 07 Februari 2026\nPengisian/Verifikasi/Finalisasi PDSS         05 Januari - 09 Februari 2026\nPendaftaran (siswa)                          11 Februari - 28 Februari 2026\nPengumuman Hasil Seleksi                     07 April 2026\nProses verifikasi/pendaftaran ulang          Ditetapkan di masing-masing PTKIN\nDaftar Ulang: 08-20 April 2026\nProses Penentuan UKT: 21-22 April 2026\nPengumuman Kelompok UKT: 23 April 2026\nKlarifikasi UKT: 24-27 April 2026\nRapat Penentuan Klarifikasi UKT: 28-29 April 2026\nPengumuman Klarifikasi UKT: 30 April 2026\nPembayaran UKT: 23 April-06 Mei 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Mei 2026\nNIM dan KTM: 08-11 Mei 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 2. SPAN PTKIN\n\nKegiatan                                      Tanggal\nPendaftaran PDSS                             05 Januari - 07 Februari 2026\nPengisian/Verifikasi/Finalisasi PDSS         05 Januari - 09 Februari 2026\nPendaftaran (siswa)                          11 Februari - 28 Februari 2026\nPengumuman Hasil Seleksi                     07 April 2026\nProses verifikasi/pendaftaran ulang          Ditetapkan di masing-masing PTKIN\nDaftar Ulang: 08-20 April 2026\nProses Penentuan UKT: 21-22 April 2026\nPengumuman Kelompok UKT: 23 April 2026\nKlarifikasi UKT: 24-27 April 2026\nRapat Penentuan Klarifikasi UKT: 28-29 April 2026\nPengumuman Klarifikasi UKT: 30 April 2026\nPembayaran UKT: 23 April-06 Mei 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Mei 2026\nNIM dan KTM: 08-11 Mei 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "3b46aee736be92f533a0605df4d693e4",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 3. SNBT",
+    "parent_context": "3. SNBT",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Seleksi dan Daftar Ulang SNBT",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SNBT",
+      "jadwal SNBT",
+      "jadwal UTBK",
+      "pembayaran UTBK",
+      "pengumuman SNBT",
+      "jadwal Seleksi dan Daftar Ulang SNBT",
+      "Seleksi Nasional Berdasarkan Tes Jenjang S1 Sarjana"
+    ],
+    "search_text": "Judul: Jadwal Seleksi dan Daftar Ulang SNBT\nKonteks: 3. SNBT\nAlias: Jadwal Daftar Ulang SNBT, jadwal SNBT, jadwal UTBK, pembayaran UTBK, pengumuman SNBT, jadwal Seleksi dan Daftar Ulang SNBT, Seleksi Nasional Berdasarkan Tes Jenjang S1 Sarjana\nIntent: tanya_jadwal, tanya_jalur\n\n## 3. SNBT\n\nKegiatan                              Tanggal\nRegistrasi Akun SNPMB Siswa          12 Januari - 07 April 2026\nPendaftaran UTBK-SNBT                25 Maret - 07 April 2026\nPembayaran Biaya UTBK                25 Maret - 08 April 2026\nPelaksanaan Ujian UTBK               21 - 30 April 2026\nPengumuman Hasil SNBT                25 Mei 2026\nMasa Unduh Sertifikat UTBK           02 Juni - 31 Juli 2026\nDaftar Ulang: 26 Mei-08 Juni 2026\nProses Penentuan UKT: 09-10 Juni 2026\nPengumuman Kelompok UKT: 11 Juni 2026\nKlarifikasi UKT: 12-15 Juni 2026\nRapat Penentuan Klarifikasi UKT: 17-18 Juni 2026\nPengumuman Klarifikasi UKT: 19 Juni 2026\nPembayaran UKT: 11 Juni-02 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 03 Juli 2026\nNIM dan KTM: 06-07 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 3. SNBT\n\nKegiatan                              Tanggal\nRegistrasi Akun SNPMB Siswa          12 Januari - 07 April 2026\nPendaftaran UTBK-SNBT                25 Maret - 07 April 2026\nPembayaran Biaya UTBK                25 Maret - 08 April 2026\nPelaksanaan Ujian UTBK               21 - 30 April 2026\nPengumuman Hasil SNBT                25 Mei 2026\nMasa Unduh Sertifikat UTBK           02 Juni - 31 Juli 2026\nDaftar Ulang: 26 Mei-08 Juni 2026\nProses Penentuan UKT: 09-10 Juni 2026\nPengumuman Kelompok UKT: 11 Juni 2026\nKlarifikasi UKT: 12-15 Juni 2026\nRapat Penentuan Klarifikasi UKT: 17-18 Juni 2026\nPengumuman Klarifikasi UKT: 19 Juni 2026\nPembayaran UKT: 11 Juni-02 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 03 Juli 2026\nNIM dan KTM: 06-07 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "ee0295a3c6dc26090e4a1f1a6c1fe225",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 4. UM PTKIN",
+    "parent_context": "4. UM PTKIN",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang UM PTKIN",
+    "alias_topik": [
+      "Jadwak Daftar ULang UM PTKIN",
+      "jadwal UM PTKIN",
+      "pendaftaran UM PTKIN",
+      "pembayaran UM PTKIN",
+      "ujian SSE UM PTKIN",
+      "pengumuman UM PTKIN",
+      "jadwal Daftar Ulang UM PTKIN S1 Sarjana"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang UM PTKIN\nKonteks: 4. UM PTKIN\nAlias: Jadwak Daftar ULang UM PTKIN, jadwal UM PTKIN, pendaftaran UM PTKIN, pembayaran UM PTKIN, ujian SSE UM PTKIN, pengumuman UM PTKIN, jadwal Daftar Ulang UM PTKIN S1 Sarjana\nIntent: tanya_jadwal, tanya_jalur\n\n## 4. UM PTKIN\n\nKegiatan                                      Tanggal / Waktu\nPendaftaran                                  13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 15.00 WIB\nPembayaran                                   13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 23.59 WIB\nFinalisasi Pendaftaran                       13 April 2026 pukul 08.00 WIB - 03 Juni 2026 pukul 15.00 WIB\nCetak Kartu Peserta Ujian SSE UM-PTKIN       Dimulai pada 14 April 2026 pukul 08.00 WIB\nPelaksanaan Ujian SSE UM-PTKIN               08 Juni - 14 Juni 2026\nPengumuman                                   30 Juni 2026\nMulai Pendaftaran: 13 April-30 Mei 2026\nAkhir Pembayaran Pendaftaran: 13 April–30 Mei 2026\nAwal Pengisian Borang: 14 April 2026\nUjian Seleksi: 08-14 Juni 2026\nPengumuman Kelulusan: 30 Juni 2026\nDaftar Ulang: 01-06 Juli 2026\nProses Penentuan UKT: 07-08 Juli 2026\nPengumuman Kelompok UKT: 09 Juli 2026\nKlarifikasi UKT: 10-13 Juli 2026\nRapat Penentuan Klarifikasi UKT: 14-15 Juli 2026\nPengumuman Klarifikasi UKT: 16 Juli 2026\nPembayaran UKT: 09-21 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 22 Juli 2026\nNIM dan KTM: 23-24 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 4. UM PTKIN\n\nKegiatan                                      Tanggal / Waktu\nPendaftaran                                  13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 15.00 WIB\nPembayaran                                   13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 23.59 WIB\nFinalisasi Pendaftaran                       13 April 2026 pukul 08.00 WIB - 03 Juni 2026 pukul 15.00 WIB\nCetak Kartu Peserta Ujian SSE UM-PTKIN       Dimulai pada 14 April 2026 pukul 08.00 WIB\nPelaksanaan Ujian SSE UM-PTKIN               08 Juni - 14 Juni 2026\nPengumuman                                   30 Juni 2026\nMulai Pendaftaran: 13 April-30 Mei 2026\nAkhir Pembayaran Pendaftaran: 13 April–30 Mei 2026\nAwal Pengisian Borang: 14 April 2026\nUjian Seleksi: 08-14 Juni 2026\nPengumuman Kelulusan: 30 Juni 2026\nDaftar Ulang: 01-06 Juli 2026\nProses Penentuan UKT: 07-08 Juli 2026\nPengumuman Kelompok UKT: 09 Juli 2026\nKlarifikasi UKT: 10-13 Juli 2026\nRapat Penentuan Klarifikasi UKT: 14-15 Juli 2026\nPengumuman Klarifikasi UKT: 16 Juli 2026\nPembayaran UKT: 09-21 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 22 Juli 2026\nNIM dan KTM: 23-24 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "39b7cae957360de9f038db040a4f6feb",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 5. SPMB Mandiri Non Reguler - Prestasi",
+    "parent_context": "5. SPMB Mandiri Non Reguler - Prestasi",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - Prestasi jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang dan Seleksi SPMB Mandiri Prestasi",
+      "Non Reguler Prestasi",
+      "jadwal jalur prestasi",
+      "Jadwal Jalur Tahfidz"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - Prestasi jenjang S1 Sarjana\nKonteks: 5. SPMB Mandiri Non Reguler - Prestasi\nAlias: Jadwal Daftar Ulang dan Seleksi SPMB Mandiri Prestasi, Non Reguler Prestasi, jadwal jalur prestasi, Jadwal Jalur Tahfidz\nIntent: tanya_jadwal, tanya_jalur\n\n## 5. SPMB Mandiri Non Reguler - Prestasi\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 5. SPMB Mandiri Non Reguler - Prestasi\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "51bd30e475f6cc8434e9286b55cbbaf9",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 6. SPMB Mandiri Non Reguler - BLU",
+    "parent_context": "6. SPMB Mandiri Non Reguler - BLU",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - BLU Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwak Daftar Ulang dan Seleksi BLU",
+      "Beasiswa BLU",
+      "Jalur BLU",
+      "SPMB BLU",
+      "jadwal BLU"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - BLU Jenjang S1 Sarjana\nKonteks: 6. SPMB Mandiri Non Reguler - BLU\nAlias: Jadwak Daftar Ulang dan Seleksi BLU, Beasiswa BLU, Jalur BLU, SPMB BLU, jadwal BLU\nIntent: tanya_jadwal, tanya_jalur\n\n## 6. SPMB Mandiri Non Reguler - BLU\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 6. SPMB Mandiri Non Reguler - BLU\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "bacce7f72d34dd95d1d165481f797812",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar",
+    "parent_context": "7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang Pemerataan Kesempatan Belajar",
+      "SPMB Mandiri Pemerataan Kesempatan Belajar"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar Jenjang S1 Sarjana\nKonteks: 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar\nAlias: Jadwal Daftar Ulang Pemerataan Kesempatan Belajar, SPMB Mandiri Pemerataan Kesempatan Belajar\nIntent: tanya_jadwal, tanya_jalur\n\n## 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "14092739c39d137b9521f5335660d681",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 8. SPMB Mandiri Non Reguler - Talent Scouting",
+    "parent_context": "8. SPMB Mandiri Non Reguler - Talent Scouting",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Talent Scouting TS Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang Talent Scouting",
+      "Jadwal Seleksi SPMB Mandiri Talent Scouting"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Talent Scouting TS Jenjang S1 Sarjana\nKonteks: 8. SPMB Mandiri Non Reguler - Talent Scouting\nAlias: Jadwal Daftar Ulang Talent Scouting, Jadwal Seleksi SPMB Mandiri Talent Scouting\nIntent: tanya_jadwal, tanya_jalur\n\n## 8. SPMB Mandiri Non Reguler - Talent Scouting\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 8. SPMB Mandiri Non Reguler - Talent Scouting\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "7fcd471ae70fe45caca621d4f2d2de21",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 9. SPMB Mandiri - Reguler",
+    "parent_context": "9. SPMB Mandiri - Reguler",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri - Reguler Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SPMB Mandiri Reguler",
+      "Jalur Mandiri Reguler",
+      "jadwal mandiri reguler SSE"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri - Reguler Jenjang S1 Sarjana\nKonteks: 9. SPMB Mandiri - Reguler\nAlias: Jadwal Daftar Ulang SPMB Mandiri Reguler, Jalur Mandiri Reguler, jadwal mandiri reguler SSE\nIntent: tanya_jadwal, tanya_jalur\n\n## 9. SPMB Mandiri - Reguler\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 05 Juli 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 06 Juli 2026\nCetak Kartu Ujian: 08 April-07 Juli 2026\nUji Coba SSE: 11 Juli 2026\nUjian Seleksi: 13-20 Juli 2026\nEksport DKA: 22 Juli 2026\nRapat Penetapan Kelulusan: 23-24 Juli 2026\nPengumuman Kelulusan: 27 Juli 2026\nDaftar Ulang: 28 Juli-03 Agustus 2026\nProses Penentuan UKT: 04-05 Agustus 2026\nPengumuman Kelompok UKT: 06 Agustus 2026\nKlarifikasi UKT: 07-10 Agustus 2026\nRapat Penentuan Klarifikasi UKT: 11-12 Agustus 2026\nPengumuman Klarifikasi UKT: 13 Agustus 2026\nPembayaran UKT: 06-19 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 20 Agustus 2026\nNIM dan KTM: 21-24 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 9. SPMB Mandiri - Reguler\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 05 Juli 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 06 Juli 2026\nCetak Kartu Ujian: 08 April-07 Juli 2026\nUji Coba SSE: 11 Juli 2026\nUjian Seleksi: 13-20 Juli 2026\nEksport DKA: 22 Juli 2026\nRapat Penetapan Kelulusan: 23-24 Juli 2026\nPengumuman Kelulusan: 27 Juli 2026\nDaftar Ulang: 28 Juli-03 Agustus 2026\nProses Penentuan UKT: 04-05 Agustus 2026\nPengumuman Kelompok UKT: 06 Agustus 2026\nKlarifikasi UKT: 07-10 Agustus 2026\nRapat Penentuan Klarifikasi UKT: 11-12 Agustus 2026\nPengumuman Klarifikasi UKT: 13 Agustus 2026\nPembayaran UKT: 06-19 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 20 Agustus 2026\nNIM dan KTM: 21-24 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "16a855aef850dac86328d56c6ba24c79",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 11. SPMB Mandiri Non Reguler - Nilai SNBT",
+    "parent_context": "11. SPMB Mandiri Non Reguler - Nilai SNBT",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler Menggunakan Nilai SNBT Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang Nilai SNBT",
+      "SPMB Mandiri Nilai SNBT",
+      "jalur mandiri menggunakan nilai SNBT"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler Menggunakan Nilai SNBT Jenjang S1 Sarjana\nKonteks: 11. SPMB Mandiri Non Reguler - Nilai SNBT\nAlias: Jadwal Daftar Ulang Nilai SNBT, SPMB Mandiri Nilai SNBT, jalur mandiri menggunakan nilai SNBT\nIntent: tanya_jadwal, tanya_jalur\n\n## 11. SPMB Mandiri Non Reguler - Nilai SNBT\n\nMulai Pendaftaran: 04 Juni 2026\nAkhir Pembayaran Pendaftaran: 11 Juni 2026\nAwal Pengisian Borang: 04 Juni 2026\nBatas Akhir Pengisian Borang: 12 Juni 2026\nCetak Kartu Ujian: 04-15 Juni 2026\nUji Coba SSE: 17 Juni 2026\nUjian Seleksi: 18 Juni 2026\nPengumuman Kelulusan: 19 Juni-24 Juni 2026\nDaftar Ulang: 25 Juni 2026\nPengumuman Kelompok UKT: 26 Juni 2026\nKlarifikasi UKT: 29-30 Juni 2026\nRapat Penentuan Klarifikasi UKT: 01 Juli 2026\nPengumuman Klarifikasi UKT: 02 Juli 2026\nPembayaran UKT: 26 Juni-06 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Juli 2026\nNIM dan KTM: 08-09 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 11. SPMB Mandiri Non Reguler - Nilai SNBT\n\nMulai Pendaftaran: 04 Juni 2026\nAkhir Pembayaran Pendaftaran: 11 Juni 2026\nAwal Pengisian Borang: 04 Juni 2026\nBatas Akhir Pengisian Borang: 12 Juni 2026\nCetak Kartu Ujian: 04-15 Juni 2026\nUji Coba SSE: 17 Juni 2026\nUjian Seleksi: 18 Juni 2026\nPengumuman Kelulusan: 19 Juni-24 Juni 2026\nDaftar Ulang: 25 Juni 2026\nPengumuman Kelompok UKT: 26 Juni 2026\nKlarifikasi UKT: 29-30 Juni 2026\nRapat Penentuan Klarifikasi UKT: 01 Juli 2026\nPengumuman Klarifikasi UKT: 02 Juli 2026\nPembayaran UKT: 26 Juni-06 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Juli 2026\nNIM dan KTM: 08-09 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "d334fa7e4a6f93b412a0c3aa3c6b6aef",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN",
+    "parent_context": "12. SPMB Mandiri Non Reguler - NIlai UM PTKIN",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Daftar Ulang dan Seleksi SPMB Mandiri Non Reguler Menggunakan NIlai UM PTKIN Jenjang S1 Sarjana",
+    "alias_topik": [
+      "UM PTKIN",
+      "SPMB Mandiri UM PTKIN",
+      "jalur Mandiri menggunakan nilai UM PTKIN"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Daftar Ulang dan Seleksi SPMB Mandiri Non Reguler Menggunakan NIlai UM PTKIN Jenjang S1 Sarjana\nKonteks: 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN\nAlias: UM PTKIN, SPMB Mandiri UM PTKIN, jalur Mandiri menggunakan nilai UM PTKIN\nIntent: tanya_jadwal, tanya_jalur\n\n## 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN\n\nMulai Pendaftaran: 01 Juli 2026\nAkhir Pembayaran Pendaftaran: 08 Juli 2026\nAwal Pengisian Borang: 01 Juli 2026\nBatas Akhir Pengisian Borang: 09 Juli 2026\nCetak Kartu Ujian: 01-10 Juli 2026\nUji Coba SSE: 13 Juli 2026\nUjian Seleksi: 15 Juli 2026\nPengumuman Kelulusan: 17-22 Juli 2026\nDaftar Ulang: 23 Juli 2026\nPengumuman Kelompok UKT: 24 Juli 2026\nKlarifikasi UKT: 27-28 Juli 2026\nRapat Penentuan Klarifikasi UKT: 29 Juli 2026\nPengumuman Klarifikasi UKT: 30 Juli 2026\nPembayaran UKT: 24 Juli-04 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 05 Agustus 2026\nNIM dan KTM: 06-07 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN\n\nMulai Pendaftaran: 01 Juli 2026\nAkhir Pembayaran Pendaftaran: 08 Juli 2026\nAwal Pengisian Borang: 01 Juli 2026\nBatas Akhir Pengisian Borang: 09 Juli 2026\nCetak Kartu Ujian: 01-10 Juli 2026\nUji Coba SSE: 13 Juli 2026\nUjian Seleksi: 15 Juli 2026\nPengumuman Kelulusan: 17-22 Juli 2026\nDaftar Ulang: 23 Juli 2026\nPengumuman Kelompok UKT: 24 Juli 2026\nKlarifikasi UKT: 27-28 Juli 2026\nRapat Penentuan Klarifikasi UKT: 29 Juli 2026\nPengumuman Klarifikasi UKT: 30 Juli 2026\nPembayaran UKT: 24 Juli-04 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 05 Agustus 2026\nNIM dan KTM: 06-07 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "ff9f512da548c12c39fddf2b6471befd",
+    "source_file": "Jalur_PMB_UIN_Jakarta.md",
+    "heading": "## A. Jalur Masuk UIN Jakarta",
+    "parent_context": "Jalur Masuk Penerimaan Mahasiswa Baru (PMB) > A. Jalur Masuk UIN Jakarta",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Jalur Seleksi Program Sarjana SPAN PTKIN UM PTKIN, SNBT, SNBP, UTBK, SPMB Mandiri Non Reguler, SPMB Mandiri Reguler",
+    "alias_topik": [
+      "Jalur apa saja yang tersedia di UIN Jakarta",
+      "Perbedaan setiap Jalur",
+      "jalur masuk UIN Jakarta",
+      "jalur penerimaan UIN Jakarta",
+      "jalur seleksi UIN Jakarta",
+      "pendaftaran sarjana UIN Jakarta",
+      "penerimaan mahasiswa baru UIN Jakarta",
+      "PMB UIN Jakarta",
+      "SPMB UIN Jakarta",
+      "SNBP UIN Jakarta",
+      "SNBT UIN Jakarta",
+      "UTBK UIN Jakarta",
+      "SPAN PTKIN UIN Jakarta",
+      "SPAN-PTKIN UIN Jakarta",
+      "UM PTKIN UIN Jakarta",
+      "UM-PTKIN UIN Jakarta",
+      "Mandiri UIN Jakarta",
+      "SPMB Mandiri UIN Jakarta",
+      "SPMB Mandiri Reguler UIN Jakarta",
+      "SPMB Mandiri Non Reguler UIN Jakarta",
+      "jalur prestasi UIN Jakarta",
+      "jalur PKB UIN Jakarta",
+      "jalur pemerataan kesempatan belajar UIN Jakarta",
+      "jalur BLU UIN Jakarta",
+      "beasiswa BLU UIN Jakarta",
+      "jalur 3T UIN Jakarta",
+      "jalur talent scouting UIN Jakarta",
+      "talent scouting UIN Jakarta",
+      "jalur nilai UM-PTKIN UIN Jakarta",
+      "jalur nilai SNBT UIN Jakarta",
+      "jalur rapor UIN Jakarta",
+      "jalur tanpa tes UIN Jakarta",
+      "jalur UTBK-SNBT UIN Jakarta"
+    ],
+    "search_text": "Judul: Jalur Seleksi Program Sarjana SPAN PTKIN UM PTKIN, SNBT, SNBP, UTBK, SPMB Mandiri Non Reguler, SPMB Mandiri Reguler\nKonteks: Jalur Masuk Penerimaan Mahasiswa Baru (PMB) > A. Jalur Masuk UIN Jakarta\nAlias: Jalur apa saja yang tersedia di UIN Jakarta, Perbedaan setiap Jalur, jalur masuk UIN Jakarta, jalur penerimaan UIN Jakarta, jalur seleksi UIN Jakarta, pendaftaran sarjana UIN Jakarta, penerimaan mahasiswa baru UIN Jakarta, PMB UIN Jakarta, SPMB UIN Jakarta, SNBP UIN Jakarta, SNBT UIN Jakarta, UTBK UIN Jakarta, SPAN PTKIN UIN Jakarta, SPAN-PTKIN UIN Jakarta, UM PTKIN UIN Jakarta, UM-PTKIN UIN Jakarta, Mandiri UIN Jakarta, SPMB Mandiri UIN Jakarta, SPMB Mandiri Reguler UIN Jakarta, SPMB Mandiri Non Reguler UIN Jakarta, jalur prestasi UIN Jakarta, jalur PKB UIN Jakarta, jalur pemerataan kesempatan belajar UIN Jakarta, jalur BLU UIN Jakarta, beasiswa BLU UIN Jakarta, jalur 3T UIN Jakarta, jalur talent scouting UIN Jakarta, talent scouting UIN Jakarta, jalur nilai UM-PTKIN UIN Jakarta, jalur nilai SNBT UIN Jakarta, jalur rapor UIN Jakarta, jalur tanpa tes UIN Jakarta, jalur UTBK-SNBT UIN Jakarta\nIntent: tanya_jalur\n\n## A. Jalur Masuk UIN Jakarta\n\nJalur Masuk UIN Jakarta Terdiri dari 6 Jalur\n1. SNBP (Seleksi Nasional Berdasarkan Prestasi)\nSNBP adalah jalur seleksi nasional masuk perguruan tinggi berdasarkan nilai rapor dan prestasi akademik/non-akademik tanpa tes tertulis. Seleksi dilakukan berdasarkan prestasi siswa selama di sekolah.\n2. SNBT (Seleksi Nasional Berdasarkan Tes)\nSNBT adalah jalur seleksi nasional yang menggunakan hasil UTBK (Ujian Tulis Berbasis Komputer) sebagai dasar penerimaan mahasiswa baru di perguruan tinggi negeri.\n3. SPAN-PTKIN (Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri)\nSPAN-PTKIN adalah jalur seleksi masuk PTKIN berdasarkan nilai rapor dan prestasi akademik tanpa tes, khusus untuk perguruan tinggi keagamaan Islam negeri seperti UIN Syarif Hidayatullah Jakarta.\n4. UM-PTKIN (Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri)\nUM-PTKIN adalah jalur seleksi masuk PTKIN melalui ujian tertulis berbasis Sistem Seleksi Elektronik (SSE) yang dilaksanakan secara nasional.\n\n5. SPMB Mandiri UIN Jakarta\n    1. SPMB Mandiri Reguler\n    SPMB Mandiri Reguler adalah jalur seleksi mandiri UIN Jakarta yang menggunakan ujian SSE (Sistem Seleksi Elektronik) sebagai dasar seleksi masuk mahasiswa baru.\n    2. SPMB Mandiri Non-Reguler\n    SPMB Mandiri Non-Reguler adalah jalur seleksi mandiri UIN Jakarta tanpa ujian SSE, dengan seleksi berdasarkan nilai rapor, prestasi, atau nilai UTBK sesuai ketentuan yang berlaku.\n\n6. Sub-Jalur SPMB Mandiri Non-Reguler UIN Jakarta\n    1. Jalur Mandiri Non Raguler Prestasi\n    Jalur seleksi bagi calon mahasiswa yang memiliki prestasi tingkat nasional atau internasional di bidang akademik maupun non-akademik, termasuk tahfidz Al-Qur'an minimal 15 juz.\n    2. Jalur Mandiri Non Raguler PKB (Pemerataan Kesempatan Belajar)\n    Jalur yang memberikan kesempatan pendidikan tinggi bagi calon mahasiswa dari daerah tertinggal, terdepan, dan terluar (3T) di Indonesia.\n    3. Jalur Mandiri Non Raguler Beasiswa BLU\n    Jalur khusus bagi calon penerima beasiswa BLU (Badan Layanan Umum) pada fakultas dan program studi tertentu sesuai ketentuan UIN Jakarta.\n    4. Jalur Mandiri Non Raguler 3T\n    Jalur seleksi yang diperuntukkan bagi peserta dari wilayah Terdepan, Terluar, dan Tertinggal (3T) untuk mendukung pemerataan akses pendidikan tinggi.\n    5. Jalur Mandiri Non Raguler Talent Scouting\n    Jalur khusus bagi siswa dari sekolah yang memiliki kerja sama (MoU/MoA) dengan UIN Jakarta, dengan seleksi berdasarkan nilai rapor dan wawancara.\n    6. Jalur Mandiri Non Raguler Menggunakan Nilai UM-PTKIN\n    Jalur seleksi yang menggunakan nilai hasil ujian UM-PTKIN sebagai dasar penerimaan mahasiswa baru tanpa tes SSE tambahan.\n    7. Jalur Mandiri Non Raguler Menggunakan Nilai SNBT\n    Jalur seleksi mandiri yang menggunakan nilai UTBK-SNBT sebagai dasar penilaian penerimaan mahasiswa baru.",
+    "content": "## A. Jalur Masuk UIN Jakarta\n\nJalur Masuk UIN Jakarta Terdiri dari 6 Jalur\n1. SNBP (Seleksi Nasional Berdasarkan Prestasi)\nSNBP adalah jalur seleksi nasional masuk perguruan tinggi berdasarkan nilai rapor dan prestasi akademik/non-akademik tanpa tes tertulis. Seleksi dilakukan berdasarkan prestasi siswa selama di sekolah.\n2. SNBT (Seleksi Nasional Berdasarkan Tes)\nSNBT adalah jalur seleksi nasional yang menggunakan hasil UTBK (Ujian Tulis Berbasis Komputer) sebagai dasar penerimaan mahasiswa baru di perguruan tinggi negeri.\n3. SPAN-PTKIN (Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri)\nSPAN-PTKIN adalah jalur seleksi masuk PTKIN berdasarkan nilai rapor dan prestasi akademik tanpa tes, khusus untuk perguruan tinggi keagamaan Islam negeri seperti UIN Syarif Hidayatullah Jakarta.\n4. UM-PTKIN (Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri)\nUM-PTKIN adalah jalur seleksi masuk PTKIN melalui ujian tertulis berbasis Sistem Seleksi Elektronik (SSE) yang dilaksanakan secara nasional.\n\n5. SPMB Mandiri UIN Jakarta\n    1. SPMB Mandiri Reguler\n    SPMB Mandiri Reguler adalah jalur seleksi mandiri UIN Jakarta yang menggunakan ujian SSE (Sistem Seleksi Elektronik) sebagai dasar seleksi masuk mahasiswa baru.\n    2. SPMB Mandiri Non-Reguler\n    SPMB Mandiri Non-Reguler adalah jalur seleksi mandiri UIN Jakarta tanpa ujian SSE, dengan seleksi berdasarkan nilai rapor, prestasi, atau nilai UTBK sesuai ketentuan yang berlaku.\n\n6. Sub-Jalur SPMB Mandiri Non-Reguler UIN Jakarta\n    1. Jalur Mandiri Non Raguler Prestasi\n    Jalur seleksi bagi calon mahasiswa yang memiliki prestasi tingkat nasional atau internasional di bidang akademik maupun non-akademik, termasuk tahfidz Al-Qur'an minimal 15 juz.\n    2. Jalur Mandiri Non Raguler PKB (Pemerataan Kesempatan Belajar)\n    Jalur yang memberikan kesempatan pendidikan tinggi bagi calon mahasiswa dari daerah tertinggal, terdepan, dan terluar (3T) di Indonesia.\n    3. Jalur Mandiri Non Raguler Beasiswa BLU\n    Jalur khusus bagi calon penerima beasiswa BLU (Badan Layanan Umum) pada fakultas dan program studi tertentu sesuai ketentuan UIN Jakarta.\n    4. Jalur Mandiri Non Raguler 3T\n    Jalur seleksi yang diperuntukkan bagi peserta dari wilayah Terdepan, Terluar, dan Tertinggal (3T) untuk mendukung pemerataan akses pendidikan tinggi.\n    5. Jalur Mandiri Non Raguler Talent Scouting\n    Jalur khusus bagi siswa dari sekolah yang memiliki kerja sama (MoU/MoA) dengan UIN Jakarta, dengan seleksi berdasarkan nilai rapor dan wawancara.\n    6. Jalur Mandiri Non Raguler Menggunakan Nilai UM-PTKIN\n    Jalur seleksi yang menggunakan nilai hasil ujian UM-PTKIN sebagai dasar penerimaan mahasiswa baru tanpa tes SSE tambahan.\n    7. Jalur Mandiri Non Raguler Menggunakan Nilai SNBT\n    Jalur seleksi mandiri yang menggunakan nilai UTBK-SNBT sebagai dasar penilaian penerimaan mahasiswa baru."
+  },
+  {
+    "id": "66b5faacd36b93988bb2a6102add0c7b",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 13. Bagaimana seleksi nasional UM-PTKIN dilakukan?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jalur"
+    ],
+    "topik": "Seleksi Nasional UM-PTKIN",
+    "alias_topik": [
+      "seleksi UM-PTKIN",
+      "SSE UM-PTKIN",
+      "sistem seleksi UM-PTKIN"
+    ],
+    "search_text": "Judul: Seleksi Nasional UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: seleksi UM-PTKIN, SSE UM-PTKIN, sistem seleksi UM-PTKIN\nIntent: tanya_ujian, tanya_jalur\n\n#### 13. Bagaimana seleksi nasional UM-PTKIN dilakukan?\n\nSeleksi nasional UM- PTKIN dilakukan dengan menggunakan Sistem Seleksi Elektronik (SSE) yang mengukur potensi akademik, penalaran matematika, literasi membaca dan literasi ajaran islam.",
+    "content": "#### 13. Bagaimana seleksi nasional UM-PTKIN dilakukan?\n\nSeleksi nasional UM- PTKIN dilakukan dengan menggunakan Sistem Seleksi Elektronik (SSE) yang mengukur potensi akademik, penalaran matematika, literasi membaca dan literasi ajaran islam."
+  },
+  {
+    "id": "dbcba3d939705c79272068c41af66eb4",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 23. Apa itu UM-PTKIN?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Pengertian UM-PTKIN",
+    "alias_topik": [
+      "apa itu UM-PTKIN",
+      "pengertian UM-PTKIN",
+      "jalur UM-PTKIN",
+      "SSE UM-PTKIN"
+    ],
+    "search_text": "Judul: Pengertian UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: apa itu UM-PTKIN, pengertian UM-PTKIN, jalur UM-PTKIN, SSE UM-PTKIN\nIntent: tanya_jalur\n\n#### 23. Apa itu UM-PTKIN?\n\nUM-PTKIN adalah seleksi masuk penerimaan mahasiswa baru yang dilaksanakan secara Nasional oleh seluruh Universitas Islam Negeri (UIN), Institut Agama Islam Negeri (IAIN), maupun Sekolah Tinggi Agama Islam Negeri (STAIN) dan dilaksanakan di PTKIN yang dipilih oleh pendaftar. UM-PTKIN dilaksanakan melalui ujian dengan Sistem Seleksi Elektronik (SSE) yang dapat diikuti oleh siswa lulusan\nMA/MAK/SMA/SMK/PDF/PKPPS/SPM atau sederajat tahun 2024, 2025, dan 2026.",
+    "content": "#### 23. Apa itu UM-PTKIN?\n\nUM-PTKIN adalah seleksi masuk penerimaan mahasiswa baru yang dilaksanakan secara Nasional oleh seluruh Universitas Islam Negeri (UIN), Institut Agama Islam Negeri (IAIN), maupun Sekolah Tinggi Agama Islam Negeri (STAIN) dan dilaksanakan di PTKIN yang dipilih oleh pendaftar. UM-PTKIN dilaksanakan melalui ujian dengan Sistem Seleksi Elektronik (SSE) yang dapat diikuti oleh siswa lulusan\nMA/MAK/SMA/SMK/PDF/PKPPS/SPM atau sederajat tahun 2024, 2025, dan 2026."
+  },
+  {
+    "id": "bb6f8ab6dcfedc6ba6a3cb727971e766",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## KUOTA UM-PTKIN 2026",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > KUOTA UM-PTKIN 2026",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Kuota UM-PTKIN 2026 UIN Jakarta",
+    "alias_topik": [
+      "kuota UM-PTKIN",
+      "daya tampung UM PTKIN",
+      "kuota UM PTKIN UIN Jakarta"
+    ],
+    "search_text": "Judul: Kuota UM-PTKIN 2026 UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > KUOTA UM-PTKIN 2026\nAlias: kuota UM-PTKIN, daya tampung UM PTKIN, kuota UM PTKIN UIN Jakarta\nIntent: tanya_kuota, tanya_jalur\n\n## KUOTA UM-PTKIN 2026\n\nProgram Studi | Daya Tampung\nPendidikan Agama Islam | 159\nPendidikan Bahasa Arab | 69\nTadris Bahasa Inggris | 114\nTadris Biologi | 64\nTadris Fisika | 55\nManajemen Pendidikan | 129\nTadris Bahasa lndonesia | 94\nTadris IPS | 94\nPendidikan Guru Madrasah Ibtidaiyah | 114\nPendidikan Islam Anak Usia Dini | 104\nBahasa dan Sastra Arab | 115\nSejarah Peradaban Islam | 117\nTarjamah | 54\nStudi Agama Agama | 47\nIlmu Al-Qur`an dan Tafsir | 115\nIlmu Hadis | 70\nAqidah dan Filsafat Islam | 70\nIlmu Tasawuf | 47\nHukum Keluarga Islam (Ahwal Syakhshiyyah) | 120\nPerbandingan Mazhab | 92\nHukum Tata Negara (Siyasah) | 95\nHukum Pidana Islam (Jinayah) | 95\nHukum Ekonomi Syariah (Mua`malah) | 121\nKomunikasi dan Penyiaran Islam | 160\nBimbingan Penyuluhan Islam | 100\nDirasat Islamiyah | 115\nManajemen Dakwah | 120\nPengembangan Masyarakat Islam | 92\nPerbankan Syariah | 143\nEkonomi Syariah | 150",
+    "content": "## KUOTA UM-PTKIN 2026\n\nProgram Studi | Daya Tampung\nPendidikan Agama Islam | 159\nPendidikan Bahasa Arab | 69\nTadris Bahasa Inggris | 114\nTadris Biologi | 64\nTadris Fisika | 55\nManajemen Pendidikan | 129\nTadris Bahasa lndonesia | 94\nTadris IPS | 94\nPendidikan Guru Madrasah Ibtidaiyah | 114\nPendidikan Islam Anak Usia Dini | 104\nBahasa dan Sastra Arab | 115\nSejarah Peradaban Islam | 117\nTarjamah | 54\nStudi Agama Agama | 47\nIlmu Al-Qur`an dan Tafsir | 115\nIlmu Hadis | 70\nAqidah dan Filsafat Islam | 70\nIlmu Tasawuf | 47\nHukum Keluarga Islam (Ahwal Syakhshiyyah) | 120\nPerbandingan Mazhab | 92\nHukum Tata Negara (Siyasah) | 95\nHukum Pidana Islam (Jinayah) | 95\nHukum Ekonomi Syariah (Mua`malah) | 121\nKomunikasi dan Penyiaran Islam | 160\nBimbingan Penyuluhan Islam | 100\nDirasat Islamiyah | 115\nManajemen Dakwah | 120\nPengembangan Masyarakat Islam | 92\nPerbankan Syariah | 143\nEkonomi Syariah | 150"
+  },
+  {
+    "id": "cff8f478dcfe96a177b265f7da833e93",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## SPAN PTKIN",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > SPAN PTKIN",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Kuota SPAN PTKIN UIN Jakarta",
+    "alias_topik": [
+      "kuota SPAN PTKIN",
+      "daya tampung SPAN PTKIN"
+    ],
+    "search_text": "Judul: Kuota SPAN PTKIN UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > SPAN PTKIN\nAlias: kuota SPAN PTKIN, daya tampung SPAN PTKIN\nIntent: tanya_kuota, tanya_jalur\n\n## SPAN PTKIN\n\nKode Prodi | Nama Prodi | Kuota\n182001 | Pendidikan Agama Islam | 75\n182002 | Pendidikan Bahasa Arab | 50\n182003 | Tadris Bahasa Inggris | 50\n182004 | Tadris Biologi | 50\n182005 | Tadris Fisika | 40\n182006 | Manajemen Pendidikan | 50\n182007 | Tadris Bahasa lndonesia | 50\n182008 | Tadris IPS | 50\n182011 | Pendidikan Guru Madrasah Ibtidaiyah | 75\n182014 | Pendidikan Islam Anak Usia Dini | 40\n182016 | Bahasa dan Sastra Arab | 46\n182019 | Sejarah Peradaban Islam | 47\n182021 | Tarjamah | 24\n182022 | Studi Agama Agama | 28\n182025 | Ilmu Al-Qur`an dan Tafsir | 46\n182026 | Ilmu Hadis | 28\n182027 | Aqidah dan Filsafat Islam | 28\n182029 | Ilmu Tasawuf | 28\n182030 | Hukum Keluarga Islam (Ahwal Syakhshiyyah) | 50\n182031 | Perbandingan Mazhab | 55\n182035 | Hukum Tata Negara (Siyasah) | 40\n182036 | Hukum Pidana Islam (Jinayah) | 40\n182037 | Hukum Ekonomi Syariah ( Mua`malah) | 46\n182038 | Komunikasi dan Penyiaran Islam | 64\n182039 | Bimbingan Penyuluhan Islam | 40\n182040 | Dirasat Islamiyah | 46\n182041 | Manajemen Dakwah | 48\n182042 | Pengembangan Masyarakat Islam | 38\n182043 | Perbankan Syariah | 56\n182044 | Ekonomi Syariah | 60",
+    "content": "## SPAN PTKIN\n\nKode Prodi | Nama Prodi | Kuota\n182001 | Pendidikan Agama Islam | 75\n182002 | Pendidikan Bahasa Arab | 50\n182003 | Tadris Bahasa Inggris | 50\n182004 | Tadris Biologi | 50\n182005 | Tadris Fisika | 40\n182006 | Manajemen Pendidikan | 50\n182007 | Tadris Bahasa lndonesia | 50\n182008 | Tadris IPS | 50\n182011 | Pendidikan Guru Madrasah Ibtidaiyah | 75\n182014 | Pendidikan Islam Anak Usia Dini | 40\n182016 | Bahasa dan Sastra Arab | 46\n182019 | Sejarah Peradaban Islam | 47\n182021 | Tarjamah | 24\n182022 | Studi Agama Agama | 28\n182025 | Ilmu Al-Qur`an dan Tafsir | 46\n182026 | Ilmu Hadis | 28\n182027 | Aqidah dan Filsafat Islam | 28\n182029 | Ilmu Tasawuf | 28\n182030 | Hukum Keluarga Islam (Ahwal Syakhshiyyah) | 50\n182031 | Perbandingan Mazhab | 55\n182035 | Hukum Tata Negara (Siyasah) | 40\n182036 | Hukum Pidana Islam (Jinayah) | 40\n182037 | Hukum Ekonomi Syariah ( Mua`malah) | 46\n182038 | Komunikasi dan Penyiaran Islam | 64\n182039 | Bimbingan Penyuluhan Islam | 40\n182040 | Dirasat Islamiyah | 46\n182041 | Manajemen Dakwah | 48\n182042 | Pengembangan Masyarakat Islam | 38\n182043 | Perbankan Syariah | 56\n182044 | Ekonomi Syariah | 60"
+  },
+  {
+    "id": "f4309d50c27ce00ad43859c2672da549",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## DAYA TAMPUNG SNBP TAHUN 2026",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBP TAHUN 2026",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Daya Tampung SNBP Tahun 2026 UIN Jakarta",
+    "alias_topik": [
+      "kuota SNBP",
+      "daya tampung SNBP",
+      "SNBP UIN Jakarta"
+    ],
+    "search_text": "Judul: Daya Tampung SNBP Tahun 2026 UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBP TAHUN 2026\nAlias: kuota SNBP, daya tampung SNBP, SNBP UIN Jakarta\nIntent: tanya_kuota, tanya_jalur\n\n## DAYA TAMPUNG SNBP TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 31 | 258 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 31 | 741 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 37 | 644 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 31 | 106 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 31 | 181 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 37 | 124 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 28 | 66 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 37 | 571 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 31 | 891 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 31 | 822 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 31 | 673 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 50 | 140 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 50 | 52 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 25 | 330 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 40 | 683 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 32 | 390 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 36 | 380 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 40 | 410 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 37 | 250 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 39 | 351 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 52 | 1053 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 40 | 225 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 36 | 278 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 73 | 991 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 40 | 326 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 37 | 393 | Tidak Ada",
+    "content": "## DAYA TAMPUNG SNBP TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 31 | 258 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 31 | 741 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 37 | 644 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 31 | 106 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 31 | 181 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 37 | 124 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 28 | 66 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 37 | 571 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 31 | 891 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 31 | 822 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 31 | 673 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 50 | 140 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 50 | 52 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 25 | 330 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 40 | 683 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 32 | 390 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 36 | 380 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 40 | 410 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 37 | 250 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 39 | 351 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 52 | 1053 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 40 | 225 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 36 | 278 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 73 | 991 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 40 | 326 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 37 | 393 | Tidak Ada"
+  },
+  {
+    "id": "4a5f63ae44799d42d378670c55488c45",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## DAYA TAMPUNG SNBT TAHUN 2026",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBT TAHUN 2026",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Daya Tampung SNBT Tahun 2026 UIN Jakarta",
+    "alias_topik": [
+      "kuota SNBT",
+      "daya tampung SNBT",
+      "SNBT UIN Jakarta"
+    ],
+    "search_text": "Judul: Daya Tampung SNBT Tahun 2026 UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBT TAHUN 2026\nAlias: kuota SNBT, daya tampung SNBT, SNBT UIN Jakarta\nIntent: tanya_kuota, tanya_jalur\n\n## DAYA TAMPUNG SNBT TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 77 | 409 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 77 | 842 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 92 | 817 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 77 | 129 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 77 | 220 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 62 | 121 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 47 | 71 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 92 | 883 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 77 | 869 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 77 | 707 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 78 | 1080 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 80 | 110 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 60 | 67 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 62 | 596 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 100 | 746 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 80 | 501 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 90 | 527 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 100 | 592 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 92 | 353 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 97 | 494 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 130 | 969 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 100 | 330 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 90 | 503 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 182 | 1343 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 100 | 494 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 92 | 510 | Tidak Ada",
+    "content": "## DAYA TAMPUNG SNBT TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 77 | 409 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 77 | 842 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 92 | 817 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 77 | 129 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 77 | 220 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 62 | 121 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 47 | 71 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 92 | 883 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 77 | 869 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 77 | 707 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 78 | 1080 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 80 | 110 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 60 | 67 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 62 | 596 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 100 | 746 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 80 | 501 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 90 | 527 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 100 | 592 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 92 | 353 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 97 | 494 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 130 | 969 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 100 | 330 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 90 | 503 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 182 | 1343 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 100 | 494 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 92 | 510 | Tidak Ada"
+  },
+  {
+    "id": "2df00d0351447b90513cf7d065484ad8",
+    "source_file": "mandiri_nilai_snbt_tagged.md",
+    "heading": "# Tentang SPMB Mandiri Non-Reguler (Nilai SNBT)",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Nilai SNBT)",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "SPMB Mandiri Non-Reguler Nilai SNBT",
+    "alias_topik": [
+      "Nilai SNBT",
+      "Jalur Nilai SNBT",
+      "SPMB Nilai SNBT",
+      "SPMB Mandiri Non-Reguler"
+    ],
+    "search_text": "Judul: SPMB Mandiri Non-Reguler Nilai SNBT\nKonteks: Tentang SPMB Mandiri Non-Reguler (Nilai SNBT)\nAlias: Nilai SNBT, Jalur Nilai SNBT, SPMB Nilai SNBT, SPMB Mandiri Non-Reguler\nIntent: tanya_jalur\n\n# Tentang SPMB Mandiri Non-Reguler (Nilai SNBT)\n\nSPMB Mandiri Non-Reguler Jalur Nilai SNBT merupakan seleksi penerimaan mahasiswa baru dengan menggunakan hasil nilai UTBK-SNBT Tahun 2026.",
+    "content": "# Tentang SPMB Mandiri Non-Reguler (Nilai SNBT)\n\nSPMB Mandiri Non-Reguler Jalur Nilai SNBT merupakan seleksi penerimaan mahasiswa baru dengan menggunakan hasil nilai UTBK-SNBT Tahun 2026."
+  },
+  {
+    "id": "226a1f52854936e459b4e0f32f5f89b0",
+    "source_file": "mandiri_nilai_snbt_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Nilai SNBT) > Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai SNBT",
+    "alias_topik": [
+      "syarat Mandiri Nilai SNBT",
+      "ketentuan Mandiri Nilai SNBT"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai SNBT\nKonteks: Tentang SPMB Mandiri Non-Reguler (Nilai SNBT) > Ketentuan Peserta\nAlias: syarat Mandiri Nilai SNBT, ketentuan Mandiri Nilai SNBT\nIntent: tanya_persyaratan, tanya_jalur\n\n## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta mengupload sertifikat nilai UTBK-SNBT Tahun 2026 melalui aplikasi Admisi UIN Jakarta",
+    "content": "## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta mengupload sertifikat nilai UTBK-SNBT Tahun 2026 melalui aplikasi Admisi UIN Jakarta"
+  },
+  {
+    "id": "4964869f9ccdb613836b512e5c3047d8",
+    "source_file": "mandiri_nilai_umptkin_tagged.md",
+    "heading": "# Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN)",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN)",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "SPMB Mandiri Non-Reguler Nilai UM-PTKIN",
+    "alias_topik": [
+      "Mandiri Nilai UM-PTKIN",
+      "Jalur Mandiri Nilai UM-PTKIN",
+      "SPMB Mandiri Nilai UM-PTKIN",
+      "SPMB Mandiri Non-Reguler"
+    ],
+    "search_text": "Judul: SPMB Mandiri Non-Reguler Nilai UM-PTKIN\nKonteks: Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN)\nAlias: Mandiri Nilai UM-PTKIN, Jalur Mandiri Nilai UM-PTKIN, SPMB Mandiri Nilai UM-PTKIN, SPMB Mandiri Non-Reguler\nIntent: tanya_jalur\n\n# Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN)\n\nSPMB Mandiri Non-Reguler Jalur Hasil Nilai UM-PTKIN merupakan seleksi penerimaan mahasiswa baru dengan menggunakan hasil nilai UM-PTKIN Tahun 2026.",
+    "content": "# Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN)\n\nSPMB Mandiri Non-Reguler Jalur Hasil Nilai UM-PTKIN merupakan seleksi penerimaan mahasiswa baru dengan menggunakan hasil nilai UM-PTKIN Tahun 2026."
+  },
+  {
+    "id": "f85788031e86676609a640398cc2d3cf",
+    "source_file": "mandiri_nilai_umptkin_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN) > Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai UM-PTKIN",
+    "alias_topik": [
+      "syarat Mandiri Nilai UM-PTKIN",
+      "ketentuan Mandiri Nilai UM-PTKIN"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai UM-PTKIN\nKonteks: Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN) > Ketentuan Peserta\nAlias: syarat Mandiri Nilai UM-PTKIN, ketentuan Mandiri Nilai UM-PTKIN\nIntent: tanya_persyaratan, tanya_jalur\n\n## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta menginput nomor peserta UM-PTKIN Tahun 2026 (Nilai UM-PTKIN akan disinkronisasikan oleh Panitia PMB UIN Syarif Hidayatullah Jakarta bekerja sama dengan Panitia Pusat UM-PTKIN Tahun 2026) melalui aplikasi Admisi UIN Jakarta",
+    "content": "## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta menginput nomor peserta UM-PTKIN Tahun 2026 (Nilai UM-PTKIN akan disinkronisasikan oleh Panitia PMB UIN Syarif Hidayatullah Jakarta bekerja sama dengan Panitia Pusat UM-PTKIN Tahun 2026) melalui aplikasi Admisi UIN Jakarta"
+  },
+  {
+    "id": "b05d5bca3ac4482dc595750368a212b6",
+    "source_file": "mandiri_non_reg_pkb_tagged.md",
+    "heading": "# Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB)",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB)",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "SPMB Mandiri Non-Reguler Pemerataan Kesempatan Belajar PKB",
+    "alias_topik": [
+      "PKB",
+      "Pemerataan Kesempatan Belajar",
+      "Jalur PKB",
+      "SPMB PKB",
+      "Non-Reguler PKB"
+    ],
+    "search_text": "Judul: SPMB Mandiri Non-Reguler Pemerataan Kesempatan Belajar PKB\nKonteks: Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB)\nAlias: PKB, Pemerataan Kesempatan Belajar, Jalur PKB, SPMB PKB, Non-Reguler PKB\nIntent: tanya_jalur\n\n# Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB)\n\nSPMB Mandiri Non-Reguler Jalur Pemerataan Kesempatan Belajar (PKB) merupakan pola seleksi untuk calon mahasiswa dari wilayah Indonesia yang tergolong sebagai daerah Tertinggal, Terluar dan Terdepan (3T) berdasarkan Perpres No. 63 Tahun 2020 tentang Penetapan Daerah Tertinggal 2020-2024",
+    "content": "# Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB)\n\nSPMB Mandiri Non-Reguler Jalur Pemerataan Kesempatan Belajar (PKB) merupakan pola seleksi untuk calon mahasiswa dari wilayah Indonesia yang tergolong sebagai daerah Tertinggal, Terluar dan Terdepan (3T) berdasarkan Perpres No. 63 Tahun 2020 tentang Penetapan Daerah Tertinggal 2020-2024"
+  },
+  {
+    "id": "41d0a3b608e7cdab040f9f7f7434e38e",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "# Tentang SPMB Mandiri Reguler (SSE)",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE)",
+    "intents": [
+      "tanya_jalur",
+      "tanya_ujian"
+    ],
+    "topik": "SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "SSE",
+      "Mandiri Reguler",
+      "SPMB Mandiri Reguler",
+      "ujian SSE"
+    ],
+    "search_text": "Judul: SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE)\nAlias: SSE, Mandiri Reguler, SPMB Mandiri Reguler, ujian SSE\nIntent: tanya_jalur, tanya_ujian\n\n# Tentang SPMB Mandiri Reguler (SSE)\n\nSSE UIN Jakarta adalah aplikasi sistem seleksi elektronik berbasis komputer yang digunakan untuk SPMB Mandiri UIN Syarif Hidayatullah Jakarta.\nSPMB Mandiri Jalur Reguler adalah jalur seleksi mandiri UIN Syarif Hidayatullah Jakarta yang kelulusannya berdasarkan hasil tes yang dilaksanakan dengan menggunakan aplikasi SSE UIN Jakarta.\nUjian SSE dapat dilakukan secara online bagi pendaftar yang berasal dari luar daerah Jakarta, Jawa Barat, dan Banten \nUntuk Pendaftar yang berasal dari daerah Jakarta, Jawa Barat dan Banten Wajib melakukan tes secara Offline di UIN Jakarta",
+    "content": "# Tentang SPMB Mandiri Reguler (SSE)\n\nSSE UIN Jakarta adalah aplikasi sistem seleksi elektronik berbasis komputer yang digunakan untuk SPMB Mandiri UIN Syarif Hidayatullah Jakarta.\nSPMB Mandiri Jalur Reguler adalah jalur seleksi mandiri UIN Syarif Hidayatullah Jakarta yang kelulusannya berdasarkan hasil tes yang dilaksanakan dengan menggunakan aplikasi SSE UIN Jakarta.\nUjian SSE dapat dilakukan secara online bagi pendaftar yang berasal dari luar daerah Jakarta, Jawa Barat, dan Banten \nUntuk Pendaftar yang berasal dari daerah Jakarta, Jawa Barat dan Banten Wajib melakukan tes secara Offline di UIN Jakarta"
+  },
+  {
+    "id": "1a661920fd54bebda56de40ebf595955",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "## Mekanisme Seleksi",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE) > Mekanisme Seleksi",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jalur"
+    ],
+    "topik": "Mekanisme Seleksi SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "mekanisme seleksi mandiri",
+      "alur seleksi mandiri",
+      "prosedur SSE"
+    ],
+    "search_text": "Judul: Mekanisme Seleksi SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE) > Mekanisme Seleksi\nAlias: mekanisme seleksi mandiri, alur seleksi mandiri, prosedur SSE\nIntent: tanya_prosedur_pendaftaran, tanya_jalur\n\n## Mekanisme Seleksi\n\n1. Calon peserta melakukan pendaftaran melalui laman https://admisi.uinjkt.ac.id;\n2. Calon peserta mengisi form daftar dan memilih jalur seleksi PMB untuk mendapatkan Nomor Pendaftaran, ID, dan PIN;\n3. Calon peserta mendapatkan Nomor Pendaftaran dan melakukan pembayaran biaya pendaftaran melalui bank mitra;\n4. Calon peserta mengisi data borang melalui laman https://admisi.uinjkt.ac.id dengan menggunakan ID dan PIN yang telah didapatkan oleh calon mahasiswa saat pendaftaran;\n5. Calon peserta mengirimkan (submit) data borang dan mencetak kartu ujian;\n6. Peserta seleksi mengikuti proses seleksi ujian baik luring (offline) maupun daring (online).",
+    "content": "## Mekanisme Seleksi\n\n1. Calon peserta melakukan pendaftaran melalui laman https://admisi.uinjkt.ac.id;\n2. Calon peserta mengisi form daftar dan memilih jalur seleksi PMB untuk mendapatkan Nomor Pendaftaran, ID, dan PIN;\n3. Calon peserta mendapatkan Nomor Pendaftaran dan melakukan pembayaran biaya pendaftaran melalui bank mitra;\n4. Calon peserta mengisi data borang melalui laman https://admisi.uinjkt.ac.id dengan menggunakan ID dan PIN yang telah didapatkan oleh calon mahasiswa saat pendaftaran;\n5. Calon peserta mengirimkan (submit) data borang dan mencetak kartu ujian;\n6. Peserta seleksi mengikuti proses seleksi ujian baik luring (offline) maupun daring (online)."
+  },
+  {
+    "id": "a15f4485bd61485270dfce045b7bb9ef",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### SPMB Mandiri",
+    "parent_context": "SPMB Mandiri",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "SPMB Mandiri UIN Jakarta",
+    "alias_topik": [
+      "SPMB Mandiri",
+      "Mandiri Reguler",
+      "Mandiri Non Reguler",
+      "admisi UIN Jakarta"
+    ],
+    "search_text": "Judul: SPMB Mandiri UIN Jakarta\nKonteks: SPMB Mandiri\nAlias: SPMB Mandiri, Mandiri Reguler, Mandiri Non Reguler, admisi UIN Jakarta\nIntent: tanya_jalur\n\n### SPMB Mandiri\n\n• SPMB Mandiri Reguler - Seleksi dengan Tes Ujian SSE (Sistem Seleksi Elektronik)\n• SPMB Mandiri Non Reguler – dengan nilai Rapor dan Wawancara (Prestasi, PKB, BLU, Talent Scouting)\n• SPMB Mandiri Non Reguler – dengan Nilai UTBK–SNBT dan UM–PTKIN",
+    "content": "### SPMB Mandiri\n\n• SPMB Mandiri Reguler - Seleksi dengan Tes Ujian SSE (Sistem Seleksi Elektronik)\n• SPMB Mandiri Non Reguler – dengan nilai Rapor dan Wawancara (Prestasi, PKB, BLU, Talent Scouting)\n• SPMB Mandiri Non Reguler – dengan Nilai UTBK–SNBT dan UM–PTKIN"
+  },
+  {
+    "id": "6c11b2a41ae4694126911087eda51340",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Program Sarjana",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Sarjana",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Program Sarjana UIN Jakarta",
+    "alias_topik": [
+      "program S1 UIN Jakarta",
+      "jalur sarjana UIN Jakarta"
+    ],
+    "search_text": "Judul: Program Sarjana UIN Jakarta\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Sarjana\nAlias: program S1 UIN Jakarta, jalur sarjana UIN Jakarta\nIntent: tanya_jalur\n\n### Program Sarjana\n\nJalur Prestasi:\n1. Seleksi Nasional Berdasarkan Prestasi (SNBP): untuk Program Studi dengan izin operasional dari Kementerian Riset, Teknologi, dan Pendidikan Tinggi.\n2. Seleksi Prestasi Akademik Nasional PTKIN (SPAN PTKIN): untuk Program Studi dengan izin operasional dari Kementerian Agama RI.\nJalur Seleksi:\n1. Seleksi Nasional Berdasarkan Tes (SNBT): untuk Program Studi dengan izin operasional dari Kementerian Riset, Teknologi, dan Pendidikan Tinggi.\n2. Ujian Masuk PTKIN (UM-PTKIN): untuk Program Studi dengan izin operasional dari Kementerian Agama RI.\nJalur Mandiri:\n1. SPMB Mandiri (Jalur Reguler dan Non Reguler): untuk Program Studi dengan izin operasional dari Kementerian Agama RI maupun Kementerian Riset, Teknologi, dan Pendidikan Tinggi.\n   a. Reguler\n   b. Non-Reguler",
+    "content": "### Program Sarjana\n\nJalur Prestasi:\n1. Seleksi Nasional Berdasarkan Prestasi (SNBP): untuk Program Studi dengan izin operasional dari Kementerian Riset, Teknologi, dan Pendidikan Tinggi.\n2. Seleksi Prestasi Akademik Nasional PTKIN (SPAN PTKIN): untuk Program Studi dengan izin operasional dari Kementerian Agama RI.\nJalur Seleksi:\n1. Seleksi Nasional Berdasarkan Tes (SNBT): untuk Program Studi dengan izin operasional dari Kementerian Riset, Teknologi, dan Pendidikan Tinggi.\n2. Ujian Masuk PTKIN (UM-PTKIN): untuk Program Studi dengan izin operasional dari Kementerian Agama RI.\nJalur Mandiri:\n1. SPMB Mandiri (Jalur Reguler dan Non Reguler): untuk Program Studi dengan izin operasional dari Kementerian Agama RI maupun Kementerian Riset, Teknologi, dan Pendidikan Tinggi.\n   a. Reguler\n   b. Non-Reguler"
+  },
+  {
+    "id": "2ed72ab44d9335da59ee0f5b3b5565a7",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Program Studi Jalur SNBP dan SNBT",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SNBP dan SNBT",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Studi Jalur SNBP dan SNBT",
+    "alias_topik": [
+      "prodi SNBP",
+      "prodi SNBT",
+      "jalur SNBP SNBT"
+    ],
+    "search_text": "Judul: Program Studi Jalur SNBP dan SNBT\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SNBP dan SNBT\nAlias: prodi SNBP, prodi SNBT, jalur SNBP SNBT\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n### Program Studi Jalur SNBP dan SNBT\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Matematika\n- Pendidikan Kimia\nFakultas Syariah dan Hukum:\n- Ilmu Hukum\nFakultas Adab dan Humaniora:\n- Ilmu Perpustakaan\n- Bahasa dan Sastra Inggris\nFakultas Dakwah dan Ilmu Komunikasi:\n- Jurnalistik\n- Kesejahteraan Sosial\nFakultas Psikologi:\n- Psikologi\nFakultas Ekonomi dan Bisnis:\n- Akuntansi\n- Ilmu Ekonomi dan Studi Pembangunan\n- Manajemen\nFakultas Ilmu Sosial dan Ilmu Poliitik:\n- Ilmu Hubungan Internasional\n- Sosiologik\n- Ilmu Politik\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Kedokteran:\n- Pendidikan Dokter\nInformasi Lengkap dan Pendaftaran:\nhttps://snpmb.id/\nhttps://uinjkt.ac.id/id/program-sarjana",
+    "content": "### Program Studi Jalur SNBP dan SNBT\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Matematika\n- Pendidikan Kimia\nFakultas Syariah dan Hukum:\n- Ilmu Hukum\nFakultas Adab dan Humaniora:\n- Ilmu Perpustakaan\n- Bahasa dan Sastra Inggris\nFakultas Dakwah dan Ilmu Komunikasi:\n- Jurnalistik\n- Kesejahteraan Sosial\nFakultas Psikologi:\n- Psikologi\nFakultas Ekonomi dan Bisnis:\n- Akuntansi\n- Ilmu Ekonomi dan Studi Pembangunan\n- Manajemen\nFakultas Ilmu Sosial dan Ilmu Poliitik:\n- Ilmu Hubungan Internasional\n- Sosiologik\n- Ilmu Politik\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Kedokteran:\n- Pendidikan Dokter\nInformasi Lengkap dan Pendaftaran:\nhttps://snpmb.id/\nhttps://uinjkt.ac.id/id/program-sarjana"
+  },
+  {
+    "id": "a8d789c36b406c041b189aeb69dde4b8",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Program Studi Jalur SPAN-PTKIN dan UM-PTKIN",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPAN-PTKIN dan UM-PTKIN",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Studi Prodi Jalur SPAN-PTKIN dan UM-PTKIN",
+    "alias_topik": [
+      "pilihan prodi SPAN PTKIN",
+      "pilihan prodi UM PTKIN"
+    ],
+    "search_text": "Judul: Program Studi Prodi Jalur SPAN-PTKIN dan UM-PTKIN\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPAN-PTKIN dan UM-PTKIN\nAlias: pilihan prodi SPAN PTKIN, pilihan prodi UM PTKIN\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n### Program Studi Jalur SPAN-PTKIN dan UM-PTKIN\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Biologi\n- Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra lndonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah Peradaban Islam\n- Tarjamah\nFakultas Ushuluddin:\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Ilmu Hadis\n- Aqidah dan Filsafat Islam\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Hukum Keluarga Islam (Ahwal Syakhshiyyah)\n- Perbandingan Mazhab\n- Hukum Tata Negara (Siyasah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Ekonomi Syariah (Mua`malah)\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\nFakultas Ekonomi dan Bisnis:\n- Perbankan Syariah\n- Ekonomi Syariah\nInformasi Lengkap dan Pendaftaran:\nhttps://ptkin.ac.id\nhttps://uinjkt.ac.id/id/program-sarjana",
+    "content": "### Program Studi Jalur SPAN-PTKIN dan UM-PTKIN\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Biologi\n- Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra lndonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah Peradaban Islam\n- Tarjamah\nFakultas Ushuluddin:\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Ilmu Hadis\n- Aqidah dan Filsafat Islam\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Hukum Keluarga Islam (Ahwal Syakhshiyyah)\n- Perbandingan Mazhab\n- Hukum Tata Negara (Siyasah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Ekonomi Syariah (Mua`malah)\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\nFakultas Ekonomi dan Bisnis:\n- Perbankan Syariah\n- Ekonomi Syariah\nInformasi Lengkap dan Pendaftaran:\nhttps://ptkin.ac.id\nhttps://uinjkt.ac.id/id/program-sarjana"
+  },
+  {
+    "id": "42ba7f52fa6b1795b2ffd6f16f59d276",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Program Studi Jalur SPMB Mandiri",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPMB Mandiri",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Studi Jalur SPMB Mandiri",
+    "alias_topik": [
+      "prodi SPMB Mandiri",
+      "jalur mandiri UIN Jakarta"
+    ],
+    "search_text": "Judul: Program Studi Jalur SPMB Mandiri\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPMB Mandiri\nAlias: prodi SPMB Mandiri, jalur mandiri UIN Jakarta\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n### Program Studi Jalur SPMB Mandiri\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Matematika\n- Tadris/Pendidikan Biologi\n- Tadris/Pendidikan Kimia\n- Tadris/Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra Indonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah dan Peradaban Islam\n- Tarjamah\n- Sastra Inggris\n- Ilmu Perpustakaan\nFakultas Ushuluddin:\n- Studi Agama-Agama\n- Ilmu Al-Qur'an dan Tafsir\n- Aqidah dan Filsafat Islam\n- Ilmu Hadis\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Perbandingan Mazhab\n- Ilmu Hukum\n- Hukum Keluarga (Ahwal Syakhshiyyah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Tata Negara (Siyasah)\n- Hukum Ekonomi Syariah (Muamalat)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan dan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\n- Kesejahteraan Sosial\n- Jurnalistik\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Psikologi:\n- PsikologiFakultas Psikologi\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Ilmu Ekonomi dan Bisnis:\n- Manajemen\n- Akuntansi\n- Ekonomi Pembangunan\n- Perbankan Syariah\n- Ekonomi Syariah\nFakultas Ilmu Sosial dan Ilmu Politik:\n- Sosiologi\n- Ilmu Politik\n- Ilmu Hubungan Internasional\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Kedokteran:\n- Pendidikan Dokter",
+    "content": "### Program Studi Jalur SPMB Mandiri\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Matematika\n- Tadris/Pendidikan Biologi\n- Tadris/Pendidikan Kimia\n- Tadris/Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra Indonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah dan Peradaban Islam\n- Tarjamah\n- Sastra Inggris\n- Ilmu Perpustakaan\nFakultas Ushuluddin:\n- Studi Agama-Agama\n- Ilmu Al-Qur'an dan Tafsir\n- Aqidah dan Filsafat Islam\n- Ilmu Hadis\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Perbandingan Mazhab\n- Ilmu Hukum\n- Hukum Keluarga (Ahwal Syakhshiyyah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Tata Negara (Siyasah)\n- Hukum Ekonomi Syariah (Muamalat)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan dan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\n- Kesejahteraan Sosial\n- Jurnalistik\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Psikologi:\n- PsikologiFakultas Psikologi\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Ilmu Ekonomi dan Bisnis:\n- Manajemen\n- Akuntansi\n- Ekonomi Pembangunan\n- Perbankan Syariah\n- Ekonomi Syariah\nFakultas Ilmu Sosial dan Ilmu Politik:\n- Sosiologi\n- Ilmu Politik\n- Ilmu Hubungan Internasional\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Kedokteran:\n- Pendidikan Dokter"
+  },
+  {
+    "id": "2076540a7a83963e3d0c28faa9397ac4",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Tujuan",
+    "parent_context": "SNBP > Tujuan",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Tujuan SNBP",
+    "alias_topik": [
+      "tujuan SNBP",
+      "fungsi SNBP"
+    ],
+    "search_text": "Judul: Tujuan SNBP\nKonteks: SNBP > Tujuan\nAlias: tujuan SNBP, fungsi SNBP\nIntent: tanya_jalur\n\n## Tujuan\n\n1. Memberikan kesempatan kepada siswa SMA/SMK/MA di dalam dan luar negeri (Sekolah Republik Indonesia/SRI) yang memiliki prestasi unggul untuk menempuh pendidikan tinggi di Perguruan Tinggi Negeri (PTN). PTN adalah perguruan tinggi yang diselenggarakan oleh pemerintah, meliputi PTN Akademik, dan/atau Vokasi.\n2. Memberikan peluang kepada PTN untuk mendapatkan calon mahasiswa baru yang mempunyai prestasi akademik tinggi dengan kuota minimum 20% dengan biaya ditanggung oleh pemerintah.",
+    "content": "## Tujuan\n\n1. Memberikan kesempatan kepada siswa SMA/SMK/MA di dalam dan luar negeri (Sekolah Republik Indonesia/SRI) yang memiliki prestasi unggul untuk menempuh pendidikan tinggi di Perguruan Tinggi Negeri (PTN). PTN adalah perguruan tinggi yang diselenggarakan oleh pemerintah, meliputi PTN Akademik, dan/atau Vokasi.\n2. Memberikan peluang kepada PTN untuk mendapatkan calon mahasiswa baru yang mempunyai prestasi akademik tinggi dengan kuota minimum 20% dengan biaya ditanggung oleh pemerintah."
+  },
+  {
+    "id": "f1a0e1af55331a356f1102976c1574ed",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Ketentuan Umum",
+    "parent_context": "SNBP > Ketentuan Umum",
+    "intents": [
+      "tanya_jalur",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Umum SNBP",
+    "alias_topik": [
+      "ketentuan SNBP",
+      "aturan SNBP",
+      "syarat umum SNBP"
+    ],
+    "search_text": "Judul: Ketentuan Umum SNBP\nKonteks: SNBP > Ketentuan Umum\nAlias: ketentuan SNBP, aturan SNBP, syarat umum SNBP\nIntent: tanya_jalur, tanya_persyaratan\n\n## Ketentuan Umum\n\n1. SNBP dllakukan berdasarkan hasil penelusuran prestasi akademik dengan menggunakan rapor serta prestasi akademik dan nonakademik siswa yang telah ditetapkan PTN. Adapun prestasi akademik maupun non akademik siswa yang dinilai adalah tiga prestasi terbaik.\n2. Sekolah yang mengikutkan siswanya dalam SNBP harus:\n   a. Mempunyai Nomor Pokok Sekolah Nasional (NPSN); dan\n   b. Mengisikan rapor siswa yang eligible di Pangkalan Data Sekolah dan Siswa (PDSS) dengan lengkap dan benar.\n3. Siswa mempunyai nilai Tes Kemampuan Akademik (TKA) Kemdikdasmen.\n4. Sekolah harus memiliki Akun SNPMB Sekolah Untuk pengisian PDSS dan siswa harus memiliki Akun SNPMB Siswa untuk pendaftaran SNBP. Registrasi Akun SNPMB Sekolah dan registrasi Akun SNPMB Siswa dilakukan di Portal SNPMB.\n5. Sekolah dapat memasukkan siswa eligible tanpa harus menunggu siswa memiliki Akun SNPMB Siswa.\n6. Siswa yang akan mendaftar SNBP disarankan membaca informasi persyaratan program studi pilihan pada laman PTN yang dituju.\n7. Siswa yang telah dinyatakan lulus seleksi Jalur SNBP 2026, SNBP 2025 dan SNBP 2024 tidak dapat mendaftar UTBK-SNBT 2026.\n8. Siswa yang dinyatakan lulus seleksi Jalur SNBP 2026 tidak dapat mendaftar seleksi Jalur Mandiri tahun 2026 di PTN manapun.",
+    "content": "## Ketentuan Umum\n\n1. SNBP dllakukan berdasarkan hasil penelusuran prestasi akademik dengan menggunakan rapor serta prestasi akademik dan nonakademik siswa yang telah ditetapkan PTN. Adapun prestasi akademik maupun non akademik siswa yang dinilai adalah tiga prestasi terbaik.\n2. Sekolah yang mengikutkan siswanya dalam SNBP harus:\n   a. Mempunyai Nomor Pokok Sekolah Nasional (NPSN); dan\n   b. Mengisikan rapor siswa yang eligible di Pangkalan Data Sekolah dan Siswa (PDSS) dengan lengkap dan benar.\n3. Siswa mempunyai nilai Tes Kemampuan Akademik (TKA) Kemdikdasmen.\n4. Sekolah harus memiliki Akun SNPMB Sekolah Untuk pengisian PDSS dan siswa harus memiliki Akun SNPMB Siswa untuk pendaftaran SNBP. Registrasi Akun SNPMB Sekolah dan registrasi Akun SNPMB Siswa dilakukan di Portal SNPMB.\n5. Sekolah dapat memasukkan siswa eligible tanpa harus menunggu siswa memiliki Akun SNPMB Siswa.\n6. Siswa yang akan mendaftar SNBP disarankan membaca informasi persyaratan program studi pilihan pada laman PTN yang dituju.\n7. Siswa yang telah dinyatakan lulus seleksi Jalur SNBP 2026, SNBP 2025 dan SNBP 2024 tidak dapat mendaftar UTBK-SNBT 2026.\n8. Siswa yang dinyatakan lulus seleksi Jalur SNBP 2026 tidak dapat mendaftar seleksi Jalur Mandiri tahun 2026 di PTN manapun."
+  },
+  {
+    "id": "1f25aa3fa1d0d3b64c76754a41b5cab3",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Pemeringkatan Siswa",
+    "parent_context": "SNBP > Pemeringkatan Siswa",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Pemeringkatan Siswa SNBP",
+    "alias_topik": [
+      "pemeringkatan SNBP",
+      "siswa eligible SNBP"
+    ],
+    "search_text": "Judul: Pemeringkatan Siswa SNBP\nKonteks: SNBP > Pemeringkatan Siswa\nAlias: pemeringkatan SNBP, siswa eligible SNBP\nIntent: tanya_jalur\n\n## Pemeringkatan Siswa\n\n1. Pemeringkatan siswa dilakukan oleh sekolah dengan memperhitungkan nilai rerata semua mata pelajaran pada semua semester, kecuali semester terakhir.\n2. Sekolah dapat menambahkan kriteria lain berupa prestasi akademik atau prestasi lainnya dalam menentukan peringkat siswa.",
+    "content": "## Pemeringkatan Siswa\n\n1. Pemeringkatan siswa dilakukan oleh sekolah dengan memperhitungkan nilai rerata semua mata pelajaran pada semua semester, kecuali semester terakhir.\n2. Sekolah dapat menambahkan kriteria lain berupa prestasi akademik atau prestasi lainnya dalam menentukan peringkat siswa."
+  },
+  {
+    "id": "22acaeebffa1d8364f5e7f143c10473d",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Kriteria Seleksi",
+    "parent_context": "SNBP > Kriteria Seleksi",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kriteria Seleksi SNBP",
+    "alias_topik": [
+      "kriteria SNBP",
+      "pilihan prodi SNBP"
+    ],
+    "search_text": "Judul: Kriteria Seleksi SNBP\nKonteks: SNBP > Kriteria Seleksi\nAlias: kriteria SNBP, pilihan prodi SNBP\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n## Kriteria Seleksi\n\n1. Setiap siswa yang eligible diizinkan memilih Prodi di PTN Akademik, dan/atau PTN Vokasi.\n2. Setiap siswa dapat memilih dua program studi dari satu atau dua PTN.\n3. Jika memilih satu program studi, siswa dapat memilih PTN yang berada di provinsi mana pun.\n4. Jika memilih dua program studi, salah satu program studi harus berada di PTN pada provinsi yang sama dengan SMA/MA/SMK asalnya.\n5. Daftar program studi dan daya tampung SNBP dapat dilihat pada sub menu Daya Tampung PTN SNBP",
+    "content": "## Kriteria Seleksi\n\n1. Setiap siswa yang eligible diizinkan memilih Prodi di PTN Akademik, dan/atau PTN Vokasi.\n2. Setiap siswa dapat memilih dua program studi dari satu atau dua PTN.\n3. Jika memilih satu program studi, siswa dapat memilih PTN yang berada di provinsi mana pun.\n4. Jika memilih dua program studi, salah satu program studi harus berada di PTN pada provinsi yang sama dengan SMA/MA/SMK asalnya.\n5. Daftar program studi dan daya tampung SNBP dapat dilihat pada sub menu Daya Tampung PTN SNBP"
+  },
+  {
+    "id": "bc33b12f4689a207e7a39e168a5b268b",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Komponen dan Tahapan Seleksi",
+    "parent_context": "SNBP > Komponen dan Tahapan Seleksi",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Komponen dan Tahapan Seleksi SNBP",
+    "alias_topik": [
+      "komponen seleksi SNBP",
+      "tahapan seleksi SNBP"
+    ],
+    "search_text": "Judul: Komponen dan Tahapan Seleksi SNBP\nKonteks: SNBP > Komponen dan Tahapan Seleksi\nAlias: komponen seleksi SNBP, tahapan seleksi SNBP\nIntent: tanya_jalur\n\n## Komponen dan Tahapan Seleksi\n\n1. Komponen pertama, nilai rapor seluruh mata pelajaran, paling sedikit 50% (lima puluh persen) minimal 50%.\n2. Komponen kedua, yang dihitung berdasarkan nilai rapor paling banyak 2 (dua) mata pelajaran pendukung Program Studi yang dituju, portofolio, dan/atau prestasi, paling banyak 50% (lima puluh persen).\n3. Komposisi persentase komponen pertama dan komponen kedua ditetapkan oleh masing-masing PTN.\n4. Seleksi dilakukan dengan tahapan sebagai berikut:\n   a. Peserta diseleksi berdasarkan urutan pilihan program studi; dan\n   b. Jika tidak lulus pada seleksi pilihan program studi pertama, peserta akan diikutkan pada seleksi pilihan program studi kedua.",
+    "content": "## Komponen dan Tahapan Seleksi\n\n1. Komponen pertama, nilai rapor seluruh mata pelajaran, paling sedikit 50% (lima puluh persen) minimal 50%.\n2. Komponen kedua, yang dihitung berdasarkan nilai rapor paling banyak 2 (dua) mata pelajaran pendukung Program Studi yang dituju, portofolio, dan/atau prestasi, paling banyak 50% (lima puluh persen).\n3. Komposisi persentase komponen pertama dan komponen kedua ditetapkan oleh masing-masing PTN.\n4. Seleksi dilakukan dengan tahapan sebagai berikut:\n   a. Peserta diseleksi berdasarkan urutan pilihan program studi; dan\n   b. Jika tidak lulus pada seleksi pilihan program studi pertama, peserta akan diikutkan pada seleksi pilihan program studi kedua."
+  },
+  {
+    "id": "f4b27235e69e2c2a6185362f8637a843",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Prinsip dan Tahapan Seleksi",
+    "parent_context": "SNBP > Prinsip dan Tahapan Seleksi",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Prinsip dan Tahapan Seleksi SNBP",
+    "alias_topik": [
+      "prinsip seleksi SNBP",
+      "tahapan SNBP"
+    ],
+    "search_text": "Judul: Prinsip dan Tahapan Seleksi SNBP\nKonteks: SNBP > Prinsip dan Tahapan Seleksi\nAlias: prinsip seleksi SNBP, tahapan SNBP\nIntent: tanya_jalur\n\n## Prinsip dan Tahapan Seleksi\n\n1. Mendapatkan calon mahasiswa yang berkualitas secara akademik dengan menggunakan nilai rapor dan prestasi lainnya;\n2. Memperhitungkan rekam jejak kinerja sekolah;\n3. Memperhitungkan lintas jurusan; dan\n4. Menggunakan kriteria seleksi nasional dan kriteria yang ditetapkan oleh masing-masing PTN secara adil, akuntabel, dan transparan.",
+    "content": "## Prinsip dan Tahapan Seleksi\n\n1. Mendapatkan calon mahasiswa yang berkualitas secara akademik dengan menggunakan nilai rapor dan prestasi lainnya;\n2. Memperhitungkan rekam jejak kinerja sekolah;\n3. Memperhitungkan lintas jurusan; dan\n4. Menggunakan kriteria seleksi nasional dan kriteria yang ditetapkan oleh masing-masing PTN secara adil, akuntabel, dan transparan."
+  },
+  {
+    "id": "7c94614b1057db64b13f5750a00fa34b",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Seleksi dilakukan dengan tahapan sebagai berikut",
+    "parent_context": "SNBP > Seleksi dilakukan dengan tahapan sebagai berikut",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Tahapan Seleksi SNBP",
+    "alias_topik": [
+      "tahapan seleksi SNBP"
+    ],
+    "search_text": "Judul: Tahapan Seleksi SNBP\nKonteks: SNBP > Seleksi dilakukan dengan tahapan sebagai berikut\nAlias: tahapan seleksi SNBP\nIntent: tanya_jalur\n\n## Seleksi dilakukan dengan tahapan sebagai berikut\n\n1. Siswa pendaftar diseleksi berdasarkan urutan pilihan program studi pertama; dan\n2. Jika siswa tidak lulus seleksi pada pilihan program studi pertama, maka akan diikutkan pada seleksi pilihan kedua.",
+    "content": "## Seleksi dilakukan dengan tahapan sebagai berikut\n\n1. Siswa pendaftar diseleksi berdasarkan urutan pilihan program studi pertama; dan\n2. Jika siswa tidak lulus seleksi pada pilihan program studi pertama, maka akan diikutkan pada seleksi pilihan kedua."
+  },
+  {
+    "id": "f3332e269b47c008dd8ea0f48b8773de",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Tujuan",
+    "parent_context": "SNBT > Tujuan",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Tujuan SNBT",
+    "alias_topik": [
+      "tujuan SNBT",
+      "tujuan UTBK-SNBT"
+    ],
+    "search_text": "Judul: Tujuan SNBT\nKonteks: SNBT > Tujuan\nAlias: tujuan SNBT, tujuan UTBK-SNBT\nIntent: tanya_jalur\n\n## Tujuan\n\n1. Memprediksi calon mahasiswa yang mampu menyelesaikan studi di Perguruan Tinggi Negeri (PTN) dengan baik dan tepat waktu. PTN adalah perguruan tinggi yang diselenggarakan oleh pemerintah, meliputi PTN Akademik dan/atau PTN Vokasi.\n2. Memberi kesempatan bagi calon mahasiswa untuk mengikuti tes secara fleksibel dengan memilih lokasi tes yang sesuai.\n3. Menyeleksi calon mahasiswa yang diprediksi mampu menyelesaikan studi di PTN dengan baik dan tepat waktu berdasarkan hasil UTBK\n4. Memberi kesempatan bagi calon mahasiswa untuk memilih PTN secara lintas wilayah.",
+    "content": "## Tujuan\n\n1. Memprediksi calon mahasiswa yang mampu menyelesaikan studi di Perguruan Tinggi Negeri (PTN) dengan baik dan tepat waktu. PTN adalah perguruan tinggi yang diselenggarakan oleh pemerintah, meliputi PTN Akademik dan/atau PTN Vokasi.\n2. Memberi kesempatan bagi calon mahasiswa untuk mengikuti tes secara fleksibel dengan memilih lokasi tes yang sesuai.\n3. Menyeleksi calon mahasiswa yang diprediksi mampu menyelesaikan studi di PTN dengan baik dan tepat waktu berdasarkan hasil UTBK\n4. Memberi kesempatan bagi calon mahasiswa untuk memilih PTN secara lintas wilayah."
+  },
+  {
+    "id": "f2d13645e918984b8bf9b1a57c8f8396",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Ketentuan Umum",
+    "parent_context": "SNBT > Ketentuan Umum",
+    "intents": [
+      "tanya_jalur",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Umum SNBT",
+    "alias_topik": [
+      "ketentuan SNBT",
+      "aturan SNBT",
+      "syarat umum SNBT"
+    ],
+    "search_text": "Judul: Ketentuan Umum SNBT\nKonteks: SNBT > Ketentuan Umum\nAlias: ketentuan SNBT, aturan SNBT, syarat umum SNBT\nIntent: tanya_jalur, tanya_persyaratan\n\n## Ketentuan Umum\n\n1. Peserta SNBT hanya diperbolehkan mengikuti UTBK 2026 sebanyak satu kali.\n2. Hasil UTBK 2026 hanya berlaku untuk mengikuti SNBT dan penerimaan di PTN tahun 2026.\n3. Seleksi Jalur SNBT 2026 berdasarkan hasil UTBK 2026, dan ditambah portofolio bagi peserta yang memilih program studi seni dan/atau olahraga.\n4. Siswa yang telah dinyatakan lulus seleksi jalur SNBP 2026, SNBP 2025, dan SNBP 2024 tidak dapat mengikuti SNBT 2026.",
+    "content": "## Ketentuan Umum\n\n1. Peserta SNBT hanya diperbolehkan mengikuti UTBK 2026 sebanyak satu kali.\n2. Hasil UTBK 2026 hanya berlaku untuk mengikuti SNBT dan penerimaan di PTN tahun 2026.\n3. Seleksi Jalur SNBT 2026 berdasarkan hasil UTBK 2026, dan ditambah portofolio bagi peserta yang memilih program studi seni dan/atau olahraga.\n4. Siswa yang telah dinyatakan lulus seleksi jalur SNBP 2026, SNBP 2025, dan SNBP 2024 tidak dapat mengikuti SNBT 2026."
+  },
+  {
+    "id": "23192b1b9933b7dc36f3fbdbeaf85e6f",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Ketentuan Pilihan Program Studi",
+    "parent_context": "SNBT > Ketentuan Pilihan Program Studi",
+    "intents": [
+      "tanya_prodi_fakultas",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Pilihan Program Studi SNBT",
+    "alias_topik": [
+      "pilihan prodi SNBT",
+      "maksimal 4 prodi",
+      "ketentuan pilihan SNBT"
+    ],
+    "search_text": "Judul: Ketentuan Pilihan Program Studi SNBT\nKonteks: SNBT > Ketentuan Pilihan Program Studi\nAlias: pilihan prodi SNBT, maksimal 4 prodi, ketentuan pilihan SNBT\nIntent: tanya_prodi_fakultas, tanya_jalur\n\n## Ketentuan Pilihan Program Studi\n\n1. Setiap peserta bebas memilih program studi di PTN Akademik dan/atau PTN Vokasi.\n2. Setiap peserta diperbolehkan memilih maksimal 4 (empat) program studi dengan ketentuan sebagaimana tabel terlampir.\n3. Urutan dalam pemilihan program studi menyatakan prioritas pilihan.\n\n| Jumlah Pilihan | Ketentuan Pilihan | Contoh Alternatif Pilihan Program Studi |\n|---|---|---|\n| 1 Pilihan Program Studi | Bebas memilih di program apa pun | - 1 Sarjana<br>- 1 Diploma Empat/Sarjana Terapan<br>- 1 Diploma Tiga |\n| 2 Pilihan Program Studi | Bebas memilih di program apa pun | - 2 Sarjana<br>- 1 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan<br>- 2 Diploma Tiga<br>- 1 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga |\n| 3 Pilihan Program Studi | - 2 program akademik dan 1 program vokasi<br>- 1 program akademik dan 2 program vokasi<br>- 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 2 Sarjana dan 1 Diploma Tiga<br>- 1 Sarjana dan 2 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga<br>- 3 Diploma Tiga |\n| 4 Pilihan Program Studi | - 2 program akademik dan 2 program vokasi (minimal 1 Diploma Tiga)<br>- 1 program akademik dan 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 2 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 2 Diploma Tiga<br>- 1 Sarjana dan 3 Diploma Tiga |",
+    "content": "## Ketentuan Pilihan Program Studi\n\n1. Setiap peserta bebas memilih program studi di PTN Akademik dan/atau PTN Vokasi.\n2. Setiap peserta diperbolehkan memilih maksimal 4 (empat) program studi dengan ketentuan sebagaimana tabel terlampir.\n3. Urutan dalam pemilihan program studi menyatakan prioritas pilihan.\n\n| Jumlah Pilihan | Ketentuan Pilihan | Contoh Alternatif Pilihan Program Studi |\n|---|---|---|\n| 1 Pilihan Program Studi | Bebas memilih di program apa pun | - 1 Sarjana<br>- 1 Diploma Empat/Sarjana Terapan<br>- 1 Diploma Tiga |\n| 2 Pilihan Program Studi | Bebas memilih di program apa pun | - 2 Sarjana<br>- 1 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan<br>- 2 Diploma Tiga<br>- 1 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga |\n| 3 Pilihan Program Studi | - 2 program akademik dan 1 program vokasi<br>- 1 program akademik dan 2 program vokasi<br>- 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 2 Sarjana dan 1 Diploma Tiga<br>- 1 Sarjana dan 2 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga<br>- 3 Diploma Tiga |\n| 4 Pilihan Program Studi | - 2 program akademik dan 2 program vokasi (minimal 1 Diploma Tiga)<br>- 1 program akademik dan 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 2 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 2 Diploma Tiga<br>- 1 Sarjana dan 3 Diploma Tiga |"
+  },
+  {
+    "id": "380e5b8898876c232744d9dc845cf836",
+    "source_file": "span_ptkin_tagged.md",
+    "heading": "## Pengantar",
+    "parent_context": "Tentang SPAN-PTKIN > Pengantar",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Pengantar SPAN-PTKIN",
+    "alias_topik": [
+      "apa itu SPAN PTKIN",
+      "pengantar SPAN PTKIN"
+    ],
+    "search_text": "Judul: Pengantar SPAN-PTKIN\nKonteks: Tentang SPAN-PTKIN > Pengantar\nAlias: apa itu SPAN PTKIN, pengantar SPAN PTKIN\nIntent: tanya_jalur\n\n## Pengantar\n\nBerdasarkan Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi dan Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 2014 tentang Penyelenggaraan Pendidikan dan Pengelolaan Perguruan Tinggi ditetapkan bahwa pola penerimaan mahasiswa baru pada UIN/IAIN/STAIN atau PTN dengan Program Studi keagamaan (selanjutnya disebut Perguruan Tinggi) di Indonesia dilakukan secara nasional dan bentuk lain. Pola seleksi secara nasional pada perguruan tinggi disebut Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri (SPAN-PTKIN) dan pola seleksi bentuk lain yang dilakukan secara bersama oleh perguruan tinggi disebut Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri (UM-PTKIN). Kedua pola seleksi tersebut diikuti oleh calon mahasiswa dari seluruh Indonesia tanpa membedakan jenis kelamin, agama, ras, suku, kedudukan sosial, dan tingkat kemampuan ekonomi.\nSPAN-PTKIN merupakan pola seleksi yang dilaksanakan secara nasional oleh seluruh perguruan tinggi dalam satu sistem yang terpadu dan diselenggarakan secara serentak oleh Panitia Pelaksana yang ditetapkan oleh Menteri Agama Republik Indonesia. Biaya pelaksanaan SPAN-PTKIN ditanggung oleh pemerintah, sehingga peserta tidak dipungut biaya pendaftaran. Pelaksanaan SPAN-PTKIN secara nasional yang diikuti oleh 59 Perguruan Tinggi harus memenuhi prinsip adil, transparan, dan tidak diskriminatif dengan tetap memperhatikan potensi calon mahasiswa dan kekhususan PTKIN.\nPerguruan Tinggi sebagai penyelenggara pendidikan setelah MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah dapat menerima calon mahasiswa yang berprestasi akademik tinggi dan diprediksi akan berhasil menyelesaikan studi di Perguruan Tinggi berdasarkan rekomendasi dari Kepala Sekolah/Madrasah. Siswa yang berprestasi tinggi dan secara konsisten menunjukkan prestasinya tersebut layak mendapatkan kesempatan untuk menjadi calon mahasiswa di Perguruan Tinggi melalui SPAN-PTKIN.",
+    "content": "## Pengantar\n\nBerdasarkan Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi dan Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 2014 tentang Penyelenggaraan Pendidikan dan Pengelolaan Perguruan Tinggi ditetapkan bahwa pola penerimaan mahasiswa baru pada UIN/IAIN/STAIN atau PTN dengan Program Studi keagamaan (selanjutnya disebut Perguruan Tinggi) di Indonesia dilakukan secara nasional dan bentuk lain. Pola seleksi secara nasional pada perguruan tinggi disebut Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri (SPAN-PTKIN) dan pola seleksi bentuk lain yang dilakukan secara bersama oleh perguruan tinggi disebut Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri (UM-PTKIN). Kedua pola seleksi tersebut diikuti oleh calon mahasiswa dari seluruh Indonesia tanpa membedakan jenis kelamin, agama, ras, suku, kedudukan sosial, dan tingkat kemampuan ekonomi.\nSPAN-PTKIN merupakan pola seleksi yang dilaksanakan secara nasional oleh seluruh perguruan tinggi dalam satu sistem yang terpadu dan diselenggarakan secara serentak oleh Panitia Pelaksana yang ditetapkan oleh Menteri Agama Republik Indonesia. Biaya pelaksanaan SPAN-PTKIN ditanggung oleh pemerintah, sehingga peserta tidak dipungut biaya pendaftaran. Pelaksanaan SPAN-PTKIN secara nasional yang diikuti oleh 59 Perguruan Tinggi harus memenuhi prinsip adil, transparan, dan tidak diskriminatif dengan tetap memperhatikan potensi calon mahasiswa dan kekhususan PTKIN.\nPerguruan Tinggi sebagai penyelenggara pendidikan setelah MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah dapat menerima calon mahasiswa yang berprestasi akademik tinggi dan diprediksi akan berhasil menyelesaikan studi di Perguruan Tinggi berdasarkan rekomendasi dari Kepala Sekolah/Madrasah. Siswa yang berprestasi tinggi dan secara konsisten menunjukkan prestasinya tersebut layak mendapatkan kesempatan untuk menjadi calon mahasiswa di Perguruan Tinggi melalui SPAN-PTKIN."
+  },
+  {
+    "id": "b22c56a14bc734a221b2305251c2a374",
+    "source_file": "span_ptkin_tagged.md",
+    "heading": "## Tujuan",
+    "parent_context": "Tentang SPAN-PTKIN > Tujuan",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Tujuan SPAN-PTKIN",
+    "alias_topik": [
+      "tujuan SPAN PTKIN"
+    ],
+    "search_text": "Judul: Tujuan SPAN-PTKIN\nKonteks: Tentang SPAN-PTKIN > Tujuan\nAlias: tujuan SPAN PTKIN\nIntent: tanya_jalur\n\n## Tujuan\n\n1. Memberikan kesempatan dan kepercayaan kepada sekolah/madrasah untuk mendaftarkan siswanya melalui SPAN-PTKIN agar memperoleh kesempatan mengikuti pendidikan tinggi di Perguruan Tinggi.\n2. Mendapatkan calon mahasiswa baru yang memiliki prestasi akademik tinggi melalui seleksi siswa MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah.",
+    "content": "## Tujuan\n\n1. Memberikan kesempatan dan kepercayaan kepada sekolah/madrasah untuk mendaftarkan siswanya melalui SPAN-PTKIN agar memperoleh kesempatan mengikuti pendidikan tinggi di Perguruan Tinggi.\n2. Mendapatkan calon mahasiswa baru yang memiliki prestasi akademik tinggi melalui seleksi siswa MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah."
+  },
+  {
+    "id": "92e6850ebbe1c30374bc8ea873b05796",
+    "source_file": "span_ptkin_tagged.md",
+    "heading": "## Ketentuan Umum",
+    "parent_context": "Tentang SPAN-PTKIN > Ketentuan Umum",
+    "intents": [
+      "tanya_jalur",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Umum SPAN-PTKIN",
+    "alias_topik": [
+      "ketentuan SPAN PTKIN",
+      "aturan SPAN PTKIN",
+      "syarat umum SPAN PTKIN"
+    ],
+    "search_text": "Judul: Ketentuan Umum SPAN-PTKIN\nKonteks: Tentang SPAN-PTKIN > Ketentuan Umum\nAlias: ketentuan SPAN PTKIN, aturan SPAN PTKIN, syarat umum SPAN PTKIN\nIntent: tanya_jalur, tanya_persyaratan\n\n## Ketentuan Umum\n\n1. SPAN-PTKIN merupakan seleksi nasional berdasarkan penjaringan prestasi akademik dengan menggunakan nilai rapor dan prestasi lain berupa portofolio tanpa ujian tertulis.\n2. Satuan Pendidikan yang berhak mendaftarkan siswanya dalam SPAN-PTKIN adalah MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah yang secara sah memperoleh izin penyelenggaraan pendidikan dari pemerintah.\n3. Siswa yang berhak mengikuti seleksi adalah siswa yang didaftarkan oleh Kepala Satuan Pendidikan MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah masing - masing.",
+    "content": "## Ketentuan Umum\n\n1. SPAN-PTKIN merupakan seleksi nasional berdasarkan penjaringan prestasi akademik dengan menggunakan nilai rapor dan prestasi lain berupa portofolio tanpa ujian tertulis.\n2. Satuan Pendidikan yang berhak mendaftarkan siswanya dalam SPAN-PTKIN adalah MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah yang secara sah memperoleh izin penyelenggaraan pendidikan dari pemerintah.\n3. Siswa yang berhak mengikuti seleksi adalah siswa yang didaftarkan oleh Kepala Satuan Pendidikan MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah masing - masing."
+  },
+  {
+    "id": "ca10f5b064d31f1d97f51ac5fa8b6801",
+    "source_file": "span_ptkin_tagged.md",
+    "heading": "## Kriteria Seleksi",
+    "parent_context": "Tentang SPAN-PTKIN > Kriteria Seleksi",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Kriteria Seleksi SPAN-PTKIN",
+    "alias_topik": [
+      "kriteria SPAN PTKIN",
+      "pemeringkatan SPAN PTKIN"
+    ],
+    "search_text": "Judul: Kriteria Seleksi SPAN-PTKIN\nKonteks: Tentang SPAN-PTKIN > Kriteria Seleksi\nAlias: kriteria SPAN PTKIN, pemeringkatan SPAN PTKIN\nIntent: tanya_jalur\n\n## Kriteria Seleksi\n\n1. Melalui sistem, Panitia Nasional membuat pemeringkatan siswa berdasarkan Kualitas Siswa (nilai rapor, mata pelajaran pendukung, tahfidz, prestasi lainnya); Kualitas Sekolah (Akreditasi, index daftar ulang) dan Indeks kewilayahan untuk siswa yang berasal dari daerah 3T.",
+    "content": "## Kriteria Seleksi\n\n1. Melalui sistem, Panitia Nasional membuat pemeringkatan siswa berdasarkan Kualitas Siswa (nilai rapor, mata pelajaran pendukung, tahfidz, prestasi lainnya); Kualitas Sekolah (Akreditasi, index daftar ulang) dan Indeks kewilayahan untuk siswa yang berasal dari daerah 3T."
+  },
+  {
+    "id": "85e2e4c9837d361e4083d9fec3325e1a",
+    "source_file": "spmb_mandiri_non_reguler_prestasi_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler Prestasi",
+    "alias_topik": [
+      "syarat prestasi",
+      "ketentuan jalur prestasi",
+      "sertifikat prestasi",
+      "jalur tahfidz",
+      "jalur alquran"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler Prestasi\nKonteks: Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Peserta\nAlias: syarat prestasi, ketentuan jalur prestasi, sertifikat prestasi, jalur tahfidz, jalur alquran\nIntent: tanya_persyaratan, tanya_jalur\n\n## Ketentuan Peserta\n\nSeleksi ini diperuntukkan bagi calon mahasiswa yang memiliki prestasi di tingkat Nasional maupun Internasional, baik di bidang akademik maupun non akademik, yang dibuktikan dengan sertifikat kejuaraan dan divalidasi oleh lembaga yang kredibel.",
+    "content": "## Ketentuan Peserta\n\nSeleksi ini diperuntukkan bagi calon mahasiswa yang memiliki prestasi di tingkat Nasional maupun Internasional, baik di bidang akademik maupun non akademik, yang dibuktikan dengan sertifikat kejuaraan dan divalidasi oleh lembaga yang kredibel."
+  },
+  {
+    "id": "9980e8919febad3993647b3f78fc633d",
+    "source_file": "spmb_mandiri_non_reguler_prestasi_tagged.md",
+    "heading": "## Jalur Seleksi",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Prestasi) > Jalur Seleksi",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Jalur Seleksi SPMB Mandiri Non-Reguler Prestasi",
+    "alias_topik": [
+      "jalur prestasi",
+      "akademik",
+      "non akademik",
+      "olimpiade",
+      "jalur tahfidz",
+      "jalur alquran",
+      "qiraat al-kutub"
+    ],
+    "search_text": "Judul: Jalur Seleksi SPMB Mandiri Non-Reguler Prestasi\nKonteks: Tentang SPMB Mandiri Non-Reguler (Prestasi) > Jalur Seleksi\nAlias: jalur prestasi, akademik, non akademik, olimpiade, jalur tahfidz, jalur alquran, qiraat al-kutub\nIntent: tanya_jalur\n\n## Jalur Seleksi\n\n1. Akademik\n2. Non-Akademik\n3. Olimpiade Sains\n4. Olahraga\n5. Penulisan Karya Tulis Ilmiah\n6. Seni\n7. Qira'at al-Kutub\n8. Tahfidz Qur'an (minimal 15 juz)\n9. Debat Ilmiah\n10. Pidato Bahasa Asing",
+    "content": "## Jalur Seleksi\n\n1. Akademik\n2. Non-Akademik\n3. Olimpiade Sains\n4. Olahraga\n5. Penulisan Karya Tulis Ilmiah\n6. Seni\n7. Qira'at al-Kutub\n8. Tahfidz Qur'an (minimal 15 juz)\n9. Debat Ilmiah\n10. Pidato Bahasa Asing"
+  },
+  {
+    "id": "2204cff58706b6b8c59892578312105e",
+    "source_file": "talent_scouting_ts_tagged.md",
+    "heading": "# Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS)",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS)",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "SPMB Mandiri Non-Reguler Talent Scouting TS",
+    "alias_topik": [
+      "Talent Scouting",
+      "TS",
+      "jalur TS",
+      "Mandiri Talent Scouting"
+    ],
+    "search_text": "Judul: SPMB Mandiri Non-Reguler Talent Scouting TS\nKonteks: Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS)\nAlias: Talent Scouting, TS, jalur TS, Mandiri Talent Scouting\nIntent: tanya_jalur\n\n# Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS)\n\nSPMB Mandiri Non Reguler Jalur Talent Scouting adalah seleksi yang diselenggarakan secara terbatas kepada sekolah yang memiliki Nota Kesepahaman (MoU) dengan UIN Syarif Hidayatullah Jakarta dan/atau memiliki Perjanjian Kerjasama (MoA) dengan Fakultas di lingkungan UIN Syarif Hidayatullah Jakarta.",
+    "content": "# Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS)\n\nSPMB Mandiri Non Reguler Jalur Talent Scouting adalah seleksi yang diselenggarakan secara terbatas kepada sekolah yang memiliki Nota Kesepahaman (MoU) dengan UIN Syarif Hidayatullah Jakarta dan/atau memiliki Perjanjian Kerjasama (MoA) dengan Fakultas di lingkungan UIN Syarif Hidayatullah Jakarta."
+  },
+  {
+    "id": "9fc1c594083974af2f1e685c2cdcf2ae",
+    "source_file": "talent_scouting_ts_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Ketentuan Penilaian",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_ujian",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler Talent Scouting",
+    "alias_topik": [
+      "penilaian TS",
+      "syarat TS",
+      "MoU MoA",
+      "rapor TS",
+      "wawancara TS"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler Talent Scouting\nKonteks: Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Ketentuan Penilaian\nAlias: penilaian TS, syarat TS, MoU MoA, rapor TS, wawancara TS\nIntent: tanya_persyaratan, tanya_ujian, tanya_jalur\n\n## Ketentuan Penilaian\n\nSalinan MoU atau MoA antara sekolah dengan Fakultas/Universitas yang masih berlaku;\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n3. Bukti prestasi (piagam atau sertifikat).",
+    "content": "## Ketentuan Penilaian\n\nSalinan MoU atau MoA antara sekolah dengan Fakultas/Universitas yang masih berlaku;\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n3. Bukti prestasi (piagam atau sertifikat)."
+  },
+  {
+    "id": "5c965eb8fce30b871eaf99aec2d91d9c",
+    "source_file": "talent_scouting_ts_tagged.md",
+    "heading": "## Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)",
+    "intents": [
+      "tanya_prodi_fakultas",
+      "tanya_jalur"
+    ],
+    "topik": "Pilihan Program Studi SPMB Mandiri Non-Reguler Talent Scouting TS",
+    "alias_topik": [
+      "prodi TS",
+      "sekolah Talent Scouting",
+      "NPSN Talent Scouting",
+      "program studi TS"
+    ],
+    "search_text": "Judul: Pilihan Program Studi SPMB Mandiri Non-Reguler Talent Scouting TS\nKonteks: Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)\nAlias: prodi TS, sekolah Talent Scouting, NPSN Talent Scouting, program studi TS\nIntent: tanya_prodi_fakultas, tanya_jalur\n\n## Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)\n\nNo\nNo | Nama Sekolah | NPSN | Pilihan Program Studi\n1 | MAN INSAN CENDEKIA ACEH TIMUR | 69956310 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n2 | MAN INSAN CENDEKIA TAPANULI SELATAN | 69987117 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n3 | MAN INSAN CENDEKIA PADANG PARIAMAN | 69983368 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n4 | MAN INSAN CENDEKIA SIAK | 69941598 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n5 | MAN INSAN CENDEKIA OKI | 69941607 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n6 | MAN INSAN CENDEKIA BENGKULU TENGAH | 69978360 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n7 | MAN INSAN CENDEKIA BANGKA TENGAH | 69955659 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n8 | MAN INSAN CENDEKIA KOTA BATAM | 69975889 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n9 | MAN INSAN CENDEKIA PEKALONGAN | 69941723 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n10 | MAN INSAN CENDEKIA PASURUAN | 69978962 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n11 | MAN INSAN CENDEKIA SERPONG | 20623314 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n12 | MAN INSAN CENDEKIA LOMBOK TIMUR | 69978966 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n13 | MAN INSAN CENDEKIA SAMBAS | 69976449 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n14 | MAN INSAN CENDEKIA TANAH LAUT | 69976494 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n15 | MAN INSAN CENDEKIA PASER | 69941830 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n16 | MAN INSAN CENDEKIA KOTA PALU | 69980514 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n17 | MAN INSAN CENDEKIA GOWA | 69983967 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n18 | MAN INSAN CENDEKIA KOTA KENDARI | 69975824 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n19 | MAN INSAN CENDEKIA GORONTALO | 60728785 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n20 | MAN INSAN CENDEKIA HALMAHERA BARAT | 69975867 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n21 | MAN INSAN CENDEKIA SORONG | 69977564 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n22 | MAN INSAN CENDEKIA LAMPUNG TIMUR | 69994638 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n23 | MAN INSAN CENDEKIA KOTA PALANGKA RAYA | 70042022 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n24 | MAN INSAN CENDEKIA JAMBI | 10507942 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n25 | SMAN 6 KOTA TANGERANG SELATAN | 20613768 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n26 | MAS AL AMAN | 20277305 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n27 | MAS NURUL HUDA | 20280444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n28 | SMAS AL MASTHURIYAH | 20247144 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n29 | MAS AL-ATIQIYAH | 69983444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n30 | MAS ASSALAM | 20280403 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n31 | MAS SUNANUL HUDA | 20280452 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n32 | MAS TAHFIZHUL QUR`AN AL-MATIN | 70006495 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n33 | MAN 4 JOMBANG | 20579956 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi\n34 | SPM WUSTHA SHUFFAH AL JAMA'AH | 70060867 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n35 | MAN 11 JAKARTA | 20177926 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional\n36 | MAS SUMATERA THAWALIB PARABEK | 10300539 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n37 | PONDOK PESANTREN KAUMAN MUHAMMADIYAH PADANG PANJANG |  | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n38 | SMA QURAN AL BADAR 2 | 70052226 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n39 | SMAS DAAR EL QOLAM 2 | 20623133 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n40 | MAS AL AWWABIN | 20277148 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n41 | SMAN 8 KOTA TANGERANG SELATAN | 20613552 | Psikologi\n42 | SMAN 2 KOTA TANGERANG SELATAN | 20613477 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Kesehatan Masyarakat; Farmasi; Ilmu Keperawatan; Pendidikan Dokter\n43 | MAN 4 JAKARTA | 20177932 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Pendidikan Dokter; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional; Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n44 | MAS DARUL MURSYID | 10263672 | Psikologi\n45 | MAN 2 PADANGSIDIMPUAN | 10264758 | Psikologi\n46 | MAN 6 JAKARTA | 20177962 | Psikologi\n47 | MAS DAAR EL-QOLAM | 20623415 | Psikologi\n48 | SMAS DAAR EL QOLAM | 20603164 | Psikologi\n49 | MAS MATHLA`UL ANWAR PUSAT MENES | 20622340 | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n50 | PONDOK PESANTREN DAAR EL-QOLAM 3 KAMPUS DZA 'IZZA |  | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n51 | MAN 2 KOTA MALANG | 20580050 | Pendidikan Dokter\n52 | MAS PEMBANGUNAN UIN | 20177948 | Pendidikan Dokter\n53 | MAN 1 KOTA BENGKULU | 10703996 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n54 | MA AL-QUR`AN HARSALLAKUM | 69975971 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n55 | MAS ISLAMIYAH | 20623305 | Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah\n56 | MAN 1 SURAKARTA | 20363060 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n57 | MAN 1 YOGYAKARTA | 20403375 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n58 | MAN 1 JEMBER | 20580291 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n59 | MAN 2 KOTA PADANG PANJANG | 10263751 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n60 | MAN 2 MATARAM | 50105651 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n61 | MAN 3 KOTA MAKASSAR | 40320467 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n62 | MAN 1 ACEH TIMUR | 10113708 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n63 | MAS ASSALAM DARUL FAIZAH | 69983455 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n64 | MADRASAH ALIYAH AL-HAMIDIYAH DEPOK | 20277149 | Psikologi",
+    "content": "## Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)\n\nNo\nNo | Nama Sekolah | NPSN | Pilihan Program Studi\n1 | MAN INSAN CENDEKIA ACEH TIMUR | 69956310 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n2 | MAN INSAN CENDEKIA TAPANULI SELATAN | 69987117 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n3 | MAN INSAN CENDEKIA PADANG PARIAMAN | 69983368 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n4 | MAN INSAN CENDEKIA SIAK | 69941598 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n5 | MAN INSAN CENDEKIA OKI | 69941607 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n6 | MAN INSAN CENDEKIA BENGKULU TENGAH | 69978360 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n7 | MAN INSAN CENDEKIA BANGKA TENGAH | 69955659 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n8 | MAN INSAN CENDEKIA KOTA BATAM | 69975889 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n9 | MAN INSAN CENDEKIA PEKALONGAN | 69941723 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n10 | MAN INSAN CENDEKIA PASURUAN | 69978962 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n11 | MAN INSAN CENDEKIA SERPONG | 20623314 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n12 | MAN INSAN CENDEKIA LOMBOK TIMUR | 69978966 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n13 | MAN INSAN CENDEKIA SAMBAS | 69976449 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n14 | MAN INSAN CENDEKIA TANAH LAUT | 69976494 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n15 | MAN INSAN CENDEKIA PASER | 69941830 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n16 | MAN INSAN CENDEKIA KOTA PALU | 69980514 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n17 | MAN INSAN CENDEKIA GOWA | 69983967 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n18 | MAN INSAN CENDEKIA KOTA KENDARI | 69975824 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n19 | MAN INSAN CENDEKIA GORONTALO | 60728785 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n20 | MAN INSAN CENDEKIA HALMAHERA BARAT | 69975867 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n21 | MAN INSAN CENDEKIA SORONG | 69977564 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n22 | MAN INSAN CENDEKIA LAMPUNG TIMUR | 69994638 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n23 | MAN INSAN CENDEKIA KOTA PALANGKA RAYA | 70042022 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n24 | MAN INSAN CENDEKIA JAMBI | 10507942 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n25 | SMAN 6 KOTA TANGERANG SELATAN | 20613768 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n26 | MAS AL AMAN | 20277305 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n27 | MAS NURUL HUDA | 20280444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n28 | SMAS AL MASTHURIYAH | 20247144 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n29 | MAS AL-ATIQIYAH | 69983444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n30 | MAS ASSALAM | 20280403 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n31 | MAS SUNANUL HUDA | 20280452 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n32 | MAS TAHFIZHUL QUR`AN AL-MATIN | 70006495 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n33 | MAN 4 JOMBANG | 20579956 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi\n34 | SPM WUSTHA SHUFFAH AL JAMA'AH | 70060867 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n35 | MAN 11 JAKARTA | 20177926 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional\n36 | MAS SUMATERA THAWALIB PARABEK | 10300539 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n37 | PONDOK PESANTREN KAUMAN MUHAMMADIYAH PADANG PANJANG |  | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n38 | SMA QURAN AL BADAR 2 | 70052226 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n39 | SMAS DAAR EL QOLAM 2 | 20623133 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n40 | MAS AL AWWABIN | 20277148 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n41 | SMAN 8 KOTA TANGERANG SELATAN | 20613552 | Psikologi\n42 | SMAN 2 KOTA TANGERANG SELATAN | 20613477 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Kesehatan Masyarakat; Farmasi; Ilmu Keperawatan; Pendidikan Dokter\n43 | MAN 4 JAKARTA | 20177932 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Pendidikan Dokter; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional; Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n44 | MAS DARUL MURSYID | 10263672 | Psikologi\n45 | MAN 2 PADANGSIDIMPUAN | 10264758 | Psikologi\n46 | MAN 6 JAKARTA | 20177962 | Psikologi\n47 | MAS DAAR EL-QOLAM | 20623415 | Psikologi\n48 | SMAS DAAR EL QOLAM | 20603164 | Psikologi\n49 | MAS MATHLA`UL ANWAR PUSAT MENES | 20622340 | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n50 | PONDOK PESANTREN DAAR EL-QOLAM 3 KAMPUS DZA 'IZZA |  | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n51 | MAN 2 KOTA MALANG | 20580050 | Pendidikan Dokter\n52 | MAS PEMBANGUNAN UIN | 20177948 | Pendidikan Dokter\n53 | MAN 1 KOTA BENGKULU | 10703996 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n54 | MA AL-QUR`AN HARSALLAKUM | 69975971 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n55 | MAS ISLAMIYAH | 20623305 | Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah\n56 | MAN 1 SURAKARTA | 20363060 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n57 | MAN 1 YOGYAKARTA | 20403375 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n58 | MAN 1 JEMBER | 20580291 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n59 | MAN 2 KOTA PADANG PANJANG | 10263751 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n60 | MAN 2 MATARAM | 50105651 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n61 | MAN 3 KOTA MAKASSAR | 40320467 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n62 | MAN 1 ACEH TIMUR | 10113708 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n63 | MAS ASSALAM DARUL FAIZAH | 69983455 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n64 | MADRASAH ALIYAH AL-HAMIDIYAH DEPOK | 20277149 | Psikologi"
+  },
+  {
+    "id": "8ce9e52904d4cbde6ace69c2521c4e43",
+    "source_file": "um_ptkin_tagged.md",
+    "heading": "## Pengantar",
+    "parent_context": "Tentang UM-PTKIN > Pengantar",
+    "intents": [
+      "tanya_jalur"
+    ],
+    "topik": "Pengantar UM-PTKIN",
+    "alias_topik": [
+      "pengertian UM PTKIN",
+      "apa itu UM PTKIN",
+      "SSE UM PTKIN"
+    ],
+    "search_text": "Judul: Pengantar UM-PTKIN\nKonteks: Tentang UM-PTKIN > Pengantar\nAlias: pengertian UM PTKIN, apa itu UM PTKIN, SSE UM PTKIN\nIntent: tanya_jalur\n\n## Pengantar\n\nBerdasarkan Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi dan Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 2014 tentang Penyelenggaraan Pendidikan Tinggi dan Pengelolaan Perguruan Tinggi, ditetapkan bahwa pola penerimaan mahasiswa baru pada Perguruan Tinggi Negeri dilaksanakan secara nasional dan bentuk lain. Pola PMB secara nasional pada Universitas Islam Negeri (UIN), Institut Agama Islam Negeri (IAIN), Sekolah Tinggi Agama Islam Negeri (STAIN) dan Perguruan Tinggi yang memiliki program studi dengan ijin pendirian dari Kementerian Agama antara lain dilaksanakan dalam bentuk Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri (UM-PTKIN). UM-PTKIN diselenggarakan dalam satu sistem yang terpadu secara serentak oleh Panitia Pelaksana yang ditetapkan oleh Menteri Agama Republik Indonesia. Pelaksanaan UM-PTKIN secara nasional harus memenuhi prinsip adil, transparan, dan tidak diskriminatif dengan tetap memperhatikan kekhususan dan kekhasan PTKIN/PTN. Pada tahun 2026 UM-PTKIN diselenggarakan secara luring di PTKIN Titik Lokasi Ujian yang dipilih oleh peserta dan menggunakan aplikasi Sistem Seleksi Elektronik (SSE). SSE adalah aplikasi ujian yang menggunakan komputer (PC/Laptop). Melalui SSE, pelaksanaan ujian tidak lagi menggunakan kertas (paperless), baik untuk naskah soal maupun lembar jawaban.",
+    "content": "## Pengantar\n\nBerdasarkan Undang-Undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi dan Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 2014 tentang Penyelenggaraan Pendidikan Tinggi dan Pengelolaan Perguruan Tinggi, ditetapkan bahwa pola penerimaan mahasiswa baru pada Perguruan Tinggi Negeri dilaksanakan secara nasional dan bentuk lain. Pola PMB secara nasional pada Universitas Islam Negeri (UIN), Institut Agama Islam Negeri (IAIN), Sekolah Tinggi Agama Islam Negeri (STAIN) dan Perguruan Tinggi yang memiliki program studi dengan ijin pendirian dari Kementerian Agama antara lain dilaksanakan dalam bentuk Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri (UM-PTKIN). UM-PTKIN diselenggarakan dalam satu sistem yang terpadu secara serentak oleh Panitia Pelaksana yang ditetapkan oleh Menteri Agama Republik Indonesia. Pelaksanaan UM-PTKIN secara nasional harus memenuhi prinsip adil, transparan, dan tidak diskriminatif dengan tetap memperhatikan kekhususan dan kekhasan PTKIN/PTN. Pada tahun 2026 UM-PTKIN diselenggarakan secara luring di PTKIN Titik Lokasi Ujian yang dipilih oleh peserta dan menggunakan aplikasi Sistem Seleksi Elektronik (SSE). SSE adalah aplikasi ujian yang menggunakan komputer (PC/Laptop). Melalui SSE, pelaksanaan ujian tidak lagi menggunakan kertas (paperless), baik untuk naskah soal maupun lembar jawaban."
+  }
+]

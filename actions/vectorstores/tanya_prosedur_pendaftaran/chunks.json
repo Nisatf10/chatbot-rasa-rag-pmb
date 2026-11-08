@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "19f6d0837d4d32dfff8ccdbe5f03e86b",
+    "source_file": "alur_tagged.md",
+    "heading": "## ALUR PENDAFTARAN SPMB MANDIRI PROGRAM SARJANA (S-1)",
+    "parent_context": "ALUR PENDAFTARAN SPMB MANDIRI PROGRAM SARJANA (S-1)",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Pendaftaran SPMB Mandiri Reguler dan Non-Reguler",
+    "alias_topik": [
+      "alur daftar SPMB Mandiri",
+      "prosedur pendaftaran SPMB Mandiri"
+    ],
+    "search_text": "Judul: Alur Pendaftaran SPMB Mandiri Reguler dan Non-Reguler\nKonteks: ALUR PENDAFTARAN SPMB MANDIRI PROGRAM SARJANA (S-1)\nAlias: alur daftar SPMB Mandiri, prosedur pendaftaran SPMB Mandiri\nIntent: tanya_prosedur_pendaftaran\n\n## ALUR PENDAFTARAN SPMB MANDIRI PROGRAM SARJANA (S-1)\n\n1. INFORMASI PENERIMAAN\n   Keterangan:\n   - Buka: penerimaan.uinjkt.ac.id\n   - Klik tombol Info untuk Informasi Jalur SPMB.\n2. AKSES PENDAFTARAN\n   Akses di admisi.uinjkt.ac.id\n   Keterangan:\n   - Klik tombol Daftar.\n3. ISI FORMULIR PENDAFTARAN\n   Keterangan:\n   - Mengisi formulir pendaftaran.\n   - Setelah mengisi formulir, pendaftar mendapatkan Nomor Pendaftaran.\n4. PEMBAYARAN PENDAFTARAN\n   Keterangan:\n   - Melakukan pembayaran dengan Nomor Pendaftaran melalui bank yang ditunjuk.\n5. FINALISASI DATA\n   Keterangan:\n   - Buka: admisi.uinjkt.ac.id\n   - Lengkapi biodata.\n   - Cetak kartu ujian.\n6. PELAKSANAAN UJIAN\n   Keterangan:\n   - Mengikuti pelaksanaan ujian sesuai ketentuan/jadwal yang berlaku.\n7. PENGUMUMAN KELULUSAN\n   Keterangan:\n   - Cek pengumuman kelulusan di: admisi.uinjkt.ac.id",
+    "content": "## ALUR PENDAFTARAN SPMB MANDIRI PROGRAM SARJANA (S-1)\n\n1. INFORMASI PENERIMAAN\n   Keterangan:\n   - Buka: penerimaan.uinjkt.ac.id\n   - Klik tombol Info untuk Informasi Jalur SPMB.\n2. AKSES PENDAFTARAN\n   Akses di admisi.uinjkt.ac.id\n   Keterangan:\n   - Klik tombol Daftar.\n3. ISI FORMULIR PENDAFTARAN\n   Keterangan:\n   - Mengisi formulir pendaftaran.\n   - Setelah mengisi formulir, pendaftar mendapatkan Nomor Pendaftaran.\n4. PEMBAYARAN PENDAFTARAN\n   Keterangan:\n   - Melakukan pembayaran dengan Nomor Pendaftaran melalui bank yang ditunjuk.\n5. FINALISASI DATA\n   Keterangan:\n   - Buka: admisi.uinjkt.ac.id\n   - Lengkapi biodata.\n   - Cetak kartu ujian.\n6. PELAKSANAAN UJIAN\n   Keterangan:\n   - Mengikuti pelaksanaan ujian sesuai ketentuan/jadwal yang berlaku.\n7. PENGUMUMAN KELULUSAN\n   Keterangan:\n   - Cek pengumuman kelulusan di: admisi.uinjkt.ac.id"
+  },
+  {
+    "id": "6b288642a498de6e9453ff5cc5268685",
+    "source_file": "alur_tagged.md",
+    "heading": "## RINGKASAN ALUR",
+    "parent_context": "RINGKASAN ALUR",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ringkasan Alur SPMB Mandiri",
+    "alias_topik": [
+      "ringkasan pendaftaran SPMB",
+      "urutan pendaftaran mandiri"
+    ],
+    "search_text": "Judul: Ringkasan Alur SPMB Mandiri\nKonteks: RINGKASAN ALUR\nAlias: ringkasan pendaftaran SPMB, urutan pendaftaran mandiri\nIntent: tanya_prosedur_pendaftaran\n\n## RINGKASAN ALUR\n\nInformasi Penerimaan\n-> Akses Pendaftaran\n-> Isi Formulir Pendaftaran\n-> Pembayaran Pendaftaran\n-> Finalisasi Data\n-> Pelaksanaan Ujian\n-> Pengumuman Kelulusan",
+    "content": "## RINGKASAN ALUR\n\nInformasi Penerimaan\n-> Akses Pendaftaran\n-> Isi Formulir Pendaftaran\n-> Pembayaran Pendaftaran\n-> Finalisasi Data\n-> Pelaksanaan Ujian\n-> Pengumuman Kelulusan"
+  },
+  {
+    "id": "e694e44d2c11480ec080968de552f759",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "## Mekanisme pendaftaran",
+    "parent_context": "Mekanisme pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_beasiswa"
+    ],
+    "topik": "Mekanisme pendaftaran",
+    "alias_topik": [
+      "cara daftar beasiswa",
+      "pendaftaran beasiswa"
+    ],
+    "search_text": "Judul: Mekanisme pendaftaran\nKonteks: Mekanisme pendaftaran\nAlias: cara daftar beasiswa, pendaftaran beasiswa\nIntent: tanya_prosedur_pendaftaran, tanya_beasiswa\n\n## Mekanisme pendaftaran\n\n- Lulus salah satu jalur masuk UIN Syarif Hidayatullah Jakarta\n- Mendaftar ulang dan mendapatkan NIM\n- Melakukan pendaftaran daring (online)\nVerifikasi berkas oleh Tim Pengelola Beasiswa\nInterview yang dilakukan oleh pengelola bagi:\n- pendaftar beasiswa yang memiliki kartu KIP, KJP, KKS untuk PKH\n- kelompok UKT 1, 2 dan 3\nmahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan\n- Pengumuman kelulusan",
+    "content": "## Mekanisme pendaftaran\n\n- Lulus salah satu jalur masuk UIN Syarif Hidayatullah Jakarta\n- Mendaftar ulang dan mendapatkan NIM\n- Melakukan pendaftaran daring (online)\nVerifikasi berkas oleh Tim Pengelola Beasiswa\nInterview yang dilakukan oleh pengelola bagi:\n- pendaftar beasiswa yang memiliki kartu KIP, KJP, KKS untuk PKH\n- kelompok UKT 1, 2 dan 3\nmahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan\n- Pengumuman kelulusan"
+  },
+  {
+    "id": "89b72b7e70f17243beb623ed60708f20",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "## D. Pendaftaran Beasiswa",
+    "parent_context": "D. Pendaftaran Beasiswa",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "D. Pendaftaran Beasiswa",
+    "alias_topik": [
+      "cara daftar beasiswa",
+      "pendaftaran beasiswa"
+    ],
+    "search_text": "Judul: D. Pendaftaran Beasiswa\nKonteks: D. Pendaftaran Beasiswa\nAlias: cara daftar beasiswa, pendaftaran beasiswa\nIntent: tanya_prosedur_pendaftaran\n\n## D. Pendaftaran Beasiswa\n\nPengumuman Rektor (ditandatangani Wakil Rektor Bidang Kemahasiswaan) tentang pendaftaran beasiswa, disiapkan oleh Unit terkait dan dikoordinasikan dengan seluruh Wakil Dekan Bidang Kemahasiswaan dan Kerja Sama. Pengumuman dilakukan secara online melalui website dan sosial media resmi Kemahasiswaan UIN Syarif Hidayatullah Jakarta dan UIN Syarif Hidayatullah Jakarta.",
+    "content": "## D. Pendaftaran Beasiswa\n\nPengumuman Rektor (ditandatangani Wakil Rektor Bidang Kemahasiswaan) tentang pendaftaran beasiswa, disiapkan oleh Unit terkait dan dikoordinasikan dengan seluruh Wakil Dekan Bidang Kemahasiswaan dan Kerja Sama. Pengumuman dilakukan secara online melalui website dan sosial media resmi Kemahasiswaan UIN Syarif Hidayatullah Jakarta dan UIN Syarif Hidayatullah Jakarta."
+  },
+  {
+    "id": "6bd521dd6efd26b65d5e41f42f94ef6f",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Link Pendaftaran Beasiswa Eksternal",
+    "parent_context": "D. Pendaftaran Beasiswa > Link Pendaftaran Beasiswa Eksternal",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_beasiswa",
+      "tanya_link"
+    ],
+    "topik": "Link Pendaftaran Beasiswa Eksternal",
+    "alias_topik": [
+      "link beasiswa eksternal",
+      "pendaftaran beasiswa eksternal",
+      "daftar KJMU",
+      "daftar KSE",
+      "daftar Djarum Plus",
+      "daftar BAZNAS"
+    ],
+    "search_text": "Judul: Link Pendaftaran Beasiswa Eksternal\nKonteks: D. Pendaftaran Beasiswa > Link Pendaftaran Beasiswa Eksternal\nAlias: link beasiswa eksternal, pendaftaran beasiswa eksternal, daftar KJMU, daftar KSE, daftar Djarum Plus, daftar BAZNAS\nIntent: tanya_prosedur_pendaftaran, tanya_beasiswa, tanya_link\n\n### Link Pendaftaran Beasiswa Eksternal\n\nKartu Jakarta Mahasiswa Unggul (KJMU): https://p4op.jakarta.go.id/kjmu/beranda;\nKarya Salemba Empat (KSE): https://kse.or.id/home\nDjarum Plus: https://djarumbeasiswaplus.org/\nBadan Amil Zakat Nasional (BAZNAS): https://beasiswa.baznas.go.id/\nUntuk beasiswa eksternal lainnya, dapat dilihat di website pemberi beasiswa tersebut.",
+    "content": "### Link Pendaftaran Beasiswa Eksternal\n\nKartu Jakarta Mahasiswa Unggul (KJMU): https://p4op.jakarta.go.id/kjmu/beranda;\nKarya Salemba Empat (KSE): https://kse.or.id/home\nDjarum Plus: https://djarumbeasiswaplus.org/\nBadan Amil Zakat Nasional (BAZNAS): https://beasiswa.baznas.go.id/\nUntuk beasiswa eksternal lainnya, dapat dilihat di website pemberi beasiswa tersebut."
+  },
+  {
+    "id": "5cbac82bca10c55748b9659937b2cfb7",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### B. Ketentuan Umum Pendaftaran UM-PTKIN",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > B. Ketentuan Umum Pendaftaran UM-PTKIN",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ketentuan Umum Pendaftaran UM-PTKIN",
+    "alias_topik": [
+      "syarat UM-PTKIN",
+      "ketentuan UM-PTKIN",
+      "persyaratan UM-PTKIN"
+    ],
+    "search_text": "Judul: Ketentuan Umum Pendaftaran UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > B. Ketentuan Umum Pendaftaran UM-PTKIN\nAlias: syarat UM-PTKIN, ketentuan UM-PTKIN, persyaratan UM-PTKIN\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n### B. Ketentuan Umum Pendaftaran UM-PTKIN\n\n1. Peserta yang berhak mendaftar adalah siswa pada Satuan Pendidikan\nMA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025, dan\n2026.\n2. Peserta lulusan tahun 2024 atau 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL) dan Peserta lulusan tahun 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa.\n3. Peserta wajib memiliki:\na. Nomor Induk Siswa Nasional (NISN);\nb. Email yang aktif dan dapat dihubungi;\nc. Nomor WhatsApp yang aktif dan dapat dihubungi.\n4. Peserta melakukan pendaftaran secara mandiri pada laman\nhttps://um.ptkin.ac.id.\n5. Peserta melakukan pembayaran biaya pendaftaran melalui bank yang ditetapkan oleh Panitia Nasional.\n6. Peserta memilih maksimal 3 (tiga) Program Studi pada PTKIN/PTN.\n7. Peserta memilih PTKIN/PTN Titik Lokasi Ujian.\n8. Pendaftaran peserta dinyatakan selesai apabila peserta telah melakukan Finalisasi Pendaftaran dan mencetak Kartu Peserta Ujian.",
+    "content": "### B. Ketentuan Umum Pendaftaran UM-PTKIN\n\n1. Peserta yang berhak mendaftar adalah siswa pada Satuan Pendidikan\nMA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025, dan\n2026.\n2. Peserta lulusan tahun 2024 atau 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL) dan Peserta lulusan tahun 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa.\n3. Peserta wajib memiliki:\na. Nomor Induk Siswa Nasional (NISN);\nb. Email yang aktif dan dapat dihubungi;\nc. Nomor WhatsApp yang aktif dan dapat dihubungi.\n4. Peserta melakukan pendaftaran secara mandiri pada laman\nhttps://um.ptkin.ac.id.\n5. Peserta melakukan pembayaran biaya pendaftaran melalui bank yang ditetapkan oleh Panitia Nasional.\n6. Peserta memilih maksimal 3 (tiga) Program Studi pada PTKIN/PTN.\n7. Peserta memilih PTKIN/PTN Titik Lokasi Ujian.\n8. Pendaftaran peserta dinyatakan selesai apabila peserta telah melakukan Finalisasi Pendaftaran dan mencetak Kartu Peserta Ujian."
+  },
+  {
+    "id": "ed97286ce8c8229f37699050c4051f33",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### E. Tata Cara Registrasi/Pendaftaran Akun Peserta",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > E. Tata Cara Registrasi/Pendaftaran Akun Peserta",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Registrasi Akun Peserta UM-PTKIN",
+    "alias_topik": [
+      "cara daftar akun UM-PTKIN",
+      "registrasi akun UM-PTKIN"
+    ],
+    "search_text": "Judul: Tata Cara Registrasi Akun Peserta UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > E. Tata Cara Registrasi/Pendaftaran Akun Peserta\nAlias: cara daftar akun UM-PTKIN, registrasi akun UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n### E. Tata Cara Registrasi/Pendaftaran Akun Peserta\n\n1. Kunjungi laman https://um.ptkin.ac.id/\n2. Daftar UM-PTKIN\na. Pilih Daftar UM-PTKIN Bagi Calon Pendaftar wajib memiliki NISN. Bagi yang telah memiliki akun SPAN-PTKIN dapat langsung login untuk memulai pendaftaran. Bagi yang belum memiliki akun dapat memilih ikon Daftar.\nSilakan gunakan NISN, Tanggal Lahir, Nomor WhatsApp, Email Aktif (password akan dikirimkan melalui email ini).\nb. Masukkan NISN, tanggal lahir, nomor WhatsApp, dan email aktif.\nCatatan :\nTanggal Lahir harus sesuai dengan yang terdaftar di\nDAPODIK/EMIS. Silakan menghubungi operator sekolah atau dapat melihat di laman https://nisn.data.kemendikdasmen.go.id/ Contoh Tampilan NISN sesuai dan Tanggal lahir tidak sesuai Solusi : silakan ke operator sekolah atau cek pada laman\nhttps://nisn.data.kemendikdasmen.go.id/\n\nContoh tampilan NISN tidak sesuai dengan Tanggal Lahir sesuai Solusi : silakan ke operator sekolah atau cek pada laman\nhttps://nisn.data.kemendikdasmen.go.id/ Solusi : silakan ke operator sekolah atau cek pada laman\nhttps://nisn.data.kemendikdasmen.go.id/\n\nContoh tampilan NISN sesuai dan Tanggal lahir sesuai\nmasukan Nomor Telepon/HP (WA Aktif) dan Email aktif. Password akan dikirimkan ke email tersebut.\nBerikut pesan jika pendaftaran akun tidak berhasil karena sudah terdaftar ataupun menggunakan email yang sama\n\nc. Silakan cek email anda untuk mengetahui password, cek pada kotak masuk/spam/kotak promosi, jika tidak ditemukan calon peserta dapat menghubungi helpdesk UM-PTKIN melalui Chat WhatsApp dengan menyampaikan NISN#Nama#Keluhan_anda.\n3. Password, Buka email dari UM-PTKIN.\nNISN",
+    "content": "### E. Tata Cara Registrasi/Pendaftaran Akun Peserta\n\n1. Kunjungi laman https://um.ptkin.ac.id/\n2. Daftar UM-PTKIN\na. Pilih Daftar UM-PTKIN Bagi Calon Pendaftar wajib memiliki NISN. Bagi yang telah memiliki akun SPAN-PTKIN dapat langsung login untuk memulai pendaftaran. Bagi yang belum memiliki akun dapat memilih ikon Daftar.\nSilakan gunakan NISN, Tanggal Lahir, Nomor WhatsApp, Email Aktif (password akan dikirimkan melalui email ini).\nb. Masukkan NISN, tanggal lahir, nomor WhatsApp, dan email aktif.\nCatatan :\nTanggal Lahir harus sesuai dengan yang terdaftar di\nDAPODIK/EMIS. Silakan menghubungi operator sekolah atau dapat melihat di laman https://nisn.data.kemendikdasmen.go.id/ Contoh Tampilan NISN sesuai dan Tanggal lahir tidak sesuai Solusi : silakan ke operator sekolah atau cek pada laman\nhttps://nisn.data.kemendikdasmen.go.id/\n\nContoh tampilan NISN tidak sesuai dengan Tanggal Lahir sesuai Solusi : silakan ke operator sekolah atau cek pada laman\nhttps://nisn.data.kemendikdasmen.go.id/ Solusi : silakan ke operator sekolah atau cek pada laman\nhttps://nisn.data.kemendikdasmen.go.id/\n\nContoh tampilan NISN sesuai dan Tanggal lahir sesuai\nmasukan Nomor Telepon/HP (WA Aktif) dan Email aktif. Password akan dikirimkan ke email tersebut.\nBerikut pesan jika pendaftaran akun tidak berhasil karena sudah terdaftar ataupun menggunakan email yang sama\n\nc. Silakan cek email anda untuk mengetahui password, cek pada kotak masuk/spam/kotak promosi, jika tidak ditemukan calon peserta dapat menghubungi helpdesk UM-PTKIN melalui Chat WhatsApp dengan menyampaikan NISN#Nama#Keluhan_anda.\n3. Password, Buka email dari UM-PTKIN.\nNISN"
+  },
+  {
+    "id": "f3b6901ad82b450000c3021442902176",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### F. Tata Cara Login Siswa",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > F. Tata Cara Login Siswa",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Login Siswa UM-PTKIN",
+    "alias_topik": [
+      "login UM-PTKIN",
+      "cara login UM-PTKIN"
+    ],
+    "search_text": "Judul: Tata Cara Login Siswa UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > F. Tata Cara Login Siswa\nAlias: login UM-PTKIN, cara login UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n### F. Tata Cara Login Siswa\n\n1. Kunjungi kembali laman https://um.ptkin.ac.id/\n2. Isikan NISN dan Password yang diperoleh dari email.\n3. Formulir Pendaftaran bagi peserta\na. Pengisian Biodata\nb. Berkebutuhan Khusus\nBagi berkebutuhan khusus wajib mengisi kolom Berkebutuhan Khusus.\nData ini digunakan agar memudahkan panitia dalam mengelola peserta berkebutuhan khusus.\nc. Pendidikan SMA sederajat.\nData Pendidikan pada sistem pendaftaran UM-PTKIN akan muncul sesuai dengan sumber pada Dapodik dan EMIS, jika ada kesalahan silakan ke operator sekolah untuk melakukan perbaikan data.\nCatatan :\nPengisian No. Ijazah/SKL hanya untuk peserta yang lulus tahun 2024 dan\n2025. Pengisian No. Ijazah/SKL dapat dikosongkan untuk peserta yang lulus tahun\n2026. Bagi lulusan tahun 2026 dapat mengisikan\nNIK/No.Pengumuman lulus/No.SKL/No. Kartu Siswa pada kolom No. Ijazah/SKL.\nd. Pendidikan Pesantren\nBagian ini diisi jika peserta memiliki/pernah di pesantren, jika tidak maka dapat dikosongkan/optional.\ne. Pembayaran\nf. Pembayaran\ng. Cetak Invoice\nh. Tata cara Pembayaran INVOICE Melalui ATM Bank Mandiri.\ni. Tata cara Pembayaran INVOICE Melalui Cabang BANK Mandiri.\nj. Tata cara Pembayaran INVOICE Melalui LIVIN.\nk. Tata cara Pembayaran INVOICE Melalui Transfer Bank Non-Mandiri.\nl. Tata cara Pembayaran INVOICE Melalui ATM Bank Lain.",
+    "content": "### F. Tata Cara Login Siswa\n\n1. Kunjungi kembali laman https://um.ptkin.ac.id/\n2. Isikan NISN dan Password yang diperoleh dari email.\n3. Formulir Pendaftaran bagi peserta\na. Pengisian Biodata\nb. Berkebutuhan Khusus\nBagi berkebutuhan khusus wajib mengisi kolom Berkebutuhan Khusus.\nData ini digunakan agar memudahkan panitia dalam mengelola peserta berkebutuhan khusus.\nc. Pendidikan SMA sederajat.\nData Pendidikan pada sistem pendaftaran UM-PTKIN akan muncul sesuai dengan sumber pada Dapodik dan EMIS, jika ada kesalahan silakan ke operator sekolah untuk melakukan perbaikan data.\nCatatan :\nPengisian No. Ijazah/SKL hanya untuk peserta yang lulus tahun 2024 dan\n2025. Pengisian No. Ijazah/SKL dapat dikosongkan untuk peserta yang lulus tahun\n2026. Bagi lulusan tahun 2026 dapat mengisikan\nNIK/No.Pengumuman lulus/No.SKL/No. Kartu Siswa pada kolom No. Ijazah/SKL.\nd. Pendidikan Pesantren\nBagian ini diisi jika peserta memiliki/pernah di pesantren, jika tidak maka dapat dikosongkan/optional.\ne. Pembayaran\nf. Pembayaran\ng. Cetak Invoice\nh. Tata cara Pembayaran INVOICE Melalui ATM Bank Mandiri.\ni. Tata cara Pembayaran INVOICE Melalui Cabang BANK Mandiri.\nj. Tata cara Pembayaran INVOICE Melalui LIVIN.\nk. Tata cara Pembayaran INVOICE Melalui Transfer Bank Non-Mandiri.\nl. Tata cara Pembayaran INVOICE Melalui ATM Bank Lain."
+  },
+  {
+    "id": "19a29d62a11fc5530bcd865e7bfd7cfe",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### G. Tata cara Pemilihan Program Studi",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > G. Tata cara Pemilihan Program Studi",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Pemilihan Program Studi UM-PTKIN",
+    "alias_topik": [
+      "pilih prodi UM-PTKIN",
+      "pemilihan program studi UM-PTKIN"
+    ],
+    "search_text": "Judul: Tata Cara Pemilihan Program Studi UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > G. Tata cara Pemilihan Program Studi\nAlias: pilih prodi UM-PTKIN, pemilihan program studi UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n### G. Tata cara Pemilihan Program Studi\n\nPemilihan Program Studi dan Perguruan Tinggi dapat dilakukan jika peserta telah melakukan pembayaran/Pelunasan Invoice. Langkah-langkah pemilihan prodi adalah sebagai berikut:\na) Kunjungi kembali laman UM-PTKIN di https://um.ptkin.ac.id/\nsetelah muncul laman di atas, langkah selanjutnya pilih\nb) Input NISN dan Password.\nUsername/NISN dan Password yang diperoleh setelah pendaftaran Biodata.\nc) Mengunggah (upload) foto terbaru Peserta meng-unggah / upload pas foto dengan background warna biru/merah, Dimensi ukuran 3×4, size minimal 2Mb. Peserta dilarang menggunakan foto selfie, selfie, wefie, action, tidak sopan (tidak resmi).\nPilih Klik Untuk upload foto\nCari foto -> Pilih file foto -> Klik Open\nd) Upload Scan Ijazah/SKL/KTP/Kartu siswa Peserta melakukan Unggah/Upload Scan Ijazah bagi Lulusan tahun 2024 dan 2025, bagi lulusan 2026 menyiapkan Scan dari salah satu SKL/Pengumuman lulus/KTP/Kartu Siswa dengan format file gambar (jpg/jpeg).\nPilih Klik untuk upload ijazah/SKL\nPilih File Scan Ijazah/SKL bagi lulusan tahun 2024,2025 dan File Scan\nSKL/Pengumuman Lulus/KTP/Kartu Siswa bagi lulusan 2026. pilih file -> klik Open.\ne) Periksa kembali data yang sudah diunggah/upload.\nKemudian lanjut ke pemilihan Program Studi.\nf)\nPilih Program Studi dan Titik Lokasi Ujian\nPeserta dapat memilih minimal 1 (satu) pilihan Program Studi dan Maksimal 3 (tiga) pilihan Program Studi dari 59 Perguruan Tinggi yang tersedia.\ng) Pilih PTKIN Titik Lokasi Ujian\nPeserta dapat memilih PTKIN Titik Lokasi Ujian di 59 tempat PTKIN.\nh) Jika sudah dipilih program studi dan PTKIN titik lokasi ujian, silakan cek kembali pilihan program studi anda.\npilih Simpan & Lanjut\ni)Konfirmasi finalisasi\nCatatan Penting : Sebelum melakukan Finalisasi harap cek kembali pilihan program studi yang anda pilih. Calon Peserta tidak dapat melakukan perubahan Program Studi dan PTKIN Titik Lokasi Ujian jika sudah melakukan Finalisasi.\nPilih Saya memahami dan Menyetujui kemudian Pilih\nj)\nKartu Peserta Ujian\nk) Cetak Kartu Ujian\nPilih Cetak kartu ujian\nPeserta wajib mencetak kartu peserta ujian dan mengikuti semua petunjuk yang ada pada kartu ujian, Tata Tertib Mengikuti SSE UM-PTKIN 2026, mengikuti jadwal Ujian SSE UM-PTKIN.\nl)Tata Cara, Alur dan Tata Tertib Mengikuti SSE UM-PTKIN 2026 Peserta wajib mencetak Kartu Peserta Ujian dan Tata Cara, Alur dan Tata Tertib Mengikuti SSE UM-PTKIN 2026 serta dibawa saat ujian berlangsung",
+    "content": "### G. Tata cara Pemilihan Program Studi\n\nPemilihan Program Studi dan Perguruan Tinggi dapat dilakukan jika peserta telah melakukan pembayaran/Pelunasan Invoice. Langkah-langkah pemilihan prodi adalah sebagai berikut:\na) Kunjungi kembali laman UM-PTKIN di https://um.ptkin.ac.id/\nsetelah muncul laman di atas, langkah selanjutnya pilih\nb) Input NISN dan Password.\nUsername/NISN dan Password yang diperoleh setelah pendaftaran Biodata.\nc) Mengunggah (upload) foto terbaru Peserta meng-unggah / upload pas foto dengan background warna biru/merah, Dimensi ukuran 3×4, size minimal 2Mb. Peserta dilarang menggunakan foto selfie, selfie, wefie, action, tidak sopan (tidak resmi).\nPilih Klik Untuk upload foto\nCari foto -> Pilih file foto -> Klik Open\nd) Upload Scan Ijazah/SKL/KTP/Kartu siswa Peserta melakukan Unggah/Upload Scan Ijazah bagi Lulusan tahun 2024 dan 2025, bagi lulusan 2026 menyiapkan Scan dari salah satu SKL/Pengumuman lulus/KTP/Kartu Siswa dengan format file gambar (jpg/jpeg).\nPilih Klik untuk upload ijazah/SKL\nPilih File Scan Ijazah/SKL bagi lulusan tahun 2024,2025 dan File Scan\nSKL/Pengumuman Lulus/KTP/Kartu Siswa bagi lulusan 2026. pilih file -> klik Open.\ne) Periksa kembali data yang sudah diunggah/upload.\nKemudian lanjut ke pemilihan Program Studi.\nf)\nPilih Program Studi dan Titik Lokasi Ujian\nPeserta dapat memilih minimal 1 (satu) pilihan Program Studi dan Maksimal 3 (tiga) pilihan Program Studi dari 59 Perguruan Tinggi yang tersedia.\ng) Pilih PTKIN Titik Lokasi Ujian\nPeserta dapat memilih PTKIN Titik Lokasi Ujian di 59 tempat PTKIN.\nh) Jika sudah dipilih program studi dan PTKIN titik lokasi ujian, silakan cek kembali pilihan program studi anda.\npilih Simpan & Lanjut\ni)Konfirmasi finalisasi\nCatatan Penting : Sebelum melakukan Finalisasi harap cek kembali pilihan program studi yang anda pilih. Calon Peserta tidak dapat melakukan perubahan Program Studi dan PTKIN Titik Lokasi Ujian jika sudah melakukan Finalisasi.\nPilih Saya memahami dan Menyetujui kemudian Pilih\nj)\nKartu Peserta Ujian\nk) Cetak Kartu Ujian\nPilih Cetak kartu ujian\nPeserta wajib mencetak kartu peserta ujian dan mengikuti semua petunjuk yang ada pada kartu ujian, Tata Tertib Mengikuti SSE UM-PTKIN 2026, mengikuti jadwal Ujian SSE UM-PTKIN.\nl)Tata Cara, Alur dan Tata Tertib Mengikuti SSE UM-PTKIN 2026 Peserta wajib mencetak Kartu Peserta Ujian dan Tata Cara, Alur dan Tata Tertib Mengikuti SSE UM-PTKIN 2026 serta dibawa saat ujian berlangsung"
+  },
+  {
+    "id": "2bc82a8014fd9a7ad8fd29021a05e7d7",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### H. Perbaikan Data Siswa",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > H. Perbaikan Data Siswa",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Perbaikan Data Siswa UM-PTKIN",
+    "alias_topik": [
+      "perbaikan data UM-PTKIN",
+      "data siswa UM-PTKIN"
+    ],
+    "search_text": "Judul: Perbaikan Data Siswa UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > H. Perbaikan Data Siswa\nAlias: perbaikan data UM-PTKIN, data siswa UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n### H. Perbaikan Data Siswa\n\nData Siswa diambil dari data DAPODIK dan EMIS.\n1. Jika ada perbaikan Data Pokok Siswa, maka sekolah dapat melakukan perbaikan pada laman https://vervalpd.data.kemendikdasmen.go.id/\n2. Jika ada perbaikan Data Pokok Siswa, maka Siswa dapat melakukan perbaikan data pada laman https://nisn.data.kemendikdasmen.go.id/\n3. Jika ada perbaikan nilai maka Satuan Pendidikan/ Sekolah dapat memperbaiki pada laman https://pdss.ptkin.ac.id/.\n4. Satuan Pendidikan di bawah Kementerian Agama melakukan perbaikan Data Pokok untuk atribut yang terdiri dari Nama, NIK, Tempat Lahir, Tanggal Lahir, Jenis Kelamin dan Nama Ibu Kandung dapat melakukan perbaikan data pada laman https://vervalpd.data.kemendikdasmen.go.id/ ,selain atribut tersebut dapat melakukan perbaikan data pada laman http://emis.kemenag.go.id .",
+    "content": "### H. Perbaikan Data Siswa\n\nData Siswa diambil dari data DAPODIK dan EMIS.\n1. Jika ada perbaikan Data Pokok Siswa, maka sekolah dapat melakukan perbaikan pada laman https://vervalpd.data.kemendikdasmen.go.id/\n2. Jika ada perbaikan Data Pokok Siswa, maka Siswa dapat melakukan perbaikan data pada laman https://nisn.data.kemendikdasmen.go.id/\n3. Jika ada perbaikan nilai maka Satuan Pendidikan/ Sekolah dapat memperbaiki pada laman https://pdss.ptkin.ac.id/.\n4. Satuan Pendidikan di bawah Kementerian Agama melakukan perbaikan Data Pokok untuk atribut yang terdiri dari Nama, NIK, Tempat Lahir, Tanggal Lahir, Jenis Kelamin dan Nama Ibu Kandung dapat melakukan perbaikan data pada laman https://vervalpd.data.kemendikdasmen.go.id/ ,selain atribut tersebut dapat melakukan perbaikan data pada laman http://emis.kemenag.go.id ."
+  },
+  {
+    "id": "bd14dd6a82a66cb31a9ebb7f3dc1b942",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 3. Siswa Lulusan Luar Negeri?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Siswa Lulusan Luar Negeri UM-PTKIN",
+    "alias_topik": [
+      "lulusan luar negeri UM-PTKIN",
+      "sekolah luar negeri UM-PTKIN",
+      "NPSN luar negeri UM-PTKIN"
+    ],
+    "search_text": "Judul: Siswa Lulusan Luar Negeri UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: lulusan luar negeri UM-PTKIN, sekolah luar negeri UM-PTKIN, NPSN luar negeri UM-PTKIN\nIntent: tanya_prosedur_pendaftaran, tanya_persyaratan\n\n#### 3. Siswa Lulusan Luar Negeri?\n\nBagi siswa luar negeri yang berasal dari sekolah non SRI (Sekolah Rakyat Indonesia), silakan melakukan verifikasi dan validasi NISN pada laman https://pd.data.kemdikbud.go.id/vervalLulusan/pengajuan/sekolah-ln dengan menggunakan NPSN 69999999. Untuk pendaftaran akun UM- PTKIN, siswa harus memiliki NISN, NPSN, dan tanggal lahir yang terdaftar di DAPODIK/PUSDATIN.",
+    "content": "#### 3. Siswa Lulusan Luar Negeri?\n\nBagi siswa luar negeri yang berasal dari sekolah non SRI (Sekolah Rakyat Indonesia), silakan melakukan verifikasi dan validasi NISN pada laman https://pd.data.kemdikbud.go.id/vervalLulusan/pengajuan/sekolah-ln dengan menggunakan NPSN 69999999. Untuk pendaftaran akun UM- PTKIN, siswa harus memiliki NISN, NPSN, dan tanggal lahir yang terdaftar di DAPODIK/PUSDATIN."
+  },
+  {
+    "id": "c7130cb1e0da8b4d2965d6ca4da59609",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 4. Mekanisme Pengeluaran Data Siswa Terdata Ganda?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Data Siswa Terdata Ganda UM-PTKIN",
+    "alias_topik": [
+      "NISN terdata ganda",
+      "data siswa ganda UM-PTKIN",
+      "verval NISN UM-PTKIN"
+    ],
+    "search_text": "Judul: Data Siswa Terdata Ganda UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: NISN terdata ganda, data siswa ganda UM-PTKIN, verval NISN UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 4. Mekanisme Pengeluaran Data Siswa Terdata Ganda?\n\nSilakan memeriksa kembali data NISN saudara pada laman\nhttps://nisn.data.kemendikdasmen.go.id/ atau dapat menghubungi pihak sekolah untuk cek data NISN di https://pd.data.kemdikbud.go.id Jika ditemukan permasalahan NISN yang digunakan tidak sesuai/telah digunakan orang lain, silakan menghubungi pihak sekolah untuk konfirmasi dan melakukan verval data NISN melalui akun Dapodik sekolah.",
+    "content": "#### 4. Mekanisme Pengeluaran Data Siswa Terdata Ganda?\n\nSilakan memeriksa kembali data NISN saudara pada laman\nhttps://nisn.data.kemendikdasmen.go.id/ atau dapat menghubungi pihak sekolah untuk cek data NISN di https://pd.data.kemdikbud.go.id Jika ditemukan permasalahan NISN yang digunakan tidak sesuai/telah digunakan orang lain, silakan menghubungi pihak sekolah untuk konfirmasi dan melakukan verval data NISN melalui akun Dapodik sekolah."
+  },
+  {
+    "id": "1583df55497dec2d9647fcee00601aad",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 5. Bagaimana cara mendaftar akun UM-PTKIN?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Cara Mendaftar Akun UM-PTKIN",
+    "alias_topik": [
+      "daftar akun UM-PTKIN",
+      "registrasi akun UM-PTKIN",
+      "akun UM-PTKIN"
+    ],
+    "search_text": "Judul: Cara Mendaftar Akun UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: daftar akun UM-PTKIN, registrasi akun UM-PTKIN, akun UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 5. Bagaimana cara mendaftar akun UM-PTKIN?\n\nPendaftaran akun UM- PTKIN dapat dilakukan melalui laman https://um.ptkin.ac.id dengan memasukkan NISN dan tanggal lahir yang telah sesuai pada data DAPODIK/EMIS.",
+    "content": "#### 5. Bagaimana cara mendaftar akun UM-PTKIN?\n\nPendaftaran akun UM- PTKIN dapat dilakukan melalui laman https://um.ptkin.ac.id dengan memasukkan NISN dan tanggal lahir yang telah sesuai pada data DAPODIK/EMIS."
+  },
+  {
+    "id": "3608c4c6db7853a490b05dd28d510fe1",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 6. Saya tidak menerima email username akun, apa yang harus saya lakukan?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tidak Menerima Email Username Akun UM-PTKIN",
+    "alias_topik": [
+      "email username UM-PTKIN tidak masuk",
+      "lupa password UM-PTKIN",
+      "email akun UM-PTKIN"
+    ],
+    "search_text": "Judul: Tidak Menerima Email Username Akun UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: email username UM-PTKIN tidak masuk, lupa password UM-PTKIN, email akun UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 6. Saya tidak menerima email username akun, apa yang harus saya lakukan?\n\nTidak menerima email username akun bisa jadi karena salah ketik ketika mengisikan alamat email ketika registrasi akun. Peserta dapat menggunakan fasilitas Lupa Password dengan mengisikan NISN,Tanggal Lahir, dan email yang benar.",
+    "content": "#### 6. Saya tidak menerima email username akun, apa yang harus saya lakukan?\n\nTidak menerima email username akun bisa jadi karena salah ketik ketika mengisikan alamat email ketika registrasi akun. Peserta dapat menggunakan fasilitas Lupa Password dengan mengisikan NISN,Tanggal Lahir, dan email yang benar."
+  },
+  {
+    "id": "4dcc49dee02e5cc3bd43912ef674abdf",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 7. Bagaimana jika saya lupa email atau password?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Lupa Email atau Password UM-PTKIN",
+    "alias_topik": [
+      "lupa email UM-PTKIN",
+      "lupa password UM-PTKIN",
+      "reset akun UM-PTKIN"
+    ],
+    "search_text": "Judul: Lupa Email atau Password UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: lupa email UM-PTKIN, lupa password UM-PTKIN, reset akun UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 7. Bagaimana jika saya lupa email atau password?\n\nPeserta dapat menggunakan fasilitas Lupa Password dengan mengisikan NISN,Tanggal Lahir, dan email yang benar.",
+    "content": "#### 7. Bagaimana jika saya lupa email atau password?\n\nPeserta dapat menggunakan fasilitas Lupa Password dengan mengisikan NISN,Tanggal Lahir, dan email yang benar."
+  },
+  {
+    "id": "480f543340d73766e052348a0e9d84ff",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 8. Bagaimana jika terdapat ketidaksesuaian data sekolah?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ketidaksesuaian Data Sekolah UM-PTKIN",
+    "alias_topik": [
+      "data sekolah salah UM-PTKIN",
+      "perbaikan data sekolah UM-PTKIN",
+      "DAPODIK EMIS UM-PTKIN"
+    ],
+    "search_text": "Judul: Ketidaksesuaian Data Sekolah UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: data sekolah salah UM-PTKIN, perbaikan data sekolah UM-PTKIN, DAPODIK EMIS UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 8. Bagaimana jika terdapat ketidaksesuaian data sekolah?\n\nData sekolah pada akun UM-PTKIN adalah sesuai dengan data DAPODIK/EMIS.\nKebenaran data sekolah dapat di cek pada laman\nhttps://referensi.data.kemdikbud.go.id/snpmb/. Jika terdapat kesalahan data, sekolah dapat melakukan perbaikan data melalui akun\nDAPODIK/EMIS.",
+    "content": "#### 8. Bagaimana jika terdapat ketidaksesuaian data sekolah?\n\nData sekolah pada akun UM-PTKIN adalah sesuai dengan data DAPODIK/EMIS.\nKebenaran data sekolah dapat di cek pada laman\nhttps://referensi.data.kemdikbud.go.id/snpmb/. Jika terdapat kesalahan data, sekolah dapat melakukan perbaikan data melalui akun\nDAPODIK/EMIS."
+  },
+  {
+    "id": "b0fe0dcd1ee62041ce1612d29dff8f4b",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 9. Bagaimana jika terdapat kesalahan data siswa?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Kesalahan Data Siswa UM-PTKIN",
+    "alias_topik": [
+      "data siswa salah UM-PTKIN",
+      "perbaikan data siswa UM-PTKIN",
+      "data NISN salah UM-PTKIN"
+    ],
+    "search_text": "Judul: Kesalahan Data Siswa UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: data siswa salah UM-PTKIN, perbaikan data siswa UM-PTKIN, data NISN salah UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 9. Bagaimana jika terdapat kesalahan data siswa?\n\nKesalahan/perbedaan mengenai data NISN atau data siswa lainnya dapat diselesaikan melalui DAPODIK Kemdikbud atau PENDIS Kemenag. Silakan menghubungi pihak sekolah terkait perbaikan data pada akun DAPODIK/EMIS sekolah.",
+    "content": "#### 9. Bagaimana jika terdapat kesalahan data siswa?\n\nKesalahan/perbedaan mengenai data NISN atau data siswa lainnya dapat diselesaikan melalui DAPODIK Kemdikbud atau PENDIS Kemenag. Silakan menghubungi pihak sekolah terkait perbaikan data pada akun DAPODIK/EMIS sekolah."
+  },
+  {
+    "id": "b026abcfe5d987ccea499419dfadd30e",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 10. Bagaimana jika terdapat kesalahan data untuk siswa gapyear/alumni?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Kesalahan Data Siswa Gapyear atau Alumni UM-PTKIN",
+    "alias_topik": [
+      "data alumni UM-PTKIN",
+      "data gapyear UM-PTKIN",
+      "verval lulusan UM-PTKIN"
+    ],
+    "search_text": "Judul: Kesalahan Data Siswa Gapyear atau Alumni UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: data alumni UM-PTKIN, data gapyear UM-PTKIN, verval lulusan UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 10. Bagaimana jika terdapat kesalahan data untuk siswa gapyear/alumni?\n\nSilakan periksa kembali data NISN saudara apakah masih aktif di DAPODIK melalui laman https://referensi.data.kemdikbud.go.id/snpmb/.\nJika terdapat kesalahan data, silakan melakukan verifikasi dan validasi data alumni pada laman https://pd.data.kemdikbud.go.id/verval-lulusan/",
+    "content": "#### 10. Bagaimana jika terdapat kesalahan data untuk siswa gapyear/alumni?\n\nSilakan periksa kembali data NISN saudara apakah masih aktif di DAPODIK melalui laman https://referensi.data.kemdikbud.go.id/snpmb/.\nJika terdapat kesalahan data, silakan melakukan verifikasi dan validasi data alumni pada laman https://pd.data.kemdikbud.go.id/verval-lulusan/"
+  },
+  {
+    "id": "f264eeb47aa4229813b6bab0f863e9aa",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 11. Bagaimana jika terdapat kesalahan input data/foto jika sudah simpan permanen?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Kesalahan Input Data atau Foto Setelah Simpan Permanen UM-PTKIN",
+    "alias_topik": [
+      "salah data setelah finalisasi UM-PTKIN",
+      "salah foto UM-PTKIN",
+      "simpan permanen UM-PTKIN"
+    ],
+    "search_text": "Judul: Kesalahan Input Data atau Foto Setelah Simpan Permanen UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: salah data setelah finalisasi UM-PTKIN, salah foto UM-PTKIN, simpan permanen UM-PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n#### 11. Bagaimana jika terdapat kesalahan input data/foto jika sudah simpan permanen?\n\nSesuai dengan disclaimer pada pendaftaran akun UM-PTKIN, apabila sudah melakukan simpan permanen/Finalisasi maka data pada akun UM-PTKIN tidak dapat diubah kembali.",
+    "content": "#### 11. Bagaimana jika terdapat kesalahan input data/foto jika sudah simpan permanen?\n\nSesuai dengan disclaimer pada pendaftaran akun UM-PTKIN, apabila sudah melakukan simpan permanen/Finalisasi maka data pada akun UM-PTKIN tidak dapat diubah kembali."
+  },
+  {
+    "id": "a8a73e34739acfd667e3c5bfdd6fb1d2",
+    "source_file": "mahasiswa_internasional_tagged.md",
+    "heading": "## Cara Mendaftar",
+    "parent_context": "Mahasiswa Internasional > Cara Mendaftar",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Cara Mendaftar Mahasiswa Internasional",
+    "alias_topik": [
+      "cara daftar mahasiswa internasional",
+      "pendaftaran mahasiswa asing",
+      "daftar online mahasiswa internasional",
+      "pilih prodi mahasiswa internasional",
+      "dokumen mahasiswa internasional"
+    ],
+    "search_text": "Judul: Cara Mendaftar Mahasiswa Internasional\nKonteks: Mahasiswa Internasional > Cara Mendaftar\nAlias: cara daftar mahasiswa internasional, pendaftaran mahasiswa asing, daftar online mahasiswa internasional, pilih prodi mahasiswa internasional, dokumen mahasiswa internasional\nIntent: tanya_prosedur_pendaftaran, tanya_persyaratan\n\n## Cara Mendaftar\n\nMendaftar studi di UIN Jakarta sangat mudah. Cukup ikuti tiga langkah sederhana ini.\n\nLangkah 1: Pilih Program Studi\nJelajahi berbagai pilihan program studi kami dan pilih yang sesuai dengan minat dan tujuan Anda.\nLangkah 2: Siapkan Dokumen\nPeriksa persyaratan masuk dan siapkan semua dokumen yang diperlukan dalam Bahasa Inggris atau Bahasa Indonesia.\nLangkah 3: Daftar Online\nAjukan aplikasi Anda di bit.ly/ADFORMUIN atau melalui perwakilan rekrutmen internasional kami.",
+    "content": "## Cara Mendaftar\n\nMendaftar studi di UIN Jakarta sangat mudah. Cukup ikuti tiga langkah sederhana ini.\n\nLangkah 1: Pilih Program Studi\nJelajahi berbagai pilihan program studi kami dan pilih yang sesuai dengan minat dan tujuan Anda.\nLangkah 2: Siapkan Dokumen\nPeriksa persyaratan masuk dan siapkan semua dokumen yang diperlukan dalam Bahasa Inggris atau Bahasa Indonesia.\nLangkah 3: Daftar Online\nAjukan aplikasi Anda di bit.ly/ADFORMUIN atau melalui perwakilan rekrutmen internasional kami."
+  },
+  {
+    "id": "1a661920fd54bebda56de40ebf595955",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "## Mekanisme Seleksi",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE) > Mekanisme Seleksi",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jalur"
+    ],
+    "topik": "Mekanisme Seleksi SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "mekanisme seleksi mandiri",
+      "alur seleksi mandiri",
+      "prosedur SSE"
+    ],
+    "search_text": "Judul: Mekanisme Seleksi SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE) > Mekanisme Seleksi\nAlias: mekanisme seleksi mandiri, alur seleksi mandiri, prosedur SSE\nIntent: tanya_prosedur_pendaftaran, tanya_jalur\n\n## Mekanisme Seleksi\n\n1. Calon peserta melakukan pendaftaran melalui laman https://admisi.uinjkt.ac.id;\n2. Calon peserta mengisi form daftar dan memilih jalur seleksi PMB untuk mendapatkan Nomor Pendaftaran, ID, dan PIN;\n3. Calon peserta mendapatkan Nomor Pendaftaran dan melakukan pembayaran biaya pendaftaran melalui bank mitra;\n4. Calon peserta mengisi data borang melalui laman https://admisi.uinjkt.ac.id dengan menggunakan ID dan PIN yang telah didapatkan oleh calon mahasiswa saat pendaftaran;\n5. Calon peserta mengirimkan (submit) data borang dan mencetak kartu ujian;\n6. Peserta seleksi mengikuti proses seleksi ujian baik luring (offline) maupun daring (online).",
+    "content": "## Mekanisme Seleksi\n\n1. Calon peserta melakukan pendaftaran melalui laman https://admisi.uinjkt.ac.id;\n2. Calon peserta mengisi form daftar dan memilih jalur seleksi PMB untuk mendapatkan Nomor Pendaftaran, ID, dan PIN;\n3. Calon peserta mendapatkan Nomor Pendaftaran dan melakukan pembayaran biaya pendaftaran melalui bank mitra;\n4. Calon peserta mengisi data borang melalui laman https://admisi.uinjkt.ac.id dengan menggunakan ID dan PIN yang telah didapatkan oleh calon mahasiswa saat pendaftaran;\n5. Calon peserta mengirimkan (submit) data borang dan mencetak kartu ujian;\n6. Peserta seleksi mengikuti proses seleksi ujian baik luring (offline) maupun daring (online)."
+  },
+  {
+    "id": "f253b0742a1eff4691b40ddbdb25a718",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "## Ketentuan Pendaftaran",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE) > Ketentuan Pendaftaran",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ketentuan Pendaftaran SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "ketentuan pendaftaran mandiri",
+      "dokumen mandiri reguler",
+      "upload dokumen mandiri"
+    ],
+    "search_text": "Judul: Ketentuan Pendaftaran SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE) > Ketentuan Pendaftaran\nAlias: ketentuan pendaftaran mandiri, dokumen mandiri reguler, upload dokumen mandiri\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## Ketentuan Pendaftaran\n\n1. Mengisi data borang (formulir) pendaftaran dengan benar;\n2. Mengunggah dokumen yang menjadi persyaratan dalam format .JPG, .JPEG ukuran maksimal 1 Mb per dokumen;\n3. Mengunggah pasfoto terbaru (3 bulan terakhir) dalam format file yang telah ditentukan (background merah, ukuran 4 x 6 cm, resolusi minimal 300 x 450 pixel, ukuran maksimal 200 Kb, format .JPG/JPEG);\n4. Khusus bagi calon peserta jalur seleksi Non-Reguler, pendaftar mengunggah scan rapor kelas 10 semester 1 s.d. kelas 12 semester 5, dan dokumen lain yang menjadi persyaratan sesuai poin 2 (dua);\n5. Pengisian data borang pendaftaran dan pembayaran biaya registrasi sesuai jadwal yang telah ditentukan; dan\n6. Jika terbukti data yang diisi, dan/atau dokumen yang diunggah tidak benar maka kelulusannya akan dibatalkan, dan seluruh biaya yang sudah dikeluarkan tidak dapat dikembalikan.",
+    "content": "## Ketentuan Pendaftaran\n\n1. Mengisi data borang (formulir) pendaftaran dengan benar;\n2. Mengunggah dokumen yang menjadi persyaratan dalam format .JPG, .JPEG ukuran maksimal 1 Mb per dokumen;\n3. Mengunggah pasfoto terbaru (3 bulan terakhir) dalam format file yang telah ditentukan (background merah, ukuran 4 x 6 cm, resolusi minimal 300 x 450 pixel, ukuran maksimal 200 Kb, format .JPG/JPEG);\n4. Khusus bagi calon peserta jalur seleksi Non-Reguler, pendaftar mengunggah scan rapor kelas 10 semester 1 s.d. kelas 12 semester 5, dan dokumen lain yang menjadi persyaratan sesuai poin 2 (dua);\n5. Pengisian data borang pendaftaran dan pembayaran biaya registrasi sesuai jadwal yang telah ditentukan; dan\n6. Jika terbukti data yang diisi, dan/atau dokumen yang diunggah tidak benar maka kelulusannya akan dibatalkan, dan seluruh biaya yang sudah dikeluarkan tidak dapat dikembalikan."
+  },
+  {
+    "id": "3df482890b357ccca1b94dd437e8e7df",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 1. Pendahuluan",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 1. Pendahuluan",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Pendahuluan Panduan Pendaftaran SNBP 2026",
+    "alias_topik": [
+      "syarat daftar SNBP",
+      "ketentuan SNBP",
+      "portal SNBP"
+    ],
+    "search_text": "Judul: Pendahuluan Panduan Pendaftaran SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 1. Pendahuluan\nAlias: syarat daftar SNBP, ketentuan SNBP, portal SNBP\nIntent: tanya_prosedur_pendaftaran, tanya_persyaratan\n\n## 1. Pendahuluan\n\nDokumen ini berisi panduan pendaftaran SNBP yang diisikan oleh siswa sesuai dengan periode\nyang sudah ditetapkan oleh panitia SNPMB. Siswa dapat mendaftar SNBP melalui portal\nSNPMB yang dapat diakses pada tautan https://portal.snpmb.id/ atau melalui laman\nhttps://snbp.snpmb.id/. Siswa yang dapat mendaftar SNBP adalah siswa yang memenuhi\nkriteria, (1) dinyatakan eligible oleh sekolah; (2) memiliki Akun SNPMB Siswa yang telah\ndisimpan permanen; dan (3) memiliki nilai lengkap pada PDSS yang diisikan dan difinalisasikan\noleh Sekolah.\n\nSiswa Pendaftar KIP Kuliah diminta untuk melakukan pendaftaran di SIM KIP Kuliah sebelum\nmelakukan pendaftaran SNBP.\n\nSecara umum, tahapan pendaftaran SNBP sebagai berikut:\n1. Login di portal SNBP dengan menggunakan alamat email dan password yang didaftarkan\ndan pilih menu Pendaftaran SNBP.\n2. Siswa melakukan pendaftaran SNBP dengan mengisikan pilihan prodi yang dipilih pada\nhalaman PILIHAN.\n3. Siswa mengisikan portofolio pada halaman PORTOFOLIO jika prodi yang diplih\nmensyaratkan adanya dokumen portofolio. Jika prodi yang dipilih tidak mensyaratkan\nadanya dokumen portofolio, maka halaman ini tidak perlu diisikan.\n4. Siswa mengisikan prestasi pada halaman PRESTASI. Isian prestasi pada halaman ini\nbersifat tidak wajib, artinya isiannya tidak harus ada. Silakan isikan prestasi yang sesuai\ndengan bidang dan tingkat prestasi yang pernah didapatkan serta sesuai dengan prodi\nyang diminati.\n5. Siswa melakukan finalisasi pada halaman FINALISASI jika semua isian data sudah diyakini\nkebenarannya. Setelah melakukan finalisasi, isian data tidak dapat dibatalkan dan tidak\nbisa diubah dengan alasan apapun.\n6. Siswa mengunduh dan mencetak kartu peserta SNBP.\n\nSetiap tahapan akan dijelaskan lebih detil pada bagian selanjutnya dalam dokumen ini.\n\nCatatan: Foto dan beberapa informasi tulisan pada gambar dalam panduan ini sengaja diblok/blur agar identitas\nsiswa tidak terlihat. Pada tampilan asli Anda tidak akan ada blok/blur baik pada foto maupun tulisan.",
+    "content": "## 1. Pendahuluan\n\nDokumen ini berisi panduan pendaftaran SNBP yang diisikan oleh siswa sesuai dengan periode\nyang sudah ditetapkan oleh panitia SNPMB. Siswa dapat mendaftar SNBP melalui portal\nSNPMB yang dapat diakses pada tautan https://portal.snpmb.id/ atau melalui laman\nhttps://snbp.snpmb.id/. Siswa yang dapat mendaftar SNBP adalah siswa yang memenuhi\nkriteria, (1) dinyatakan eligible oleh sekolah; (2) memiliki Akun SNPMB Siswa yang telah\ndisimpan permanen; dan (3) memiliki nilai lengkap pada PDSS yang diisikan dan difinalisasikan\noleh Sekolah.\n\nSiswa Pendaftar KIP Kuliah diminta untuk melakukan pendaftaran di SIM KIP Kuliah sebelum\nmelakukan pendaftaran SNBP.\n\nSecara umum, tahapan pendaftaran SNBP sebagai berikut:\n1. Login di portal SNBP dengan menggunakan alamat email dan password yang didaftarkan\ndan pilih menu Pendaftaran SNBP.\n2. Siswa melakukan pendaftaran SNBP dengan mengisikan pilihan prodi yang dipilih pada\nhalaman PILIHAN.\n3. Siswa mengisikan portofolio pada halaman PORTOFOLIO jika prodi yang diplih\nmensyaratkan adanya dokumen portofolio. Jika prodi yang dipilih tidak mensyaratkan\nadanya dokumen portofolio, maka halaman ini tidak perlu diisikan.\n4. Siswa mengisikan prestasi pada halaman PRESTASI. Isian prestasi pada halaman ini\nbersifat tidak wajib, artinya isiannya tidak harus ada. Silakan isikan prestasi yang sesuai\ndengan bidang dan tingkat prestasi yang pernah didapatkan serta sesuai dengan prodi\nyang diminati.\n5. Siswa melakukan finalisasi pada halaman FINALISASI jika semua isian data sudah diyakini\nkebenarannya. Setelah melakukan finalisasi, isian data tidak dapat dibatalkan dan tidak\nbisa diubah dengan alasan apapun.\n6. Siswa mengunduh dan mencetak kartu peserta SNBP.\n\nSetiap tahapan akan dijelaskan lebih detil pada bagian selanjutnya dalam dokumen ini.\n\nCatatan: Foto dan beberapa informasi tulisan pada gambar dalam panduan ini sengaja diblok/blur agar identitas\nsiswa tidak terlihat. Pada tampilan asli Anda tidak akan ada blok/blur baik pada foto maupun tulisan."
+  },
+  {
+    "id": "0ddbf09e32d1e99730a913b9707cb23c",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 2. Login Siswa",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 2. Login Siswa",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Login Siswa SNBP 2026",
+    "alias_topik": [
+      "login SNBP",
+      "portal SNBP",
+      "akun SNPMB"
+    ],
+    "search_text": "Judul: Login Siswa SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 2. Login Siswa\nAlias: login SNBP, portal SNBP, akun SNPMB\nIntent: tanya_prosedur_pendaftaran\n\n## 2. Login Siswa\n\nSilakan masuk ke halaman awal dengan login via portal SNBP yang dapat diakses pada tautan\nhttps://portal.snpmb.id/, dan pilih menu Pendaftaran SNBP seperti gambar berikut:\n\nPanduan Pendaftaran SNBP 2026\nAtau langsung melalui laman SNBP yang dapat diakses apada tautan https://snbp.snpmb.id/\nseperti pada gambar berikut:\nMasukkan Email dan Password pada form login di atas. Gunakan alamat Email dan Password\nyang didaftarkan dan diverifikasi pada portal SNPMB.\nJika Anda memenuhi syarat untuk mendaftar SNBP, maka tampilan berikutnya adalah tampilan\nseperti pada Halaman Profil yang akan dijelaskan pada bab selanjutnya.\nJika Anda tidak memenuhi syarat untuk mendaftar SNBP, maka akan muncul pesan \"Mohon\nmaaf, Anda tidak berhak mengikuti SNBP 2026. Silakan mengikuti SNBT 2026. Anda akan\notomatis logout dalam 30 detik.\" seperti pada tampilan berikut:\nJika Anda memenuhi syarat yang disebutkan sebelumnya di bagian pendahuluan namun belum\nmelakukan permanen pada portal SNPMB, maka akan muncul pesan “Data Anda belum\npermanen, pastikan data Anda sudah permanen pada portal SNPMB. Anda otomatis akan\nlogout dalam 30 detik.” Seperti pada tampilan berikut:\n\nPanduan Pendaftaran SNBP 2026\nJika Anda bukan siswa lulusan tahun ini atau bukan siswa aktif, maka akan muncul pesan “Anda tidak diperbolehkan untuk login ke aplikasi pendaftaran SNBP. Pastikan akun Anda terdaftar sebagai siswa aktif yang dapat mendaftar di SNBP. Anda otomatis akan logout dalam 30 detik.”\nCatatan tambahan untuk siswa pendaftar KIP Kuliah, anda diharuskan untuk melakukan\npendaftaran di SIM KIP Kuliah sebelum melakukan pendaftaran SNBP. Jika tidak melakukan hal\ntersebut, maka anda akan terkendala ketika melakukan login ini.",
+    "content": "## 2. Login Siswa\n\nSilakan masuk ke halaman awal dengan login via portal SNBP yang dapat diakses pada tautan\nhttps://portal.snpmb.id/, dan pilih menu Pendaftaran SNBP seperti gambar berikut:\n\nPanduan Pendaftaran SNBP 2026\nAtau langsung melalui laman SNBP yang dapat diakses apada tautan https://snbp.snpmb.id/\nseperti pada gambar berikut:\nMasukkan Email dan Password pada form login di atas. Gunakan alamat Email dan Password\nyang didaftarkan dan diverifikasi pada portal SNPMB.\nJika Anda memenuhi syarat untuk mendaftar SNBP, maka tampilan berikutnya adalah tampilan\nseperti pada Halaman Profil yang akan dijelaskan pada bab selanjutnya.\nJika Anda tidak memenuhi syarat untuk mendaftar SNBP, maka akan muncul pesan \"Mohon\nmaaf, Anda tidak berhak mengikuti SNBP 2026. Silakan mengikuti SNBT 2026. Anda akan\notomatis logout dalam 30 detik.\" seperti pada tampilan berikut:\nJika Anda memenuhi syarat yang disebutkan sebelumnya di bagian pendahuluan namun belum\nmelakukan permanen pada portal SNPMB, maka akan muncul pesan “Data Anda belum\npermanen, pastikan data Anda sudah permanen pada portal SNPMB. Anda otomatis akan\nlogout dalam 30 detik.” Seperti pada tampilan berikut:\n\nPanduan Pendaftaran SNBP 2026\nJika Anda bukan siswa lulusan tahun ini atau bukan siswa aktif, maka akan muncul pesan “Anda tidak diperbolehkan untuk login ke aplikasi pendaftaran SNBP. Pastikan akun Anda terdaftar sebagai siswa aktif yang dapat mendaftar di SNBP. Anda otomatis akan logout dalam 30 detik.”\nCatatan tambahan untuk siswa pendaftar KIP Kuliah, anda diharuskan untuk melakukan\npendaftaran di SIM KIP Kuliah sebelum melakukan pendaftaran SNBP. Jika tidak melakukan hal\ntersebut, maka anda akan terkendala ketika melakukan login ini."
+  },
+  {
+    "id": "b8622d41cc0563a7b669a7968a2251fd",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 3. Profil",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 3. Profil",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Profil Siswa SNBP 2026",
+    "alias_topik": [
+      "profil SNBP",
+      "biodata SNBP"
+    ],
+    "search_text": "Judul: Profil Siswa SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 3. Profil\nAlias: profil SNBP, biodata SNBP\nIntent: tanya_prosedur_pendaftaran\n\n## 3. Profil\n\nHalaman profil berisi informasi biodata dari siswa. Perlu dicatat bahwa seluruh informasi pada\nkolom Biodata diambil dari data yang telah diisikan di portal, demikian halnya dengan data\nNama, NISN, NPSN Sekolah, dan Asal Sekolah. Isian tersebut tidak dapat diubah pada aplikasi\npendaftaran SNBP.\nSama dengan tahun sebelumnya, data tambahan yang berisi Kontak dan Data Orang Tua tidak\nperlu diisikan karena diambil dari data isian Anda di portal. Sehingga isiannya tidak dapat\ndiubah pada aplikasi pendaftaran SNBP ini.\nBerikut adalah tampilan awal dari halaman profil:\nSetelah memastikan bahwa seluruh isian data Anda pada halaman Profil ini tepat, berikutnya\nAnda bisa melanjutkan ke halaman PILIHAN.",
+    "content": "## 3. Profil\n\nHalaman profil berisi informasi biodata dari siswa. Perlu dicatat bahwa seluruh informasi pada\nkolom Biodata diambil dari data yang telah diisikan di portal, demikian halnya dengan data\nNama, NISN, NPSN Sekolah, dan Asal Sekolah. Isian tersebut tidak dapat diubah pada aplikasi\npendaftaran SNBP.\nSama dengan tahun sebelumnya, data tambahan yang berisi Kontak dan Data Orang Tua tidak\nperlu diisikan karena diambil dari data isian Anda di portal. Sehingga isiannya tidak dapat\ndiubah pada aplikasi pendaftaran SNBP ini.\nBerikut adalah tampilan awal dari halaman profil:\nSetelah memastikan bahwa seluruh isian data Anda pada halaman Profil ini tepat, berikutnya\nAnda bisa melanjutkan ke halaman PILIHAN."
+  },
+  {
+    "id": "78977a977dd98e8ab236445d3f58360c",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 4. Pilihan",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 4. Pilihan",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Pilihan Program Studi SNBP 2026",
+    "alias_topik": [
+      "pilihan prodi SNBP",
+      "pilih PTN SNBP",
+      "aturan pilihan SNBP"
+    ],
+    "search_text": "Judul: Pilihan Program Studi SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 4. Pilihan\nAlias: pilihan prodi SNBP, pilih PTN SNBP, aturan pilihan SNBP\nIntent: tanya_prosedur_pendaftaran\n\n## 4. Pilihan\n\nPanduan Pemilihan Program Studi SNBP 2026\nSilakan pilih salah satu PTN/Politeknik Negeri dari daftar yang tersedia pada kolom Pilihan PTN/Politeknik Negeri. Setelah itu, daftar program studi yang dapat dipilih akan muncul secara otomatis.\nProgram studi yang ditampilkan mencakup seluruh jurusan, karena batasan persyaratan jurusan (MIPA, IPS, maupun Bahasa) untuk program studi tertentu pada PTN/Politeknik Negeri sudah tidak diberlakukan.\nBerikut contoh tampilannya:\nSetiap siswa dapat memilih maksimal dua program studi, baik pada satu PTN/Politeknik Negeri yang sama maupun pada dua PTN/Politeknik Negeri yang berbeda.\nKetentuan umum pemilihan program studi adalah sebagai berikut:\nJika memilih dua program studi, salah satu program studi harus berada pada PTN/Politeknik Negeri di provinsi yang sama dengan asal SMA/MA/SMK.\nJika hanya memilih satu program studi, siswa bebas memilih PTN/Politeknik Negeri di provinsi mana pun.\n\nKetentuan tersebut dikecualikan bagi:\n1. Siswa lulusan SMA Luar Negeri\nSiswa bebas memilih satu atau dua program studi pada PTN/Politeknik Negeri di provinsi mana pun.\n2. Siswa lulusan dari Papua\nBagi siswa lulusan dari provinsi mana pun di Papua yang memilih dua program studi, salah satu pilihan wajib berada pada PTN/Politeknik Negeri di wilayah Papua. Sementara itu, pilihan program studi kedua mengikuti ketentuan umum.\nInformasi mengenai kebutuhan dokumen portofolio dapat dilihat pada kolom Portofolio.\nJika kolom Portofolio bertuliskan “-”, maka program studi tersebut tidak memerlukan dokumen portofolio.\nJika terdapat keterangan tertentu, maka program studi tersebut memerlukan dokumen portofolio sesuai ketentuan yang berlaku.\nSetelah selesai memilih program studi, klik tombol Simpan Semua Pilihan yang berada di kanan atas, seperti yang ditandai kotak hijau pada gambar berikut:\nJika program studi yang dipilih tidak memerlukan portofolio, akan muncul pop-up konfirmasi pilihan. Pilih tombol Simpan, kemudian jika berhasil akan muncul notifikasi penyimpanan.\n\nApabila Anda telah menyimpan pilihan dan ingin mengubahnya, sistem akan menampilkan pop-up konfirmasi sesuai kondisi berikut:\n1. Mengubah pilihan dari program studi yang tidak memerlukan portofolio ke program studi yang memerlukan portofolio\nAkan muncul pop-up konfirmasi perubahan pilihan.\n2. Mengubah pilihan dari program studi yang memerlukan portofolio ke program studi lain yang juga memerlukan portofolio dengan jenis portofolio yang sama\nAkan muncul pop-up konfirmasi perubahan pilihan.\n3. Mengubah pilihan dari program studi yang memerlukan portofolio ke program studi lain yang memerlukan portofolio dengan jenis portofolio yang berbeda\nAkan muncul pop-up konfirmasi perubahan pilihan yang menyesuaikan perubahan jenis portofolio.\nUntuk melihat kembali program studi yang telah dipilih, klik tombol Pilihan Anda yang terletak di sebelah tombol Simpan Semua Pilihan.\nSetelah tombol tersebut dipilih, sistem akan menampilkan daftar program studi yang telah Anda simpan sebelumnya, seperti pada gambar berikut.",
+    "content": "## 4. Pilihan\n\nPanduan Pemilihan Program Studi SNBP 2026\nSilakan pilih salah satu PTN/Politeknik Negeri dari daftar yang tersedia pada kolom Pilihan PTN/Politeknik Negeri. Setelah itu, daftar program studi yang dapat dipilih akan muncul secara otomatis.\nProgram studi yang ditampilkan mencakup seluruh jurusan, karena batasan persyaratan jurusan (MIPA, IPS, maupun Bahasa) untuk program studi tertentu pada PTN/Politeknik Negeri sudah tidak diberlakukan.\nBerikut contoh tampilannya:\nSetiap siswa dapat memilih maksimal dua program studi, baik pada satu PTN/Politeknik Negeri yang sama maupun pada dua PTN/Politeknik Negeri yang berbeda.\nKetentuan umum pemilihan program studi adalah sebagai berikut:\nJika memilih dua program studi, salah satu program studi harus berada pada PTN/Politeknik Negeri di provinsi yang sama dengan asal SMA/MA/SMK.\nJika hanya memilih satu program studi, siswa bebas memilih PTN/Politeknik Negeri di provinsi mana pun.\n\nKetentuan tersebut dikecualikan bagi:\n1. Siswa lulusan SMA Luar Negeri\nSiswa bebas memilih satu atau dua program studi pada PTN/Politeknik Negeri di provinsi mana pun.\n2. Siswa lulusan dari Papua\nBagi siswa lulusan dari provinsi mana pun di Papua yang memilih dua program studi, salah satu pilihan wajib berada pada PTN/Politeknik Negeri di wilayah Papua. Sementara itu, pilihan program studi kedua mengikuti ketentuan umum.\nInformasi mengenai kebutuhan dokumen portofolio dapat dilihat pada kolom Portofolio.\nJika kolom Portofolio bertuliskan “-”, maka program studi tersebut tidak memerlukan dokumen portofolio.\nJika terdapat keterangan tertentu, maka program studi tersebut memerlukan dokumen portofolio sesuai ketentuan yang berlaku.\nSetelah selesai memilih program studi, klik tombol Simpan Semua Pilihan yang berada di kanan atas, seperti yang ditandai kotak hijau pada gambar berikut:\nJika program studi yang dipilih tidak memerlukan portofolio, akan muncul pop-up konfirmasi pilihan. Pilih tombol Simpan, kemudian jika berhasil akan muncul notifikasi penyimpanan.\n\nApabila Anda telah menyimpan pilihan dan ingin mengubahnya, sistem akan menampilkan pop-up konfirmasi sesuai kondisi berikut:\n1. Mengubah pilihan dari program studi yang tidak memerlukan portofolio ke program studi yang memerlukan portofolio\nAkan muncul pop-up konfirmasi perubahan pilihan.\n2. Mengubah pilihan dari program studi yang memerlukan portofolio ke program studi lain yang juga memerlukan portofolio dengan jenis portofolio yang sama\nAkan muncul pop-up konfirmasi perubahan pilihan.\n3. Mengubah pilihan dari program studi yang memerlukan portofolio ke program studi lain yang memerlukan portofolio dengan jenis portofolio yang berbeda\nAkan muncul pop-up konfirmasi perubahan pilihan yang menyesuaikan perubahan jenis portofolio.\nUntuk melihat kembali program studi yang telah dipilih, klik tombol Pilihan Anda yang terletak di sebelah tombol Simpan Semua Pilihan.\nSetelah tombol tersebut dipilih, sistem akan menampilkan daftar program studi yang telah Anda simpan sebelumnya, seperti pada gambar berikut."
+  },
+  {
+    "id": "0ae9a93db704c79a0b80d24a29e9700b",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 5. Portofolio",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 5. Portofolio",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Portofolio SNBP 2026",
+    "alias_topik": [
+      "portofolio SNBP",
+      "unggah portofolio SNBP",
+      "syarat portofolio"
+    ],
+    "search_text": "Judul: Portofolio SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 5. Portofolio\nAlias: portofolio SNBP, unggah portofolio SNBP, syarat portofolio\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## 5. Portofolio\n\nPanduan Pengisian Portofolio SNBP 2026\n\nBeberapa program studi mensyaratkan pengisian portofolio, seperti pada bidang Seni Rupa, Desain, dan Kriya. Pada program studi tersebut, peserta diwajibkan mengunggah karya gambar maupun dokumen lain sesuai ketentuan yang tercantum dalam instruksi.\n\nUntuk mengunggah portofolio, silakan pilih menu PORTOFOLIO. Selanjutnya, program studi yang Anda pilih dan mensyaratkan portofolio akan ditampilkan pada halaman tersebut, seperti pada gambar berikut.\n\nApabila program studi yang dipilih tidak mensyaratkan portofolio, maka halaman tersebut akan kosong dan hanya menampilkan header Portofolio.\n\nUntuk mengetahui instruksi dan kebutuhan dokumen portofolio, silakan klik:\n\nUnduh Instruksi\nUnduh Dokumentasi\n(yang ditandai dengan kotak berwarna oranye pada gambar)\n\nUntuk mengunggah portofolio, lakukan langkah-langkah berikut:\n\nKlik tombol Choose File (ditandai kotak merah pada gambar).\nPilih file yang akan diunggah.\nKlik tombol SIMPAN.\n\nMenu Unduh PPT digunakan untuk mengunduh file portofolio yang telah diunggah, sekaligus sebagai indikator bahwa file telah berhasil diunggah.\n\nPada kondisi awal atau jika portofolio belum diunggah, akan muncul tombol Belum Diunggah (ditandai kotak hijau pada gambar).\nJika portofolio sudah diunggah, tombol akan berubah menjadi Sudah Diunggah dan tersedia opsi Unduh, seperti pada gambar berikut.\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nApabila Anda telah mengunggah portofolio, namun sebelum finalisasi Anda mengubah pilihan ke program studi yang tidak mensyaratkan portofolio, maka data portofolio yang telah diunggah sebelumnya akan terhapus secara otomatis.",
+    "content": "## 5. Portofolio\n\nPanduan Pengisian Portofolio SNBP 2026\n\nBeberapa program studi mensyaratkan pengisian portofolio, seperti pada bidang Seni Rupa, Desain, dan Kriya. Pada program studi tersebut, peserta diwajibkan mengunggah karya gambar maupun dokumen lain sesuai ketentuan yang tercantum dalam instruksi.\n\nUntuk mengunggah portofolio, silakan pilih menu PORTOFOLIO. Selanjutnya, program studi yang Anda pilih dan mensyaratkan portofolio akan ditampilkan pada halaman tersebut, seperti pada gambar berikut.\n\nApabila program studi yang dipilih tidak mensyaratkan portofolio, maka halaman tersebut akan kosong dan hanya menampilkan header Portofolio.\n\nUntuk mengetahui instruksi dan kebutuhan dokumen portofolio, silakan klik:\n\nUnduh Instruksi\nUnduh Dokumentasi\n(yang ditandai dengan kotak berwarna oranye pada gambar)\n\nUntuk mengunggah portofolio, lakukan langkah-langkah berikut:\n\nKlik tombol Choose File (ditandai kotak merah pada gambar).\nPilih file yang akan diunggah.\nKlik tombol SIMPAN.\n\nMenu Unduh PPT digunakan untuk mengunduh file portofolio yang telah diunggah, sekaligus sebagai indikator bahwa file telah berhasil diunggah.\n\nPada kondisi awal atau jika portofolio belum diunggah, akan muncul tombol Belum Diunggah (ditandai kotak hijau pada gambar).\nJika portofolio sudah diunggah, tombol akan berubah menjadi Sudah Diunggah dan tersedia opsi Unduh, seperti pada gambar berikut.\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nApabila Anda telah mengunggah portofolio, namun sebelum finalisasi Anda mengubah pilihan ke program studi yang tidak mensyaratkan portofolio, maka data portofolio yang telah diunggah sebelumnya akan terhapus secara otomatis."
+  },
+  {
+    "id": "f6c156473b48cab84c51ba0e6b4d7187",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 6. Prestasi",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 6. Prestasi",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prestasi SNBP 2026",
+    "alias_topik": [
+      "prestasi SNBP",
+      "unggah prestasi SNBP",
+      "bukti prestasi"
+    ],
+    "search_text": "Judul: Prestasi SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 6. Prestasi\nAlias: prestasi SNBP, unggah prestasi SNBP, bukti prestasi\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## 6. Prestasi\n\nPanduan Pengisian Prestasi SNBP 2026\n\nBerikut merupakan tampilan awal halaman PRESTASI:\n\nPengisian prestasi bersifat tidak wajib. Artinya, apabila Anda tidak memiliki prestasi dengan bidang dan tingkat yang sesuai dengan ketentuan, halaman ini dapat dikosongkan tanpa perlu mengisi atau mengunggah data apa pun.\n\nJumlah prestasi yang dapat diinput pada halaman ini maksimal 3 (tiga) prestasi.\n\nUntuk mengisi data prestasi, lakukan langkah-langkah berikut:\n\nUnggah Bukti Prestasi\nKlik tombol Choose File, kemudian pilih file yang akan diunggah dengan ukuran maksimal 2 MB.\nFormat file yang diperbolehkan adalah PDF, PNG, atau JPG.\nFile dengan format selain tersebut akan ditolak saat proses penyimpanan.\nIsi Deskripsi Prestasi\nSetelah mengunggah bukti prestasi, isi kolom deskripsi.\nKolom ini wajib diisi jika Anda mengunggah prestasi.\nContoh deskripsi:\nJuara 1 dari 150 peserta lomba pencak silat tingkat Provinsi Jawa Barat yang diselenggarakan oleh Dispora Jawa Barat.\nPilih Bidang Prestasi\nPilih bidang prestasi sesuai dengan kategori yang tersedia pada sistem.\nPilih Tingkat Prestasi\nTentukan tingkat prestasi sesuai dengan pilihan yang tersedia.\nPilih Jenis Prestasi (Individu/Kelompok)\nTentukan apakah prestasi yang diperoleh merupakan prestasi individu atau kelompok.\nLengkapi Data Tambahan\nIsi Tahun Perolehan Prestasi dan Nama Lembaga Pemberi Prestasi untuk melengkapi data.\n\nSetelah seluruh data prestasi diisi, klik tombol SIMPAN (ditandai kotak hijau) yang terletak di bagian kanan bawah halaman (setelah isian Prestasi ke-3).\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nUntuk memastikan bahwa file yang diunggah sudah benar, Anda dapat mengunduh kembali file tersebut melalui kolom Unduh Bukti Prestasi setelah data disimpan. Tampilan menu unduh akan muncul setelah Anda berhasil mengunggah dan menyimpan data prestasi.",
+    "content": "## 6. Prestasi\n\nPanduan Pengisian Prestasi SNBP 2026\n\nBerikut merupakan tampilan awal halaman PRESTASI:\n\nPengisian prestasi bersifat tidak wajib. Artinya, apabila Anda tidak memiliki prestasi dengan bidang dan tingkat yang sesuai dengan ketentuan, halaman ini dapat dikosongkan tanpa perlu mengisi atau mengunggah data apa pun.\n\nJumlah prestasi yang dapat diinput pada halaman ini maksimal 3 (tiga) prestasi.\n\nUntuk mengisi data prestasi, lakukan langkah-langkah berikut:\n\nUnggah Bukti Prestasi\nKlik tombol Choose File, kemudian pilih file yang akan diunggah dengan ukuran maksimal 2 MB.\nFormat file yang diperbolehkan adalah PDF, PNG, atau JPG.\nFile dengan format selain tersebut akan ditolak saat proses penyimpanan.\nIsi Deskripsi Prestasi\nSetelah mengunggah bukti prestasi, isi kolom deskripsi.\nKolom ini wajib diisi jika Anda mengunggah prestasi.\nContoh deskripsi:\nJuara 1 dari 150 peserta lomba pencak silat tingkat Provinsi Jawa Barat yang diselenggarakan oleh Dispora Jawa Barat.\nPilih Bidang Prestasi\nPilih bidang prestasi sesuai dengan kategori yang tersedia pada sistem.\nPilih Tingkat Prestasi\nTentukan tingkat prestasi sesuai dengan pilihan yang tersedia.\nPilih Jenis Prestasi (Individu/Kelompok)\nTentukan apakah prestasi yang diperoleh merupakan prestasi individu atau kelompok.\nLengkapi Data Tambahan\nIsi Tahun Perolehan Prestasi dan Nama Lembaga Pemberi Prestasi untuk melengkapi data.\n\nSetelah seluruh data prestasi diisi, klik tombol SIMPAN (ditandai kotak hijau) yang terletak di bagian kanan bawah halaman (setelah isian Prestasi ke-3).\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nUntuk memastikan bahwa file yang diunggah sudah benar, Anda dapat mengunduh kembali file tersebut melalui kolom Unduh Bukti Prestasi setelah data disimpan. Tampilan menu unduh akan muncul setelah Anda berhasil mengunggah dan menyimpan data prestasi."
+  },
+  {
+    "id": "5df8efbb99cd1ddf07c693a8b1572e79",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 7. Finalisasi",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 7. Finalisasi",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Finalisasi SNBP 2026",
+    "alias_topik": [
+      "finalisasi SNBP",
+      "simpan permanen SNBP",
+      "data tidak dapat diubah"
+    ],
+    "search_text": "Judul: Finalisasi SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 7. Finalisasi\nAlias: finalisasi SNBP, simpan permanen SNBP, data tidak dapat diubah\nIntent: tanya_prosedur_pendaftaran\n\n## 7. Finalisasi\n\nPanduan Finalisasi SNBP 2026\n\nBerikut merupakan tampilan awal halaman FINALISASI:\n\nSebelum melakukan finalisasi, pastikan seluruh data dan pilihan SNBP yang Anda isikan sudah benar. Bacalah dengan saksama pernyataan persetujuan yang tersedia.\n\nPerlu diperhatikan bahwa setelah melakukan finalisasi, seluruh data yang telah diisi tidak dapat diubah kembali, dan proses finalisasi tidak dapat dibatalkan dengan cara apa pun.\n\nJika Anda sudah yakin, lakukan langkah berikut:\n\nBeri tanda centang pada pernyataan persetujuan “Saya setuju untuk finalisasi” (ditandai kotak merah pada gambar).\nKlik tombol Finalisasi.\n\nSetelah itu, akan muncul pop-up konfirmasi. Pilih Finalisasi kembali jika Anda benar-benar yakin bahwa seluruh isian sudah sesuai.\n\nApabila proses finalisasi berhasil, tampilan halaman akan berubah dengan menampilkan informasi tanggal dan waktu finalisasi yang telah dilakukan, seperti pada gambar berikut.",
+    "content": "## 7. Finalisasi\n\nPanduan Finalisasi SNBP 2026\n\nBerikut merupakan tampilan awal halaman FINALISASI:\n\nSebelum melakukan finalisasi, pastikan seluruh data dan pilihan SNBP yang Anda isikan sudah benar. Bacalah dengan saksama pernyataan persetujuan yang tersedia.\n\nPerlu diperhatikan bahwa setelah melakukan finalisasi, seluruh data yang telah diisi tidak dapat diubah kembali, dan proses finalisasi tidak dapat dibatalkan dengan cara apa pun.\n\nJika Anda sudah yakin, lakukan langkah berikut:\n\nBeri tanda centang pada pernyataan persetujuan “Saya setuju untuk finalisasi” (ditandai kotak merah pada gambar).\nKlik tombol Finalisasi.\n\nSetelah itu, akan muncul pop-up konfirmasi. Pilih Finalisasi kembali jika Anda benar-benar yakin bahwa seluruh isian sudah sesuai.\n\nApabila proses finalisasi berhasil, tampilan halaman akan berubah dengan menampilkan informasi tanggal dan waktu finalisasi yang telah dilakukan, seperti pada gambar berikut."
+  },
+  {
+    "id": "9272fc315fd0f5fa77e76553d7850913",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 8. Kartu Peserta",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 8. Kartu Peserta",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Kartu Peserta SNBP 2026",
+    "alias_topik": [
+      "kartu peserta SNBP",
+      "unduh kartu SNBP",
+      "cetak kartu SNBP"
+    ],
+    "search_text": "Judul: Kartu Peserta SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 8. Kartu Peserta\nAlias: kartu peserta SNBP, unduh kartu SNBP, cetak kartu SNBP\nIntent: tanya_prosedur_pendaftaran\n\n## 8. Kartu Peserta\n\nKartu peserta berada pada halaman yang sama dengan Finalisasi. Anda hanya bisa mengunduh\nkartu peserta jika Anda sudah melakukan Finalisasi.\nSetelah unduh kartu peserta, maka tahapan pendaftaran SNBP oleh siswa telah SELESAI.",
+    "content": "## 8. Kartu Peserta\n\nKartu peserta berada pada halaman yang sama dengan Finalisasi. Anda hanya bisa mengunduh\nkartu peserta jika Anda sudah melakukan Finalisasi.\nSetelah unduh kartu peserta, maka tahapan pendaftaran SNBP oleh siswa telah SELESAI."
+  },
+  {
+    "id": "777b211833cf2ea1552f84328c19dbe8",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "# Panduan Pendaftaran UTBK-SNBT",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Panduan Pendaftaran UTBK-SNBT 2026",
+    "alias_topik": [
+      "UTBK-SNBT",
+      "SNBT",
+      "panduan UTBK",
+      "pendaftaran SNBT"
+    ],
+    "search_text": "Judul: Panduan Pendaftaran UTBK-SNBT 2026\nKonteks: Panduan Pendaftaran UTBK-SNBT\nAlias: UTBK-SNBT, SNBT, panduan UTBK, pendaftaran SNBT\nIntent: tanya_prosedur_pendaftaran\n\n# Panduan Pendaftaran UTBK-SNBT \n\nLogin ke portal SNPMB menggunakan email dan password akun SNPMB. Jika belum memiliki akun, registrasi melalui Portal Registrasi SNPMB lalu pilih menu Pendaftaran UTBK-SNBT 2026.\nLengkapi biodata diri dan data orang tua/wali seperti nama, pekerjaan, pendidikan, serta penghasilan. Pastikan seluruh data sudah benar sebelum menekan tombol Simpan dan Lanjutkan.\nPeserta berkebutuhan khusus wajib mengisi bagian kebutuhan khusus sesuai kondisi. Peserta tunanetra/buta harus mengunggah Surat Keterangan Tunanetra/Buta dalam format PDF maksimal 300 KB.\nPeriksa kembali seluruh biodata pada halaman konfirmasi. Jika sudah benar, centang pernyataan dan klik Simpan Permanen Biodata karena data tidak dapat diubah lagi setelah disimpan permanen.\nMemilih Program Studi, Peserta diperbolehkan memilih maksimal empat program studi yang terdiri dari dua program sarjana dan dua program vokasi di mana salah satunya dari program studi diploma tiga, sesuai dengan ketentuan yang berlaku pada bagian Ketentuan Pilihan Program Studi.\nPeserta yang memilih program studi dengan syarat portofolio wajib mengunggah portofolio sesuai ketentuan. Peserta dapat menggunakan portofolio SNBP atau mengunggah portofolio baru dari SNBT. Peserta non-portofolio dapat langsung melanjutkan ke tahap berikutnya.\nPilih Kota/Wilayah UTBK sesuai keinginan dan pastikan pusat UTBK sudah benar. Informasi pusat UTBK dapat dilihat melalui Daftar Kota/Wilayah UTBK.\nPada tahap konfirmasi akhir, periksa kembali biodata, portofolio, dan lokasi UTBK. Jika sudah sesuai, klik Simpan Permanen Kota/Wilayah UTBK. Setelah finalisasi, data tidak dapat diubah kembali.\nPeserta KIP Kuliah nonbayar tidak perlu membayar biaya UTBK dan dapat langsung mengunduh bukti pendaftaran. Peserta non-KIP harus mengunduh slip pembayaran, melakukan pembayaran sesuai kode yang diberikan, lalu mengunduh kartu peserta setelah pembayaran berhasil.\nSaat masa unduh kartu peserta dibuka, peserta dapat mengunduh dan mencetak kartu peserta UTBK-SNBT. Kartu peserta wajib dibawa saat pelaksanaan ujian dan daftar ulang SNBT.",
+    "content": "# Panduan Pendaftaran UTBK-SNBT \n\nLogin ke portal SNPMB menggunakan email dan password akun SNPMB. Jika belum memiliki akun, registrasi melalui Portal Registrasi SNPMB lalu pilih menu Pendaftaran UTBK-SNBT 2026.\nLengkapi biodata diri dan data orang tua/wali seperti nama, pekerjaan, pendidikan, serta penghasilan. Pastikan seluruh data sudah benar sebelum menekan tombol Simpan dan Lanjutkan.\nPeserta berkebutuhan khusus wajib mengisi bagian kebutuhan khusus sesuai kondisi. Peserta tunanetra/buta harus mengunggah Surat Keterangan Tunanetra/Buta dalam format PDF maksimal 300 KB.\nPeriksa kembali seluruh biodata pada halaman konfirmasi. Jika sudah benar, centang pernyataan dan klik Simpan Permanen Biodata karena data tidak dapat diubah lagi setelah disimpan permanen.\nMemilih Program Studi, Peserta diperbolehkan memilih maksimal empat program studi yang terdiri dari dua program sarjana dan dua program vokasi di mana salah satunya dari program studi diploma tiga, sesuai dengan ketentuan yang berlaku pada bagian Ketentuan Pilihan Program Studi.\nPeserta yang memilih program studi dengan syarat portofolio wajib mengunggah portofolio sesuai ketentuan. Peserta dapat menggunakan portofolio SNBP atau mengunggah portofolio baru dari SNBT. Peserta non-portofolio dapat langsung melanjutkan ke tahap berikutnya.\nPilih Kota/Wilayah UTBK sesuai keinginan dan pastikan pusat UTBK sudah benar. Informasi pusat UTBK dapat dilihat melalui Daftar Kota/Wilayah UTBK.\nPada tahap konfirmasi akhir, periksa kembali biodata, portofolio, dan lokasi UTBK. Jika sudah sesuai, klik Simpan Permanen Kota/Wilayah UTBK. Setelah finalisasi, data tidak dapat diubah kembali.\nPeserta KIP Kuliah nonbayar tidak perlu membayar biaya UTBK dan dapat langsung mengunduh bukti pendaftaran. Peserta non-KIP harus mengunduh slip pembayaran, melakukan pembayaran sesuai kode yang diberikan, lalu mengunduh kartu peserta setelah pembayaran berhasil.\nSaat masa unduh kartu peserta dibuka, peserta dapat mengunduh dan mencetak kartu peserta UTBK-SNBT. Kartu peserta wajib dibawa saat pelaksanaan ujian dan daftar ulang SNBT."
+  },
+  {
+    "id": "f9d7d84c7edf4f2ccacc88cd9de25ed6",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "## Melakukan Login",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Melakukan Login",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Melakukan Login UTBK-SNBT 2026",
+    "alias_topik": [
+      "login UTBK",
+      "login SNBT",
+      "portal SNPMB"
+    ],
+    "search_text": "Judul: Melakukan Login UTBK-SNBT 2026\nKonteks: Panduan Pendaftaran UTBK-SNBT > Melakukan Login\nAlias: login UTBK, login SNBT, portal SNPMB\nIntent: tanya_prosedur_pendaftaran\n\n## Melakukan Login\n\n1. Masukkan kombinasi email dan kata sandi Anda yang telah terdaftar pada akun SNPMB untuk dapat masuk ke portal SNPMB. Pastikan akun Anda telah terdaftar di SNPMB! Jika Anda belum daftar, maka dapat melakukan registrasi pada https://reg.snpmb.id\n2. Setelah Anda berhasil masuk, maka Anda dapat melihat portal SNPMB. Pilih Pendaftaran UTBK-SNBT untuk melakukan pendaftaran UTBK-SNBT 2026.",
+    "content": "## Melakukan Login\n\n1. Masukkan kombinasi email dan kata sandi Anda yang telah terdaftar pada akun SNPMB untuk dapat masuk ke portal SNPMB. Pastikan akun Anda telah terdaftar di SNPMB! Jika Anda belum daftar, maka dapat melakukan registrasi pada https://reg.snpmb.id\n2. Setelah Anda berhasil masuk, maka Anda dapat melihat portal SNPMB. Pilih Pendaftaran UTBK-SNBT untuk melakukan pendaftaran UTBK-SNBT 2026."
+  },
+  {
+    "id": "c824bffd7323a7bd4fec04c982b76c50",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Pengisian Biodata",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Pengisian Biodata",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Pengisian Biodata UTBK-SNBT 2026",
+    "alias_topik": [
+      "alur biodata UTBK",
+      "isi data orang tua UTBK"
+    ],
+    "search_text": "Judul: Alur Pengisian Biodata UTBK-SNBT 2026\nKonteks: Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Pengisian Biodata\nAlias: alur biodata UTBK, isi data orang tua UTBK\nIntent: tanya_prosedur_pendaftaran\n\n### Pengisian Biodata\n\n1. Anda dapat melihat data pribadi yang telah Anda isikan seperti pada gambar berikut.\nMohon pastikan bahwa data pribadi Anda sudah benar. Apabila Anda pemegang KIP Kuliah nonbayar biaya UTBK, maka Anda dapat melihat Nomor KIP Kuliah Anda dengan kotak bertulisan Terdaftar (Gratis biaya UTBK). Apabila Anda pemegang KIP Kuliah bayar biaya UTBK, maka Anda dapat melihat Nomor KIP Kuliah Anda dengan kotak bertulisan Terdaftar (Bayar biaya UTBK). Apabila Anda bukan pemegang KIP Kuliah, maka akan muncul kotak dengan tulisan Tidak terdaftar.\n2. Selanjutnya, jika masih ada data yang kosong Anda harus melengkapinya, seperti data orang tua/wali yang terdiri dari:\n- Nama Ayah /Wali (Harus diisi sesuai dengan yang tercantum di ijazah. Jika tidak memiliki ayah, maka harus diisi dengan \"TIDAK PUNYA AYAH\" tanpa tanda petik)\n- Nama Ibu (Harus diisi sesuai dengan yang tercantum di akte kelahiran.)\n- Pekerjaan Ayah/Wali\n- Pekerjaan Ibu\n- Pendidikan Ayah/Wali\n- Pendidikan Ibu\n- Penghasilan Ayah/Wali\n- Penghasilan Ibu\n3. Bagi peserta UTBK-SNBT yang tidak mempunyai kebutuhan khusus, seperti tunanetra/buta, tunadaksa/lumpuh, tunawicara/bisu, dan tunarungu/tuli dapat mengosongkan form Kebutuhan Khusus dan jangan mencentang pilihan tersebut.\n4. Pastikan bahwa Anda telah mengisi seluruh data yang kosong, lalu klik tombol Simpan dan Lanjutkan.",
+    "content": "### Pengisian Biodata\n\n1. Anda dapat melihat data pribadi yang telah Anda isikan seperti pada gambar berikut.\nMohon pastikan bahwa data pribadi Anda sudah benar. Apabila Anda pemegang KIP Kuliah nonbayar biaya UTBK, maka Anda dapat melihat Nomor KIP Kuliah Anda dengan kotak bertulisan Terdaftar (Gratis biaya UTBK). Apabila Anda pemegang KIP Kuliah bayar biaya UTBK, maka Anda dapat melihat Nomor KIP Kuliah Anda dengan kotak bertulisan Terdaftar (Bayar biaya UTBK). Apabila Anda bukan pemegang KIP Kuliah, maka akan muncul kotak dengan tulisan Tidak terdaftar.\n2. Selanjutnya, jika masih ada data yang kosong Anda harus melengkapinya, seperti data orang tua/wali yang terdiri dari:\n- Nama Ayah /Wali (Harus diisi sesuai dengan yang tercantum di ijazah. Jika tidak memiliki ayah, maka harus diisi dengan \"TIDAK PUNYA AYAH\" tanpa tanda petik)\n- Nama Ibu (Harus diisi sesuai dengan yang tercantum di akte kelahiran.)\n- Pekerjaan Ayah/Wali\n- Pekerjaan Ibu\n- Pendidikan Ayah/Wali\n- Pendidikan Ibu\n- Penghasilan Ayah/Wali\n- Penghasilan Ibu\n3. Bagi peserta UTBK-SNBT yang tidak mempunyai kebutuhan khusus, seperti tunanetra/buta, tunadaksa/lumpuh, tunawicara/bisu, dan tunarungu/tuli dapat mengosongkan form Kebutuhan Khusus dan jangan mencentang pilihan tersebut.\n4. Pastikan bahwa Anda telah mengisi seluruh data yang kosong, lalu klik tombol Simpan dan Lanjutkan."
+  },
+  {
+    "id": "e483904c02e7763b357d6ac5466f47f2",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta",
+    "alias_topik": [
+      "kebutuhan khusus UTBK",
+      "tunanetra UTBK",
+      "disabilitas UTBK"
+    ],
+    "search_text": "Judul: Alur Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\nKonteks: Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\nAlias: kebutuhan khusus UTBK, tunanetra UTBK, disabilitas UTBK\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus tunanetra/buta harap memberi tanda centang (√) pada kotak yang tersedia.\nPeringatan:\na. Bagi yang mempunyai disabilitas tunanetra/buta, pastikan Anda mencentang pilihan di bawah ini. Jika tidak mencentang, maka Anda akan ditempatkan di ruang ujian yang tidak ada fasilitas untuk disabilitas netra.\nb. Bagi yang tidak memiliki tunanetra/buta, jangan mencentang pilihan di bawah ini. Jika Anda terbukti tidak memiliki tunanetra/buta, maka Anda tidak diperbolehkan mengikuti UTBK-SNBT.\n2. Setelah Anda memberi tanda centang pada pilihan Tunanetra/buta maka selanjutnya akan muncul tampilan kotak konfirmasi untuk memastikan bahwa Anda adalah penyandang disabilitas tunanetra.\n3. Bagi peserta UTBK-SNBT disabilitas netra/buta maka wajib mengunggah formulir SURAT KETERANGAN TUNA NETRA/BUTA sebagai bukti bahwa Anda penyandang disabilitas netra/buta.\n4. Formulir SURAT KETERANGAN TUNANETRA/BUTA dapat didapatkan dengan menekan tombol Unggah Bukti Tunanetra kemudian menekan tombol Unduh formulir, maka Anda akan mendapatkan formulir seperti pada gambar di bawah. Cetak formulir dan isikan dengan lengkap sesuai petunjuk di dalam formulir Scan formulir yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah dan simpan berkas dengan format PDF dengan ukuran tidak lebih dari 300 KB.\n5. Anda dapat mengunggah file PDF SURAT KETERANGAN TUNANETRA/BUTA yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah sesuai dengan poin nomor 4.\n6. Apabila Anda ingin mengganti atau mengubah berkas, maka Anda dapat menekan tombol Ganti Bukti Tunanetra dan Anda dapat mengunggah kembali file PDF yang benar.\n7. Selanjutnya Anda dapat menekan tombol Simpan dan Lanjutkan untuk lanjut ke tahap berikutnya.",
+    "content": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus tunanetra/buta harap memberi tanda centang (√) pada kotak yang tersedia.\nPeringatan:\na. Bagi yang mempunyai disabilitas tunanetra/buta, pastikan Anda mencentang pilihan di bawah ini. Jika tidak mencentang, maka Anda akan ditempatkan di ruang ujian yang tidak ada fasilitas untuk disabilitas netra.\nb. Bagi yang tidak memiliki tunanetra/buta, jangan mencentang pilihan di bawah ini. Jika Anda terbukti tidak memiliki tunanetra/buta, maka Anda tidak diperbolehkan mengikuti UTBK-SNBT.\n2. Setelah Anda memberi tanda centang pada pilihan Tunanetra/buta maka selanjutnya akan muncul tampilan kotak konfirmasi untuk memastikan bahwa Anda adalah penyandang disabilitas tunanetra.\n3. Bagi peserta UTBK-SNBT disabilitas netra/buta maka wajib mengunggah formulir SURAT KETERANGAN TUNA NETRA/BUTA sebagai bukti bahwa Anda penyandang disabilitas netra/buta.\n4. Formulir SURAT KETERANGAN TUNANETRA/BUTA dapat didapatkan dengan menekan tombol Unggah Bukti Tunanetra kemudian menekan tombol Unduh formulir, maka Anda akan mendapatkan formulir seperti pada gambar di bawah. Cetak formulir dan isikan dengan lengkap sesuai petunjuk di dalam formulir Scan formulir yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah dan simpan berkas dengan format PDF dengan ukuran tidak lebih dari 300 KB.\n5. Anda dapat mengunggah file PDF SURAT KETERANGAN TUNANETRA/BUTA yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah sesuai dengan poin nomor 4.\n6. Apabila Anda ingin mengganti atau mengubah berkas, maka Anda dapat menekan tombol Ganti Bukti Tunanetra dan Anda dapat mengunggah kembali file PDF yang benar.\n7. Selanjutnya Anda dapat menekan tombol Simpan dan Lanjutkan untuk lanjut ke tahap berikutnya."
+  },
+  {
+    "id": "a0f6b5926773119521af2b2e00470a9c",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Peserta UTBK-SNBT Kebutuhan Khusus Lainnya",
+    "alias_topik": [
+      "tunadaksa UTBK",
+      "tunarungu UTBK",
+      "tunawicara UTBK",
+      "disabilitas SNBT"
+    ],
+    "search_text": "Judul: Alur Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\nKonteks: Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\nAlias: tunadaksa UTBK, tunarungu UTBK, tunawicara UTBK, disabilitas SNBT\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus selain tunanetra/buta seperti tunadaksa/lumpuh, tunarungu/tuli, dan/atau tunawicara/bisu harap memberi tanda centang (√) pada kotak yang tersedia sesuai dengan kondisi.\n2. Ketika memberi tanda centang (√) pada kotak yang tersedia, maka akan muncul jendela konfirmasi.\n3. Salin pernyataan sesuai petunjuk ke kotak pernyataan yang telah disediakan dan klik tombol Lanjutkan. Tombol Lanjutkan tidak bisa diklik jika Anda tidak menuliskan pernyataan dengan benar.\n4. Pastikan kotak kebutuhan khusus sudah tercentang.",
+    "content": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus selain tunanetra/buta seperti tunadaksa/lumpuh, tunarungu/tuli, dan/atau tunawicara/bisu harap memberi tanda centang (√) pada kotak yang tersedia sesuai dengan kondisi.\n2. Ketika memberi tanda centang (√) pada kotak yang tersedia, maka akan muncul jendela konfirmasi.\n3. Salin pernyataan sesuai petunjuk ke kotak pernyataan yang telah disediakan dan klik tombol Lanjutkan. Tombol Lanjutkan tidak bisa diklik jika Anda tidak menuliskan pernyataan dengan benar.\n4. Pastikan kotak kebutuhan khusus sudah tercentang."
+  },
+  {
+    "id": "e0a5222b402e6f476df8734cd8444f2f",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Alur Konfirmasi Akhir Pengisian Biodata",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Konfirmasi Akhir Pengisian Biodata",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Konfirmasi Akhir Pengisian Biodata UTBK-SNBT 2026",
+    "alias_topik": [
+      "alur konfirmasi biodata UTBK",
+      "simpan permanen biodata"
+    ],
+    "search_text": "Judul: Alur Konfirmasi Akhir Pengisian Biodata UTBK-SNBT 2026\nKonteks: Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Konfirmasi Akhir Pengisian Biodata\nAlias: alur konfirmasi biodata UTBK, simpan permanen biodata\nIntent: tanya_prosedur_pendaftaran\n\n### Alur Konfirmasi Akhir Pengisian Biodata\n\n1. Sistem akan menampilkan seluruh biodata yang telah terisi, seperti data diri, data orang tua/wali, jumlah tanggungan, KIP Kuliah, dan kebutuhan khusus. Mohon pastikan bahwa seluruh data yang Anda isi sudah benar.\n2. Jika masih ada isian yang menurut Anda belum atau tidak sesuai, Anda dapat kembali ke halaman sebelumnya dengan menekan tombol Kembali pada bagian bawah halaman ini untuk mengubah isian.\n3. Jika Anda sudah yakin bahwa seluruh isian biodata peserta UTBK-SNBT 2026 benar, maka Centang Pernyataan pada bagian Simpan Permanen Biodata.\n4. Tekan tombol Simpan Permanen Biodata, maka Anda akan mendapat tampilan kotak konfirmasi seperti pada gambar berikut sebagai Pengecekan Akhir untuk memastikan bahwa pengisian biodata telah diperiksa dengan benar dan selanjutnya tidak dapat diubah lagi.\n5. Tekan tombol Ya, Simpan Permanen! maka seluruh isian dan biodata Anda sebagai peserta UTBK-SNBT 2026 tersimpan secara permanen dan Anda akan mendapat tampilan seperti pada gambar berikut.",
+    "content": "### Alur Konfirmasi Akhir Pengisian Biodata\n\n1. Sistem akan menampilkan seluruh biodata yang telah terisi, seperti data diri, data orang tua/wali, jumlah tanggungan, KIP Kuliah, dan kebutuhan khusus. Mohon pastikan bahwa seluruh data yang Anda isi sudah benar.\n2. Jika masih ada isian yang menurut Anda belum atau tidak sesuai, Anda dapat kembali ke halaman sebelumnya dengan menekan tombol Kembali pada bagian bawah halaman ini untuk mengubah isian.\n3. Jika Anda sudah yakin bahwa seluruh isian biodata peserta UTBK-SNBT 2026 benar, maka Centang Pernyataan pada bagian Simpan Permanen Biodata.\n4. Tekan tombol Simpan Permanen Biodata, maka Anda akan mendapat tampilan kotak konfirmasi seperti pada gambar berikut sebagai Pengecekan Akhir untuk memastikan bahwa pengisian biodata telah diperiksa dengan benar dan selanjutnya tidak dapat diubah lagi.\n5. Tekan tombol Ya, Simpan Permanen! maka seluruh isian dan biodata Anda sebagai peserta UTBK-SNBT 2026 tersimpan secara permanen dan Anda akan mendapat tampilan seperti pada gambar berikut."
+  },
+  {
+    "id": "04a19197f7047af81b441fe694521f0b",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "## Mengunggah Portofolio",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Mengunggah Portofolio",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Mengunggah Portofolio UTBK-SNBT 2026",
+    "alias_topik": [
+      "portofolio UTBK",
+      "unggah portofolio SNBT",
+      "syarat portofolio"
+    ],
+    "search_text": "Judul: Mengunggah Portofolio UTBK-SNBT 2026\nKonteks: Panduan Pendaftaran UTBK-SNBT > Mengunggah Portofolio\nAlias: portofolio UTBK, unggah portofolio SNBT, syarat portofolio\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## Mengunggah Portofolio\n\nPerhatikan petunjuk pengisian dalam mengunggah portofolio bagi peserta UTBK-SNBT 2026 yang memilih program studi dengan persyaratan portofolio.\nPERHATIAN!\n1. Jika Anda memilih program studi yang mensyaratkan unggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT dengan Portofolio\n2. Jika Anda memilih program studi yang tidak memerlukan syarat untuk mengunggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT non-Portofolio\n\nAlur Bagi Peserta UTBK-SNBT dengan Portofolio\nPada langkah ini, Anda WAJIB untuk mengunggah portofolio sesuai dengan ketentuan dari masing-masing program studi dan PTN yang Anda pilih. Pilihlah portofolio yang akan Anda gunakan dengan memilih portofolio SNBP (bagi peserta UTBK-SNBT 2026 yang terdeteksi sebagai peserta SNBP 2026) maupun portofolio dari SNBT.\n\nPortofolio dari SNBP\n1. Apabila Anda memilih untuk menggunakan portofolio yang pernah diunggah saat pendaftaran SNBP, maka Anda dapat menggunakan portofolio pada saat mendaftar SNBP sehingga tidak perlu mengunggah kembali portofolio Anda.\n2. Tekan tombol Pilih Kota/Wilayah UTBK apabila Anda sudah yakin untuk menggunakan portofolio dari SNBP.\n\nPortofolio dari SNBT\n1. Pilih Saya memilih portofolio SNBT lalu tekan tombol Pilih\n2. Setelah Anda memilih portofolio SNBT, maka Anda akan melihat tampilan seperti pada gambar di bawah dan Anda harus mengunggah portofolio dari komputer Anda.\n3. Klik tombol ↑ Unggah Berkas yang terletak di setiap jenis dokumen untuk mengunggah portofolio Anda, maka muncul kotak untuk mengunggah dokumen portofolio. Anda dapat melihat Dokumen yang harus diunggah, Jenis berkas, dan ukuran berkas maksimum yang harus diunggah. Pastikan Anda telah membaca dengan seksama petunjuk yang ada!\n4. Tekan tulisan Klik untuk mengunggah atau seret dan lepas (drag and drop) berkas untuk mengunggah berkas portofolio Anda sesuai dengan petunjuk yang ada, lalu beri nama berkas Anda pada isian Judul dan klik tombol Simpan.\n5. Anda akan mendapatkan kotak berisikan pesan bahwa portofolio Anda telah berhasil diunggah seperti pada gambar berikut.\n6. Anda dapat melihat berkas portofolio yang telah diunggah, lalu klik tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah berikutnya, yaitu Memilih Kota/Wilayah UTBK.\n\nBagi Peserta UTBK-SNBT Non-Portofolio\n1. Bagi peserta UTBK-SNBT yang memilih program studi tanpa persyaratan untuk mengunggah portofolio, maka Anda akan mendapat tampilan seperti pada gambar berikut\n2. Anda dapat langsung menekan tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah selanjutnya, yaitu Memilih Kota/Wilayah UTBK",
+    "content": "## Mengunggah Portofolio\n\nPerhatikan petunjuk pengisian dalam mengunggah portofolio bagi peserta UTBK-SNBT 2026 yang memilih program studi dengan persyaratan portofolio.\nPERHATIAN!\n1. Jika Anda memilih program studi yang mensyaratkan unggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT dengan Portofolio\n2. Jika Anda memilih program studi yang tidak memerlukan syarat untuk mengunggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT non-Portofolio\n\nAlur Bagi Peserta UTBK-SNBT dengan Portofolio\nPada langkah ini, Anda WAJIB untuk mengunggah portofolio sesuai dengan ketentuan dari masing-masing program studi dan PTN yang Anda pilih. Pilihlah portofolio yang akan Anda gunakan dengan memilih portofolio SNBP (bagi peserta UTBK-SNBT 2026 yang terdeteksi sebagai peserta SNBP 2026) maupun portofolio dari SNBT.\n\nPortofolio dari SNBP\n1. Apabila Anda memilih untuk menggunakan portofolio yang pernah diunggah saat pendaftaran SNBP, maka Anda dapat menggunakan portofolio pada saat mendaftar SNBP sehingga tidak perlu mengunggah kembali portofolio Anda.\n2. Tekan tombol Pilih Kota/Wilayah UTBK apabila Anda sudah yakin untuk menggunakan portofolio dari SNBP.\n\nPortofolio dari SNBT\n1. Pilih Saya memilih portofolio SNBT lalu tekan tombol Pilih\n2. Setelah Anda memilih portofolio SNBT, maka Anda akan melihat tampilan seperti pada gambar di bawah dan Anda harus mengunggah portofolio dari komputer Anda.\n3. Klik tombol ↑ Unggah Berkas yang terletak di setiap jenis dokumen untuk mengunggah portofolio Anda, maka muncul kotak untuk mengunggah dokumen portofolio. Anda dapat melihat Dokumen yang harus diunggah, Jenis berkas, dan ukuran berkas maksimum yang harus diunggah. Pastikan Anda telah membaca dengan seksama petunjuk yang ada!\n4. Tekan tulisan Klik untuk mengunggah atau seret dan lepas (drag and drop) berkas untuk mengunggah berkas portofolio Anda sesuai dengan petunjuk yang ada, lalu beri nama berkas Anda pada isian Judul dan klik tombol Simpan.\n5. Anda akan mendapatkan kotak berisikan pesan bahwa portofolio Anda telah berhasil diunggah seperti pada gambar berikut.\n6. Anda dapat melihat berkas portofolio yang telah diunggah, lalu klik tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah berikutnya, yaitu Memilih Kota/Wilayah UTBK.\n\nBagi Peserta UTBK-SNBT Non-Portofolio\n1. Bagi peserta UTBK-SNBT yang memilih program studi tanpa persyaratan untuk mengunggah portofolio, maka Anda akan mendapat tampilan seperti pada gambar berikut\n2. Anda dapat langsung menekan tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah selanjutnya, yaitu Memilih Kota/Wilayah UTBK"
+  },
+  {
+    "id": "adb90700444c82613e9c08489cd7299b",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Alur Memilih Kota/Wilayah UTBK",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Mengunggah Portofolio > Alur Memilih Kota/Wilayah UTBK",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Memilih Kota/Wilayah UTBK",
+    "alias_topik": [
+      "alur pilih kota UTBK",
+      "pusat UTBK"
+    ],
+    "search_text": "Judul: Alur Memilih Kota/Wilayah UTBK\nKonteks: Panduan Pendaftaran UTBK-SNBT > Mengunggah Portofolio > Alur Memilih Kota/Wilayah UTBK\nAlias: alur pilih kota UTBK, pusat UTBK\nIntent: tanya_prosedur_pendaftaran\n\n### Alur Memilih Kota/Wilayah UTBK\n\n1. Anda dapat melihat data diri Anda berupa Nama, Tempat & Tanggal Lahir, NISN, NPSN, Sekolah, Nomor KIP Kuliah, dan Status Kebutuhan Khusus.\n2. Pada bagian bawah halaman Memilih Kota/Wilayah UTBK, Anda dapat memilih Kota/Wilayah UTBK melalui daftar pilihan yang tersedia.\nPERHATIAN!\nPastikan Anda sudah mengetahui Pusat UTBK apa saja yang ada di kota/wilayah UTBK tersebut dengan melihat tautan berikut https://snpmb.id/utbk-snbt/kota-utbk-pilihan- peserta.\n3. Apabila pilihan lokasi Kota/Wilayah UTBK Anda sudah sesuai dan benar, maka tekan tombol Simpan dan Lanjutkan.",
+    "content": "### Alur Memilih Kota/Wilayah UTBK\n\n1. Anda dapat melihat data diri Anda berupa Nama, Tempat & Tanggal Lahir, NISN, NPSN, Sekolah, Nomor KIP Kuliah, dan Status Kebutuhan Khusus.\n2. Pada bagian bawah halaman Memilih Kota/Wilayah UTBK, Anda dapat memilih Kota/Wilayah UTBK melalui daftar pilihan yang tersedia.\nPERHATIAN!\nPastikan Anda sudah mengetahui Pusat UTBK apa saja yang ada di kota/wilayah UTBK tersebut dengan melihat tautan berikut https://snpmb.id/utbk-snbt/kota-utbk-pilihan- peserta.\n3. Apabila pilihan lokasi Kota/Wilayah UTBK Anda sudah sesuai dan benar, maka tekan tombol Simpan dan Lanjutkan."
+  },
+  {
+    "id": "553402adea0070911115ed1c80dc1e34",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "## Konfirmasi Akhir Pendaftaran UTBK",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Konfirmasi Akhir Pendaftaran UTBK",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Konfirmasi Akhir Pendaftaran UTBK",
+    "alias_topik": [
+      "simpan permanen UTBK",
+      "finalisasi UTBK"
+    ],
+    "search_text": "Judul: Konfirmasi Akhir Pendaftaran UTBK\nKonteks: Panduan Pendaftaran UTBK-SNBT > Konfirmasi Akhir Pendaftaran UTBK\nAlias: simpan permanen UTBK, finalisasi UTBK\nIntent: tanya_prosedur_pendaftaran\n\n## Konfirmasi Akhir Pendaftaran UTBK\n\nPerhatikan petunjuk pengisian konfirmasi akhir pendaftaran UTBK dan alur konfirmasi akhir pendaftaran UTBK!\nPERHATIAN!\nLangkah ini merupakan konfirmasi akhir pendaftaran UTBK peserta UTBK-SNBT. Pastikan bahwa Kota/Wilayah UTBK yang telah Anda pilih sudah benar karena data akan disimpan PERMANEN. Anda tidak dapat mengubah data yang telah disimpan permanen.\n1. Pada Konfirmasi Kota/Wilayah UTBK, Anda dapat melihat informasi yang telah Anda isikan sebelumnya, yaitu Nama, Tempat & Tanggal Lahir, NISN, NPSN, Sekolah, Nomor KIP Kuliah (Bagi peserta pemegang KIP Kuliah), Status Kebutuhan Khusus, dan Kota/Wilayah UTBK.\n2. Apabila Kota/Wilayah UTBK yang Anda inginkan masih belum sesuai, maka Anda dapat menekan tombol Ganti Kota/Wilayah UTBK.\n3. Apabila Kota/Wilayah UTBK yang Anda pilih sudah sesuai dan benar, maka Anda dapat menekan tombol Simpan Permanen Kota/Wilayah UTBK.\n4. Anda akan mendapat tampilan kotak Konfirmasi Akhir untuk memastikan bahwa data yang telah Anda isikan sudah benar dan menginformasikan bahwa data pilihan prodi, portofolio, dan kota/wilayah UTBK tidak dapat diubah lagi untuk alasan apapun setelah Anda menekan tombol Ya, simpan permanen!.\n5. Tekan tombol Ya, simpan permanen!, maka data pendaftaran Anda selaku peserta UTBK-SNBT 2026 akan tersimpan permanen.\n6. Apabila pendaftaran UTBK-SNBT Anda berhasil, maka Anda akan mendapat tampilan seperti pada gambar berikut\n7. Apabila pendaftaran UTBK-SNBT Anda gagal, maka Anda akan mendapat tampilan seperti pada gambar berikut. Silakan melihat bagian pesan dengan saksama dan melakukan langkah selanjutnya sesuai petunjuk yang tertera.",
+    "content": "## Konfirmasi Akhir Pendaftaran UTBK\n\nPerhatikan petunjuk pengisian konfirmasi akhir pendaftaran UTBK dan alur konfirmasi akhir pendaftaran UTBK!\nPERHATIAN!\nLangkah ini merupakan konfirmasi akhir pendaftaran UTBK peserta UTBK-SNBT. Pastikan bahwa Kota/Wilayah UTBK yang telah Anda pilih sudah benar karena data akan disimpan PERMANEN. Anda tidak dapat mengubah data yang telah disimpan permanen.\n1. Pada Konfirmasi Kota/Wilayah UTBK, Anda dapat melihat informasi yang telah Anda isikan sebelumnya, yaitu Nama, Tempat & Tanggal Lahir, NISN, NPSN, Sekolah, Nomor KIP Kuliah (Bagi peserta pemegang KIP Kuliah), Status Kebutuhan Khusus, dan Kota/Wilayah UTBK.\n2. Apabila Kota/Wilayah UTBK yang Anda inginkan masih belum sesuai, maka Anda dapat menekan tombol Ganti Kota/Wilayah UTBK.\n3. Apabila Kota/Wilayah UTBK yang Anda pilih sudah sesuai dan benar, maka Anda dapat menekan tombol Simpan Permanen Kota/Wilayah UTBK.\n4. Anda akan mendapat tampilan kotak Konfirmasi Akhir untuk memastikan bahwa data yang telah Anda isikan sudah benar dan menginformasikan bahwa data pilihan prodi, portofolio, dan kota/wilayah UTBK tidak dapat diubah lagi untuk alasan apapun setelah Anda menekan tombol Ya, simpan permanen!.\n5. Tekan tombol Ya, simpan permanen!, maka data pendaftaran Anda selaku peserta UTBK-SNBT 2026 akan tersimpan permanen.\n6. Apabila pendaftaran UTBK-SNBT Anda berhasil, maka Anda akan mendapat tampilan seperti pada gambar berikut\n7. Apabila pendaftaran UTBK-SNBT Anda gagal, maka Anda akan mendapat tampilan seperti pada gambar berikut. Silakan melihat bagian pesan dengan saksama dan melakukan langkah selanjutnya sesuai petunjuk yang tertera."
+  },
+  {
+    "id": "4c62ecd1ae615caf0dd37d9474c6d3c8",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "## Unduh Kartu Tanda Peserta",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Unduh Kartu Tanda Peserta",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Unduh Kartu Tanda Peserta UTBK-SNBT 2026",
+    "alias_topik": [
+      "unduh kartu UTBK",
+      "cetak kartu SNBT",
+      "kartu tanda peserta UTBK"
+    ],
+    "search_text": "Judul: Unduh Kartu Tanda Peserta UTBK-SNBT 2026\nKonteks: Panduan Pendaftaran UTBK-SNBT > Unduh Kartu Tanda Peserta\nAlias: unduh kartu UTBK, cetak kartu SNBT, kartu tanda peserta UTBK\nIntent: tanya_prosedur_pendaftaran\n\n## Unduh Kartu Tanda Peserta\n\nKetika sudah masuk masa unduh kartu peserta UTBK, maka peserta UTBK-SNBT pemegang KIP Kuliah maupun bukan pemegang KIP Kuliah dapat mengikuti langkah berikut untuk mengunduh Kartu Tanda Peserta UTBK-SNBT 2026!\n1. Anda dapat melihat pilihan program studi dan portofolio yang telah disimpan permanen sebelumnya tetapi Anda tidak dapat memilih kembali program studi.\n2. Anda dapat menyimpan kartu UTBK-SNBT 2026 dengan menekan tombol Simpan Kartu Peserta. Kartu Peserta harus dibawa saat pelaksanaan ujian berlangsung dan daftar ulang SNBT.\n3. Pastikan bahwa Anda telah membaca dan memahami dengan saksama seluruh petunjuk yang tertera di kartu UTBK-SNBT 2026.\nCatatan: Pada dokumen asli terdapat lampiran contoh Kartu Tanda Peserta UTBK-SNBT 2026 dalam bentuk gambar. Teks OCR pada bagian contoh kartu tidak disertakan karena hasil ekstraksinya tidak terbaca dengan baik.",
+    "content": "## Unduh Kartu Tanda Peserta\n\nKetika sudah masuk masa unduh kartu peserta UTBK, maka peserta UTBK-SNBT pemegang KIP Kuliah maupun bukan pemegang KIP Kuliah dapat mengikuti langkah berikut untuk mengunduh Kartu Tanda Peserta UTBK-SNBT 2026!\n1. Anda dapat melihat pilihan program studi dan portofolio yang telah disimpan permanen sebelumnya tetapi Anda tidak dapat memilih kembali program studi.\n2. Anda dapat menyimpan kartu UTBK-SNBT 2026 dengan menekan tombol Simpan Kartu Peserta. Kartu Peserta harus dibawa saat pelaksanaan ujian berlangsung dan daftar ulang SNBT.\n3. Pastikan bahwa Anda telah membaca dan memahami dengan saksama seluruh petunjuk yang tertera di kartu UTBK-SNBT 2026.\nCatatan: Pada dokumen asli terdapat lampiran contoh Kartu Tanda Peserta UTBK-SNBT 2026 dalam bentuk gambar. Teks OCR pada bagian contoh kartu tidak disertakan karena hasil ekstraksinya tidak terbaca dengan baik."
+  },
+  {
+    "id": "3d573a67feac77cb60e69527105de315",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "# SELEKSI MASUK PASCASARJANA",
+    "parent_context": "SELEKSI MASUK PASCASARJANA",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_ujian",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Alur Pendaftaran Seleksi Masuk Pascasarjana S2 S3 Magister Doktor UIN Jakarta",
+    "alias_topik": [
+      "Prosedur pendaftaran pascasarjana",
+      "biaya pascasarjana",
+      "tes pascasarjana",
+      "ETIC TOAFL",
+      "TPA pascasarjana"
+    ],
+    "search_text": "Judul: Alur Pendaftaran Seleksi Masuk Pascasarjana S2 S3 Magister Doktor UIN Jakarta\nKonteks: SELEKSI MASUK PASCASARJANA\nAlias: Prosedur pendaftaran pascasarjana, biaya pascasarjana, tes pascasarjana, ETIC TOAFL, TPA pascasarjana\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_ujian, tanya_pascasarjana\n\n# SELEKSI MASUK PASCASARJANA\n\n1. Pendaftaran\nPembayaran Pendaftaran melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia. Panduan pembayaran dapat dilihat pada Tata Cara Pembayaran.\nBiaya Pendaftaran Warga Negara Indonesia dan Warga Negara Asing:\n- Magister: Rp. 750.000\n- Doktor: Rp. 1.500.000\nPendaftaran:\n- Ganjil: 9 Februari - 25 Juni 2026\n- Genap: -\n2. Tes Masuk (Online)\nETIC & TOAFL\n- Ganjil: 2 - 3 Juli 2026\n- Genap: -\nTPA\n- Ganjil: 6 - 7 Juli 2026\n- Genap: -\nWawancara\n- Ganjil: 8 - 9 Juli 2026\n- Genap: -\n3. Pengumuman Hasil Tes\nPengumuman Hasil Seleksi:\n- Ganjil: 22 Juli 2026 Pukul 18.00 WIB\n- Genap: -",
+    "content": "# SELEKSI MASUK PASCASARJANA\n\n1. Pendaftaran\nPembayaran Pendaftaran melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia. Panduan pembayaran dapat dilihat pada Tata Cara Pembayaran.\nBiaya Pendaftaran Warga Negara Indonesia dan Warga Negara Asing:\n- Magister: Rp. 750.000\n- Doktor: Rp. 1.500.000\nPendaftaran:\n- Ganjil: 9 Februari - 25 Juni 2026\n- Genap: -\n2. Tes Masuk (Online)\nETIC & TOAFL\n- Ganjil: 2 - 3 Juli 2026\n- Genap: -\nTPA\n- Ganjil: 6 - 7 Juli 2026\n- Genap: -\nWawancara\n- Ganjil: 8 - 9 Juli 2026\n- Genap: -\n3. Pengumuman Hasil Tes\nPengumuman Hasil Seleksi:\n- Ganjil: 22 Juli 2026 Pukul 18.00 WIB\n- Genap: -"
+  },
+  {
+    "id": "41dd22b177f6eec6c48bba1faaf49360",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "## Link Pendaftaran:",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Pendaftaran:",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_link",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Link Pendaftaran Pascasarjana UIN Jakarta",
+    "alias_topik": [
+      "link daftar pascasarjana",
+      "formulir pascasarjana"
+    ],
+    "search_text": "Judul: Link Pendaftaran Pascasarjana UIN Jakarta\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Pendaftaran:\nAlias: link daftar pascasarjana, formulir pascasarjana\nIntent: tanya_prosedur_pendaftaran, tanya_link, tanya_pascasarjana\n\n## Link Pendaftaran:\n\nLink Pendaftaran magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir.zul",
+    "content": "## Link Pendaftaran:\n\nLink Pendaftaran magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir.zul"
+  },
+  {
+    "id": "adf4df79871b641fb50aac8dfc63ea4b",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Pendaftaran",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Pendaftaran",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pendaftaran Program Profesi Dokter",
+    "alias_topik": [
+      "daftar profesi dokter",
+      "link pendaftaran profesi dokter"
+    ],
+    "search_text": "Judul: Pendaftaran Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Pendaftaran\nAlias: daftar profesi dokter, link pendaftaran profesi dokter\nIntent: tanya_profesi, tanya_prosedur_pendaftaran, tanya_link\n\n## Pendaftaran\n\nSelamat Datang, Calon Mahasiswa Program Profesi Dokter! Silakan melakukan pendaftaran dengan mengunjungi link berikut:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_pd.zul",
+    "content": "## Pendaftaran\n\nSelamat Datang, Calon Mahasiswa Program Profesi Dokter! Silakan melakukan pendaftaran dengan mengunjungi link berikut:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_pd.zul"
+  },
+  {
+    "id": "d41a28e0e3167c4ba75f259aedec7a84",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Prosedur Login Formulir Calon Mahasiswa",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Prosedur Login Formulir Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prosedur Login Formulir Calon Mahasiswa Program Profesi Dokter",
+    "alias_topik": [
+      "login formulir profesi dokter",
+      "ID PIN profesi dokter",
+      "kode bayar profesi dokter"
+    ],
+    "search_text": "Judul: Prosedur Login Formulir Calon Mahasiswa Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Prosedur Login Formulir Calon Mahasiswa\nAlias: login formulir profesi dokter, ID PIN profesi dokter, kode bayar profesi dokter\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n## Prosedur Login Formulir Calon Mahasiswa\n\n1. Calon mahasiswa sudah melakukan proses Generate Kode Bayar.\n2. Calon mahasiswa sudah mendapatkan ID dan PIN.\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx).",
+    "content": "## Prosedur Login Formulir Calon Mahasiswa\n\n1. Calon mahasiswa sudah melakukan proses Generate Kode Bayar.\n2. Calon mahasiswa sudah mendapatkan ID dan PIN.\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx)."
+  },
+  {
+    "id": "5c5d2f1e33d015987ad31e55275756fd",
+    "source_file": "pengajuan_klarifikasi_ukt_tagged.md",
+    "heading": "## Langkah 1: Login Aplikasi Pengajuan Klarifikasi UKT",
+    "parent_context": "PENGAJUAN KLARIFIKASI UKT > Langkah 1: Login Aplikasi Pengajuan Klarifikasi UKT",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Login Aplikasi Pengajuan Klarifikasi UKT",
+    "alias_topik": [
+      "login klarifikasi UKT",
+      "admisi UKT",
+      "login admisi",
+      "admisi.uinjkt.ac.id",
+      "login UKT SNBP",
+      "login UKT SPAN PTKIN",
+      "login UKT SNBT",
+      "login UKT UMPTKIN",
+      "login UKT Mandiri"
+    ],
+    "search_text": "Judul: Login Aplikasi Pengajuan Klarifikasi UKT\nKonteks: PENGAJUAN KLARIFIKASI UKT > Langkah 1: Login Aplikasi Pengajuan Klarifikasi UKT\nAlias: login klarifikasi UKT, admisi UKT, login admisi, admisi.uinjkt.ac.id, login UKT SNBP, login UKT SPAN PTKIN, login UKT SNBT, login UKT UMPTKIN, login UKT Mandiri\nIntent: tanya_prosedur_pendaftaran\n\n## Langkah 1: Login Aplikasi Pengajuan Klarifikasi UKT\n\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik: admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG",
+    "content": "## Langkah 1: Login Aplikasi Pengajuan Klarifikasi UKT\n\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik: admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG"
+  },
+  {
+    "id": "f9e05ded757c692ff1a4f82f2dfb95d0",
+    "source_file": "pengajuan_klarifikasi_ukt_tagged.md",
+    "heading": "## Langkah 2: Isi Formulir Klarifikasi UKT",
+    "parent_context": "PENGAJUAN KLARIFIKASI UKT > Langkah 2: Isi Formulir Klarifikasi UKT",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Isi Formulir Klarifikasi UKT",
+    "alias_topik": [
+      "formulir klarifikasi UKT",
+      "alasan pengajuan UKT",
+      "data pendukung UKT",
+      "cara ajukan klarifikasi UKT",
+      "instruksi klarifikasi UKT",
+      "kirim pengajuan klarifikasi UKT"
+    ],
+    "search_text": "Judul: Isi Formulir Klarifikasi UKT\nKonteks: PENGAJUAN KLARIFIKASI UKT > Langkah 2: Isi Formulir Klarifikasi UKT\nAlias: formulir klarifikasi UKT, alasan pengajuan UKT, data pendukung UKT, cara ajukan klarifikasi UKT, instruksi klarifikasi UKT, kirim pengajuan klarifikasi UKT\nIntent: tanya_prosedur_pendaftaran\n\n## Langkah 2: Isi Formulir Klarifikasi UKT\n\nInstruksi:\n\n- Ceklist Ya untuk mengajukan Klarifikasi UKT. Klarifikasi UKT hanya dilakukan satu kali sesuai jadwal.\n- Isi Alasan Pengajuan sesuai kondisi Anda untuk permohonan keringanan UKT secara jelas.\n- Lampirkan data pendukung seperti surat keterangan pensiun, surat pernyataan mempunyai cicilan, surat kematian orang tua, dan lain-lain.\n\nTeks pada tampilan contoh aplikasi:\n\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama\n- No. Ujian: 123429999\n- Nama: CHA RINI\n- Fakultas: FAKULTAS SAINS DAN TEKNOLOGI\n- Prodi: TEKNIK PERTAMBANGAN\n- Jenjang: S1\n- Kelompok UKT: UKT Kelompok 6\n- Jumlah Pembayaran UKT: Rp14.500.000,00\n- Ajukan Klarifikasi UKT: Ya / Tidak\n- Alasan Pengajuan*\n- Data Pendukung*\n- Upload Berkas\n- Contoh file data dukung adalah surat pernyataan mempunyai cicilan, surat kematian orang tua, dll\n- KIRIM PENGAJUAN\n- Klik tombol Kirim Pengajuan untuk mengirim data pengajuan klarifikasi UKT Anda dan selanjutnya menunggu hasil pengumuman klarifikasi UKT.",
+    "content": "## Langkah 2: Isi Formulir Klarifikasi UKT\n\nInstruksi:\n\n- Ceklist Ya untuk mengajukan Klarifikasi UKT. Klarifikasi UKT hanya dilakukan satu kali sesuai jadwal.\n- Isi Alasan Pengajuan sesuai kondisi Anda untuk permohonan keringanan UKT secara jelas.\n- Lampirkan data pendukung seperti surat keterangan pensiun, surat pernyataan mempunyai cicilan, surat kematian orang tua, dan lain-lain.\n\nTeks pada tampilan contoh aplikasi:\n\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama\n- No. Ujian: 123429999\n- Nama: CHA RINI\n- Fakultas: FAKULTAS SAINS DAN TEKNOLOGI\n- Prodi: TEKNIK PERTAMBANGAN\n- Jenjang: S1\n- Kelompok UKT: UKT Kelompok 6\n- Jumlah Pembayaran UKT: Rp14.500.000,00\n- Ajukan Klarifikasi UKT: Ya / Tidak\n- Alasan Pengajuan*\n- Data Pendukung*\n- Upload Berkas\n- Contoh file data dukung adalah surat pernyataan mempunyai cicilan, surat kematian orang tua, dll\n- KIRIM PENGAJUAN\n- Klik tombol Kirim Pengajuan untuk mengirim data pengajuan klarifikasi UKT Anda dan selanjutnya menunggu hasil pengumuman klarifikasi UKT."
+  },
+  {
+    "id": "674124dbc2848588509905c94ecd8f79",
+    "source_file": "pengumuman_kelompok_ukt_tagged.md",
+    "heading": "# PENGUMUMAN KELOMPOK UKT",
+    "parent_context": "PENGUMUMAN KELOMPOK UKT",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pengumuman Kelompok UKT",
+    "alias_topik": [
+      "kelompok UKT",
+      "pengumuman UKT",
+      "cek UKT"
+    ],
+    "search_text": "Judul: Pengumuman Kelompok UKT\nKonteks: PENGUMUMAN KELOMPOK UKT\nAlias: kelompok UKT, pengumuman UKT, cek UKT\nIntent: tanya_prosedur_pendaftaran, tanya_link\n\n# PENGUMUMAN KELOMPOK UKT\n\nHALAMAN 1 – LANGKAH 1: LOGIN APLIKASI\nBuka Browser dan Login Aplikasi\n- Buka browser, kemudian akses laman: admisi.uinjkt.ac.id\n- Lakukan login ke aplikasi sesuai dengan jalur pendaftaran Anda\n\nJalur SNBP, SPAN-PTKIN, SNBT, dan UMPTKIN\n- Nomor Pendaftaran diisi dengan nomor peserta (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan tanggal lahir format YYYYMMDD (tanpa spasi atau tanda strip)  \n  Contoh: 20070517\n\nJalur SPMB Mandiri (Reguler dan Non-Reguler)\n- Nomor Pendaftaran diisi dengan nomor pendaftaran (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan password saat pendaftaran awal  \n  Contoh: 2ABCD4QZ\n\nTeks pada Tampilan Contoh Aplikasi\n- Portal PMB Online  \n- Login untuk mengisi form pendaftaran  \n- Masukkan Nomor Pendaftaran  \n- Nomor Pendaftaran (Registration Number)  \n- Password  \n- MASUK / LOGIN / DAFTAR ULANG\n\n---",
+    "content": "# PENGUMUMAN KELOMPOK UKT\n\nHALAMAN 1 – LANGKAH 1: LOGIN APLIKASI\nBuka Browser dan Login Aplikasi\n- Buka browser, kemudian akses laman: admisi.uinjkt.ac.id\n- Lakukan login ke aplikasi sesuai dengan jalur pendaftaran Anda\n\nJalur SNBP, SPAN-PTKIN, SNBT, dan UMPTKIN\n- Nomor Pendaftaran diisi dengan nomor peserta (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan tanggal lahir format YYYYMMDD (tanpa spasi atau tanda strip)  \n  Contoh: 20070517\n\nJalur SPMB Mandiri (Reguler dan Non-Reguler)\n- Nomor Pendaftaran diisi dengan nomor pendaftaran (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan password saat pendaftaran awal  \n  Contoh: 2ABCD4QZ\n\nTeks pada Tampilan Contoh Aplikasi\n- Portal PMB Online  \n- Login untuk mengisi form pendaftaran  \n- Masukkan Nomor Pendaftaran  \n- Nomor Pendaftaran (Registration Number)  \n- Password  \n- MASUK / LOGIN / DAFTAR ULANG\n\n---"
+  },
+  {
+    "id": "3f37e7292b24866ca9b2f10e7c6b427b",
+    "source_file": "pengumuman_kelompok_ukt_tagged.md",
+    "heading": "## HALAMAN 2 – LANGKAH 2: CEK PENGUMUMAN KELOMPOK UKT",
+    "parent_context": "PENGUMUMAN KELOMPOK UKT > HALAMAN 2 – LANGKAH 2: CEK PENGUMUMAN KELOMPOK UKT",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Cek Pengumuman Kelompok UKT",
+    "alias_topik": [
+      "cek kelompok UKT",
+      "hasil kelompok UKT",
+      "pengumuman kelompok UKT"
+    ],
+    "search_text": "Judul: Cek Pengumuman Kelompok UKT\nKonteks: PENGUMUMAN KELOMPOK UKT > HALAMAN 2 – LANGKAH 2: CEK PENGUMUMAN KELOMPOK UKT\nAlias: cek kelompok UKT, hasil kelompok UKT, pengumuman kelompok UKT\nIntent: tanya_prosedur_pendaftaran\n\n## HALAMAN 2 – LANGKAH 2: CEK PENGUMUMAN KELOMPOK UKT\n\n- Cek informasi Kelompok UKT yang telah diverifikasi oleh Panitia PMB berdasarkan data pada formulir pendaftaran ulang  \n- Jika setuju, silakan lanjutkan ke pembayaran UKT melalui bank  \n- Jika keberatan, silakan ajukan klarifikasi UKT* melalui sistem  \n\nTeks pada Tampilan Contoh Aplikasi\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH  \n- Halaman Utama  \n- No. Ujian  \n- Nama  \n- Fakultas  \n- Program Studi  \n- Jenjang  \n- Kelompok UKT  \n- Jumlah Pembayaran UKT  \n- Ajukan Klarifikasi UKT: Ya / Tidak  \n- Alasan Pengajuan*  \n- Data Pendukung*  \n- Upload Berkas  \n\nCatatan:\nContoh dokumen pendukung yang dapat diunggah:\n- Surat pernyataan memiliki cicilan  \n- Surat keterangan kematian orang tua  \n- Dokumen pendukung lain yang relevan",
+    "content": "## HALAMAN 2 – LANGKAH 2: CEK PENGUMUMAN KELOMPOK UKT\n\n- Cek informasi Kelompok UKT yang telah diverifikasi oleh Panitia PMB berdasarkan data pada formulir pendaftaran ulang  \n- Jika setuju, silakan lanjutkan ke pembayaran UKT melalui bank  \n- Jika keberatan, silakan ajukan klarifikasi UKT* melalui sistem  \n\nTeks pada Tampilan Contoh Aplikasi\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH  \n- Halaman Utama  \n- No. Ujian  \n- Nama  \n- Fakultas  \n- Program Studi  \n- Jenjang  \n- Kelompok UKT  \n- Jumlah Pembayaran UKT  \n- Ajukan Klarifikasi UKT: Ya / Tidak  \n- Alasan Pengajuan*  \n- Data Pendukung*  \n- Upload Berkas  \n\nCatatan:\nContoh dokumen pendukung yang dapat diunggah:\n- Surat pernyataan memiliki cicilan  \n- Surat keterangan kematian orang tua  \n- Dokumen pendukung lain yang relevan"
+  },
+  {
+    "id": "a5285e199259cefd395ca37f9f9288bf",
+    "source_file": "pengumuman_klarifikasi_ukt_tagged.md",
+    "heading": "## Langkah 1: Login Aplikasi Pengumuman Klarifikasi UKT",
+    "parent_context": "PENGUMUMAN KLARIFIKASI UKT > Langkah 1: Login Aplikasi Pengumuman Klarifikasi UKT",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Login Aplikasi Pengumuman Klarifikasi UKT",
+    "alias_topik": [
+      "login klarifikasi UKT",
+      "login admisi",
+      "admisi.uinjkt.ac.id",
+      "login UKT SNBP",
+      "login UKT SPAN PTKIN",
+      "login UKT SNBT",
+      "login UKT UMPTKIN",
+      "login UKT Mandiri"
+    ],
+    "search_text": "Judul: Login Aplikasi Pengumuman Klarifikasi UKT\nKonteks: PENGUMUMAN KLARIFIKASI UKT > Langkah 1: Login Aplikasi Pengumuman Klarifikasi UKT\nAlias: login klarifikasi UKT, login admisi, admisi.uinjkt.ac.id, login UKT SNBP, login UKT SPAN PTKIN, login UKT SNBT, login UKT UMPTKIN, login UKT Mandiri\nIntent: tanya_prosedur_pendaftaran\n\n## Langkah 1: Login Aplikasi Pengumuman Klarifikasi UKT\n\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik: admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG",
+    "content": "## Langkah 1: Login Aplikasi Pengumuman Klarifikasi UKT\n\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik: admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG"
+  },
+  {
+    "id": "3305f575551114d0c747040ca9370c1d",
+    "source_file": "pengumuman_klarifikasi_ukt_tagged.md",
+    "heading": "## Langkah 2: Cek Pengumuman Klarifikasi UKT",
+    "parent_context": "PENGUMUMAN KLARIFIKASI UKT > Langkah 2: Cek Pengumuman Klarifikasi UKT",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Cek Pengumuman Klarifikasi UKT",
+    "alias_topik": [
+      "cek klarifikasi UKT",
+      "hasil pengajuan UKT",
+      "hasil klarifikasi UKT",
+      "cara cek hasil klarifikasi UKT",
+      "pembayaran UKT setelah klarifikasi"
+    ],
+    "search_text": "Judul: Cek Pengumuman Klarifikasi UKT\nKonteks: PENGUMUMAN KLARIFIKASI UKT > Langkah 2: Cek Pengumuman Klarifikasi UKT\nAlias: cek klarifikasi UKT, hasil pengajuan UKT, hasil klarifikasi UKT, cara cek hasil klarifikasi UKT, pembayaran UKT setelah klarifikasi\nIntent: tanya_prosedur_pendaftaran\n\n## Langkah 2: Cek Pengumuman Klarifikasi UKT\n\nInstruksi:\n\n- Bagi yang tidak mengikuti Proses Penentuan UKT, bisa langsung melakukan pembayaran UKT di Bank dan lewati tahap ini.\n- Cek informasi Kelompok UKT yang telah diverifikasi oleh Panitia PMB berdasarkan pengajuan Klarifikasi UKT Anda.\n- Hasil pengumuman klarifikasi UKT pada tahap ini sudah final. Silahkan melakukan pembayaran UKT.\n\nTeks pada tampilan contoh aplikasi:\n\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- No. Ujian: 424429999\n- Nama: AHMAD SAJA\n- Fakultas: FAKULTAS SAINS DAN TEKNOLOGI\n- Prodi: KIMIA\n- Jenjang: S1\n- Kelompok UKT: UKT Kelompok 4\n- Jumlah Pembayaran UKT: Rp4.500.000,00\n- Pengajuan Klarifikasi sudah berakhir\n- NIM: -",
+    "content": "## Langkah 2: Cek Pengumuman Klarifikasi UKT\n\nInstruksi:\n\n- Bagi yang tidak mengikuti Proses Penentuan UKT, bisa langsung melakukan pembayaran UKT di Bank dan lewati tahap ini.\n- Cek informasi Kelompok UKT yang telah diverifikasi oleh Panitia PMB berdasarkan pengajuan Klarifikasi UKT Anda.\n- Hasil pengumuman klarifikasi UKT pada tahap ini sudah final. Silahkan melakukan pembayaran UKT.\n\nTeks pada tampilan contoh aplikasi:\n\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- No. Ujian: 424429999\n- Nama: AHMAD SAJA\n- Fakultas: FAKULTAS SAINS DAN TEKNOLOGI\n- Prodi: KIMIA\n- Jenjang: S1\n- Kelompok UKT: UKT Kelompok 4\n- Jumlah Pembayaran UKT: Rp4.500.000,00\n- Pengajuan Klarifikasi sudah berakhir\n- NIM: -"
+  },
+  {
+    "id": "bdf5ff2933443df115873a5d4a95bccd",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### Tata Cara Pendaftaran",
+    "parent_context": "1. Persyaratan > Tata Cara Pendaftaran",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Pendaftaran Profesi Apoteker",
+    "alias_topik": [
+      "cara daftar profesi apoteker",
+      "generate kode pembayaran apoteker",
+      "SPMB apoteker"
+    ],
+    "search_text": "Judul: Tata Cara Pendaftaran Profesi Apoteker\nKonteks: 1. Persyaratan > Tata Cara Pendaftaran\nAlias: cara daftar profesi apoteker, generate kode pembayaran apoteker, SPMB apoteker\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n### Tata Cara Pendaftaran\n\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Profesi, klik tombol “Profesi”\n3. Pada bagian kolom Apoteker, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Profesi”\n6. Pilih Fakultas “Ilmu Kesehatan”\n7. Pilih Jurusan “Profesi Apoteker”\n8. Mengisi:\n   I. Data Calon Mahasiswa;\n   II. Data Universitas Asal;\n   III. Data Orang Tua/Wali;\n   IV. Pilihan Program Studi.\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”.\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”\n11. Biaya registrasi sebesar Rp 345.000, – (tiga ratus empat puluh lima ribu rupiah).\n12. Lalu ikuti prosedur selanjutnya.",
+    "content": "### Tata Cara Pendaftaran\n\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Profesi, klik tombol “Profesi”\n3. Pada bagian kolom Apoteker, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Profesi”\n6. Pilih Fakultas “Ilmu Kesehatan”\n7. Pilih Jurusan “Profesi Apoteker”\n8. Mengisi:\n   I. Data Calon Mahasiswa;\n   II. Data Universitas Asal;\n   III. Data Orang Tua/Wali;\n   IV. Pilihan Program Studi.\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”.\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”\n11. Biaya registrasi sebesar Rp 345.000, – (tiga ratus empat puluh lima ribu rupiah).\n12. Lalu ikuti prosedur selanjutnya."
+  },
+  {
+    "id": "17551b7ba25ad401c4c18e3e164c61ed",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## PENDAFTARAN",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > PENDAFTARAN",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pendaftaran Pendidikan Profesi Ners",
+    "alias_topik": [
+      "daftar profesi ners",
+      "link pendaftaran ners"
+    ],
+    "search_text": "Judul: Pendaftaran Pendidikan Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > PENDAFTARAN\nAlias: daftar profesi ners, link pendaftaran ners\nIntent: tanya_profesi, tanya_prosedur_pendaftaran, tanya_link\n\n## PENDAFTARAN\n\nPendaftaran Calon Mahasiswa Baru untuk Program Studi Pendidikan Profesi Ners telah dibuka. Untuk mendaftar, silakan kunjungi link di bawah ini:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_ners.zul",
+    "content": "## PENDAFTARAN\n\nPendaftaran Calon Mahasiswa Baru untuk Program Studi Pendidikan Profesi Ners telah dibuka. Untuk mendaftar, silakan kunjungi link di bawah ini:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_ners.zul"
+  },
+  {
+    "id": "b84c25fa68a416064fe0145923320ec7",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## CETAK KARTU BUKTI PENDAFTARAN",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > CETAK KARTU BUKTI PENDAFTARAN",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Cetak Kartu Bukti Pendaftaran Profesi Ners",
+    "alias_topik": [
+      "cetak kartu ners",
+      "kartu bukti pendaftaran ners"
+    ],
+    "search_text": "Judul: Cetak Kartu Bukti Pendaftaran Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > CETAK KARTU BUKTI PENDAFTARAN\nAlias: cetak kartu ners, kartu bukti pendaftaran ners\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n## CETAK KARTU BUKTI PENDAFTARAN\n\nSetelah berhasil mendaftar, silakan login untuk melengkapi data lanjutan dan mencetak Kartu Bukti Pendaftaran.",
+    "content": "## CETAK KARTU BUKTI PENDAFTARAN\n\nSetelah berhasil mendaftar, silakan login untuk melengkapi data lanjutan dan mencetak Kartu Bukti Pendaftaran."
+  },
+  {
+    "id": "e7d9e0281e4603c721e28094eefaa3de",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## prosedur Login Formulir Calon Mahasiswa",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > prosedur Login Formulir Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prosedur Login Formulir Calon Mahasiswa Profesi Ners",
+    "alias_topik": [
+      "login formulir ners",
+      "kode bayar ners",
+      "ID PIN ners"
+    ],
+    "search_text": "Judul: Prosedur Login Formulir Calon Mahasiswa Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > prosedur Login Formulir Calon Mahasiswa\nAlias: login formulir ners, kode bayar ners, ID PIN ners\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n## prosedur Login Formulir Calon Mahasiswa\n\nCalon mahasiswa sudah melakukan proses Generate Kode Bayar.\nCalon mahasiswa sudah mendapatkan ID dan PIN.\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx).\nPembayaran biaya kuliah dapat dilakukan melalui bank BTN (via Teller dan ATM) dan Bank Mega Syariah ( Teller, ATM, dan M-Syariah Mobile).",
+    "content": "## prosedur Login Formulir Calon Mahasiswa\n\nCalon mahasiswa sudah melakukan proses Generate Kode Bayar.\nCalon mahasiswa sudah mendapatkan ID dan PIN.\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx).\nPembayaran biaya kuliah dapat dilakukan melalui bank BTN (via Teller dan ATM) dan Bank Mega Syariah ( Teller, ATM, dan M-Syariah Mobile)."
+  },
+  {
+    "id": "8fabd69c9af368cf605d127e2d5397df",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Rector Scholarship for International Students UIN Jakarta",
+    "alias_topik": [
+      "Rector Scholarship",
+      "beasiswa rektor",
+      "international students scholarship",
+      "beasiswa mahasiswa asing"
+    ],
+    "search_text": "Judul: Rector Scholarship for International Students UIN Jakarta\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\nAlias: Rector Scholarship, beasiswa rektor, international students scholarship, beasiswa mahasiswa asing\nIntent: tanya_beasiswa, tanya_persyaratan, tanya_prosedur_pendaftaran\n\n# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\n\nUIN SYARIF HIDAYATULLAH JAKARTA\n\nUIN Syarif Hidayatullah Jakarta is calling prospective students from around the globe to join our academic community!\n\nApplication Deadline : 23 February 2026\nApply                : https://bit.ly/ADFORMUIN\nInstagram            : @internationalofficeuinjkt\nWhatsApp             : +62 813-9942-664",
+    "content": "# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\n\nUIN SYARIF HIDAYATULLAH JAKARTA\n\nUIN Syarif Hidayatullah Jakarta is calling prospective students from around the globe to join our academic community!\n\nApplication Deadline : 23 February 2026\nApply                : https://bit.ly/ADFORMUIN\nInstagram            : @internationalofficeuinjkt\nWhatsApp             : +62 813-9942-664"
+  },
+  {
+    "id": "82a123e1e468d1b18ffc86a0d15c0717",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## PROCESS STUDY AT UIN JAKARTA",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > PROCESS STUDY AT UIN JAKARTA",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_beasiswa"
+    ],
+    "topik": "Process Study at UIN Jakarta for International Students",
+    "alias_topik": [
+      "alur studi international students",
+      "cara daftar rector scholarship",
+      "student visa UIN Jakarta"
+    ],
+    "search_text": "Judul: Process Study at UIN Jakarta for International Students\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > PROCESS STUDY AT UIN JAKARTA\nAlias: alur studi international students, cara daftar rector scholarship, student visa UIN Jakarta\nIntent: tanya_prosedur_pendaftaran, tanya_beasiswa\n\n## PROCESS STUDY AT UIN JAKARTA\n\n1. Contact Center for International Cooperation UIN Jakarta\n2. Decide on degree and program & faculties/department\n3. Upload the required documents at: https://bit.ly/ADFORMUIN\n4. Announcement of Acceptance\n5. Apply for a study permit and student visa\n6. Join in a language program (BIPA)\n7. Travel and study at UIN Jakarta",
+    "content": "## PROCESS STUDY AT UIN JAKARTA\n\n1. Contact Center for International Cooperation UIN Jakarta\n2. Decide on degree and program & faculties/department\n3. Upload the required documents at: https://bit.ly/ADFORMUIN\n4. Announcement of Acceptance\n5. Apply for a study permit and student visa\n6. Join in a language program (BIPA)\n7. Travel and study at UIN Jakarta"
+  },
+  {
+    "id": "e32677bf50d457f3d4805638fa35359b",
+    "source_file": "s2_s3_2_tagged.md",
+    "heading": "## Info lebih lanjut:",
+    "parent_context": "Info lebih lanjut:",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Info Lebih Lanjut Program Magister dan Doktor",
+    "alias_topik": [
+      "kontak pascasarjana",
+      "info S2 S3",
+      "link pendaftaran pascasarjana"
+    ],
+    "search_text": "Judul: Info Lebih Lanjut Program Magister dan Doktor\nKonteks: Info lebih lanjut:\nAlias: kontak pascasarjana, info S2 S3, link pendaftaran pascasarjana\nIntent: tanya_kontak, tanya_prosedur_pendaftaran, tanya_link\n\n## Info lebih lanjut:\n\nlink informasi lebih lanjut\nhttps://spmb.uinjkt.ac.id/\nInstagram:\nuinjktofficial\nEmail:\nhumas@apps.uinjkt.ac.id\nWebsite:\nwww.uinjkt.ac.id",
+    "content": "## Info lebih lanjut:\n\nlink informasi lebih lanjut\nhttps://spmb.uinjkt.ac.id/\nInstagram:\nuinjktofficial\nEmail:\nhumas@apps.uinjkt.ac.id\nWebsite:\nwww.uinjkt.ac.id"
+  },
+  {
+    "id": "51ec5aff461481f21d5c9ff935df6e18",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Pengisian PDSS",
+    "parent_context": "SNBP > Pengisian PDSS",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Pengisian PDSS SNBP",
+    "alias_topik": [
+      "PDSS SNBP",
+      "pengisian PDSS",
+      "finalisasi PDSS"
+    ],
+    "search_text": "Judul: Pengisian PDSS SNBP\nKonteks: SNBP > Pengisian PDSS\nAlias: PDSS SNBP, pengisian PDSS, finalisasi PDSS\nIntent: tanya_prosedur_pendaftaran\n\n## Pengisian PDSS\n\n1. Sekolah harus memastikan bahwa data sekolah sudah benar di Pusat Data dan Teknologi Informasi (Pusdatin) Kemdikdasmen.\n2. Pengisian dan kebenaran data siswa eligible menjadi tanggung jawab Kepala Sekolah.\n3. Tahapan pengisian PDSS dinyatakan selesai jika sekolah berhasil mengunduh bukti finalisasi pengisian PDSS.\n4. Status pengisian PDSS sekolah dapat dilihat pada menu ”SNBP > Monitoring PDSS” di laman resmi SNPMB.\n5. Secara umum tahapan pengisian PDSS sebagai berikut:\n   a. Login Akun SNPMB Sekolah;\n   b. Sekolah Melihat Profil Sekolah;\n   c. Memilih cara pengisian PDSS, yaitu Manual atau E-Rapor; dan\n   d. Cetak bukti finalisasi pengisian PDSS.",
+    "content": "## Pengisian PDSS\n\n1. Sekolah harus memastikan bahwa data sekolah sudah benar di Pusat Data dan Teknologi Informasi (Pusdatin) Kemdikdasmen.\n2. Pengisian dan kebenaran data siswa eligible menjadi tanggung jawab Kepala Sekolah.\n3. Tahapan pengisian PDSS dinyatakan selesai jika sekolah berhasil mengunduh bukti finalisasi pengisian PDSS.\n4. Status pengisian PDSS sekolah dapat dilihat pada menu ”SNBP > Monitoring PDSS” di laman resmi SNPMB.\n5. Secara umum tahapan pengisian PDSS sebagai berikut:\n   a. Login Akun SNPMB Sekolah;\n   b. Sekolah Melihat Profil Sekolah;\n   c. Memilih cara pengisian PDSS, yaitu Manual atau E-Rapor; dan\n   d. Cetak bukti finalisasi pengisian PDSS."
+  },
+  {
+    "id": "67258c7ad7aa60fc40e2028d5cd13ec8",
+    "source_file": "snbp_tagged.md",
+    "heading": "## 1. Prosedur Pendaftaran SNBP",
+    "parent_context": "SNBP > 1. Prosedur Pendaftaran SNBP",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prosedur Pendaftaran SNBP",
+    "alias_topik": [
+      "cara daftar SNBP",
+      "prosedur SNBP",
+      "portal SNPMB"
+    ],
+    "search_text": "Judul: Prosedur Pendaftaran SNBP\nKonteks: SNBP > 1. Prosedur Pendaftaran SNBP\nAlias: cara daftar SNBP, prosedur SNBP, portal SNPMB\nIntent: tanya_prosedur_pendaftaran\n\n## 1. Prosedur Pendaftaran SNBP\n\n1. Siswa eligible yang telah memiliki data di PDSS melakukan pendaftaran SNBP melalui Portal SNPMB (portal.snpmb.id) dengan menggunakan akun SNPMB Siswa.\n2. Siswa pendaftar harus membaca dan memahami ketentuan SNBP tentang ketentuan memilih program studi dan memahami persyaratan yang ditetapkan oleh PTN yang dituju.\n3. Siswa pendaftar pada program studi bidang Seni dan Olahraga wajib mengunggah portofolio dan dokumen bukti keterampilan yang telah disahkan oleh Kepala Sekolah menggunakan pedoman yang dapat diunduh pada menu Unduhan\n4. Siswa pendaftar wajib mencetak Kartu Peserta SNBP sebagai tanda bukti yang sah menjadi peserta SNBP 2026.",
+    "content": "## 1. Prosedur Pendaftaran SNBP\n\n1. Siswa eligible yang telah memiliki data di PDSS melakukan pendaftaran SNBP melalui Portal SNPMB (portal.snpmb.id) dengan menggunakan akun SNPMB Siswa.\n2. Siswa pendaftar harus membaca dan memahami ketentuan SNBP tentang ketentuan memilih program studi dan memahami persyaratan yang ditetapkan oleh PTN yang dituju.\n3. Siswa pendaftar pada program studi bidang Seni dan Olahraga wajib mengunggah portofolio dan dokumen bukti keterampilan yang telah disahkan oleh Kepala Sekolah menggunakan pedoman yang dapat diunduh pada menu Unduhan\n4. Siswa pendaftar wajib mencetak Kartu Peserta SNBP sebagai tanda bukti yang sah menjadi peserta SNBP 2026."
+  },
+  {
+    "id": "a2712774c5c7fc57186995681a9680fd",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Alur Panduan Pendaftaran UTBK-SNBT",
+    "parent_context": "SNBT > Alur Panduan Pendaftaran UTBK-SNBT",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Panduan Pendaftaran UTBK-SNBT",
+    "alias_topik": [
+      "UTBK-SNBT",
+      "SNBT",
+      "panduan UTBK",
+      "pendaftaran SNBT cara daftar SNBT",
+      "tata cara daftar snbt",
+      "prosedur UTBK-SNBT",
+      "pendaftaran SNBT"
+    ],
+    "search_text": "Judul: Panduan Pendaftaran UTBK-SNBT\nKonteks: SNBT > Alur Panduan Pendaftaran UTBK-SNBT\nAlias: UTBK-SNBT, SNBT, panduan UTBK, pendaftaran SNBT cara daftar SNBT, tata cara daftar snbt, prosedur UTBK-SNBT, pendaftaran SNBT\nIntent: tanya_prosedur_pendaftaran\n\n## Alur Panduan Pendaftaran UTBK-SNBT\n\n1. Melengkapi Biodata\n   Mengisi dan melengkapi biodata, unggah pas foto berwarna terbaru, dan verifikasi biodata serta unduh dan unggah pernyataan tunanetra dan/atau hambatan visual\n2. Memilih Program Studi\n   Peserta diperbolehkan memilih maksimal empat program studi yang terdiri dari dua program sarjana dan dua program vokasi di mana salah satunya dari program studi diploma tiga, sesuai dengan ketentuan yang berlaku pada bagian Ketentuan Pilihan Program Studi.\n3. Mengunggah Portofolio\n   Jika peserta memilih program studi bidang seni dan/atau olahraga, wajib menggunggah portofolio.\n4. Memilih Kota/Wilayah UTBK dan melakukan Pembayaran Biaya UTBK\n   Peserta memilih kota/wilayah untuk pelaksanaan UTBK. Kemudian melakukan pembayaran biaya UTBK pada mitra bank yang ditunjuk. Tata cara pembayaran dapat dilihat pada bagian Biaya UTBK dan Tata Cara Pembayaran\n5. Unduh Kartu Peserta UTBK-SNBT\n   Kartu Peserta UTBK-SNBT dapat diunduh setelah masa pendaftaran UTBK-SNBT selesai. Periode untuk unduh Kartu Peserta UTBK-SNBT pada 11-15 April 2026.",
+    "content": "## Alur Panduan Pendaftaran UTBK-SNBT\n\n1. Melengkapi Biodata\n   Mengisi dan melengkapi biodata, unggah pas foto berwarna terbaru, dan verifikasi biodata serta unduh dan unggah pernyataan tunanetra dan/atau hambatan visual\n2. Memilih Program Studi\n   Peserta diperbolehkan memilih maksimal empat program studi yang terdiri dari dua program sarjana dan dua program vokasi di mana salah satunya dari program studi diploma tiga, sesuai dengan ketentuan yang berlaku pada bagian Ketentuan Pilihan Program Studi.\n3. Mengunggah Portofolio\n   Jika peserta memilih program studi bidang seni dan/atau olahraga, wajib menggunggah portofolio.\n4. Memilih Kota/Wilayah UTBK dan melakukan Pembayaran Biaya UTBK\n   Peserta memilih kota/wilayah untuk pelaksanaan UTBK. Kemudian melakukan pembayaran biaya UTBK pada mitra bank yang ditunjuk. Tata cara pembayaran dapat dilihat pada bagian Biaya UTBK dan Tata Cara Pembayaran\n5. Unduh Kartu Peserta UTBK-SNBT\n   Kartu Peserta UTBK-SNBT dapat diunduh setelah masa pendaftaran UTBK-SNBT selesai. Periode untuk unduh Kartu Peserta UTBK-SNBT pada 11-15 April 2026."
+  },
+  {
+    "id": "ccb45562939108cd4aa34cdb17775c1f",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 3. Pendaftaran",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 3. Pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Tata Cara Pendaftaran Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "daftar Obgin",
+      "jadwal pendaftaran Obgin",
+      "cara daftar spesialis Obgin"
+    ],
+    "search_text": "Judul: Tata Cara Pendaftaran Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 3. Pendaftaran\nAlias: daftar Obgin, jadwal pendaftaran Obgin, cara daftar spesialis Obgin\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_profesi\n\n## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Obstetri dan Ginekologi (Obgin) UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Obstetri dan Ginekologi (Obgin), klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “Obstetri dan Ginekologi (Obgin)”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”.",
+    "content": "## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Obstetri dan Ginekologi (Obgin) UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Obstetri dan Ginekologi (Obgin), klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “Obstetri dan Ginekologi (Obgin)”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”."
+  },
+  {
+    "id": "3c3b7a9f73ba70d00412118cb483c3b8",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 3. Pendaftaran",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 3. Pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Tata cara Pendaftaran Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "daftar pulmonologi",
+      "pendaftaran spesialis pulmonologi",
+      "jadwal pulmonologi"
+    ],
+    "search_text": "Judul: Tata cara Pendaftaran Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 3. Pendaftaran\nAlias: daftar pulmonologi, pendaftaran spesialis pulmonologi, jadwal pulmonologi\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_profesi\n\n## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Pulmonologi dan Kedokteran Respirasi UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Pulmonologi dan Kedokteran Respirasi, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “ Pulmonologi dan Kedokteran Respirasi”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”.",
+    "content": "## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Pulmonologi dan Kedokteran Respirasi UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Pulmonologi dan Kedokteran Respirasi, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “ Pulmonologi dan Kedokteran Respirasi”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”."
+  },
+  {
+    "id": "fda441523698670c6e9db4f7b85e4649",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "# TATA CARA ISI FORMULIR DAFTAR ULANG",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Isi Formulir Daftar Ulang UIN Jakarta, Daftar Ulang S1 Sarjana Jalur SNBT, Daftar Ulang S1 Sarjana Jalur SNBP, Daftar Ulang S1 Sarjana Jalur UMPTKIN, Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "formulir daftar ulang",
+      "cara isi daftar ulang",
+      "registrasi ulang UIN Jakarta",
+      "daftar ulang S1",
+      "daftar ulang sarjana",
+      "daftar ulang SNBT",
+      "daftar ulang SNBP",
+      "daftar ulang UMPTKIN",
+      "daftar ulang SPAN PTKIN",
+      "daftar ulang SPMB Mandiri"
+    ],
+    "search_text": "Judul: Tata Cara Isi Formulir Daftar Ulang UIN Jakarta, Daftar Ulang S1 Sarjana Jalur SNBT, Daftar Ulang S1 Sarjana Jalur SNBP, Daftar Ulang S1 Sarjana Jalur UMPTKIN, Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG\nAlias: formulir daftar ulang, cara isi daftar ulang, registrasi ulang UIN Jakarta, daftar ulang S1, daftar ulang sarjana, daftar ulang SNBT, daftar ulang SNBP, daftar ulang UMPTKIN, daftar ulang SPAN PTKIN, daftar ulang SPMB Mandiri\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n# TATA CARA ISI FORMULIR DAFTAR ULANG\n\nUIN Syarif Hidayatullah Jakarta\n\n> Sumber: Tata cara isi formulir daftar ulang.pdf",
+    "content": "# TATA CARA ISI FORMULIR DAFTAR ULANG\n\nUIN Syarif Hidayatullah Jakarta\n\n> Sumber: Tata cara isi formulir daftar ulang.pdf"
+  },
+  {
+    "id": "99c4719757428b9899c1d34e84764ca3",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## Langkah 1: Login Aplikasi Daftar Ulang",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 1: Login Aplikasi Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Daftar Ulang SPANPTKIN UMPTKIN SNBP SNBT SPMB Mandiri, Login Daftar Ulang S1 Sarjana Jalur SNBT, Login Daftar Ulang S1 Sarjana Jalur SNBP, Login Daftar Ulang S1 Sarjana Jalur UMPTKIN, Login Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Login Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "login daftar ulang",
+      "daftar ulang klogin admisi",
+      "admisi.uinjkt.ac.id",
+      "cara login daftar ulang",
+      "portal PMB online",
+      "login SNBP",
+      "login SPAN PTKIN",
+      "login SNBT",
+      "login UMPTKIN",
+      "login mandiri",
+      "login SPMB Mandiri",
+      "password pendaftaran awal",
+      "login daftar ulang S1",
+      "login daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Tata Cara Daftar Ulang SPANPTKIN UMPTKIN SNBP SNBT SPMB Mandiri, Login Daftar Ulang S1 Sarjana Jalur SNBT, Login Daftar Ulang S1 Sarjana Jalur SNBP, Login Daftar Ulang S1 Sarjana Jalur UMPTKIN, Login Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Login Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 1: Login Aplikasi Daftar Ulang\nAlias: login daftar ulang, daftar ulang klogin admisi, admisi.uinjkt.ac.id, cara login daftar ulang, portal PMB online, login SNBP, login SPAN PTKIN, login SNBT, login UMPTKIN, login mandiri, login SPMB Mandiri, password pendaftaran awal, login daftar ulang S1, login daftar ulang sarjana\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n## Langkah 1: Login Aplikasi Daftar Ulang\n\nLangkah 1: Login Aplikasi Daftar Ulang\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik:\n  admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl\n  (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG",
+    "content": "## Langkah 1: Login Aplikasi Daftar Ulang\n\nLangkah 1: Login Aplikasi Daftar Ulang\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik:\n  admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl\n  (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG"
+  },
+  {
+    "id": "ae08769c914d8775c701ea6e00e99690",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Isi Formulir Daftar Ulang Bagian Informasi Pribadi, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBT, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBP, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "isi formulir daftar ulang",
+      "form daftar ulang",
+      "informasi pribadi daftar ulang",
+      "dokumen pribadi daftar ulang",
+      "pas foto daftar ulang",
+      "KTP daftar ulang",
+      "Kartu Keluarga daftar ulang",
+      "BPJS daftar ulang",
+      "NISN daftar ulang",
+      "formulir daftar ulang S1",
+      "formulir daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Isi Formulir Daftar Ulang Bagian Informasi Pribadi, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBT, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBP, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nAlias: isi formulir daftar ulang, form daftar ulang, informasi pribadi daftar ulang, dokumen pribadi daftar ulang, pas foto daftar ulang, KTP daftar ulang, Kartu Keluarga daftar ulang, BPJS daftar ulang, NISN daftar ulang, formulir daftar ulang S1, formulir daftar ulang sarjana\nIntent: daftar_ulang, tanya_prosedur_pendaftaran, tanya_persyaratan\n\n## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\n\nLangkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nCatatan wajib:\n- Seluruh isian formulir yang bertanda bintang (*) wajib diisi.\n\nBAGIAN 1 - INFORMASI PRIBADI\n\nDokumen atau bahan yang disiapkan:\n- Pas Foto Terbaru Formal Latar Merah (Wajib).\n  Ketentuan:\n  - Tidak menggunakan seragam sekolah.\n  - Tidak berkacamata.\n  - Tidak terlihat gigi.\n  - Format JPEG.\n  - Rasio foto 4 x 6 atau maksimal resolusi 300px x 450px.\n  - Maksimal ukuran file 200 kb.\n- Foto KTP/Kartu Keluarga format PDF/JPG/JPEG/PNG (Wajib).\n  Maksimal ukuran file 1 MB.\n- NISN (Nomor Induk Siswa Nasional) diisi dengan 10 digit angka.\n- Foto Kartu BPJS format JPG/JPEG/PNG (Opsional/Jika Ada).\n  Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama; Agenda; Informasi; Pengumuman; Keluar\n- Informasi Pribadi; Riwayat Pendidikan; Data UKT; Data Orang Tua; Data Wali; Verifikasi\n- Pas foto*; Upload Foto\n- Nama lengkap (Sesuai Ijazah)*\n- Jenis kelamin: Laki-Laki / Perempuan\n- NIK / No. KTP*\n- Upload KTP*; KTP; Upload Berkas\n- Upload KTP dengan format *.pdf\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\n\nLangkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nCatatan wajib:\n- Seluruh isian formulir yang bertanda bintang (*) wajib diisi.\n\nBAGIAN 1 - INFORMASI PRIBADI\n\nDokumen atau bahan yang disiapkan:\n- Pas Foto Terbaru Formal Latar Merah (Wajib).\n  Ketentuan:\n  - Tidak menggunakan seragam sekolah.\n  - Tidak berkacamata.\n  - Tidak terlihat gigi.\n  - Format JPEG.\n  - Rasio foto 4 x 6 atau maksimal resolusi 300px x 450px.\n  - Maksimal ukuran file 200 kb.\n- Foto KTP/Kartu Keluarga format PDF/JPG/JPEG/PNG (Wajib).\n  Maksimal ukuran file 1 MB.\n- NISN (Nomor Induk Siswa Nasional) diisi dengan 10 digit angka.\n- Foto Kartu BPJS format JPG/JPEG/PNG (Opsional/Jika Ada).\n  Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama; Agenda; Informasi; Pengumuman; Keluar\n- Informasi Pribadi; Riwayat Pendidikan; Data UKT; Data Orang Tua; Data Wali; Verifikasi\n- Pas foto*; Upload Foto\n- Nama lengkap (Sesuai Ijazah)*\n- Jenis kelamin: Laki-Laki / Perempuan\n- NIK / No. KTP*\n- Upload KTP*; KTP; Upload Berkas\n- Upload KTP dengan format *.pdf\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "be52d0addc8c935e5358268fcd038ad6",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 6: VERIFIKASI",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 6: VERIFIKASI",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Verifikasi Formulir Daftar Ulang, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBT, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBP, Verifikasi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "kode verifikasi",
+      "kirim formulir",
+      "konfirmasi daftar ulang",
+      "verifikasi daftar ulang S1"
+    ],
+    "search_text": "Judul: Verifikasi Formulir Daftar Ulang, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBT, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBP, Verifikasi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 6: VERIFIKASI\nAlias: kode verifikasi, kirim formulir, konfirmasi daftar ulang, verifikasi daftar ulang S1\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n## BAGIAN 6: VERIFIKASI\n\nInstruksi:\n- Kode verifikasi diisi sesuai gambar teks.\n- Jika gambar teks tidak terbaca atau tidak tampil, silakan klik link:\n  Tidak terbaca? Ganti text.\n- Ceklist Konfirmasi jika isian formulir pendaftaran ulang sudah lengkap\n  dan sesuai ketentuan.\n- Pastikan Anda telah melengkapi isian formulir pada langkah 2 sesuai\n  ketentuan berlaku.\n- Klik tombol KIRIM FORMULIR untuk mengirim formulir pendaftaran ulang\n  dan menampilkan informasi formulir berhasil dikirim.\n- Langkah selanjutnya adalah menunggu pengumuman Kelompok UKT sesuai jadwal.\nTeks pada tampilan formulir:\n- Tgl pendaftaran: 23 Maret 2025\n- Kode verifikasi*\n- Tidak terbaca? Ganti text.\n- Ketik teks sesuai kode verifikasi\n- Konfirmasi*\n- Dengan ini saya menyatakan bahwa data yang saya isikan adalah data yang\n  sebenarnya, jika di kemudian hari ternyata data yang saya isikan terbukti\n  tidak benar maka saya bersedia digugurkan dan diproses sesuai aturan\n  perundang-undangan.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 6: VERIFIKASI\n\nInstruksi:\n- Kode verifikasi diisi sesuai gambar teks.\n- Jika gambar teks tidak terbaca atau tidak tampil, silakan klik link:\n  Tidak terbaca? Ganti text.\n- Ceklist Konfirmasi jika isian formulir pendaftaran ulang sudah lengkap\n  dan sesuai ketentuan.\n- Pastikan Anda telah melengkapi isian formulir pada langkah 2 sesuai\n  ketentuan berlaku.\n- Klik tombol KIRIM FORMULIR untuk mengirim formulir pendaftaran ulang\n  dan menampilkan informasi formulir berhasil dikirim.\n- Langkah selanjutnya adalah menunggu pengumuman Kelompok UKT sesuai jadwal.\nTeks pada tampilan formulir:\n- Tgl pendaftaran: 23 Maret 2025\n- Kode verifikasi*\n- Tidak terbaca? Ganti text.\n- Ketik teks sesuai kode verifikasi\n- Konfirmasi*\n- Dengan ini saya menyatakan bahwa data yang saya isikan adalah data yang\n  sebenarnya, jika di kemudian hari ternyata data yang saya isikan terbukti\n  tidak benar maka saya bersedia digugurkan dan diproses sesuai aturan\n  perundang-undangan.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "caecbd7d0074775e222d421ee9caa9f8",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## RINGKASAN ALUR",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > RINGKASAN ALUR",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ringkasan Alur Isi Formulir Daftar Ulang, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBT, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBP, Ringkasan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "alur daftar ulang",
+      "ringkasan daftar ulang",
+      "langkah daftar ulang",
+      "alur daftar ulang S1",
+      "ringkasan daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Ringkasan Alur Isi Formulir Daftar Ulang, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBT, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBP, Ringkasan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > RINGKASAN ALUR\nAlias: alur daftar ulang, ringkasan daftar ulang, langkah daftar ulang, alur daftar ulang S1, ringkasan daftar ulang sarjana\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n## RINGKASAN ALUR\n\n1. Login ke admisi.uinjkt.ac.id.\n2. Isi Informasi Pribadi.\n3. Isi Riwayat Pendidikan.\n4. Isi Data UKT.\n5. Jika mengikuti proses penentuan UKT, unggah dokumen pendukung UKT.\n6. Isi Data Orang Tua.\n7. Isi Data Wali jika ada.\n8. Lakukan Verifikasi.\n9. Kirim formulir dan tunggu pengumuman Kelompok UKT sesuai jadwal.",
+    "content": "## RINGKASAN ALUR\n\n1. Login ke admisi.uinjkt.ac.id.\n2. Isi Informasi Pribadi.\n3. Isi Riwayat Pendidikan.\n4. Isi Data UKT.\n5. Jika mengikuti proses penentuan UKT, unggah dokumen pendukung UKT.\n6. Isi Data Orang Tua.\n7. Isi Data Wali jika ada.\n8. Lakukan Verifikasi.\n9. Kirim formulir dan tunggu pengumuman Kelompok UKT sesuai jadwal."
+  },
+  {
+    "id": "43827f0ba32b65dd3bcfc796db000c61",
+    "source_file": "Tata_Cara_Pendaftaran_SPMB_MANDIRI_tagged.md",
+    "heading": "## Tata Cara Pendaftaran",
+    "parent_context": "Tata Cara Pendaftaran Spmb Mandiri > Tata Cara Pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Pendaftaran SPMB Mandiri",
+    "alias_topik": [
+      "prosedur daftar jalur SPMB Mandiri",
+      "generate nomor pendaftaran",
+      "ID PIN",
+      "cetak kartu peserta"
+    ],
+    "search_text": "Judul: Tata Cara Pendaftaran SPMB Mandiri\nKonteks: Tata Cara Pendaftaran Spmb Mandiri > Tata Cara Pendaftaran\nAlias: prosedur daftar jalur SPMB Mandiri, generate nomor pendaftaran, ID PIN, cetak kartu peserta\nIntent: tanya_prosedur_pendaftaran\n\n## Tata Cara Pendaftaran\n\nCalon peserta mengakses laman https://admisi.uinjkt.ac.id;\n\nCalon peserta memilih jalur seleksi yang diminati dengan melakukan klik pada jalur tersebut, misalnya dengan\nmelakukan klik “Daftar” pada jalur Prestasi jika jalur yang diminati adalah jalur Prestasi;\nSetelah muncul menu Pendaftaran maka calon peserta lanjut melakukan klik “Daftar” untuk mengisi formulir\npendaftaran dan generate nomor pendaftaran;\nCalon peserta harus melakukan klik pada Persetujuan persyaratan untuk bisa melakukan generate nomor\npendaftaran dan mendapatkan nomor pendaftaran, ID, dan PIN;\nKhusus calon peserta jalur seleksi Non-Reguler maka harus mengunggah (upload) rapor dari kelas 10 semester 1\nsampai dengan kelas 12 semester 5 serta dokumen lain yang dipersyaratkan sesuai jalur masuknya;\nCalon peserta melakukan pembayaran pendaftaran dengan nomor pendaftaran yang sudah didapatkan secara langsung\nmelalui bank mitra yang telah bekerja sama dengan UIN Jakarta;\nSetelah melakukan pembayaran maka proses selanjutnya adalah cetak kartu peserta dengan cara calon peserta login kembali dengan menggunakan ID dan PIN pada laman https://admisi.uinjkt.ac.id dengan masuk pada jalur yang telah dipilihnya;\nPeserta mengisi data borang lanjutan dan melakukan klik “Cetak Kartu” untuk melakukan cetak kartu peserta;\nSetelah mencetak kartu maka calon peserta sudah permanen menjadi peserta seleksi;\nBagi peserta jalur seleksi Reguler akan mengikuti ujian SSE UIN Jakarta sesuai jadwal dan lokasi ujian yang\ntertera pada kartu peserta;\nBagi peserta jalur seleksi Non-Reguler akan diinformasikan jadwal dan lokasi seleksi oleh tim Program Studi\nuntuk melakukan verifikasi rapor dan wawancara sesuai jadwal yang telah ditentukan.",
+    "content": "## Tata Cara Pendaftaran\n\nCalon peserta mengakses laman https://admisi.uinjkt.ac.id;\n\nCalon peserta memilih jalur seleksi yang diminati dengan melakukan klik pada jalur tersebut, misalnya dengan\nmelakukan klik “Daftar” pada jalur Prestasi jika jalur yang diminati adalah jalur Prestasi;\nSetelah muncul menu Pendaftaran maka calon peserta lanjut melakukan klik “Daftar” untuk mengisi formulir\npendaftaran dan generate nomor pendaftaran;\nCalon peserta harus melakukan klik pada Persetujuan persyaratan untuk bisa melakukan generate nomor\npendaftaran dan mendapatkan nomor pendaftaran, ID, dan PIN;\nKhusus calon peserta jalur seleksi Non-Reguler maka harus mengunggah (upload) rapor dari kelas 10 semester 1\nsampai dengan kelas 12 semester 5 serta dokumen lain yang dipersyaratkan sesuai jalur masuknya;\nCalon peserta melakukan pembayaran pendaftaran dengan nomor pendaftaran yang sudah didapatkan secara langsung\nmelalui bank mitra yang telah bekerja sama dengan UIN Jakarta;\nSetelah melakukan pembayaran maka proses selanjutnya adalah cetak kartu peserta dengan cara calon peserta login kembali dengan menggunakan ID dan PIN pada laman https://admisi.uinjkt.ac.id dengan masuk pada jalur yang telah dipilihnya;\nPeserta mengisi data borang lanjutan dan melakukan klik “Cetak Kartu” untuk melakukan cetak kartu peserta;\nSetelah mencetak kartu maka calon peserta sudah permanen menjadi peserta seleksi;\nBagi peserta jalur seleksi Reguler akan mengikuti ujian SSE UIN Jakarta sesuai jadwal dan lokasi ujian yang\ntertera pada kartu peserta;\nBagi peserta jalur seleksi Non-Reguler akan diinformasikan jadwal dan lokasi seleksi oleh tim Program Studi\nuntuk melakukan verifikasi rapor dan wawancara sesuai jadwal yang telah ditentukan."
+  },
+  {
+    "id": "4824333534c61e7d349802e0b6c413d4",
+    "source_file": "um_ptkin_tagged.md",
+    "heading": "## 1. Prosedur Pendaftaran UM-PTKIN",
+    "parent_context": "Tentang UM-PTKIN > 1. Prosedur Pendaftaran UM-PTKIN",
+    "intents": [
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prosedur Pendaftaran UM-PTKIN",
+    "alias_topik": [
+      "cara daftar UM PTKIN",
+      "akun UM PTKIN",
+      "finalisasi UM PTKIN",
+      "cetak kartu UM PTKIN"
+    ],
+    "search_text": "Judul: Prosedur Pendaftaran UM-PTKIN\nKonteks: Tentang UM-PTKIN > 1. Prosedur Pendaftaran UM-PTKIN\nAlias: cara daftar UM PTKIN, akun UM PTKIN, finalisasi UM PTKIN, cetak kartu UM PTKIN\nIntent: tanya_prosedur_pendaftaran\n\n## 1. Prosedur Pendaftaran UM-PTKIN\n\n1. Calon peserta mendaftar Akun UM-PTKIN. Pilih Daftar Bagi Calon Pendaftar yang memiliki NISN dan belum memiliki akun SPAN-PTKIN. Username dan Password didapat setelah melakukan pendaftaran dan dikirim melalui email yang dicantumkan saat pendaftaran akun UM-PTKIN.\n2. Pilih Login. Gunakan Username/NISN dan Password.\n3. Mengisi biodata secara online di di https://um.ptkin.ac.id/ atau menggunakan aplikasi mobile Android UM-PTKIN 2025 hingga mendapat INVOICE dan nomor VA (Virtual Account), Informasi nominal yang harus dibayarkan serta tatacara pembayaran.\n4. Calon peserta melakukan pembayaran pada Channel Pembayaran Bank Mandiri atau Bank lain dengan ketentuan sebagai berikut :\n   a. Melalui Bank Mandiri, pembayaran dapat dilakukan di seluruh Teller Kantor Cabang Bank Mandiri, ATM Bank Mandiri, LIVIN by Mandiri dengan menunjukkan / memasukkan nomor VA/Kode Bayar.\n   b. Selain Bank Mandiri, pembayaran dapat dilakukan di ATM Bank lain, dan Transfer dengan Nomor Rekening tujuan ke VA (Virtual Account) melalui Bank Non-Mandiri di seluruh Indonesia yang mendukung transfer antar bank dengan nomor VA (Virtual Account) sebagai nomor rekening tujuan . (ada tambahan biaya tergantung mitra)\n5. Peserta mendapat bukti pembayaran. Biaya seleksi yang sudah dibayar tidak dapat ditarik kembali dengan alasan apapun.\n6. Peserta melanjutkan pendaftaran online di www.um.ptkin.ac.id dengan melakukan Login kembali menggunakan NISN dan Password untuk memilih program studi dan PTKIN/PTN titik lokasi ujian hingga cetak kartu peserta ujian.\n7. Mengikuti ujian SSE UM-PTKIN pada PTKIN/PTN titik lokasi ujian yang dipilih oleh peserta.",
+    "content": "## 1. Prosedur Pendaftaran UM-PTKIN\n\n1. Calon peserta mendaftar Akun UM-PTKIN. Pilih Daftar Bagi Calon Pendaftar yang memiliki NISN dan belum memiliki akun SPAN-PTKIN. Username dan Password didapat setelah melakukan pendaftaran dan dikirim melalui email yang dicantumkan saat pendaftaran akun UM-PTKIN.\n2. Pilih Login. Gunakan Username/NISN dan Password.\n3. Mengisi biodata secara online di di https://um.ptkin.ac.id/ atau menggunakan aplikasi mobile Android UM-PTKIN 2025 hingga mendapat INVOICE dan nomor VA (Virtual Account), Informasi nominal yang harus dibayarkan serta tatacara pembayaran.\n4. Calon peserta melakukan pembayaran pada Channel Pembayaran Bank Mandiri atau Bank lain dengan ketentuan sebagai berikut :\n   a. Melalui Bank Mandiri, pembayaran dapat dilakukan di seluruh Teller Kantor Cabang Bank Mandiri, ATM Bank Mandiri, LIVIN by Mandiri dengan menunjukkan / memasukkan nomor VA/Kode Bayar.\n   b. Selain Bank Mandiri, pembayaran dapat dilakukan di ATM Bank lain, dan Transfer dengan Nomor Rekening tujuan ke VA (Virtual Account) melalui Bank Non-Mandiri di seluruh Indonesia yang mendukung transfer antar bank dengan nomor VA (Virtual Account) sebagai nomor rekening tujuan . (ada tambahan biaya tergantung mitra)\n5. Peserta mendapat bukti pembayaran. Biaya seleksi yang sudah dibayar tidak dapat ditarik kembali dengan alasan apapun.\n6. Peserta melanjutkan pendaftaran online di www.um.ptkin.ac.id dengan melakukan Login kembali menggunakan NISN dan Password untuk memilih program studi dan PTKIN/PTN titik lokasi ujian hingga cetak kartu peserta ujian.\n7. Mengikuti ujian SSE UM-PTKIN pada PTKIN/PTN titik lokasi ujian yang dipilih oleh peserta."
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "normalize_embeddings": true,
+  "index_type": "IndexFlatIP",
+  "embedding_field": "search_text",
+  "total_chunks": 387,
+  "valid_intents": [
+    "cara_bayar",
+    "daftar_ulang",
+    "tanya_beasiswa",
+    "tanya_biaya",
+    "tanya_jadwal",
+    "tanya_jalur",
+    "tanya_kontak",
+    "tanya_kuota",
+    "tanya_link",
+    "tanya_pascasarjana",
+    "tanya_persyaratan",
+    "tanya_prodi_fakultas",
+    "tanya_profesi",
+    "tanya_prosedur_pendaftaran",
+    "tanya_ujian"
+  ],
+  "tanya_prosedur_pendaftaran": {
+    "chunks": 69,
+    "dimension": 384
+  },
+  "tanya_beasiswa": {
+    "chunks": 43,
+    "dimension": 384
+  },
+  "tanya_persyaratan": {
+    "chunks": 62,
+    "dimension": 384
+  },
+  "tanya_link": {
+    "chunks": 24,
+    "dimension": 384
+  },
+  "tanya_jalur": {
+    "chunks": 51,
+    "dimension": 384
+  },
+  "tanya_ujian": {
+    "chunks": 15,
+    "dimension": 384
+  },
+  "tanya_pascasarjana": {
+    "chunks": 21,
+    "dimension": 384
+  },
+  "tanya_jadwal": {
+    "chunks": 30,
+    "dimension": 384
+  },
+  "tanya_biaya": {
+    "chunks": 76,
+    "dimension": 384
+  },
+  "tanya_prodi_fakultas": {
+    "chunks": 45,
+    "dimension": 384
+  },
+  "tanya_kontak": {
+    "chunks": 25,
+    "dimension": 384
+  },
+  "cara_bayar": {
+    "chunks": 42,
+    "dimension": 384
+  },
+  "tanya_profesi": {
+    "chunks": 37,
+    "dimension": 384
+  },
+  "tanya_kuota": {
+    "chunks": 4,
+    "dimension": 384
+  },
+  "daftar_ulang": {
+    "chunks": 18,
+    "dimension": 384
+  }
+}

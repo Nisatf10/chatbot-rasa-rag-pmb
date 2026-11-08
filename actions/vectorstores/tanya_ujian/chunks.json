@@ -1,0 +1,296 @@
+[
+  {
+    "id": "31b7844bee91c24f8c21ae1d45e09159",
+    "source_file": "blu_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Ketentuan Penilaian",
+    "intents": [
+      "tanya_ujian",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler BLU",
+    "alias_topik": [
+      "Tes Seleksi BLU",
+      "Ujian BLU",
+      "penilaian BLU",
+      "seleksi BLU",
+      "wawancara BLU",
+      "nilai rapor BLU"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler BLU\nKonteks: Ketentuan Penilaian\nAlias: Tes Seleksi BLU, Ujian BLU, penilaian BLU, seleksi BLU, wawancara BLU, nilai rapor BLU\nIntent: tanya_ujian, tanya_persyaratan\n\n## Ketentuan Penilaian\n\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat).",
+    "content": "## Ketentuan Penilaian\n\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat)."
+  },
+  {
+    "id": "66b5faacd36b93988bb2a6102add0c7b",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 13. Bagaimana seleksi nasional UM-PTKIN dilakukan?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jalur"
+    ],
+    "topik": "Seleksi Nasional UM-PTKIN",
+    "alias_topik": [
+      "seleksi UM-PTKIN",
+      "SSE UM-PTKIN",
+      "sistem seleksi UM-PTKIN"
+    ],
+    "search_text": "Judul: Seleksi Nasional UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: seleksi UM-PTKIN, SSE UM-PTKIN, sistem seleksi UM-PTKIN\nIntent: tanya_ujian, tanya_jalur\n\n#### 13. Bagaimana seleksi nasional UM-PTKIN dilakukan?\n\nSeleksi nasional UM- PTKIN dilakukan dengan menggunakan Sistem Seleksi Elektronik (SSE) yang mengukur potensi akademik, penalaran matematika, literasi membaca dan literasi ajaran islam.",
+    "content": "#### 13. Bagaimana seleksi nasional UM-PTKIN dilakukan?\n\nSeleksi nasional UM- PTKIN dilakukan dengan menggunakan Sistem Seleksi Elektronik (SSE) yang mengukur potensi akademik, penalaran matematika, literasi membaca dan literasi ajaran islam."
+  },
+  {
+    "id": "2bf37a469158ba50150b0d14d1225d94",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 14. Apa saja materi yang diujikan dalam UM-PTKIN?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_ujian"
+    ],
+    "topik": "Materi Ujian UM-PTKIN",
+    "alias_topik": [
+      "materi UM-PTKIN",
+      "materi SSE UM-PTKIN",
+      "tes UM-PTKIN"
+    ],
+    "search_text": "Judul: Materi Ujian UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: materi UM-PTKIN, materi SSE UM-PTKIN, tes UM-PTKIN\nIntent: tanya_ujian\n\n#### 14. Apa saja materi yang diujikan dalam UM-PTKIN?\n\nMateri ujian terdiri dari: tes potensi akademik, tes penalaran matematika, tes literasi membaca dan tes literasi ajaran islam",
+    "content": "#### 14. Apa saja materi yang diujikan dalam UM-PTKIN?\n\nMateri ujian terdiri dari: tes potensi akademik, tes penalaran matematika, tes literasi membaca dan tes literasi ajaran islam"
+  },
+  {
+    "id": "0ce5cc7626a00e17ebc9e01e95d93169",
+    "source_file": "mandiri_non_reg_pkb_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB) > Ketentuan Penilaian",
+    "intents": [
+      "tanya_ujian",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler PKB",
+    "alias_topik": [
+      "penilaian PKB",
+      "seleksi PKB",
+      "rapor PKB",
+      "wawancara PKB",
+      "prestasi PKB"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler PKB\nKonteks: Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB) > Ketentuan Penilaian\nAlias: penilaian PKB, seleksi PKB, rapor PKB, wawancara PKB, prestasi PKB\nIntent: tanya_ujian, tanya_persyaratan\n\n## Ketentuan Penilaian\n\n- Bukti domisili sesuai wilayah Tertinggal, Terluar dan Terdepan (3T), dibuktikan dengan KTP dan Kartu Keluarga dari wilayah domisili;\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5; dan\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat).",
+    "content": "## Ketentuan Penilaian\n\n- Bukti domisili sesuai wilayah Tertinggal, Terluar dan Terdepan (3T), dibuktikan dengan KTP dan Kartu Keluarga dari wilayah domisili;\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5; dan\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat)."
+  },
+  {
+    "id": "41d0a3b608e7cdab040f9f7f7434e38e",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "# Tentang SPMB Mandiri Reguler (SSE)",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE)",
+    "intents": [
+      "tanya_jalur",
+      "tanya_ujian"
+    ],
+    "topik": "SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "SSE",
+      "Mandiri Reguler",
+      "SPMB Mandiri Reguler",
+      "ujian SSE"
+    ],
+    "search_text": "Judul: SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE)\nAlias: SSE, Mandiri Reguler, SPMB Mandiri Reguler, ujian SSE\nIntent: tanya_jalur, tanya_ujian\n\n# Tentang SPMB Mandiri Reguler (SSE)\n\nSSE UIN Jakarta adalah aplikasi sistem seleksi elektronik berbasis komputer yang digunakan untuk SPMB Mandiri UIN Syarif Hidayatullah Jakarta.\nSPMB Mandiri Jalur Reguler adalah jalur seleksi mandiri UIN Syarif Hidayatullah Jakarta yang kelulusannya berdasarkan hasil tes yang dilaksanakan dengan menggunakan aplikasi SSE UIN Jakarta.\nUjian SSE dapat dilakukan secara online bagi pendaftar yang berasal dari luar daerah Jakarta, Jawa Barat, dan Banten \nUntuk Pendaftar yang berasal dari daerah Jakarta, Jawa Barat dan Banten Wajib melakukan tes secara Offline di UIN Jakarta",
+    "content": "# Tentang SPMB Mandiri Reguler (SSE)\n\nSSE UIN Jakarta adalah aplikasi sistem seleksi elektronik berbasis komputer yang digunakan untuk SPMB Mandiri UIN Syarif Hidayatullah Jakarta.\nSPMB Mandiri Jalur Reguler adalah jalur seleksi mandiri UIN Syarif Hidayatullah Jakarta yang kelulusannya berdasarkan hasil tes yang dilaksanakan dengan menggunakan aplikasi SSE UIN Jakarta.\nUjian SSE dapat dilakukan secara online bagi pendaftar yang berasal dari luar daerah Jakarta, Jawa Barat, dan Banten \nUntuk Pendaftar yang berasal dari daerah Jakarta, Jawa Barat dan Banten Wajib melakukan tes secara Offline di UIN Jakarta"
+  },
+  {
+    "id": "e791e2cd4d8db0ad3d36e07c858c2165",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "## Materi Ujian SPMB Mandiri Reguler",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE) > Materi Ujian SPMB Mandiri Reguler",
+    "intents": [
+      "tanya_ujian"
+    ],
+    "topik": "Materi Ujian SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "materi Ujian SSE",
+      "materi ujian tes SPMB mandiri reguler",
+      "materi tes mandiri"
+    ],
+    "search_text": "Judul: Materi Ujian SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE) > Materi Ujian SPMB Mandiri Reguler\nAlias: materi Ujian SSE, materi ujian tes SPMB mandiri reguler, materi tes mandiri\nIntent: tanya_ujian\n\n## Materi Ujian SPMB Mandiri Reguler\n\n1. Penalaran Akademik\n   Mengukur kemampuan potensi calon mahasiswa yang dapat menghantarkan penyelesaian dan keberhasilan studi di jenjang strata satu, yang meliputi:\n   - Penalaran Verbal berupa kemampuan pemahaman berbahasa secara tertulis dan ketrampilan bahasa yang berdasarkan struktur dan aturan bahasa baik dalam kata, kalimat, maupun narasi;\n   - Penalaran Kuantitatif berupa kemampuan menerapkan konsep hitungan, logika angka, simbol numerical dalam berpikir sistematis dan memecahkan masalah. Konteks dalam penalaran “verbal” dikaitkan dengan aspek-aspek dalam kehidupan sehari-hari yang meliputi masalah keindonesiaan, keislaman, sains dan teknologi, pendidikan, kesehatan, ekonomi dan bisnis, seni budaya, dan olah raga.\n2. Penalaran Matematika\n   Mengukur kemampuan peserta dalam memahami dan menganalisis isi bacaan sederhana dengan menggunakan penalarannya guna memecahkan permasalahan kehidupan sehari-hari melalui penerapan konsep, prosedur dan fakta dalam matematika. Bacaan tersebut dielaborasi melalui beragam representasi (grafik/tabel/bagan atau representasi lainnya) untuk memprediksi dan/atau mengambil keputusan yang dibutuhkan mereka sebagai bekal dalam menghadapi tuntutan hidup abad ke-21.\n3. Literasi Bahasa\n   Mengukur kemampuan untuk memahami, menggunakan, mengevaluasi, merefleksikan berbagai jenis teks Bahasa Indonesia dan Bahasa Inggris dalam konteks sosio- humaniora dan konteks sains serta jenis teks Bahasa Arab untuk menyelesaikan masalah dan mengembangkan kapasitas individu yang moderat dan unggul sebagai warga Indonesia dan warga dunia agar dapat berkontribusi secara produktif dan proporsional.\n4. Literasi Keislaman\n   Mengukur kemampuan memahami, menerapkan dan menganalisis materi ajaran Islam meliputi Al-Quran, Hadits, Fikih, Aqidah Akhlak, dan Sejarah Kebudayaan Islam dalam konteks personal, masyarakat, global dan moderasi untuk mewujudkan masyarakat madani. Penguasaan literasi ajaran Islam ini sangat penting untuk menanamkan kepribadian yang baik dan memperkuat iman serta mengaplikasikan ajaran Islam dalam kehidupan individu sehari-hari maupun dalam kehidupan bermasyarakat dan berbangsa",
+    "content": "## Materi Ujian SPMB Mandiri Reguler\n\n1. Penalaran Akademik\n   Mengukur kemampuan potensi calon mahasiswa yang dapat menghantarkan penyelesaian dan keberhasilan studi di jenjang strata satu, yang meliputi:\n   - Penalaran Verbal berupa kemampuan pemahaman berbahasa secara tertulis dan ketrampilan bahasa yang berdasarkan struktur dan aturan bahasa baik dalam kata, kalimat, maupun narasi;\n   - Penalaran Kuantitatif berupa kemampuan menerapkan konsep hitungan, logika angka, simbol numerical dalam berpikir sistematis dan memecahkan masalah. Konteks dalam penalaran “verbal” dikaitkan dengan aspek-aspek dalam kehidupan sehari-hari yang meliputi masalah keindonesiaan, keislaman, sains dan teknologi, pendidikan, kesehatan, ekonomi dan bisnis, seni budaya, dan olah raga.\n2. Penalaran Matematika\n   Mengukur kemampuan peserta dalam memahami dan menganalisis isi bacaan sederhana dengan menggunakan penalarannya guna memecahkan permasalahan kehidupan sehari-hari melalui penerapan konsep, prosedur dan fakta dalam matematika. Bacaan tersebut dielaborasi melalui beragam representasi (grafik/tabel/bagan atau representasi lainnya) untuk memprediksi dan/atau mengambil keputusan yang dibutuhkan mereka sebagai bekal dalam menghadapi tuntutan hidup abad ke-21.\n3. Literasi Bahasa\n   Mengukur kemampuan untuk memahami, menggunakan, mengevaluasi, merefleksikan berbagai jenis teks Bahasa Indonesia dan Bahasa Inggris dalam konteks sosio- humaniora dan konteks sains serta jenis teks Bahasa Arab untuk menyelesaikan masalah dan mengembangkan kapasitas individu yang moderat dan unggul sebagai warga Indonesia dan warga dunia agar dapat berkontribusi secara produktif dan proporsional.\n4. Literasi Keislaman\n   Mengukur kemampuan memahami, menerapkan dan menganalisis materi ajaran Islam meliputi Al-Quran, Hadits, Fikih, Aqidah Akhlak, dan Sejarah Kebudayaan Islam dalam konteks personal, masyarakat, global dan moderasi untuk mewujudkan masyarakat madani. Penguasaan literasi ajaran Islam ini sangat penting untuk menanamkan kepribadian yang baik dan memperkuat iman serta mengaplikasikan ajaran Islam dalam kehidupan individu sehari-hari maupun dalam kehidupan bermasyarakat dan berbangsa"
+  },
+  {
+    "id": "3d573a67feac77cb60e69527105de315",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "# SELEKSI MASUK PASCASARJANA",
+    "parent_context": "SELEKSI MASUK PASCASARJANA",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_ujian",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Alur Pendaftaran Seleksi Masuk Pascasarjana S2 S3 Magister Doktor UIN Jakarta",
+    "alias_topik": [
+      "Prosedur pendaftaran pascasarjana",
+      "biaya pascasarjana",
+      "tes pascasarjana",
+      "ETIC TOAFL",
+      "TPA pascasarjana"
+    ],
+    "search_text": "Judul: Alur Pendaftaran Seleksi Masuk Pascasarjana S2 S3 Magister Doktor UIN Jakarta\nKonteks: SELEKSI MASUK PASCASARJANA\nAlias: Prosedur pendaftaran pascasarjana, biaya pascasarjana, tes pascasarjana, ETIC TOAFL, TPA pascasarjana\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_ujian, tanya_pascasarjana\n\n# SELEKSI MASUK PASCASARJANA\n\n1. Pendaftaran\nPembayaran Pendaftaran melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia. Panduan pembayaran dapat dilihat pada Tata Cara Pembayaran.\nBiaya Pendaftaran Warga Negara Indonesia dan Warga Negara Asing:\n- Magister: Rp. 750.000\n- Doktor: Rp. 1.500.000\nPendaftaran:\n- Ganjil: 9 Februari - 25 Juni 2026\n- Genap: -\n2. Tes Masuk (Online)\nETIC & TOAFL\n- Ganjil: 2 - 3 Juli 2026\n- Genap: -\nTPA\n- Ganjil: 6 - 7 Juli 2026\n- Genap: -\nWawancara\n- Ganjil: 8 - 9 Juli 2026\n- Genap: -\n3. Pengumuman Hasil Tes\nPengumuman Hasil Seleksi:\n- Ganjil: 22 Juli 2026 Pukul 18.00 WIB\n- Genap: -",
+    "content": "# SELEKSI MASUK PASCASARJANA\n\n1. Pendaftaran\nPembayaran Pendaftaran melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia. Panduan pembayaran dapat dilihat pada Tata Cara Pembayaran.\nBiaya Pendaftaran Warga Negara Indonesia dan Warga Negara Asing:\n- Magister: Rp. 750.000\n- Doktor: Rp. 1.500.000\nPendaftaran:\n- Ganjil: 9 Februari - 25 Juni 2026\n- Genap: -\n2. Tes Masuk (Online)\nETIC & TOAFL\n- Ganjil: 2 - 3 Juli 2026\n- Genap: -\nTPA\n- Ganjil: 6 - 7 Juli 2026\n- Genap: -\nWawancara\n- Ganjil: 8 - 9 Juli 2026\n- Genap: -\n3. Pengumuman Hasil Tes\nPengumuman Hasil Seleksi:\n- Ganjil: 22 Juli 2026 Pukul 18.00 WIB\n- Genap: -"
+  },
+  {
+    "id": "e75abd3b4c2b31231ea1ca4a6a70e67a",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## Informasi Tambahan",
+    "parent_context": "Informasi Tambahan",
+    "intents": [
+      "tanya_profesi",
+      "tanya_kontak",
+      "tanya_ujian",
+      "tanya_link"
+    ],
+    "topik": "Informasi Tambahan Profesi Apoteker",
+    "alias_topik": [
+      "kontak profesi apoteker",
+      "ujian profesi apoteker",
+      "materi ujian apoteker"
+    ],
+    "search_text": "Judul: Informasi Tambahan Profesi Apoteker\nKonteks: Informasi Tambahan\nAlias: kontak profesi apoteker, ujian profesi apoteker, materi ujian apoteker\nIntent: tanya_profesi, tanya_kontak, tanya_ujian, tanya_link\n\n## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian.",
+    "content": "## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian."
+  },
+  {
+    "id": "a07e07bf30f729602852ee055d7399e8",
+    "source_file": "sk_rektor_kalender_akademik_2026_2027_tagged.md",
+    "heading": "## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)",
+    "parent_context": "JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)",
+    "intents": [
+      "tanya_jadwal",
+      "daftar_ulang",
+      "tanya_ujian"
+    ],
+    "topik": "Jadwal Pendafataran dan Daftar Ulang Program Magister S2 dan Doktor S3 Kalender PMB 2026/2027",
+    "alias_topik": [
+      "jadwal S2",
+      "jadwal S3",
+      "jadwal pascasarjana",
+      "ETIC TOAFL TPA wawancara"
+    ],
+    "search_text": "Judul: Jadwal Pendafataran dan Daftar Ulang Program Magister S2 dan Doktor S3 Kalender PMB 2026/2027\nKonteks: JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\nAlias: jadwal S2, jadwal S3, jadwal pascasarjana, ETIC TOAFL TPA wawancara\nIntent: tanya_jadwal, daftar_ulang, tanya_ujian\n\n## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\n\n| No. | Uraian Kegiatan | Ganjil | Genap |\n|---:|---|---|---|\n| 1 | Pendaftaran Online | 9 februari —25 Juni 2026 | 01 Maret—31 Desember 2026 |\n| 2a | Tes Masuk: ETIC dan TOAFL | 02—03 Juli 2026 | 07—08 Januari 2027 |\n| 2b | Tes Masuk: TPA | 06—07 Juli 2026 | 11—12 Januari 2027 |\n| 2c | Tes Masuk: Wawancara | 08—09 Juli 2026 | 13—14 Januari 2027 |\n| 3 | Pengumuman Kelulusan | 22 Juli 2026 | 27 Januari 2027 |\n| 4 | Daftar Ulang | 23 Juli—13 Agustus 2026 | 28 Januari—11 Februari 2027 |\n| 5 | Matrikulasi | 18—31 Agustus 2026 | 15—26 Februari 2027 |\n| 6 | Awal Perkuliahan | 01 September 2026 | 22 Maret 2027 |\n\nREKTOR,\nASEP SAEPUDIN JAHAR",
+    "content": "## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\n\n| No. | Uraian Kegiatan | Ganjil | Genap |\n|---:|---|---|---|\n| 1 | Pendaftaran Online | 9 februari —25 Juni 2026 | 01 Maret—31 Desember 2026 |\n| 2a | Tes Masuk: ETIC dan TOAFL | 02—03 Juli 2026 | 07—08 Januari 2027 |\n| 2b | Tes Masuk: TPA | 06—07 Juli 2026 | 11—12 Januari 2027 |\n| 2c | Tes Masuk: Wawancara | 08—09 Juli 2026 | 13—14 Januari 2027 |\n| 3 | Pengumuman Kelulusan | 22 Juli 2026 | 27 Januari 2027 |\n| 4 | Daftar Ulang | 23 Juli—13 Agustus 2026 | 28 Januari—11 Februari 2027 |\n| 5 | Matrikulasi | 18—31 Agustus 2026 | 15—26 Februari 2027 |\n| 6 | Awal Perkuliahan | 01 September 2026 | 22 Maret 2027 |\n\nREKTOR,\nASEP SAEPUDIN JAHAR"
+  },
+  {
+    "id": "aec8380bd1675d257b0f4ba842a6e9dd",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Materi Tes",
+    "parent_context": "SNBT > Materi Tes",
+    "intents": [
+      "tanya_ujian"
+    ],
+    "topik": "Materi Ujian Tes SNBT",
+    "alias_topik": [
+      "materi SNBT",
+      "materi UTBK",
+      "TPS",
+      "tes UTBK",
+      "Ujian UTBK"
+    ],
+    "search_text": "Judul: Materi Ujian Tes SNBT\nKonteks: SNBT > Materi Tes\nAlias: materi SNBT, materi UTBK, TPS, tes UTBK, Ujian UTBK\nIntent: tanya_ujian\n\n## Materi Tes\n\n1. Tes Potensi Skolastik (TPS)\n   a. Penalaran Umum\n   b. Pengetahuan dan Pemahaman Umum\n   c. Pemahaman Bacaan dan Menulis\n   d. Pengetahuan Kuantitatif\n2. Tes Literasi\n   a. Literasi dalam Bahasa Indonesia\n   b. Literasi dalam Bahasa Inggris\n   c. Penalaran Matematika",
+    "content": "## Materi Tes\n\n1. Tes Potensi Skolastik (TPS)\n   a. Penalaran Umum\n   b. Pengetahuan dan Pemahaman Umum\n   c. Pemahaman Bacaan dan Menulis\n   d. Pengetahuan Kuantitatif\n2. Tes Literasi\n   a. Literasi dalam Bahasa Indonesia\n   b. Literasi dalam Bahasa Inggris\n   c. Penalaran Matematika"
+  },
+  {
+    "id": "b1bb5ad1129518ddd902a9133c0cf276",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 6. Ujian Seleksi",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 6. Ujian Seleksi",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Ujian Seleksi Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "ujian Obgin",
+      "jadwal ujian Obgin",
+      "TPA Obgin",
+      "CBT Obgin",
+      "OSCE Obgin"
+    ],
+    "search_text": "Judul: Ujian Seleksi Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 6. Ujian Seleksi\nAlias: ujian Obgin, jadwal ujian Obgin, TPA Obgin, CBT Obgin, OSCE Obgin\nIntent: tanya_ujian, tanya_jadwal, tanya_profesi\n\n## 6. Ujian Seleksi\n\n1. Tes Kesehatan: 18 Mei 2026\n2. Tes Potensi Akademik (TPA): 19 Mei 2026\n3. Ujian CBT: 20 Mei 2026\n4. MMPI dan Wawancara Psikiater: 21 Mei 2026\n5. Wawancara Umum: 25 Mei 2026\n6. OSCE: 26 Mei 2026",
+    "content": "## 6. Ujian Seleksi\n\n1. Tes Kesehatan: 18 Mei 2026\n2. Tes Potensi Akademik (TPA): 19 Mei 2026\n3. Ujian CBT: 20 Mei 2026\n4. MMPI dan Wawancara Psikiater: 21 Mei 2026\n5. Wawancara Umum: 25 Mei 2026\n6. OSCE: 26 Mei 2026"
+  },
+  {
+    "id": "0dc639676860013316d13e9137d790e7",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 6. Ujian Seleksi",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 6. Ujian Seleksi",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Ujian Seleksi Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "ujian pulmonologi",
+      "SSE pulmonologi",
+      "TPA pulmonologi",
+      "CBT pulmonologi"
+    ],
+    "search_text": "Judul: Ujian Seleksi Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 6. Ujian Seleksi\nAlias: ujian pulmonologi, SSE pulmonologi, TPA pulmonologi, CBT pulmonologi\nIntent: tanya_ujian, tanya_jadwal, tanya_profesi\n\n## 6. Ujian Seleksi\n\n1. Uji Coba SSE (Sistem Seleksi Elektronik) Online: 18 Mei 2026\n2. Ujian SSE Online - TPA: 19 Mei 2026\n3. Ujian CBT Pulmonologi Dasar: 20 Mei 2026",
+    "content": "## 6. Ujian Seleksi\n\n1. Uji Coba SSE (Sistem Seleksi Elektronik) Online: 18 Mei 2026\n2. Ujian SSE Online - TPA: 19 Mei 2026\n3. Ujian CBT Pulmonologi Dasar: 20 Mei 2026"
+  },
+  {
+    "id": "f87af2830bd5aac53d863b1e73b712e2",
+    "source_file": "spmb_mandiri_non_reguler_prestasi_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Penilaian",
+    "intents": [
+      "tanya_ujian",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler Prestasi",
+    "alias_topik": [
+      "penilaian prestasi",
+      "rapor prestasi",
+      "wawancara prestasi",
+      "portofolio prestasi",
+      "jalur alquran",
+      "jalur tahfidz"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler Prestasi\nKonteks: Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Penilaian\nAlias: penilaian prestasi, rapor prestasi, wawancara prestasi, portofolio prestasi, jalur alquran, jalur tahfidz\nIntent: tanya_ujian, tanya_persyaratan\n\n## Ketentuan Penilaian\n\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait prestasi bidang akademik serta non akademik; dan\n3. Portofolio prestasi:\n   a. Memiliki Nomor Induk Siswa Nasional (NISN);\n   b. Memiliki prestasi minimal peringkat ketiga pada kompetisi tingkat Nasional atau Internasional; dan\n   c. Bukti prestasi seperti piagam penghargaan dan sertifikat yang diperoleh saat SMA/SMK/MA/MAK/Pesantren Pendidikan Diniyah Formal (PDF) /Satuan Pendidikan Mu’adalah/Pendidikan Kesetaraan Pondok Pesantren Salafiyah (PKPPS) atau sederajat yang memiliki Nomor Pokok Sekolah Nasional (NPSN). Bukti diunggah ke laman Admisi UIN Jakarta (maksimal 3 file).",
+    "content": "## Ketentuan Penilaian\n\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait prestasi bidang akademik serta non akademik; dan\n3. Portofolio prestasi:\n   a. Memiliki Nomor Induk Siswa Nasional (NISN);\n   b. Memiliki prestasi minimal peringkat ketiga pada kompetisi tingkat Nasional atau Internasional; dan\n   c. Bukti prestasi seperti piagam penghargaan dan sertifikat yang diperoleh saat SMA/SMK/MA/MAK/Pesantren Pendidikan Diniyah Formal (PDF) /Satuan Pendidikan Mu’adalah/Pendidikan Kesetaraan Pondok Pesantren Salafiyah (PKPPS) atau sederajat yang memiliki Nomor Pokok Sekolah Nasional (NPSN). Bukti diunggah ke laman Admisi UIN Jakarta (maksimal 3 file)."
+  },
+  {
+    "id": "9fc1c594083974af2f1e685c2cdcf2ae",
+    "source_file": "talent_scouting_ts_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Ketentuan Penilaian",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_ujian",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler Talent Scouting",
+    "alias_topik": [
+      "penilaian TS",
+      "syarat TS",
+      "MoU MoA",
+      "rapor TS",
+      "wawancara TS"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler Talent Scouting\nKonteks: Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Ketentuan Penilaian\nAlias: penilaian TS, syarat TS, MoU MoA, rapor TS, wawancara TS\nIntent: tanya_persyaratan, tanya_ujian, tanya_jalur\n\n## Ketentuan Penilaian\n\nSalinan MoU atau MoA antara sekolah dengan Fakultas/Universitas yang masih berlaku;\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n3. Bukti prestasi (piagam atau sertifikat).",
+    "content": "## Ketentuan Penilaian\n\nSalinan MoU atau MoA antara sekolah dengan Fakultas/Universitas yang masih berlaku;\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n3. Bukti prestasi (piagam atau sertifikat)."
+  },
+  {
+    "id": "a7fd2080808c9db10508ba084b38fed0",
+    "source_file": "um_ptkin_tagged.md",
+    "heading": "## Materi Ujian",
+    "parent_context": "Tentang UM-PTKIN > Materi Ujian",
+    "intents": [
+      "tanya_ujian"
+    ],
+    "topik": "Materi Ujian UM-PTKIN",
+    "alias_topik": [
+      "materi UM PTKIN",
+      "materi SSE UM PTKIN",
+      "Penalaran Akademik",
+      "Literasi Ajaran Islam"
+    ],
+    "search_text": "Judul: Materi Ujian UM-PTKIN\nKonteks: Tentang UM-PTKIN > Materi Ujian\nAlias: materi UM PTKIN, materi SSE UM PTKIN, Penalaran Akademik, Literasi Ajaran Islam\nIntent: tanya_ujian\n\n## Materi Ujian\n\n1. Penalaran Akademik (PA) mengukur kemampuan potensi calon mahasiswa yang dapat menghantarkan penyelesaian dan keberhasilan studi di jenjang strata satu. TPA terdiri atas:\n   a. Penalaran Verbal berupa kemampuan pemahaman berbahasa secara tertulis dan ketrampilan bahasa yang berdasarkan struktur dan aturan bahasa baik dalam kata, kalimat, maupun narasi;\n   b. Penalaran Gambar berupa kemampuan dalam menvisualisasikan dan memahami objek atau simbol secara abstrak. Penalaran gambar sangat cocok untuk memprediksi kreativitas calon mahasiswa;\n   c. Penalaran Kuantitatif berupa kemampuan menerapkan konsep hitungan, logika angka, simbol numerical dalam berpikir sistematis dan memecahkan masalah. Konteks dalam tes penalaran “gambar” bersifat umum, sedangkan konteks dalam penalaran “verbal” dikaitkan dengan aspek-aspek dalam kehidupan sehari-hari yang meliputi masalah keindonesiaan, keislaman, sains dan teknologi, Pendidikan, Kesehatan, ekonomi dan bisnis, dan seni budaya dan olah raga.\n2. Penalaran Matematika mengukur kemampuan peserta dalam memahami dan menganalisis isi bacaan sederhana dengan menggunakan penalarannya guna memecahkan permasalahan kehidupan sehari-hari melalui penerapan konsep, prosedur dan fakta dalam matematika. Bacaan tersebut dielaborasi melalui beragam representasi (grafik/ tabel/bagan atau representasi lainnya) untuk memprediksi dan/atau mengambil keputusan yang dibutuhkan mereka sebagai bekal dalam menghadapi tuntutan hidup abad ke-21.\n3. Literasi membaca mengukur kemampuan untuk memahami, menggunakan, mengevaluasi, merefleksikan berbagai jenis teks Bahasa Indonesia dan Bahasa Inggris dalam konteks sosio humaniora dan konteks sains serta jenis teks Bahasa Arab untuk menyelesaikan masalah dan mengembangkan kapasitas individu yang moderat dan unggul sebagai warga Indonesia dan warga dunia agar dapat berkontribusi secara produktif dan proporsional.\n4. Literasi Ajaran Islam mengukur kemampuan memahami, menerapkan dan menganalisis materi ajaran Islam meliputi Al-Quran, Hadis, Fikih dan Sejarah Kebudayaan Islam dalam konteks personal, masyarakat, global dan moderasi untuk mewujudkan masyarakat madani. Penguasaan literasi ajaran Islam ini sangat penting untuk menanamkan kepribadian yang baik dan memperkuat iman serta mengaplikasikan ajaran Islam dalam kehidupan individu sehari-hari maupun dalam kehidupan bermasyarakat dan berbangsa.",
+    "content": "## Materi Ujian\n\n1. Penalaran Akademik (PA) mengukur kemampuan potensi calon mahasiswa yang dapat menghantarkan penyelesaian dan keberhasilan studi di jenjang strata satu. TPA terdiri atas:\n   a. Penalaran Verbal berupa kemampuan pemahaman berbahasa secara tertulis dan ketrampilan bahasa yang berdasarkan struktur dan aturan bahasa baik dalam kata, kalimat, maupun narasi;\n   b. Penalaran Gambar berupa kemampuan dalam menvisualisasikan dan memahami objek atau simbol secara abstrak. Penalaran gambar sangat cocok untuk memprediksi kreativitas calon mahasiswa;\n   c. Penalaran Kuantitatif berupa kemampuan menerapkan konsep hitungan, logika angka, simbol numerical dalam berpikir sistematis dan memecahkan masalah. Konteks dalam tes penalaran “gambar” bersifat umum, sedangkan konteks dalam penalaran “verbal” dikaitkan dengan aspek-aspek dalam kehidupan sehari-hari yang meliputi masalah keindonesiaan, keislaman, sains dan teknologi, Pendidikan, Kesehatan, ekonomi dan bisnis, dan seni budaya dan olah raga.\n2. Penalaran Matematika mengukur kemampuan peserta dalam memahami dan menganalisis isi bacaan sederhana dengan menggunakan penalarannya guna memecahkan permasalahan kehidupan sehari-hari melalui penerapan konsep, prosedur dan fakta dalam matematika. Bacaan tersebut dielaborasi melalui beragam representasi (grafik/ tabel/bagan atau representasi lainnya) untuk memprediksi dan/atau mengambil keputusan yang dibutuhkan mereka sebagai bekal dalam menghadapi tuntutan hidup abad ke-21.\n3. Literasi membaca mengukur kemampuan untuk memahami, menggunakan, mengevaluasi, merefleksikan berbagai jenis teks Bahasa Indonesia dan Bahasa Inggris dalam konteks sosio humaniora dan konteks sains serta jenis teks Bahasa Arab untuk menyelesaikan masalah dan mengembangkan kapasitas individu yang moderat dan unggul sebagai warga Indonesia dan warga dunia agar dapat berkontribusi secara produktif dan proporsional.\n4. Literasi Ajaran Islam mengukur kemampuan memahami, menerapkan dan menganalisis materi ajaran Islam meliputi Al-Quran, Hadis, Fikih dan Sejarah Kebudayaan Islam dalam konteks personal, masyarakat, global dan moderasi untuk mewujudkan masyarakat madani. Penguasaan literasi ajaran Islam ini sangat penting untuk menanamkan kepribadian yang baik dan memperkuat iman serta mengaplikasikan ajaran Islam dalam kehidupan individu sehari-hari maupun dalam kehidupan bermasyarakat dan berbangsa."
+  }
+]

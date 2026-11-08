@@ -1,0 +1,44 @@
+ALUR PENDAFTARAN PROGRAM SARJANA (S-1)
+SPMB MANDIRI REGULER DAN NON-REGULER
+UIN SYARIF HIDAYATULLAH JAKARTA TAHUN 2026
+
+Sumber: alur_pendaftaran_spmb_mandiri_2026.docx
+
+
+ALUR PENDAFTARAN
+
+1. INFORMASI PENERIMAAN
+   Keterangan:
+   - Buka: penerimaan.uinjkt.ac.id
+   - Klik tombol Info untuk Informasi Jalur SPMB.
+2. AKSES PENDAFTARAN
+   Keterangan:
+   - Klik tombol Daftar.
+3. ISI FORMULIR PENDAFTARAN
+   Keterangan:
+   - Mengisi formulir pendaftaran.
+   - Setelah mengisi formulir, pendaftar mendapatkan Nomor Pendaftaran.
+4. PEMBAYARAN PENDAFTARAN
+   Keterangan:
+   - Melakukan pembayaran dengan Nomor Pendaftaran melalui bank yang ditunjuk.
+5. FINALISASI DATA
+   Keterangan:
+   - Buka: admisi.uinjkt.ac.id
+   - Lengkapi biodata.
+   - Cetak kartu ujian.
+6. PELAKSANAAN UJIAN
+   Keterangan:
+   - Mengikuti pelaksanaan ujian sesuai ketentuan/jadwal yang berlaku.
+7. PENGUMUMAN KELULUSAN
+   Keterangan:
+   - Cek pengumuman kelulusan di: admisi.uinjkt.ac.id
+
+
+RINGKASAN ALUR
+Informasi Penerimaan
+-> Akses Pendaftaran
+-> Isi Formulir Pendaftaran
+-> Pembayaran Pendaftaran
+-> Finalisasi Data
+-> Pelaksanaan Ujian
+-> Pengumuman Kelulusan

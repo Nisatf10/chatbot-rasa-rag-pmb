@@ -1,0 +1,3 @@
+chatbot-pmb.duckdns.org {
+    reverse_proxy rasa:5005
+}

@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "2cc840f2ddb79eec5550a74298234d43",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### A. Persyaratan Umum",
+    "parent_context": "Beasiswa BLU",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "A. Persyaratan Umum Beasiswa BLU",
+    "alias_topik": [
+      "syarat Beasiswa BLU",
+      "persyaratan Beasiswa BLU"
+    ],
+    "search_text": "Judul: A. Persyaratan Umum Beasiswa BLU\nKonteks: Beasiswa BLU\nAlias: syarat Beasiswa BLU, persyaratan Beasiswa BLU\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta Program Sarjana Strata Satu (S1)\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus.",
+    "content": "#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta Program Sarjana Strata Satu (S1)\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus."
+  },
+  {
+    "id": "5ddcbdb4c6c32d88bc447a7b9ad03104",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa BLU",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa BLU",
+    "alias_topik": [
+      "syarat Beasiswa BLU",
+      "persyaratan Beasiswa BLU"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa BLU\nKonteks: Beasiswa BLU\nAlias: syarat Beasiswa BLU, persyaratan Beasiswa BLU\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Lulus Madrasah Aliyah (MA), Madrasah Aliyah Keagamaan (MAK), Pesantren, Madrasah Diniyah (Madin) Ulya, SMA, SMK, dan yang sederajat setahun sebelum atau pada tahun yang berjalan\n- Lulus tes Jalur Seleksi Beasiswa BLU masuk UIN Syarif Hidayatullah Jakarta pada Fakultas yang telah ditentukan oleh Universitas (Fakultas Ushuluddin, Fakultas Dirasat Islamiyah, dan Fakultas Adab dan Humaniora)\n- Mahasiswa yang masuk dalam golongan Uang Kuliah Tunggal (UKT) 3\nUsia maksimal pada saat mendaftar adalah 21 tahun.",
+    "content": "#### B. Persyaratan Khusus\n\n- Lulus Madrasah Aliyah (MA), Madrasah Aliyah Keagamaan (MAK), Pesantren, Madrasah Diniyah (Madin) Ulya, SMA, SMK, dan yang sederajat setahun sebelum atau pada tahun yang berjalan\n- Lulus tes Jalur Seleksi Beasiswa BLU masuk UIN Syarif Hidayatullah Jakarta pada Fakultas yang telah ditentukan oleh Universitas (Fakultas Ushuluddin, Fakultas Dirasat Islamiyah, dan Fakultas Adab dan Humaniora)\n- Mahasiswa yang masuk dalam golongan Uang Kuliah Tunggal (UKT) 3\nUsia maksimal pada saat mendaftar adalah 21 tahun."
+  },
+  {
+    "id": "7082e98042badf954a5139298327adcc",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### A. Persyaratan Umum",
+    "parent_context": "Beasiswa BLU Bagi Mahasiswa Asing",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "A. Persyaratan Umum Beasiswa BLU Bagi Mahasiswa Asing",
+    "alias_topik": [
+      "syarat Beasiswa BLU Bagi Mahasiswa Asing",
+      "persyaratan Beasiswa BLU Bagi Mahasiswa Asing"
+    ],
+    "search_text": "Judul: A. Persyaratan Umum Beasiswa BLU Bagi Mahasiswa Asing\nKonteks: Beasiswa BLU Bagi Mahasiswa Asing\nAlias: syarat Beasiswa BLU Bagi Mahasiswa Asing, persyaratan Beasiswa BLU Bagi Mahasiswa Asing\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus.",
+    "content": "#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus."
+  },
+  {
+    "id": "2137c7e1611e5184d267b32f5e0ef602",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa BLU Bagi Mahasiswa Asing",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa BLU Bagi Mahasiswa Asing",
+    "alias_topik": [
+      "syarat Beasiswa BLU Bagi Mahasiswa Asing",
+      "persyaratan Beasiswa BLU Bagi Mahasiswa Asing"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa BLU Bagi Mahasiswa Asing\nKonteks: Beasiswa BLU Bagi Mahasiswa Asing\nAlias: syarat Beasiswa BLU Bagi Mahasiswa Asing, persyaratan Beasiswa BLU Bagi Mahasiswa Asing\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n1. Program Strata Satu (S1):\n- Warga Negara Asing (WNA)\n- Usia maksimal 25 tahun\n- Melampirkan Curriculum Vitae (CV)\n- Melengkapi dokumen\nBelum menikah dan tidak boleh menikah selama mendapat beasiswa.\n2. Program Strata Dua (S2)\n- Warga Negara Asing (WNA)\n- Usia maksimal 35 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen\n3. Program Strata Tiga (Doktor)\n- Warga Negara Asing (WNA)\n- Usia maksimal 48 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen.",
+    "content": "#### B. Persyaratan Khusus\n\n1. Program Strata Satu (S1):\n- Warga Negara Asing (WNA)\n- Usia maksimal 25 tahun\n- Melampirkan Curriculum Vitae (CV)\n- Melengkapi dokumen\nBelum menikah dan tidak boleh menikah selama mendapat beasiswa.\n2. Program Strata Dua (S2)\n- Warga Negara Asing (WNA)\n- Usia maksimal 35 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen\n3. Program Strata Tiga (Doktor)\n- Warga Negara Asing (WNA)\n- Usia maksimal 48 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen."
+  },
+  {
+    "id": "98b2fec2858d536482c6a42a8807e814",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### Persyaratan Pendaftaran",
+    "parent_context": "Beasiswa KIP (Kartu Indonesia Pintar)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "Persyaratan Pendaftaran Beasiswa KIP (Kartu Indonesia Pintar)",
+    "alias_topik": [
+      "syarat Beasiswa KIP (Kartu Indonesia Pintar)",
+      "persyaratan Beasiswa KIP (Kartu Indonesia Pintar)"
+    ],
+    "search_text": "Judul: Persyaratan Pendaftaran Beasiswa KIP (Kartu Indonesia Pintar)\nKonteks: Beasiswa KIP (Kartu Indonesia Pintar)\nAlias: syarat Beasiswa KIP (Kartu Indonesia Pintar), persyaratan Beasiswa KIP (Kartu Indonesia Pintar)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### Persyaratan Pendaftaran\n\nSudah terdaftar sebagai mahasiswa UIN Syarif Hidayatullah Jakarta, Tahun Akademik 2025/2026:\n- Mahasiswa baru lulusan MA/SMA/sederajat yang diterima Tahun akademik 2025\n- Dinyatakan dengan bukti masuk, berupa salinan surat Keputusan\nMemiliki kartu program bantuan nasional dalam bentuk:\nKartu Indonesia Pintar (KIP); atau\nKartu Jakarta Pintar (KJP); atau\nKartu Keluarga Sejahtera (KKS) untuk Program Keluarga Harapan (PKH)\nBagi mahasiswa yang tidak termasuk dalam kategori pada point b, maka masih tetap dapat mendaftar untuk mendapatkan KIP Kuliah, jika kuota penerima beasiswa belum terpenuhi dengan syarat:\nTidak mampu secara ekonomi yang dibuktikan dengan :\n- tergolong dalam kelompok UKT 1 s.d. 3\nMahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan dibuktikan dengan surat keterangan dari pimpinan sekolah asal",
+    "content": "#### Persyaratan Pendaftaran\n\nSudah terdaftar sebagai mahasiswa UIN Syarif Hidayatullah Jakarta, Tahun Akademik 2025/2026:\n- Mahasiswa baru lulusan MA/SMA/sederajat yang diterima Tahun akademik 2025\n- Dinyatakan dengan bukti masuk, berupa salinan surat Keputusan\nMemiliki kartu program bantuan nasional dalam bentuk:\nKartu Indonesia Pintar (KIP); atau\nKartu Jakarta Pintar (KJP); atau\nKartu Keluarga Sejahtera (KKS) untuk Program Keluarga Harapan (PKH)\nBagi mahasiswa yang tidak termasuk dalam kategori pada point b, maka masih tetap dapat mendaftar untuk mendapatkan KIP Kuliah, jika kuota penerima beasiswa belum terpenuhi dengan syarat:\nTidak mampu secara ekonomi yang dibuktikan dengan :\n- tergolong dalam kelompok UKT 1 s.d. 3\nMahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan dibuktikan dengan surat keterangan dari pimpinan sekolah asal"
+  },
+  {
+    "id": "27666298d3a80803da4e516baf22f88f",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Kartu Jakarta Mahasiswa Unggul (KJMU);",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Kartu Jakarta Mahasiswa Unggul (KJMU);",
+    "alias_topik": [
+      "syarat Kartu Jakarta Mahasiswa Unggul (KJMU);",
+      "persyaratan Kartu Jakarta Mahasiswa Unggul (KJMU);"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Kartu Jakarta Mahasiswa Unggul (KJMU);\nKonteks: Beasiswa Pascasarjana > Kartu Jakarta Mahasiswa Unggul (KJMU);\nAlias: syarat Kartu Jakarta Mahasiswa Unggul (KJMU);, persyaratan Kartu Jakarta Mahasiswa Unggul (KJMU);\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Dinyatakan lulus dari pendidikan menengah pada satuan pendidikan negeri/swasta di DKI Jakarta paling lama 3 tahun sebelumnya\n- Dinyatakan lulus pada PTN jalur reguler di bawah naungan Kementerian Pendidikan dan Kebudayaan Riset dan Teknologi (Kemendikbudristek) dan Kementerian Agama (Kemenag)\nBagi calon penerima KJMU yang sudah berstatus sebagai mahasiswa, ada ketentuan tambahan persyaratan khusus, yakni pengajuan sebagai calon penerima baru KJMU maksimal hingga semester 4 (tidak diperkenankan bagi mahasiswa lanjutan lebih dari semester 4).",
+    "content": "#### B. Persyaratan Khusus\n\n- Dinyatakan lulus dari pendidikan menengah pada satuan pendidikan negeri/swasta di DKI Jakarta paling lama 3 tahun sebelumnya\n- Dinyatakan lulus pada PTN jalur reguler di bawah naungan Kementerian Pendidikan dan Kebudayaan Riset dan Teknologi (Kemendikbudristek) dan Kementerian Agama (Kemenag)\nBagi calon penerima KJMU yang sudah berstatus sebagai mahasiswa, ada ketentuan tambahan persyaratan khusus, yakni pengajuan sebagai calon penerima baru KJMU maksimal hingga semester 4 (tidak diperkenankan bagi mahasiswa lanjutan lebih dari semester 4)."
+  },
+  {
+    "id": "fe9aa507a44c08bef308c3d640cb9ad1",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### A. Persyaratan Umum",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "A. Persyaratan Umum Beasiswa Karya Salemba Empat (KSE)",
+    "alias_topik": [
+      "syarat Beasiswa Karya Salemba Empat (KSE)",
+      "persyaratan Beasiswa Karya Salemba Empat (KSE)"
+    ],
+    "search_text": "Judul: A. Persyaratan Umum Beasiswa Karya Salemba Empat (KSE)\nKonteks: Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)\nAlias: syarat Beasiswa Karya Salemba Empat (KSE), persyaratan Beasiswa Karya Salemba Empat (KSE)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\n- Tidak terlibat aksi demo anarkis yang menolak kebijakan kampus.",
+    "content": "#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\n- Tidak terlibat aksi demo anarkis yang menolak kebijakan kampus."
+  },
+  {
+    "id": "b7563c5027c4a88fe66388a5497730b7",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Karya Salemba Empat (KSE)",
+    "alias_topik": [
+      "syarat Beasiswa Karya Salemba Empat (KSE)",
+      "persyaratan Beasiswa Karya Salemba Empat (KSE)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Karya Salemba Empat (KSE)\nKonteks: Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)\nAlias: syarat Beasiswa Karya Salemba Empat (KSE), persyaratan Beasiswa Karya Salemba Empat (KSE)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Mahasiswa yang bersangkutan belum menikah\n- Mahasiswa yang bersangkutan tidak sedang menerima beasiswa dari fakultas, universitas, lembaga atau pihak ketiga lain\n- Beasiswa diberikan dalam bentuk tunjangan biaya hidup sebesar Rp 750.000 (tujuh ratus lima puluh ribu rupiah) per bulan nya\n- Beasiswa ini diberikan tanpa ikatan kedinasan atau apapun terhadap mahasiswa penerima maupun pihak kampus.",
+    "content": "#### B. Persyaratan Khusus\n\n- Mahasiswa yang bersangkutan belum menikah\n- Mahasiswa yang bersangkutan tidak sedang menerima beasiswa dari fakultas, universitas, lembaga atau pihak ketiga lain\n- Beasiswa diberikan dalam bentuk tunjangan biaya hidup sebesar Rp 750.000 (tujuh ratus lima puluh ribu rupiah) per bulan nya\n- Beasiswa ini diberikan tanpa ikatan kedinasan atau apapun terhadap mahasiswa penerima maupun pihak kampus."
+  },
+  {
+    "id": "637dbb58660a22643f68332a271d75b3",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Badan Amil Zakat Nasional (Baznas)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Badan Amil Zakat Nasional (Baznas)",
+    "alias_topik": [
+      "syarat Beasiswa Badan Amil Zakat Nasional (Baznas)",
+      "persyaratan Beasiswa Badan Amil Zakat Nasional (Baznas)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Badan Amil Zakat Nasional (Baznas)\nKonteks: Beasiswa Pascasarjana > Beasiswa Badan Amil Zakat Nasional (Baznas)\nAlias: syarat Beasiswa Badan Amil Zakat Nasional (Baznas), persyaratan Beasiswa Badan Amil Zakat Nasional (Baznas)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Mahasiswa S1/D4 semester 5 program reguler\n- IPK minimal 3,00 (skala 4,00)\n- Tidak sedang mendapat beasiswa serupa dari instansi lain\nMelengkapi dokumen pendaftaran\nMemenuhi salah satu kategori beasiswa, yaitu:\n- Jurusan prioritas: komputer, profesi (kedokteran, psikologi, keperawatan, farmasi), teknik, akuntansi, statistika, manajemen zakat dan wakaf, komunikasi, ekonomi, dan pendidikan\n- Prestasi: Memiliki prestasi nasional dan/atau internasional (lebih direkomendasikan yang telah tercatat di Pusat Prestasi Nasional (Puspresnas) Kemdikbudristek\n- Wirausaha: Memiliki usaha pribadi yang sudah berjalan minimal 6 bulan\nAktivis: Menjadi pengurus organisasi kemahasiswaan minimal tingkat jurusan atau organisasi kepemudaan/masyarakat.",
+    "content": "#### B. Persyaratan Khusus\n\n- Mahasiswa S1/D4 semester 5 program reguler\n- IPK minimal 3,00 (skala 4,00)\n- Tidak sedang mendapat beasiswa serupa dari instansi lain\nMelengkapi dokumen pendaftaran\nMemenuhi salah satu kategori beasiswa, yaitu:\n- Jurusan prioritas: komputer, profesi (kedokteran, psikologi, keperawatan, farmasi), teknik, akuntansi, statistika, manajemen zakat dan wakaf, komunikasi, ekonomi, dan pendidikan\n- Prestasi: Memiliki prestasi nasional dan/atau internasional (lebih direkomendasikan yang telah tercatat di Pusat Prestasi Nasional (Puspresnas) Kemdikbudristek\n- Wirausaha: Memiliki usaha pribadi yang sudah berjalan minimal 6 bulan\nAktivis: Menjadi pengurus organisasi kemahasiswaan minimal tingkat jurusan atau organisasi kepemudaan/masyarakat."
+  },
+  {
+    "id": "ebeadda016ead6d3432e970c9935fd52",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Djarum Plus",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Djarum Plus",
+    "alias_topik": [
+      "syarat Beasiswa Djarum Plus",
+      "persyaratan Beasiswa Djarum Plus"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Djarum Plus\nKonteks: Beasiswa Pascasarjana > Beasiswa Djarum Plus\nAlias: syarat Beasiswa Djarum Plus, persyaratan Beasiswa Djarum Plus\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Sedang menempuh pendidikan Strata 1/Diploma 4 di semester IV, dari semua disiplin ilmu\n- IPK minimum 3.00 pada semester III, serta dapat mempertahankan IPK minimum 3.00 hingga akhir semester IV\n- Aktif mengikuti kegiatan organisasi, baik di dalam maupun luar kampus\nTidak sedang menerima beasiswa dari pihak lain.",
+    "content": "#### B. Persyaratan Khusus\n\n- Sedang menempuh pendidikan Strata 1/Diploma 4 di semester IV, dari semua disiplin ilmu\n- IPK minimum 3.00 pada semester III, serta dapat mempertahankan IPK minimum 3.00 hingga akhir semester IV\n- Aktif mengikuti kegiatan organisasi, baik di dalam maupun luar kampus\nTidak sedang menerima beasiswa dari pihak lain."
+  },
+  {
+    "id": "576e997103e96468b6ff6dd3c3f9acdb",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+    "alias_topik": [
+      "syarat Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+      "persyaratan Beasiswa Badan Riset dan Inovasi Nasional (BRIN)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nKonteks: Beasiswa Pascasarjana > Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nAlias: syarat Beasiswa Badan Riset dan Inovasi Nasional (BRIN), persyaratan Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\nMahasiswa aktif yang sedang menyelesaikan tugas akhir (skripsi).\nIPK minimal 3,35 dari skala 4,00.\nWarga Negara Indonesia (WNI).\nBersedia melakukan riset dengan tema yang ditetapkan.",
+    "content": "#### B. Persyaratan Khusus\n\nMahasiswa aktif yang sedang menyelesaikan tugas akhir (skripsi).\nIPK minimal 3,35 dari skala 4,00.\nWarga Negara Indonesia (WNI).\nBersedia melakukan riset dengan tema yang ditetapkan."
+  },
+  {
+    "id": "371752eaf8a591570714ee286a89d41e",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+    "alias_topik": [
+      "syarat Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+      "persyaratan Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nKonteks: Beasiswa Pascasarjana > Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nAlias: syarat Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek), persyaratan Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\nKelayakan Akademik: Pelamar dari jenjang SMA/SMK sederajat (kelas 12) atau mahasiswa minimal semester 2 dari semua jurusan.\nKomitmen tidak menikah selama mengikuti program dan bersedia mengikuti program hingga selesai.\nDokumen Pendukung: Pas foto 4x6, salinan kartu pelajar/mahasiswa, rapor semester 1-5, surat pernyataan bermaterai, surat izin orang tua bermaterai, slip gaji orang tua, dan sertifikat pendukung.",
+    "content": "#### B. Persyaratan Khusus\n\nKelayakan Akademik: Pelamar dari jenjang SMA/SMK sederajat (kelas 12) atau mahasiswa minimal semester 2 dari semua jurusan.\nKomitmen tidak menikah selama mengikuti program dan bersedia mengikuti program hingga selesai.\nDokumen Pendukung: Pas foto 4x6, salinan kartu pelajar/mahasiswa, rapor semester 1-5, surat pernyataan bermaterai, surat izin orang tua bermaterai, slip gaji orang tua, dan sertifikat pendukung."
+  },
+  {
+    "id": "197d5c58c0d5ff6ef7964d35e3096b16",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+    "alias_topik": [
+      "syarat Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+      "persyaratan Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nKonteks: Beasiswa Pascasarjana > Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nAlias: syarat Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu), persyaratan Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Warga Negara Indonesia (WNI)\n- Bagi pendaftar jenjang Sarjana (S1) harus memiliki ijazah pada jenjang pendidikan menengah keagamaan, seperti MA, MAK, Pendidikan Diniyah Formal, Pendidikan Mu'adalah, Pendidikan Kesetaraan pada Pesantren Salafiyah, dan SMA/SMK pada pondok pesantren\n- Pendaftar jenjang Magister (S2) harus memiliki Ijazah S1 atau D4 beserta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri, wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.00\n- Pendaftar jenjang Doktor (S3) harus memiliki ijazah S2 serta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.25\n- Pendaftar jenjang Doktor (S3) harus berstatus sebagai Dosen Perguruan Tinggi Keagamaan (PTK), Dosen PAI pada Perguruan Tinggi Umum, guru atau pegawai di lingkungan Kementerian Agama yang dibuktikan dengan Kartu NUPTK/NPK\n- Tidak sedang menerima beasiswa lainnya\n- Beasiswa diperuntukkan untuk mahasiswa kelas reguler\n- Melampirkan Surat Pernyataan Pendaftar Beasiswa di atas materai Rp 10.000 yang telah ditandatangani\n- Tidak sedang menempuh pendidikan atau sudah lulus dari program S1/S2/S3\n- Membuat essai yang menjelaskan profil, motivasi, dan rencana kontribusi terhadap masyarakat dengan ketentuan 1000-1500 kata dalam bahasa Indonesia bagi jenjang S1\n- Membuat essai yang menjelaskan pemilihan program studi, topik yang akan ditulis dalam tesis, rencana studi dari awal hingga selesai dan aktivitas yang dilakukan di luar akademik. Dituliskan dalam bahasa Indonesia dengan kriteria 1500-2000 kata untuk jenjang S2\nMembuat essai yang berisi tentang rencana penelitian disertasi minimal 3 halaman dan maksimal 5 halaman bagi jenjang S3. Ditulis dalam bahasa Indonesia/Inggris/Arab bagi pendaftar S3 luar negeri.",
+    "content": "#### B. Persyaratan Khusus\n\n- Warga Negara Indonesia (WNI)\n- Bagi pendaftar jenjang Sarjana (S1) harus memiliki ijazah pada jenjang pendidikan menengah keagamaan, seperti MA, MAK, Pendidikan Diniyah Formal, Pendidikan Mu'adalah, Pendidikan Kesetaraan pada Pesantren Salafiyah, dan SMA/SMK pada pondok pesantren\n- Pendaftar jenjang Magister (S2) harus memiliki Ijazah S1 atau D4 beserta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri, wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.00\n- Pendaftar jenjang Doktor (S3) harus memiliki ijazah S2 serta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.25\n- Pendaftar jenjang Doktor (S3) harus berstatus sebagai Dosen Perguruan Tinggi Keagamaan (PTK), Dosen PAI pada Perguruan Tinggi Umum, guru atau pegawai di lingkungan Kementerian Agama yang dibuktikan dengan Kartu NUPTK/NPK\n- Tidak sedang menerima beasiswa lainnya\n- Beasiswa diperuntukkan untuk mahasiswa kelas reguler\n- Melampirkan Surat Pernyataan Pendaftar Beasiswa di atas materai Rp 10.000 yang telah ditandatangani\n- Tidak sedang menempuh pendidikan atau sudah lulus dari program S1/S2/S3\n- Membuat essai yang menjelaskan profil, motivasi, dan rencana kontribusi terhadap masyarakat dengan ketentuan 1000-1500 kata dalam bahasa Indonesia bagi jenjang S1\n- Membuat essai yang menjelaskan pemilihan program studi, topik yang akan ditulis dalam tesis, rencana studi dari awal hingga selesai dan aktivitas yang dilakukan di luar akademik. Dituliskan dalam bahasa Indonesia dengan kriteria 1500-2000 kata untuk jenjang S2\nMembuat essai yang berisi tentang rencana penelitian disertasi minimal 3 halaman dan maksimal 5 halaman bagi jenjang S3. Ditulis dalam bahasa Indonesia/Inggris/Arab bagi pendaftar S3 luar negeri."
+  },
+  {
+    "id": "19618205a676d4fea599ac988d15cca4",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Pendidikan Indonesia (BPI)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Pendidikan Indonesia (BPI)",
+    "alias_topik": [
+      "syarat Beasiswa Pendidikan Indonesia (BPI)",
+      "persyaratan Beasiswa Pendidikan Indonesia (BPI)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Pendidikan Indonesia (BPI)\nKonteks: Beasiswa Pascasarjana > Beasiswa Pendidikan Indonesia (BPI)\nAlias: syarat Beasiswa Pendidikan Indonesia (BPI), persyaratan Beasiswa Pendidikan Indonesia (BPI)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\nWarga Negara Indonesia (WNI).\nJenjang Pendidikan:\nS1/D4, S2, dan S3.\nMemiliki ijazah dan transkrip nilai dari jenjang pendidikan sebelumnya.\nIjazah luar negeri harus disetarakan di Indonesia.\nKemampuan Bahasa:\nTOEFL iBT minimal 80, TOEFL PBT minimal 550, IELTS minimal 6.5, atau setara.\nKemampuan bahasa negara tujuan (jika diperlukan).\nDokumen Kesehatan:\nSurat keterangan sehat dan bebas narkoba, berlaku maksimal 6 bulan sejak diterbitkan.\nTidak Sedang Menerima Beasiswa Lain yang menyebabkan pendanaan ganda.\nLoA (Letter of Acceptance):\nLoA bersyarat atau tidak bersyarat dari perguruan tinggi yang diakui (jika berlaku).\nPersyaratan Tambahan untuk S1: IPK Minimal pelamar S1/D4: Rata-rata nilai akademik minimal sesuai standar program.",
+    "content": "#### B. Persyaratan Khusus\n\nWarga Negara Indonesia (WNI).\nJenjang Pendidikan:\nS1/D4, S2, dan S3.\nMemiliki ijazah dan transkrip nilai dari jenjang pendidikan sebelumnya.\nIjazah luar negeri harus disetarakan di Indonesia.\nKemampuan Bahasa:\nTOEFL iBT minimal 80, TOEFL PBT minimal 550, IELTS minimal 6.5, atau setara.\nKemampuan bahasa negara tujuan (jika diperlukan).\nDokumen Kesehatan:\nSurat keterangan sehat dan bebas narkoba, berlaku maksimal 6 bulan sejak diterbitkan.\nTidak Sedang Menerima Beasiswa Lain yang menyebabkan pendanaan ganda.\nLoA (Letter of Acceptance):\nLoA bersyarat atau tidak bersyarat dari perguruan tinggi yang diakui (jika berlaku).\nPersyaratan Tambahan untuk S1: IPK Minimal pelamar S1/D4: Rata-rata nilai akademik minimal sesuai standar program."
+  },
+  {
+    "id": "0e69ff6afe0b271cb0a79b008173ba05",
+    "source_file": "blu_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler BLU",
+    "alias_topik": [
+      "ketentuan BLU",
+      "syarat BLU",
+      "Beasiswa BLU",
+      "Jalur BLU"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler BLU\nKonteks: Ketentuan Peserta\nAlias: ketentuan BLU, syarat BLU, Beasiswa BLU, Jalur BLU\nIntent: tanya_persyaratan, tanya_beasiswa, tanya_jalur\n\n## Ketentuan Peserta\n\nSeleksi Beasiswa BLU merupakan seleksi bagi calon mahasiswa penerima beasiswa pada fakultas dan program studi tertentu di lingkungan UIN Syarif Hidayatullah Jakarta. Kriteria penerima beasiswa ditentukan oleh program studi masing-masing.",
+    "content": "## Ketentuan Peserta\n\nSeleksi Beasiswa BLU merupakan seleksi bagi calon mahasiswa penerima beasiswa pada fakultas dan program studi tertentu di lingkungan UIN Syarif Hidayatullah Jakarta. Kriteria penerima beasiswa ditentukan oleh program studi masing-masing."
+  },
+  {
+    "id": "31b7844bee91c24f8c21ae1d45e09159",
+    "source_file": "blu_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Ketentuan Penilaian",
+    "intents": [
+      "tanya_ujian",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler BLU",
+    "alias_topik": [
+      "Tes Seleksi BLU",
+      "Ujian BLU",
+      "penilaian BLU",
+      "seleksi BLU",
+      "wawancara BLU",
+      "nilai rapor BLU"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler BLU\nKonteks: Ketentuan Penilaian\nAlias: Tes Seleksi BLU, Ujian BLU, penilaian BLU, seleksi BLU, wawancara BLU, nilai rapor BLU\nIntent: tanya_ujian, tanya_persyaratan\n\n## Ketentuan Penilaian\n\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat).",
+    "content": "## Ketentuan Penilaian\n\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat)."
+  },
+  {
+    "id": "9c447d486550ff7adc88f2a583d96bb3",
+    "source_file": "brosur_magister_ekonomi_syariah_tagged_v2.md",
+    "heading": "## PERSYARATAN",
+    "parent_context": "BROSUR MAGISTER EKONOMI SYARIAH > PERSYARATAN",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Magister Ekonomi Syariah",
+    "alias_topik": [
+      "syarat S2 Ekonomi Syariah",
+      "syarat Magister Ekonomi Syariah",
+      "persyaratan pascasarjana ekonomi syariah"
+    ],
+    "search_text": "Judul: Persyaratan Magister Ekonomi Syariah\nKonteks: BROSUR MAGISTER EKONOMI SYARIAH > PERSYARATAN\nAlias: syarat S2 Ekonomi Syariah, syarat Magister Ekonomi Syariah, persyaratan pascasarjana ekonomi syariah\nIntent: tanya_persyaratan\n\n## PERSYARATAN\n\n1. File Ijazah dan transkrip S1 yang telah dilegalisasi.\n2. Proposal Tesis minimal 10 halaman sebanyak 2 eksemplar.",
+    "content": "## PERSYARATAN\n\n1. File Ijazah dan transkrip S1 yang telah dilegalisasi.\n2. Proposal Tesis minimal 10 halaman sebanyak 2 eksemplar."
+  },
+  {
+    "id": "5cbac82bca10c55748b9659937b2cfb7",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### B. Ketentuan Umum Pendaftaran UM-PTKIN",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > B. Ketentuan Umum Pendaftaran UM-PTKIN",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ketentuan Umum Pendaftaran UM-PTKIN",
+    "alias_topik": [
+      "syarat UM-PTKIN",
+      "ketentuan UM-PTKIN",
+      "persyaratan UM-PTKIN"
+    ],
+    "search_text": "Judul: Ketentuan Umum Pendaftaran UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > B. Ketentuan Umum Pendaftaran UM-PTKIN\nAlias: syarat UM-PTKIN, ketentuan UM-PTKIN, persyaratan UM-PTKIN\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n### B. Ketentuan Umum Pendaftaran UM-PTKIN\n\n1. Peserta yang berhak mendaftar adalah siswa pada Satuan Pendidikan\nMA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025, dan\n2026.\n2. Peserta lulusan tahun 2024 atau 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL) dan Peserta lulusan tahun 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa.\n3. Peserta wajib memiliki:\na. Nomor Induk Siswa Nasional (NISN);\nb. Email yang aktif dan dapat dihubungi;\nc. Nomor WhatsApp yang aktif dan dapat dihubungi.\n4. Peserta melakukan pendaftaran secara mandiri pada laman\nhttps://um.ptkin.ac.id.\n5. Peserta melakukan pembayaran biaya pendaftaran melalui bank yang ditetapkan oleh Panitia Nasional.\n6. Peserta memilih maksimal 3 (tiga) Program Studi pada PTKIN/PTN.\n7. Peserta memilih PTKIN/PTN Titik Lokasi Ujian.\n8. Pendaftaran peserta dinyatakan selesai apabila peserta telah melakukan Finalisasi Pendaftaran dan mencetak Kartu Peserta Ujian.",
+    "content": "### B. Ketentuan Umum Pendaftaran UM-PTKIN\n\n1. Peserta yang berhak mendaftar adalah siswa pada Satuan Pendidikan\nMA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025, dan\n2026.\n2. Peserta lulusan tahun 2024 atau 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL) dan Peserta lulusan tahun 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa.\n3. Peserta wajib memiliki:\na. Nomor Induk Siswa Nasional (NISN);\nb. Email yang aktif dan dapat dihubungi;\nc. Nomor WhatsApp yang aktif dan dapat dihubungi.\n4. Peserta melakukan pendaftaran secara mandiri pada laman\nhttps://um.ptkin.ac.id.\n5. Peserta melakukan pembayaran biaya pendaftaran melalui bank yang ditetapkan oleh Panitia Nasional.\n6. Peserta memilih maksimal 3 (tiga) Program Studi pada PTKIN/PTN.\n7. Peserta memilih PTKIN/PTN Titik Lokasi Ujian.\n8. Pendaftaran peserta dinyatakan selesai apabila peserta telah melakukan Finalisasi Pendaftaran dan mencetak Kartu Peserta Ujian."
+  },
+  {
+    "id": "36735496a40d50f25c11f54952655dcf",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 1. Peserta yang berhak mendaftar?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Peserta yang Berhak Mendaftar UM-PTKIN",
+    "alias_topik": [
+      "syarat peserta UM-PTKIN",
+      "peserta UM-PTKIN",
+      "lulusan yang bisa daftar UM-PTKIN"
+    ],
+    "search_text": "Judul: Peserta yang Berhak Mendaftar UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: syarat peserta UM-PTKIN, peserta UM-PTKIN, lulusan yang bisa daftar UM-PTKIN\nIntent: tanya_persyaratan\n\n#### 1. Peserta yang berhak mendaftar?\n\nSiswa pada Satuan Pendidikan MA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025 dan 2026.",
+    "content": "#### 1. Peserta yang berhak mendaftar?\n\nSiswa pada Satuan Pendidikan MA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025 dan 2026."
+  },
+  {
+    "id": "b161d1b0c6eb5ab33b2b9ee065fdc07c",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 2. Perlukah Ijazah/SKL?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Ijazah atau SKL untuk UM-PTKIN",
+    "alias_topik": [
+      "ijazah UM-PTKIN",
+      "SKL UM-PTKIN",
+      "dokumen kelulusan UM-PTKIN"
+    ],
+    "search_text": "Judul: Ijazah atau SKL untuk UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: ijazah UM-PTKIN, SKL UM-PTKIN, dokumen kelulusan UM-PTKIN\nIntent: tanya_persyaratan\n\n#### 2. Perlukah Ijazah/SKL?\n\nPeserta lulusan tahun 2024 dan 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL), dan Peserta lulusan 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa.",
+    "content": "#### 2. Perlukah Ijazah/SKL?\n\nPeserta lulusan tahun 2024 dan 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL), dan Peserta lulusan 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa."
+  },
+  {
+    "id": "bd14dd6a82a66cb31a9ebb7f3dc1b942",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 3. Siswa Lulusan Luar Negeri?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Siswa Lulusan Luar Negeri UM-PTKIN",
+    "alias_topik": [
+      "lulusan luar negeri UM-PTKIN",
+      "sekolah luar negeri UM-PTKIN",
+      "NPSN luar negeri UM-PTKIN"
+    ],
+    "search_text": "Judul: Siswa Lulusan Luar Negeri UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: lulusan luar negeri UM-PTKIN, sekolah luar negeri UM-PTKIN, NPSN luar negeri UM-PTKIN\nIntent: tanya_prosedur_pendaftaran, tanya_persyaratan\n\n#### 3. Siswa Lulusan Luar Negeri?\n\nBagi siswa luar negeri yang berasal dari sekolah non SRI (Sekolah Rakyat Indonesia), silakan melakukan verifikasi dan validasi NISN pada laman https://pd.data.kemdikbud.go.id/vervalLulusan/pengajuan/sekolah-ln dengan menggunakan NPSN 69999999. Untuk pendaftaran akun UM- PTKIN, siswa harus memiliki NISN, NPSN, dan tanggal lahir yang terdaftar di DAPODIK/PUSDATIN.",
+    "content": "#### 3. Siswa Lulusan Luar Negeri?\n\nBagi siswa luar negeri yang berasal dari sekolah non SRI (Sekolah Rakyat Indonesia), silakan melakukan verifikasi dan validasi NISN pada laman https://pd.data.kemdikbud.go.id/vervalLulusan/pengajuan/sekolah-ln dengan menggunakan NPSN 69999999. Untuk pendaftaran akun UM- PTKIN, siswa harus memiliki NISN, NPSN, dan tanggal lahir yang terdaftar di DAPODIK/PUSDATIN."
+  },
+  {
+    "id": "a8a73e34739acfd667e3c5bfdd6fb1d2",
+    "source_file": "mahasiswa_internasional_tagged.md",
+    "heading": "## Cara Mendaftar",
+    "parent_context": "Mahasiswa Internasional > Cara Mendaftar",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Cara Mendaftar Mahasiswa Internasional",
+    "alias_topik": [
+      "cara daftar mahasiswa internasional",
+      "pendaftaran mahasiswa asing",
+      "daftar online mahasiswa internasional",
+      "pilih prodi mahasiswa internasional",
+      "dokumen mahasiswa internasional"
+    ],
+    "search_text": "Judul: Cara Mendaftar Mahasiswa Internasional\nKonteks: Mahasiswa Internasional > Cara Mendaftar\nAlias: cara daftar mahasiswa internasional, pendaftaran mahasiswa asing, daftar online mahasiswa internasional, pilih prodi mahasiswa internasional, dokumen mahasiswa internasional\nIntent: tanya_prosedur_pendaftaran, tanya_persyaratan\n\n## Cara Mendaftar\n\nMendaftar studi di UIN Jakarta sangat mudah. Cukup ikuti tiga langkah sederhana ini.\n\nLangkah 1: Pilih Program Studi\nJelajahi berbagai pilihan program studi kami dan pilih yang sesuai dengan minat dan tujuan Anda.\nLangkah 2: Siapkan Dokumen\nPeriksa persyaratan masuk dan siapkan semua dokumen yang diperlukan dalam Bahasa Inggris atau Bahasa Indonesia.\nLangkah 3: Daftar Online\nAjukan aplikasi Anda di bit.ly/ADFORMUIN atau melalui perwakilan rekrutmen internasional kami.",
+    "content": "## Cara Mendaftar\n\nMendaftar studi di UIN Jakarta sangat mudah. Cukup ikuti tiga langkah sederhana ini.\n\nLangkah 1: Pilih Program Studi\nJelajahi berbagai pilihan program studi kami dan pilih yang sesuai dengan minat dan tujuan Anda.\nLangkah 2: Siapkan Dokumen\nPeriksa persyaratan masuk dan siapkan semua dokumen yang diperlukan dalam Bahasa Inggris atau Bahasa Indonesia.\nLangkah 3: Daftar Online\nAjukan aplikasi Anda di bit.ly/ADFORMUIN atau melalui perwakilan rekrutmen internasional kami."
+  },
+  {
+    "id": "c51785c387d42de8ec0a77287066163b",
+    "source_file": "mahasiswa_internasional_tagged.md",
+    "heading": "## Persyaratan Dokumen",
+    "parent_context": "Mahasiswa Internasional > Persyaratan Dokumen",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Dokumen Mahasiswa Internasional",
+    "alias_topik": [
+      "syarat dokumen mahasiswa internasional",
+      "persyaratan mahasiswa asing"
+    ],
+    "search_text": "Judul: Persyaratan Dokumen Mahasiswa Internasional\nKonteks: Mahasiswa Internasional > Persyaratan Dokumen\nAlias: syarat dokumen mahasiswa internasional, persyaratan mahasiswa asing\nIntent: tanya_persyaratan\n\n## Persyaratan Dokumen\n\nSiapkan dokumen-dokumen berikut berdasarkan jenjang studi Anda.\nSarjana (S1)\n- Curriculum Vitae (CV)\n- Foto Berwarna 4x6 (Latar Belakang Merah)\n- Ijazah SMA (maks. 3 tahun setelah kelulusan)\n- Transkrip Nilai SMA\n- TOEFL ≥ 500 / TOAFL ≥ 450 / IELTS 6.0 / Sertifikat BIPA\n- Surat Keterangan Sehat\n- Rekening Bank (min. USD 2000)\n- Paspor berlaku ≥ 18 bulan\nPascasarjana (M.A. & Ph.D)\n- Foto Berwarna 4x6 (Latar Belakang Merah)\n- Ijazah S1 & S2 + Transkrip (khusus Ph.D)\n- TOEFL ≥ 500 / TOAFL ≥ 450 / IELTS 6.0 / Sertifikat BIPA\n- 2 Surat Rekomendasi\n- Surat Keterangan Sehat\n- Surat Izin (jika sudah bekerja)\n- Proposal Penelitian (4–8 halaman)\n- Rekening Bank (3 bulan terakhir, min. USD 2000)\n- Paspor berlaku ≥ 18 bulan",
+    "content": "## Persyaratan Dokumen\n\nSiapkan dokumen-dokumen berikut berdasarkan jenjang studi Anda.\nSarjana (S1)\n- Curriculum Vitae (CV)\n- Foto Berwarna 4x6 (Latar Belakang Merah)\n- Ijazah SMA (maks. 3 tahun setelah kelulusan)\n- Transkrip Nilai SMA\n- TOEFL ≥ 500 / TOAFL ≥ 450 / IELTS 6.0 / Sertifikat BIPA\n- Surat Keterangan Sehat\n- Rekening Bank (min. USD 2000)\n- Paspor berlaku ≥ 18 bulan\nPascasarjana (M.A. & Ph.D)\n- Foto Berwarna 4x6 (Latar Belakang Merah)\n- Ijazah S1 & S2 + Transkrip (khusus Ph.D)\n- TOEFL ≥ 500 / TOAFL ≥ 450 / IELTS 6.0 / Sertifikat BIPA\n- 2 Surat Rekomendasi\n- Surat Keterangan Sehat\n- Surat Izin (jika sudah bekerja)\n- Proposal Penelitian (4–8 halaman)\n- Rekening Bank (3 bulan terakhir, min. USD 2000)\n- Paspor berlaku ≥ 18 bulan"
+  },
+  {
+    "id": "226a1f52854936e459b4e0f32f5f89b0",
+    "source_file": "mandiri_nilai_snbt_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Nilai SNBT) > Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai SNBT",
+    "alias_topik": [
+      "syarat Mandiri Nilai SNBT",
+      "ketentuan Mandiri Nilai SNBT"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai SNBT\nKonteks: Tentang SPMB Mandiri Non-Reguler (Nilai SNBT) > Ketentuan Peserta\nAlias: syarat Mandiri Nilai SNBT, ketentuan Mandiri Nilai SNBT\nIntent: tanya_persyaratan, tanya_jalur\n\n## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta mengupload sertifikat nilai UTBK-SNBT Tahun 2026 melalui aplikasi Admisi UIN Jakarta",
+    "content": "## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta mengupload sertifikat nilai UTBK-SNBT Tahun 2026 melalui aplikasi Admisi UIN Jakarta"
+  },
+  {
+    "id": "f85788031e86676609a640398cc2d3cf",
+    "source_file": "mandiri_nilai_umptkin_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN) > Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai UM-PTKIN",
+    "alias_topik": [
+      "syarat Mandiri Nilai UM-PTKIN",
+      "ketentuan Mandiri Nilai UM-PTKIN"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler Nilai UM-PTKIN\nKonteks: Tentang SPMB Mandiri Non-Reguler (Nilai UM-PTKIN) > Ketentuan Peserta\nAlias: syarat Mandiri Nilai UM-PTKIN, ketentuan Mandiri Nilai UM-PTKIN\nIntent: tanya_persyaratan, tanya_jalur\n\n## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta menginput nomor peserta UM-PTKIN Tahun 2026 (Nilai UM-PTKIN akan disinkronisasikan oleh Panitia PMB UIN Syarif Hidayatullah Jakarta bekerja sama dengan Panitia Pusat UM-PTKIN Tahun 2026) melalui aplikasi Admisi UIN Jakarta",
+    "content": "## Ketentuan Peserta\n\n- Peserta seleksi berasal dari luar Provinsi DKI Jakarta, Banten, dan Jawa Barat;\n- Peserta menginput nomor peserta UM-PTKIN Tahun 2026 (Nilai UM-PTKIN akan disinkronisasikan oleh Panitia PMB UIN Syarif Hidayatullah Jakarta bekerja sama dengan Panitia Pusat UM-PTKIN Tahun 2026) melalui aplikasi Admisi UIN Jakarta"
+  },
+  {
+    "id": "0ce5cc7626a00e17ebc9e01e95d93169",
+    "source_file": "mandiri_non_reg_pkb_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB) > Ketentuan Penilaian",
+    "intents": [
+      "tanya_ujian",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler PKB",
+    "alias_topik": [
+      "penilaian PKB",
+      "seleksi PKB",
+      "rapor PKB",
+      "wawancara PKB",
+      "prestasi PKB"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler PKB\nKonteks: Tentang SPMB Mandiri Non-Reguler (Pemerataan Kesempatan Belajar / PKB) > Ketentuan Penilaian\nAlias: penilaian PKB, seleksi PKB, rapor PKB, wawancara PKB, prestasi PKB\nIntent: tanya_ujian, tanya_persyaratan\n\n## Ketentuan Penilaian\n\n- Bukti domisili sesuai wilayah Tertinggal, Terluar dan Terdepan (3T), dibuktikan dengan KTP dan Kartu Keluarga dari wilayah domisili;\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5; dan\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat).",
+    "content": "## Ketentuan Penilaian\n\n- Bukti domisili sesuai wilayah Tertinggal, Terluar dan Terdepan (3T), dibuktikan dengan KTP dan Kartu Keluarga dari wilayah domisili;\n- Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5; dan\n- Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n- Bukti prestasi (piagam atau sertifikat)."
+  },
+  {
+    "id": "f46e99ce6531844c4b3f369c443d6508",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "## Persyaratan Umum Pendaftar",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE) > Persyaratan Umum Pendaftar",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Umum Pendaftar SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "syarat mandiri reguler",
+      "persyaratan SSE",
+      "syarat SPMB Mandiri"
+    ],
+    "search_text": "Judul: Persyaratan Umum Pendaftar SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE) > Persyaratan Umum Pendaftar\nAlias: syarat mandiri reguler, persyaratan SSE, syarat SPMB Mandiri\nIntent: tanya_persyaratan\n\n## Persyaratan Umum Pendaftar\n\n1. Pendaftar merupakan siswa kelas 12 SMA/MA/SMK/MAK/Pesantren Pendidikan Diniyah Formal (PDF)/Satuan Pendidikan Mu’adalah/Pendidikan Kesetaraan Pondok Pesantren Salafiyah (PKPPS) atau sederajat yang memiliki Nomor Pokok Sekolah Nasional (NPSN) dan dinyatakan lulus pada tahun 2026, 2025, atau 2024 serta memiliki NISN;\n2. Memiliki ijazah bagi pendaftar yang dinyatakan lulus pada tahun 2025 atau 2024;\n3. Memiliki ijazah atau Surat Keterangan Lulus (SKL) yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan serta dibubuhi cap yang sah bagi pendaftar yang dinyatakan lulus pada tahun 2026;\n4. Batas maksimal usia peserta yang berasal dari Paket C atau PKPPS adalah 25 tahun per 1 Juli 2026;\n5. Pendaftar dalam kondisi bebas narkoba, sehat jasmani dan rohani, sehingga tidak mengganggu proses pembelajaran pada Program Studinya;\n6. Pendaftar melakukan pendaftaran SPMB Mandiri UIN Syarif Hidayatullah Jakarta melalui laman website https://admisi.uinjkt.ac.id; dan\n7. Pendaftar SPMB Mandiri jalur Reguler dapat memilih 2 (dua) Program Studi, dan peserta jalur non- reguler hanya bisa memilih 1 (satu) Program Studi.",
+    "content": "## Persyaratan Umum Pendaftar\n\n1. Pendaftar merupakan siswa kelas 12 SMA/MA/SMK/MAK/Pesantren Pendidikan Diniyah Formal (PDF)/Satuan Pendidikan Mu’adalah/Pendidikan Kesetaraan Pondok Pesantren Salafiyah (PKPPS) atau sederajat yang memiliki Nomor Pokok Sekolah Nasional (NPSN) dan dinyatakan lulus pada tahun 2026, 2025, atau 2024 serta memiliki NISN;\n2. Memiliki ijazah bagi pendaftar yang dinyatakan lulus pada tahun 2025 atau 2024;\n3. Memiliki ijazah atau Surat Keterangan Lulus (SKL) yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan serta dibubuhi cap yang sah bagi pendaftar yang dinyatakan lulus pada tahun 2026;\n4. Batas maksimal usia peserta yang berasal dari Paket C atau PKPPS adalah 25 tahun per 1 Juli 2026;\n5. Pendaftar dalam kondisi bebas narkoba, sehat jasmani dan rohani, sehingga tidak mengganggu proses pembelajaran pada Program Studinya;\n6. Pendaftar melakukan pendaftaran SPMB Mandiri UIN Syarif Hidayatullah Jakarta melalui laman website https://admisi.uinjkt.ac.id; dan\n7. Pendaftar SPMB Mandiri jalur Reguler dapat memilih 2 (dua) Program Studi, dan peserta jalur non- reguler hanya bisa memilih 1 (satu) Program Studi."
+  },
+  {
+    "id": "f253b0742a1eff4691b40ddbdb25a718",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "## Ketentuan Pendaftaran",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE) > Ketentuan Pendaftaran",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ketentuan Pendaftaran SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "ketentuan pendaftaran mandiri",
+      "dokumen mandiri reguler",
+      "upload dokumen mandiri"
+    ],
+    "search_text": "Judul: Ketentuan Pendaftaran SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE) > Ketentuan Pendaftaran\nAlias: ketentuan pendaftaran mandiri, dokumen mandiri reguler, upload dokumen mandiri\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## Ketentuan Pendaftaran\n\n1. Mengisi data borang (formulir) pendaftaran dengan benar;\n2. Mengunggah dokumen yang menjadi persyaratan dalam format .JPG, .JPEG ukuran maksimal 1 Mb per dokumen;\n3. Mengunggah pasfoto terbaru (3 bulan terakhir) dalam format file yang telah ditentukan (background merah, ukuran 4 x 6 cm, resolusi minimal 300 x 450 pixel, ukuran maksimal 200 Kb, format .JPG/JPEG);\n4. Khusus bagi calon peserta jalur seleksi Non-Reguler, pendaftar mengunggah scan rapor kelas 10 semester 1 s.d. kelas 12 semester 5, dan dokumen lain yang menjadi persyaratan sesuai poin 2 (dua);\n5. Pengisian data borang pendaftaran dan pembayaran biaya registrasi sesuai jadwal yang telah ditentukan; dan\n6. Jika terbukti data yang diisi, dan/atau dokumen yang diunggah tidak benar maka kelulusannya akan dibatalkan, dan seluruh biaya yang sudah dikeluarkan tidak dapat dikembalikan.",
+    "content": "## Ketentuan Pendaftaran\n\n1. Mengisi data borang (formulir) pendaftaran dengan benar;\n2. Mengunggah dokumen yang menjadi persyaratan dalam format .JPG, .JPEG ukuran maksimal 1 Mb per dokumen;\n3. Mengunggah pasfoto terbaru (3 bulan terakhir) dalam format file yang telah ditentukan (background merah, ukuran 4 x 6 cm, resolusi minimal 300 x 450 pixel, ukuran maksimal 200 Kb, format .JPG/JPEG);\n4. Khusus bagi calon peserta jalur seleksi Non-Reguler, pendaftar mengunggah scan rapor kelas 10 semester 1 s.d. kelas 12 semester 5, dan dokumen lain yang menjadi persyaratan sesuai poin 2 (dua);\n5. Pengisian data borang pendaftaran dan pembayaran biaya registrasi sesuai jadwal yang telah ditentukan; dan\n6. Jika terbukti data yang diisi, dan/atau dokumen yang diunggah tidak benar maka kelulusannya akan dibatalkan, dan seluruh biaya yang sudah dikeluarkan tidak dapat dikembalikan."
+  },
+  {
+    "id": "3df482890b357ccca1b94dd437e8e7df",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 1. Pendahuluan",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 1. Pendahuluan",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Pendahuluan Panduan Pendaftaran SNBP 2026",
+    "alias_topik": [
+      "syarat daftar SNBP",
+      "ketentuan SNBP",
+      "portal SNBP"
+    ],
+    "search_text": "Judul: Pendahuluan Panduan Pendaftaran SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 1. Pendahuluan\nAlias: syarat daftar SNBP, ketentuan SNBP, portal SNBP\nIntent: tanya_prosedur_pendaftaran, tanya_persyaratan\n\n## 1. Pendahuluan\n\nDokumen ini berisi panduan pendaftaran SNBP yang diisikan oleh siswa sesuai dengan periode\nyang sudah ditetapkan oleh panitia SNPMB. Siswa dapat mendaftar SNBP melalui portal\nSNPMB yang dapat diakses pada tautan https://portal.snpmb.id/ atau melalui laman\nhttps://snbp.snpmb.id/. Siswa yang dapat mendaftar SNBP adalah siswa yang memenuhi\nkriteria, (1) dinyatakan eligible oleh sekolah; (2) memiliki Akun SNPMB Siswa yang telah\ndisimpan permanen; dan (3) memiliki nilai lengkap pada PDSS yang diisikan dan difinalisasikan\noleh Sekolah.\n\nSiswa Pendaftar KIP Kuliah diminta untuk melakukan pendaftaran di SIM KIP Kuliah sebelum\nmelakukan pendaftaran SNBP.\n\nSecara umum, tahapan pendaftaran SNBP sebagai berikut:\n1. Login di portal SNBP dengan menggunakan alamat email dan password yang didaftarkan\ndan pilih menu Pendaftaran SNBP.\n2. Siswa melakukan pendaftaran SNBP dengan mengisikan pilihan prodi yang dipilih pada\nhalaman PILIHAN.\n3. Siswa mengisikan portofolio pada halaman PORTOFOLIO jika prodi yang diplih\nmensyaratkan adanya dokumen portofolio. Jika prodi yang dipilih tidak mensyaratkan\nadanya dokumen portofolio, maka halaman ini tidak perlu diisikan.\n4. Siswa mengisikan prestasi pada halaman PRESTASI. Isian prestasi pada halaman ini\nbersifat tidak wajib, artinya isiannya tidak harus ada. Silakan isikan prestasi yang sesuai\ndengan bidang dan tingkat prestasi yang pernah didapatkan serta sesuai dengan prodi\nyang diminati.\n5. Siswa melakukan finalisasi pada halaman FINALISASI jika semua isian data sudah diyakini\nkebenarannya. Setelah melakukan finalisasi, isian data tidak dapat dibatalkan dan tidak\nbisa diubah dengan alasan apapun.\n6. Siswa mengunduh dan mencetak kartu peserta SNBP.\n\nSetiap tahapan akan dijelaskan lebih detil pada bagian selanjutnya dalam dokumen ini.\n\nCatatan: Foto dan beberapa informasi tulisan pada gambar dalam panduan ini sengaja diblok/blur agar identitas\nsiswa tidak terlihat. Pada tampilan asli Anda tidak akan ada blok/blur baik pada foto maupun tulisan.",
+    "content": "## 1. Pendahuluan\n\nDokumen ini berisi panduan pendaftaran SNBP yang diisikan oleh siswa sesuai dengan periode\nyang sudah ditetapkan oleh panitia SNPMB. Siswa dapat mendaftar SNBP melalui portal\nSNPMB yang dapat diakses pada tautan https://portal.snpmb.id/ atau melalui laman\nhttps://snbp.snpmb.id/. Siswa yang dapat mendaftar SNBP adalah siswa yang memenuhi\nkriteria, (1) dinyatakan eligible oleh sekolah; (2) memiliki Akun SNPMB Siswa yang telah\ndisimpan permanen; dan (3) memiliki nilai lengkap pada PDSS yang diisikan dan difinalisasikan\noleh Sekolah.\n\nSiswa Pendaftar KIP Kuliah diminta untuk melakukan pendaftaran di SIM KIP Kuliah sebelum\nmelakukan pendaftaran SNBP.\n\nSecara umum, tahapan pendaftaran SNBP sebagai berikut:\n1. Login di portal SNBP dengan menggunakan alamat email dan password yang didaftarkan\ndan pilih menu Pendaftaran SNBP.\n2. Siswa melakukan pendaftaran SNBP dengan mengisikan pilihan prodi yang dipilih pada\nhalaman PILIHAN.\n3. Siswa mengisikan portofolio pada halaman PORTOFOLIO jika prodi yang diplih\nmensyaratkan adanya dokumen portofolio. Jika prodi yang dipilih tidak mensyaratkan\nadanya dokumen portofolio, maka halaman ini tidak perlu diisikan.\n4. Siswa mengisikan prestasi pada halaman PRESTASI. Isian prestasi pada halaman ini\nbersifat tidak wajib, artinya isiannya tidak harus ada. Silakan isikan prestasi yang sesuai\ndengan bidang dan tingkat prestasi yang pernah didapatkan serta sesuai dengan prodi\nyang diminati.\n5. Siswa melakukan finalisasi pada halaman FINALISASI jika semua isian data sudah diyakini\nkebenarannya. Setelah melakukan finalisasi, isian data tidak dapat dibatalkan dan tidak\nbisa diubah dengan alasan apapun.\n6. Siswa mengunduh dan mencetak kartu peserta SNBP.\n\nSetiap tahapan akan dijelaskan lebih detil pada bagian selanjutnya dalam dokumen ini.\n\nCatatan: Foto dan beberapa informasi tulisan pada gambar dalam panduan ini sengaja diblok/blur agar identitas\nsiswa tidak terlihat. Pada tampilan asli Anda tidak akan ada blok/blur baik pada foto maupun tulisan."
+  },
+  {
+    "id": "0ae9a93db704c79a0b80d24a29e9700b",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 5. Portofolio",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 5. Portofolio",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Portofolio SNBP 2026",
+    "alias_topik": [
+      "portofolio SNBP",
+      "unggah portofolio SNBP",
+      "syarat portofolio"
+    ],
+    "search_text": "Judul: Portofolio SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 5. Portofolio\nAlias: portofolio SNBP, unggah portofolio SNBP, syarat portofolio\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## 5. Portofolio\n\nPanduan Pengisian Portofolio SNBP 2026\n\nBeberapa program studi mensyaratkan pengisian portofolio, seperti pada bidang Seni Rupa, Desain, dan Kriya. Pada program studi tersebut, peserta diwajibkan mengunggah karya gambar maupun dokumen lain sesuai ketentuan yang tercantum dalam instruksi.\n\nUntuk mengunggah portofolio, silakan pilih menu PORTOFOLIO. Selanjutnya, program studi yang Anda pilih dan mensyaratkan portofolio akan ditampilkan pada halaman tersebut, seperti pada gambar berikut.\n\nApabila program studi yang dipilih tidak mensyaratkan portofolio, maka halaman tersebut akan kosong dan hanya menampilkan header Portofolio.\n\nUntuk mengetahui instruksi dan kebutuhan dokumen portofolio, silakan klik:\n\nUnduh Instruksi\nUnduh Dokumentasi\n(yang ditandai dengan kotak berwarna oranye pada gambar)\n\nUntuk mengunggah portofolio, lakukan langkah-langkah berikut:\n\nKlik tombol Choose File (ditandai kotak merah pada gambar).\nPilih file yang akan diunggah.\nKlik tombol SIMPAN.\n\nMenu Unduh PPT digunakan untuk mengunduh file portofolio yang telah diunggah, sekaligus sebagai indikator bahwa file telah berhasil diunggah.\n\nPada kondisi awal atau jika portofolio belum diunggah, akan muncul tombol Belum Diunggah (ditandai kotak hijau pada gambar).\nJika portofolio sudah diunggah, tombol akan berubah menjadi Sudah Diunggah dan tersedia opsi Unduh, seperti pada gambar berikut.\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nApabila Anda telah mengunggah portofolio, namun sebelum finalisasi Anda mengubah pilihan ke program studi yang tidak mensyaratkan portofolio, maka data portofolio yang telah diunggah sebelumnya akan terhapus secara otomatis.",
+    "content": "## 5. Portofolio\n\nPanduan Pengisian Portofolio SNBP 2026\n\nBeberapa program studi mensyaratkan pengisian portofolio, seperti pada bidang Seni Rupa, Desain, dan Kriya. Pada program studi tersebut, peserta diwajibkan mengunggah karya gambar maupun dokumen lain sesuai ketentuan yang tercantum dalam instruksi.\n\nUntuk mengunggah portofolio, silakan pilih menu PORTOFOLIO. Selanjutnya, program studi yang Anda pilih dan mensyaratkan portofolio akan ditampilkan pada halaman tersebut, seperti pada gambar berikut.\n\nApabila program studi yang dipilih tidak mensyaratkan portofolio, maka halaman tersebut akan kosong dan hanya menampilkan header Portofolio.\n\nUntuk mengetahui instruksi dan kebutuhan dokumen portofolio, silakan klik:\n\nUnduh Instruksi\nUnduh Dokumentasi\n(yang ditandai dengan kotak berwarna oranye pada gambar)\n\nUntuk mengunggah portofolio, lakukan langkah-langkah berikut:\n\nKlik tombol Choose File (ditandai kotak merah pada gambar).\nPilih file yang akan diunggah.\nKlik tombol SIMPAN.\n\nMenu Unduh PPT digunakan untuk mengunduh file portofolio yang telah diunggah, sekaligus sebagai indikator bahwa file telah berhasil diunggah.\n\nPada kondisi awal atau jika portofolio belum diunggah, akan muncul tombol Belum Diunggah (ditandai kotak hijau pada gambar).\nJika portofolio sudah diunggah, tombol akan berubah menjadi Sudah Diunggah dan tersedia opsi Unduh, seperti pada gambar berikut.\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nApabila Anda telah mengunggah portofolio, namun sebelum finalisasi Anda mengubah pilihan ke program studi yang tidak mensyaratkan portofolio, maka data portofolio yang telah diunggah sebelumnya akan terhapus secara otomatis."
+  },
+  {
+    "id": "f6c156473b48cab84c51ba0e6b4d7187",
+    "source_file": "Panduan_Pendaftaran_SNBP_2026_tagged.md",
+    "heading": "## 6. Prestasi",
+    "parent_context": "Panduan Pendaftaran Snbp 2026 > 6. Prestasi",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prestasi SNBP 2026",
+    "alias_topik": [
+      "prestasi SNBP",
+      "unggah prestasi SNBP",
+      "bukti prestasi"
+    ],
+    "search_text": "Judul: Prestasi SNBP 2026\nKonteks: Panduan Pendaftaran Snbp 2026 > 6. Prestasi\nAlias: prestasi SNBP, unggah prestasi SNBP, bukti prestasi\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## 6. Prestasi\n\nPanduan Pengisian Prestasi SNBP 2026\n\nBerikut merupakan tampilan awal halaman PRESTASI:\n\nPengisian prestasi bersifat tidak wajib. Artinya, apabila Anda tidak memiliki prestasi dengan bidang dan tingkat yang sesuai dengan ketentuan, halaman ini dapat dikosongkan tanpa perlu mengisi atau mengunggah data apa pun.\n\nJumlah prestasi yang dapat diinput pada halaman ini maksimal 3 (tiga) prestasi.\n\nUntuk mengisi data prestasi, lakukan langkah-langkah berikut:\n\nUnggah Bukti Prestasi\nKlik tombol Choose File, kemudian pilih file yang akan diunggah dengan ukuran maksimal 2 MB.\nFormat file yang diperbolehkan adalah PDF, PNG, atau JPG.\nFile dengan format selain tersebut akan ditolak saat proses penyimpanan.\nIsi Deskripsi Prestasi\nSetelah mengunggah bukti prestasi, isi kolom deskripsi.\nKolom ini wajib diisi jika Anda mengunggah prestasi.\nContoh deskripsi:\nJuara 1 dari 150 peserta lomba pencak silat tingkat Provinsi Jawa Barat yang diselenggarakan oleh Dispora Jawa Barat.\nPilih Bidang Prestasi\nPilih bidang prestasi sesuai dengan kategori yang tersedia pada sistem.\nPilih Tingkat Prestasi\nTentukan tingkat prestasi sesuai dengan pilihan yang tersedia.\nPilih Jenis Prestasi (Individu/Kelompok)\nTentukan apakah prestasi yang diperoleh merupakan prestasi individu atau kelompok.\nLengkapi Data Tambahan\nIsi Tahun Perolehan Prestasi dan Nama Lembaga Pemberi Prestasi untuk melengkapi data.\n\nSetelah seluruh data prestasi diisi, klik tombol SIMPAN (ditandai kotak hijau) yang terletak di bagian kanan bawah halaman (setelah isian Prestasi ke-3).\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nUntuk memastikan bahwa file yang diunggah sudah benar, Anda dapat mengunduh kembali file tersebut melalui kolom Unduh Bukti Prestasi setelah data disimpan. Tampilan menu unduh akan muncul setelah Anda berhasil mengunggah dan menyimpan data prestasi.",
+    "content": "## 6. Prestasi\n\nPanduan Pengisian Prestasi SNBP 2026\n\nBerikut merupakan tampilan awal halaman PRESTASI:\n\nPengisian prestasi bersifat tidak wajib. Artinya, apabila Anda tidak memiliki prestasi dengan bidang dan tingkat yang sesuai dengan ketentuan, halaman ini dapat dikosongkan tanpa perlu mengisi atau mengunggah data apa pun.\n\nJumlah prestasi yang dapat diinput pada halaman ini maksimal 3 (tiga) prestasi.\n\nUntuk mengisi data prestasi, lakukan langkah-langkah berikut:\n\nUnggah Bukti Prestasi\nKlik tombol Choose File, kemudian pilih file yang akan diunggah dengan ukuran maksimal 2 MB.\nFormat file yang diperbolehkan adalah PDF, PNG, atau JPG.\nFile dengan format selain tersebut akan ditolak saat proses penyimpanan.\nIsi Deskripsi Prestasi\nSetelah mengunggah bukti prestasi, isi kolom deskripsi.\nKolom ini wajib diisi jika Anda mengunggah prestasi.\nContoh deskripsi:\nJuara 1 dari 150 peserta lomba pencak silat tingkat Provinsi Jawa Barat yang diselenggarakan oleh Dispora Jawa Barat.\nPilih Bidang Prestasi\nPilih bidang prestasi sesuai dengan kategori yang tersedia pada sistem.\nPilih Tingkat Prestasi\nTentukan tingkat prestasi sesuai dengan pilihan yang tersedia.\nPilih Jenis Prestasi (Individu/Kelompok)\nTentukan apakah prestasi yang diperoleh merupakan prestasi individu atau kelompok.\nLengkapi Data Tambahan\nIsi Tahun Perolehan Prestasi dan Nama Lembaga Pemberi Prestasi untuk melengkapi data.\n\nSetelah seluruh data prestasi diisi, klik tombol SIMPAN (ditandai kotak hijau) yang terletak di bagian kanan bawah halaman (setelah isian Prestasi ke-3).\n\nJika proses penyimpanan berhasil, sistem akan menampilkan notifikasi sebagai konfirmasi.\n\nUntuk memastikan bahwa file yang diunggah sudah benar, Anda dapat mengunduh kembali file tersebut melalui kolom Unduh Bukti Prestasi setelah data disimpan. Tampilan menu unduh akan muncul setelah Anda berhasil mengunggah dan menyimpan data prestasi."
+  },
+  {
+    "id": "e483904c02e7763b357d6ac5466f47f2",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta",
+    "alias_topik": [
+      "kebutuhan khusus UTBK",
+      "tunanetra UTBK",
+      "disabilitas UTBK"
+    ],
+    "search_text": "Judul: Alur Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\nKonteks: Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\nAlias: kebutuhan khusus UTBK, tunanetra UTBK, disabilitas UTBK\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus tunanetra/buta harap memberi tanda centang (√) pada kotak yang tersedia.\nPeringatan:\na. Bagi yang mempunyai disabilitas tunanetra/buta, pastikan Anda mencentang pilihan di bawah ini. Jika tidak mencentang, maka Anda akan ditempatkan di ruang ujian yang tidak ada fasilitas untuk disabilitas netra.\nb. Bagi yang tidak memiliki tunanetra/buta, jangan mencentang pilihan di bawah ini. Jika Anda terbukti tidak memiliki tunanetra/buta, maka Anda tidak diperbolehkan mengikuti UTBK-SNBT.\n2. Setelah Anda memberi tanda centang pada pilihan Tunanetra/buta maka selanjutnya akan muncul tampilan kotak konfirmasi untuk memastikan bahwa Anda adalah penyandang disabilitas tunanetra.\n3. Bagi peserta UTBK-SNBT disabilitas netra/buta maka wajib mengunggah formulir SURAT KETERANGAN TUNA NETRA/BUTA sebagai bukti bahwa Anda penyandang disabilitas netra/buta.\n4. Formulir SURAT KETERANGAN TUNANETRA/BUTA dapat didapatkan dengan menekan tombol Unggah Bukti Tunanetra kemudian menekan tombol Unduh formulir, maka Anda akan mendapatkan formulir seperti pada gambar di bawah. Cetak formulir dan isikan dengan lengkap sesuai petunjuk di dalam formulir Scan formulir yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah dan simpan berkas dengan format PDF dengan ukuran tidak lebih dari 300 KB.\n5. Anda dapat mengunggah file PDF SURAT KETERANGAN TUNANETRA/BUTA yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah sesuai dengan poin nomor 4.\n6. Apabila Anda ingin mengganti atau mengubah berkas, maka Anda dapat menekan tombol Ganti Bukti Tunanetra dan Anda dapat mengunggah kembali file PDF yang benar.\n7. Selanjutnya Anda dapat menekan tombol Simpan dan Lanjutkan untuk lanjut ke tahap berikutnya.",
+    "content": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Tunanetra/Buta\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus tunanetra/buta harap memberi tanda centang (√) pada kotak yang tersedia.\nPeringatan:\na. Bagi yang mempunyai disabilitas tunanetra/buta, pastikan Anda mencentang pilihan di bawah ini. Jika tidak mencentang, maka Anda akan ditempatkan di ruang ujian yang tidak ada fasilitas untuk disabilitas netra.\nb. Bagi yang tidak memiliki tunanetra/buta, jangan mencentang pilihan di bawah ini. Jika Anda terbukti tidak memiliki tunanetra/buta, maka Anda tidak diperbolehkan mengikuti UTBK-SNBT.\n2. Setelah Anda memberi tanda centang pada pilihan Tunanetra/buta maka selanjutnya akan muncul tampilan kotak konfirmasi untuk memastikan bahwa Anda adalah penyandang disabilitas tunanetra.\n3. Bagi peserta UTBK-SNBT disabilitas netra/buta maka wajib mengunggah formulir SURAT KETERANGAN TUNA NETRA/BUTA sebagai bukti bahwa Anda penyandang disabilitas netra/buta.\n4. Formulir SURAT KETERANGAN TUNANETRA/BUTA dapat didapatkan dengan menekan tombol Unggah Bukti Tunanetra kemudian menekan tombol Unduh formulir, maka Anda akan mendapatkan formulir seperti pada gambar di bawah. Cetak formulir dan isikan dengan lengkap sesuai petunjuk di dalam formulir Scan formulir yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah dan simpan berkas dengan format PDF dengan ukuran tidak lebih dari 300 KB.\n5. Anda dapat mengunggah file PDF SURAT KETERANGAN TUNANETRA/BUTA yang telah diisi dan ditandatangani oleh Kepala/Wakil Kepala Sekolah sesuai dengan poin nomor 4.\n6. Apabila Anda ingin mengganti atau mengubah berkas, maka Anda dapat menekan tombol Ganti Bukti Tunanetra dan Anda dapat mengunggah kembali file PDF yang benar.\n7. Selanjutnya Anda dapat menekan tombol Simpan dan Lanjutkan untuk lanjut ke tahap berikutnya."
+  },
+  {
+    "id": "a0f6b5926773119521af2b2e00470a9c",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Alur Peserta UTBK-SNBT Kebutuhan Khusus Lainnya",
+    "alias_topik": [
+      "tunadaksa UTBK",
+      "tunarungu UTBK",
+      "tunawicara UTBK",
+      "disabilitas SNBT"
+    ],
+    "search_text": "Judul: Alur Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\nKonteks: Panduan Pendaftaran UTBK-SNBT > Melakukan Login > Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\nAlias: tunadaksa UTBK, tunarungu UTBK, tunawicara UTBK, disabilitas SNBT\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus selain tunanetra/buta seperti tunadaksa/lumpuh, tunarungu/tuli, dan/atau tunawicara/bisu harap memberi tanda centang (√) pada kotak yang tersedia sesuai dengan kondisi.\n2. Ketika memberi tanda centang (√) pada kotak yang tersedia, maka akan muncul jendela konfirmasi.\n3. Salin pernyataan sesuai petunjuk ke kotak pernyataan yang telah disediakan dan klik tombol Lanjutkan. Tombol Lanjutkan tidak bisa diklik jika Anda tidak menuliskan pernyataan dengan benar.\n4. Pastikan kotak kebutuhan khusus sudah tercentang.",
+    "content": "### Alur Bagi Peserta UTBK-SNBT Kebutuhan Khusus Lainnya\n\n1. Bagi peserta UTBK-SNBT yang berkebutuhan khusus selain tunanetra/buta seperti tunadaksa/lumpuh, tunarungu/tuli, dan/atau tunawicara/bisu harap memberi tanda centang (√) pada kotak yang tersedia sesuai dengan kondisi.\n2. Ketika memberi tanda centang (√) pada kotak yang tersedia, maka akan muncul jendela konfirmasi.\n3. Salin pernyataan sesuai petunjuk ke kotak pernyataan yang telah disediakan dan klik tombol Lanjutkan. Tombol Lanjutkan tidak bisa diklik jika Anda tidak menuliskan pernyataan dengan benar.\n4. Pastikan kotak kebutuhan khusus sudah tercentang."
+  },
+  {
+    "id": "04a19197f7047af81b441fe694521f0b",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "## Mengunggah Portofolio",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Mengunggah Portofolio",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Mengunggah Portofolio UTBK-SNBT 2026",
+    "alias_topik": [
+      "portofolio UTBK",
+      "unggah portofolio SNBT",
+      "syarat portofolio"
+    ],
+    "search_text": "Judul: Mengunggah Portofolio UTBK-SNBT 2026\nKonteks: Panduan Pendaftaran UTBK-SNBT > Mengunggah Portofolio\nAlias: portofolio UTBK, unggah portofolio SNBT, syarat portofolio\nIntent: tanya_persyaratan, tanya_prosedur_pendaftaran\n\n## Mengunggah Portofolio\n\nPerhatikan petunjuk pengisian dalam mengunggah portofolio bagi peserta UTBK-SNBT 2026 yang memilih program studi dengan persyaratan portofolio.\nPERHATIAN!\n1. Jika Anda memilih program studi yang mensyaratkan unggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT dengan Portofolio\n2. Jika Anda memilih program studi yang tidak memerlukan syarat untuk mengunggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT non-Portofolio\n\nAlur Bagi Peserta UTBK-SNBT dengan Portofolio\nPada langkah ini, Anda WAJIB untuk mengunggah portofolio sesuai dengan ketentuan dari masing-masing program studi dan PTN yang Anda pilih. Pilihlah portofolio yang akan Anda gunakan dengan memilih portofolio SNBP (bagi peserta UTBK-SNBT 2026 yang terdeteksi sebagai peserta SNBP 2026) maupun portofolio dari SNBT.\n\nPortofolio dari SNBP\n1. Apabila Anda memilih untuk menggunakan portofolio yang pernah diunggah saat pendaftaran SNBP, maka Anda dapat menggunakan portofolio pada saat mendaftar SNBP sehingga tidak perlu mengunggah kembali portofolio Anda.\n2. Tekan tombol Pilih Kota/Wilayah UTBK apabila Anda sudah yakin untuk menggunakan portofolio dari SNBP.\n\nPortofolio dari SNBT\n1. Pilih Saya memilih portofolio SNBT lalu tekan tombol Pilih\n2. Setelah Anda memilih portofolio SNBT, maka Anda akan melihat tampilan seperti pada gambar di bawah dan Anda harus mengunggah portofolio dari komputer Anda.\n3. Klik tombol ↑ Unggah Berkas yang terletak di setiap jenis dokumen untuk mengunggah portofolio Anda, maka muncul kotak untuk mengunggah dokumen portofolio. Anda dapat melihat Dokumen yang harus diunggah, Jenis berkas, dan ukuran berkas maksimum yang harus diunggah. Pastikan Anda telah membaca dengan seksama petunjuk yang ada!\n4. Tekan tulisan Klik untuk mengunggah atau seret dan lepas (drag and drop) berkas untuk mengunggah berkas portofolio Anda sesuai dengan petunjuk yang ada, lalu beri nama berkas Anda pada isian Judul dan klik tombol Simpan.\n5. Anda akan mendapatkan kotak berisikan pesan bahwa portofolio Anda telah berhasil diunggah seperti pada gambar berikut.\n6. Anda dapat melihat berkas portofolio yang telah diunggah, lalu klik tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah berikutnya, yaitu Memilih Kota/Wilayah UTBK.\n\nBagi Peserta UTBK-SNBT Non-Portofolio\n1. Bagi peserta UTBK-SNBT yang memilih program studi tanpa persyaratan untuk mengunggah portofolio, maka Anda akan mendapat tampilan seperti pada gambar berikut\n2. Anda dapat langsung menekan tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah selanjutnya, yaitu Memilih Kota/Wilayah UTBK",
+    "content": "## Mengunggah Portofolio\n\nPerhatikan petunjuk pengisian dalam mengunggah portofolio bagi peserta UTBK-SNBT 2026 yang memilih program studi dengan persyaratan portofolio.\nPERHATIAN!\n1. Jika Anda memilih program studi yang mensyaratkan unggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT dengan Portofolio\n2. Jika Anda memilih program studi yang tidak memerlukan syarat untuk mengunggah portofolio, maka Anda dapat melihat alur bagi peserta UTBK-SNBT non-Portofolio\n\nAlur Bagi Peserta UTBK-SNBT dengan Portofolio\nPada langkah ini, Anda WAJIB untuk mengunggah portofolio sesuai dengan ketentuan dari masing-masing program studi dan PTN yang Anda pilih. Pilihlah portofolio yang akan Anda gunakan dengan memilih portofolio SNBP (bagi peserta UTBK-SNBT 2026 yang terdeteksi sebagai peserta SNBP 2026) maupun portofolio dari SNBT.\n\nPortofolio dari SNBP\n1. Apabila Anda memilih untuk menggunakan portofolio yang pernah diunggah saat pendaftaran SNBP, maka Anda dapat menggunakan portofolio pada saat mendaftar SNBP sehingga tidak perlu mengunggah kembali portofolio Anda.\n2. Tekan tombol Pilih Kota/Wilayah UTBK apabila Anda sudah yakin untuk menggunakan portofolio dari SNBP.\n\nPortofolio dari SNBT\n1. Pilih Saya memilih portofolio SNBT lalu tekan tombol Pilih\n2. Setelah Anda memilih portofolio SNBT, maka Anda akan melihat tampilan seperti pada gambar di bawah dan Anda harus mengunggah portofolio dari komputer Anda.\n3. Klik tombol ↑ Unggah Berkas yang terletak di setiap jenis dokumen untuk mengunggah portofolio Anda, maka muncul kotak untuk mengunggah dokumen portofolio. Anda dapat melihat Dokumen yang harus diunggah, Jenis berkas, dan ukuran berkas maksimum yang harus diunggah. Pastikan Anda telah membaca dengan seksama petunjuk yang ada!\n4. Tekan tulisan Klik untuk mengunggah atau seret dan lepas (drag and drop) berkas untuk mengunggah berkas portofolio Anda sesuai dengan petunjuk yang ada, lalu beri nama berkas Anda pada isian Judul dan klik tombol Simpan.\n5. Anda akan mendapatkan kotak berisikan pesan bahwa portofolio Anda telah berhasil diunggah seperti pada gambar berikut.\n6. Anda dapat melihat berkas portofolio yang telah diunggah, lalu klik tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah berikutnya, yaitu Memilih Kota/Wilayah UTBK.\n\nBagi Peserta UTBK-SNBT Non-Portofolio\n1. Bagi peserta UTBK-SNBT yang memilih program studi tanpa persyaratan untuk mengunggah portofolio, maka Anda akan mendapat tampilan seperti pada gambar berikut\n2. Anda dapat langsung menekan tombol Pilih Kota/Wilayah UTBK untuk lanjut ke langkah selanjutnya, yaitu Memilih Kota/Wilayah UTBK"
+  },
+  {
+    "id": "5227eec2a478ee24eecaaf1aaeb41f5c",
+    "source_file": "ppds_pulmonologi_kedokteran_respirasi_tagged.md",
+    "heading": "## SYARAT PENDAFTARAN",
+    "parent_context": "PENERIMAAN PESERTA PROGRAM PENDIDIKAN DOKTER SPESIALIS (PPDS) > SYARAT PENDAFTARAN",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_profesi"
+    ],
+    "topik": "Syarat Pendaftaran PPDS Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "syarat PPDS",
+      "persyaratan PPDS Pulmonologi",
+      "dokumen PPDS"
+    ],
+    "search_text": "Judul: Syarat Pendaftaran PPDS Pulmonologi dan Kedokteran Respirasi\nKonteks: PENERIMAAN PESERTA PROGRAM PENDIDIKAN DOKTER SPESIALIS (PPDS) > SYARAT PENDAFTARAN\nAlias: syarat PPDS, persyaratan PPDS Pulmonologi, dokumen PPDS\nIntent: tanya_persyaratan, tanya_profesi\n\n## SYARAT PENDAFTARAN\n\n1. KTP & KK\n   - Usia maksimal 35 tahun bagi pendaftar umum.\n   - Usia maksimal 40 tahun bagi ASN/TNI/POLRI.\n2. Curriculum Vitae.\n3. Scan asli Ijazah Dokter.\n4. Scan asli Transkrip Nilai.\n   - Minimal IPK 2.75.\n5. Surat Rekomendasi untuk Melanjutkan Pendidikan.\n6. TOEFL ITP.\n   - Minimal 500 dari lembaga terakreditasi.\n7. Scan asli STR & SIP.\n   - Yang masih berlaku.\n8. Sertifikat ACLS.\n   - Yang masih berlaku.\n9. SKCK.\n   - Surat Keterangan Catatan Kepolisian.\n10. Surat Keterangan Pengalaman Kerja.\n    - Minimal 1 tahun dari institusi asal.\n11. Surat Keterangan Sehat Jasmani*.\n12. Surat Keterangan Bebas Narkoba*.\n13. Surat Keterangan Sehat Rohani (MMPI)*.\n14. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di seluruh Indonesia.\n15. Surat Pernyataan Kemampuan Finansial selama Masa Pendidikan.\n16. Surat Pernyataan Persetujuan Keluarga/Pasangan.\n17. Surat pernyataan keaslian dokumen.\nCatatan:\n*Dari RS Haji untuk pendaftar dari wilayah Jabodetabek atau RS Pemerintah terdekat untuk pendaftar dari wilayah luar Jabodetabek.",
+    "content": "## SYARAT PENDAFTARAN\n\n1. KTP & KK\n   - Usia maksimal 35 tahun bagi pendaftar umum.\n   - Usia maksimal 40 tahun bagi ASN/TNI/POLRI.\n2. Curriculum Vitae.\n3. Scan asli Ijazah Dokter.\n4. Scan asli Transkrip Nilai.\n   - Minimal IPK 2.75.\n5. Surat Rekomendasi untuk Melanjutkan Pendidikan.\n6. TOEFL ITP.\n   - Minimal 500 dari lembaga terakreditasi.\n7. Scan asli STR & SIP.\n   - Yang masih berlaku.\n8. Sertifikat ACLS.\n   - Yang masih berlaku.\n9. SKCK.\n   - Surat Keterangan Catatan Kepolisian.\n10. Surat Keterangan Pengalaman Kerja.\n    - Minimal 1 tahun dari institusi asal.\n11. Surat Keterangan Sehat Jasmani*.\n12. Surat Keterangan Bebas Narkoba*.\n13. Surat Keterangan Sehat Rohani (MMPI)*.\n14. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di seluruh Indonesia.\n15. Surat Pernyataan Kemampuan Finansial selama Masa Pendidikan.\n16. Surat Pernyataan Persetujuan Keluarga/Pasangan.\n17. Surat pernyataan keaslian dokumen.\nCatatan:\n*Dari RS Haji untuk pendaftar dari wilayah Jabodetabek atau RS Pemerintah terdekat untuk pendaftar dari wilayah luar Jabodetabek."
+  },
+  {
+    "id": "01e4bde124539a3edd8aab21a1661df5",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## 1. Persyaratan",
+    "parent_context": "1. Persyaratan",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Program Studi Profesi Apoteker",
+    "alias_topik": [
+      "syarat profesi apoteker",
+      "persyaratan PSPA",
+      "dokumen profesi apoteker"
+    ],
+    "search_text": "Judul: Persyaratan Program Studi Profesi Apoteker\nKonteks: 1. Persyaratan\nAlias: syarat profesi apoteker, persyaratan PSPA, dokumen profesi apoteker\nIntent: tanya_profesi, tanya_persyaratan\n\n## 1. Persyaratan\n\nPersyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Profesi Apoteker (PSPA) FIKES UIN Syarif Hidayatullah Jakarta.",
+    "content": "## 1. Persyaratan\n\nPersyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Profesi Apoteker (PSPA) FIKES UIN Syarif Hidayatullah Jakarta."
+  },
+  {
+    "id": "b636b8c02210d21e561fa74ca41adcbb",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### A. Persyaratan Akademik",
+    "parent_context": "1. Persyaratan > A. Persyaratan Akademik",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Akademik Profesi Apoteker",
+    "alias_topik": [
+      "syarat akademik apoteker",
+      "IPK profesi apoteker",
+      "TOEFL profesi apoteker"
+    ],
+    "search_text": "Judul: Persyaratan Akademik Profesi Apoteker\nKonteks: 1. Persyaratan > A. Persyaratan Akademik\nAlias: syarat akademik apoteker, IPK profesi apoteker, TOEFL profesi apoteker\nIntent: tanya_profesi, tanya_persyaratan\n\n### A. Persyaratan Akademik\n\n1. Alumni S1 Prodi Farmasi UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 2,75\n2. Alumni S1 Prodi Farmasi Non UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 3,25\n3. Memiliki sertifikat Bahasa Inggris setara TOEFL 450 yang masih berlaku 2 (dua) tahun terakhir",
+    "content": "### A. Persyaratan Akademik\n\n1. Alumni S1 Prodi Farmasi UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 2,75\n2. Alumni S1 Prodi Farmasi Non UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 3,25\n3. Memiliki sertifikat Bahasa Inggris setara TOEFL 450 yang masih berlaku 2 (dua) tahun terakhir"
+  },
+  {
+    "id": "d58cde3c7bfb8ae8e5b12904f40a0ec9",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### B. Persyaratan Administratif",
+    "parent_context": "1. Persyaratan > B. Persyaratan Administratif",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Administratif Profesi Apoteker",
+    "alias_topik": [
+      "syarat administrasi apoteker",
+      "dokumen administratif apoteker"
+    ],
+    "search_text": "Judul: Persyaratan Administratif Profesi Apoteker\nKonteks: 1. Persyaratan > B. Persyaratan Administratif\nAlias: syarat administrasi apoteker, dokumen administratif apoteker\nIntent: tanya_profesi, tanya_persyaratan\n\n### B. Persyaratan Administratif\n\n1. Mengisi formulir yang sudah disediakan secara online;\n2. Salinan ijazah yang sudah dilegalisir/scan asli /Surat Keterangan Lulus (SKL) bagi yang belum mendapatkan Ijazah;\n3. Menyerahkan salinan ijazah yang sudah dilegalisir pada awal perkuliahan;\n4. Salinan transkrip nilai yang sudah dilegalisir/scan asli\n5. Scan sertifikat TOEFL atau setara, diperbolehkan menggunakan prediction test.\n6. Scan Kartu Tanda Penduduk (KTP) yang masih berlaku\n7. Bukti pembayaran pendaftaran",
+    "content": "### B. Persyaratan Administratif\n\n1. Mengisi formulir yang sudah disediakan secara online;\n2. Salinan ijazah yang sudah dilegalisir/scan asli /Surat Keterangan Lulus (SKL) bagi yang belum mendapatkan Ijazah;\n3. Menyerahkan salinan ijazah yang sudah dilegalisir pada awal perkuliahan;\n4. Salinan transkrip nilai yang sudah dilegalisir/scan asli\n5. Scan sertifikat TOEFL atau setara, diperbolehkan menggunakan prediction test.\n6. Scan Kartu Tanda Penduduk (KTP) yang masih berlaku\n7. Bukti pembayaran pendaftaran"
+  },
+  {
+    "id": "17239e12671fe7678c619d1dc7f0d602",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## PERSYARATAN",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > PERSYARATAN",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Pendidikan Profesi Ners",
+    "alias_topik": [
+      "syarat profesi ners",
+      "persyaratan ners",
+      "dokumen ners"
+    ],
+    "search_text": "Judul: Persyaratan Pendidikan Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > PERSYARATAN\nAlias: syarat profesi ners, persyaratan ners, dokumen ners\nIntent: tanya_profesi, tanya_persyaratan\n\n## PERSYARATAN\n\nPersyaratan Akademik dan Administrasi untuk Pendaftaran Calon Mahasiswa Baru Program Studi Pendidikan Profesi Ners, Fakultas Ilmu Kesehatan, UIN Syarif Hidayatullah Jakarta.\nPendaftar merupakan lulusan Program Studi Ilmu Keperawatan UIN Syarif Hidayatullah Jakarta.\nIPK Sarjana Keperawatan pendaftar minimal 2,75.\nPendaftar harus terdaftar sebagai peserta aktif BPJS.\nPendaftar harus memiliki surat keterangan lulus atau ijazah.\nPendaftar harus memiliki izin mengikuti Pendidikan Profesi Ners dari orang tua atau wali, menggunakan template yang telah disediakan.",
+    "content": "## PERSYARATAN\n\nPersyaratan Akademik dan Administrasi untuk Pendaftaran Calon Mahasiswa Baru Program Studi Pendidikan Profesi Ners, Fakultas Ilmu Kesehatan, UIN Syarif Hidayatullah Jakarta.\nPendaftar merupakan lulusan Program Studi Ilmu Keperawatan UIN Syarif Hidayatullah Jakarta.\nIPK Sarjana Keperawatan pendaftar minimal 2,75.\nPendaftar harus terdaftar sebagai peserta aktif BPJS.\nPendaftar harus memiliki surat keterangan lulus atau ijazah.\nPendaftar harus memiliki izin mengikuti Pendidikan Profesi Ners dari orang tua atau wali, menggunakan template yang telah disediakan."
+  },
+  {
+    "id": "8fabd69c9af368cf605d127e2d5397df",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Rector Scholarship for International Students UIN Jakarta",
+    "alias_topik": [
+      "Rector Scholarship",
+      "beasiswa rektor",
+      "international students scholarship",
+      "beasiswa mahasiswa asing"
+    ],
+    "search_text": "Judul: Rector Scholarship for International Students UIN Jakarta\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\nAlias: Rector Scholarship, beasiswa rektor, international students scholarship, beasiswa mahasiswa asing\nIntent: tanya_beasiswa, tanya_persyaratan, tanya_prosedur_pendaftaran\n\n# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\n\nUIN SYARIF HIDAYATULLAH JAKARTA\n\nUIN Syarif Hidayatullah Jakarta is calling prospective students from around the globe to join our academic community!\n\nApplication Deadline : 23 February 2026\nApply                : https://bit.ly/ADFORMUIN\nInstagram            : @internationalofficeuinjkt\nWhatsApp             : +62 813-9942-664",
+    "content": "# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\n\nUIN SYARIF HIDAYATULLAH JAKARTA\n\nUIN Syarif Hidayatullah Jakarta is calling prospective students from around the globe to join our academic community!\n\nApplication Deadline : 23 February 2026\nApply                : https://bit.ly/ADFORMUIN\nInstagram            : @internationalofficeuinjkt\nWhatsApp             : +62 813-9942-664"
+  },
+  {
+    "id": "0b916b1818ed6ed03591e141e9f1a95d",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "### Undergraduate Program (S1)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Undergraduate Program (S1)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "Admission Requirements Undergraduate Program S1",
+    "alias_topik": [
+      "syarat S1 international students",
+      "undergraduate requirements"
+    ],
+    "search_text": "Judul: Admission Requirements Undergraduate Program S1\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Undergraduate Program (S1)\nAlias: syarat S1 international students, undergraduate requirements\nIntent: tanya_persyaratan, tanya_beasiswa\n\n### Undergraduate Program (S1)\n\n1. Current Curriculum Vitae (CV)\n2. Colored Photo 4 x 6 (with red background)\n3. High School Certificate (Max 3 years after graduation)\n4. High School Transcript\n5. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n6. Health Certificate (Medical Check-Up)\n7. Evidence of sufficient funds, such as personal bank statements min USD 2000\n8. Cover Passport (min 18 months before expired)",
+    "content": "### Undergraduate Program (S1)\n\n1. Current Curriculum Vitae (CV)\n2. Colored Photo 4 x 6 (with red background)\n3. High School Certificate (Max 3 years after graduation)\n4. High School Transcript\n5. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n6. Health Certificate (Medical Check-Up)\n7. Evidence of sufficient funds, such as personal bank statements min USD 2000\n8. Cover Passport (min 18 months before expired)"
+  },
+  {
+    "id": "7dbeee4b5f8213d3cbb2fffd75b230e1",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "### Graduate Program (M.A. and Ph.D.)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Graduate Program (M.A. and Ph.D.)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Admission Requirements Graduate Program M.A. and Ph.D.",
+    "alias_topik": [
+      "syarat S2 international students",
+      "syarat S3 international students",
+      "graduate requirements"
+    ],
+    "search_text": "Judul: Admission Requirements Graduate Program M.A. and Ph.D.\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Graduate Program (M.A. and Ph.D.)\nAlias: syarat S2 international students, syarat S3 international students, graduate requirements\nIntent: tanya_persyaratan, tanya_beasiswa, tanya_pascasarjana\n\n### Graduate Program (M.A. and Ph.D.)\n\n1. Colored photo 4 x 6 (with red background)\n2. Undergraduate/Bachelor certificate and master certificate for doctorate applicants\n3. Undergraduate/Bachelor certificate and master transcripts for doctorate applicants\n4. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n5. Recommendation Letter from at least two previous teachers/Professor(s)\n6. Health Certificate (Medical Check Up)\n7. Permit Letter from the institution you work (if applicable)\n8. Research Proposal (4-8 pages consist of background, literature review & methods)\n9. Evidence of sufficient funds, such as personal bank statements minimum last 3 months min USD 2000\n10. Cover Passport (min 18 months before expired)",
+    "content": "### Graduate Program (M.A. and Ph.D.)\n\n1. Colored photo 4 x 6 (with red background)\n2. Undergraduate/Bachelor certificate and master certificate for doctorate applicants\n3. Undergraduate/Bachelor certificate and master transcripts for doctorate applicants\n4. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n5. Recommendation Letter from at least two previous teachers/Professor(s)\n6. Health Certificate (Medical Check Up)\n7. Permit Letter from the institution you work (if applicable)\n8. Research Proposal (4-8 pages consist of background, literature review & methods)\n9. Evidence of sufficient funds, such as personal bank statements minimum last 3 months min USD 2000\n10. Cover Passport (min 18 months before expired)"
+  },
+  {
+    "id": "fd92633cdd9d94e59c35439d821c53e8",
+    "source_file": "s2_s3_2_tagged.md",
+    "heading": "## Persyaratan Pendaftaran",
+    "parent_context": "Persyaratan Pendaftaran",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Persyaratan Pendaftaran Program Magister dan Doktor",
+    "alias_topik": [
+      "syarat S2 S3",
+      "persyaratan pascasarjana",
+      "syarat magister doktor"
+    ],
+    "search_text": "Judul: Persyaratan Pendaftaran Program Magister dan Doktor\nKonteks: Persyaratan Pendaftaran\nAlias: syarat S2 S3, persyaratan pascasarjana, syarat magister doktor\nIntent: tanya_persyaratan, tanya_pascasarjana\n\n## Persyaratan Pendaftaran\n\n1. Menyerahkan proposal penelitian dengan topik sesuai Program Magister dan Program Doktor tujuan studi.\n2. Memiliki surat rekomendasi dari dosen pembimbing akademik atau dosen senior di perguruan tinggi.\n3. Memiliki Indeks Prestasi Kumulatif (IPK) jenjang Sarjana minimal 3.00 bagi Pendaftar Program Magister dan IPK jenjang Magister minimal 3.00 bagi Pendaftar Program Doktor.\n4. Memiliki ijazah Sarjana (S1) bagi Program Magister dan Ijazah Magister (S2) bagi Program Doktor di Perguruan Tinggi yang terakreditasi, baik dalam maupun luar negeri.",
+    "content": "## Persyaratan Pendaftaran\n\n1. Menyerahkan proposal penelitian dengan topik sesuai Program Magister dan Program Doktor tujuan studi.\n2. Memiliki surat rekomendasi dari dosen pembimbing akademik atau dosen senior di perguruan tinggi.\n3. Memiliki Indeks Prestasi Kumulatif (IPK) jenjang Sarjana minimal 3.00 bagi Pendaftar Program Magister dan IPK jenjang Magister minimal 3.00 bagi Pendaftar Program Doktor.\n4. Memiliki ijazah Sarjana (S1) bagi Program Magister dan Ijazah Magister (S2) bagi Program Doktor di Perguruan Tinggi yang terakreditasi, baik dalam maupun luar negeri."
+  },
+  {
+    "id": "f1a0e1af55331a356f1102976c1574ed",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Ketentuan Umum",
+    "parent_context": "SNBP > Ketentuan Umum",
+    "intents": [
+      "tanya_jalur",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Umum SNBP",
+    "alias_topik": [
+      "ketentuan SNBP",
+      "aturan SNBP",
+      "syarat umum SNBP"
+    ],
+    "search_text": "Judul: Ketentuan Umum SNBP\nKonteks: SNBP > Ketentuan Umum\nAlias: ketentuan SNBP, aturan SNBP, syarat umum SNBP\nIntent: tanya_jalur, tanya_persyaratan\n\n## Ketentuan Umum\n\n1. SNBP dllakukan berdasarkan hasil penelusuran prestasi akademik dengan menggunakan rapor serta prestasi akademik dan nonakademik siswa yang telah ditetapkan PTN. Adapun prestasi akademik maupun non akademik siswa yang dinilai adalah tiga prestasi terbaik.\n2. Sekolah yang mengikutkan siswanya dalam SNBP harus:\n   a. Mempunyai Nomor Pokok Sekolah Nasional (NPSN); dan\n   b. Mengisikan rapor siswa yang eligible di Pangkalan Data Sekolah dan Siswa (PDSS) dengan lengkap dan benar.\n3. Siswa mempunyai nilai Tes Kemampuan Akademik (TKA) Kemdikdasmen.\n4. Sekolah harus memiliki Akun SNPMB Sekolah Untuk pengisian PDSS dan siswa harus memiliki Akun SNPMB Siswa untuk pendaftaran SNBP. Registrasi Akun SNPMB Sekolah dan registrasi Akun SNPMB Siswa dilakukan di Portal SNPMB.\n5. Sekolah dapat memasukkan siswa eligible tanpa harus menunggu siswa memiliki Akun SNPMB Siswa.\n6. Siswa yang akan mendaftar SNBP disarankan membaca informasi persyaratan program studi pilihan pada laman PTN yang dituju.\n7. Siswa yang telah dinyatakan lulus seleksi Jalur SNBP 2026, SNBP 2025 dan SNBP 2024 tidak dapat mendaftar UTBK-SNBT 2026.\n8. Siswa yang dinyatakan lulus seleksi Jalur SNBP 2026 tidak dapat mendaftar seleksi Jalur Mandiri tahun 2026 di PTN manapun.",
+    "content": "## Ketentuan Umum\n\n1. SNBP dllakukan berdasarkan hasil penelusuran prestasi akademik dengan menggunakan rapor serta prestasi akademik dan nonakademik siswa yang telah ditetapkan PTN. Adapun prestasi akademik maupun non akademik siswa yang dinilai adalah tiga prestasi terbaik.\n2. Sekolah yang mengikutkan siswanya dalam SNBP harus:\n   a. Mempunyai Nomor Pokok Sekolah Nasional (NPSN); dan\n   b. Mengisikan rapor siswa yang eligible di Pangkalan Data Sekolah dan Siswa (PDSS) dengan lengkap dan benar.\n3. Siswa mempunyai nilai Tes Kemampuan Akademik (TKA) Kemdikdasmen.\n4. Sekolah harus memiliki Akun SNPMB Sekolah Untuk pengisian PDSS dan siswa harus memiliki Akun SNPMB Siswa untuk pendaftaran SNBP. Registrasi Akun SNPMB Sekolah dan registrasi Akun SNPMB Siswa dilakukan di Portal SNPMB.\n5. Sekolah dapat memasukkan siswa eligible tanpa harus menunggu siswa memiliki Akun SNPMB Siswa.\n6. Siswa yang akan mendaftar SNBP disarankan membaca informasi persyaratan program studi pilihan pada laman PTN yang dituju.\n7. Siswa yang telah dinyatakan lulus seleksi Jalur SNBP 2026, SNBP 2025 dan SNBP 2024 tidak dapat mendaftar UTBK-SNBT 2026.\n8. Siswa yang dinyatakan lulus seleksi Jalur SNBP 2026 tidak dapat mendaftar seleksi Jalur Mandiri tahun 2026 di PTN manapun."
+  },
+  {
+    "id": "9a3ea7a669acbc8b292de779066f8a8a",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Persyaratan Sekolah",
+    "parent_context": "SNBP > Persyaratan Sekolah",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Sekolah SNBP",
+    "alias_topik": [
+      "syarat sekolah SNBP",
+      "NPSN SNBP"
+    ],
+    "search_text": "Judul: Persyaratan Sekolah SNBP\nKonteks: SNBP > Persyaratan Sekolah\nAlias: syarat sekolah SNBP, NPSN SNBP\nIntent: tanya_persyaratan\n\n## Persyaratan Sekolah\n\n1. SMA/SMK/MA yang mempunyai Nomor Pokok Siswa Nasional (NPSN).\n2. Menggunakan Kurikulum Nasional",
+    "content": "## Persyaratan Sekolah\n\n1. SMA/SMK/MA yang mempunyai Nomor Pokok Siswa Nasional (NPSN).\n2. Menggunakan Kurikulum Nasional"
+  },
+  {
+    "id": "061ff76400057f5d89275f6b324298c1",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Persyaratan Siswa",
+    "parent_context": "SNBP > Persyaratan Siswa",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Siswa SNBP",
+    "alias_topik": [
+      "syarat siswa SNBP",
+      "siswa eligible",
+      "NISN SNBP"
+    ],
+    "search_text": "Judul: Persyaratan Siswa SNBP\nKonteks: SNBP > Persyaratan Siswa\nAlias: syarat siswa SNBP, siswa eligible, NISN SNBP\nIntent: tanya_persyaratan\n\n## Persyaratan Siswa\n\n1. Siswa MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah kelas terakhir pada tahun 2026.\n2. Memiliki prestasi akademik dan memenuhi persyaratan yang ditentukan oleh masing-masing Perguruan Tinggi.\n3. Memiliki Nomor Induk Siswa Nasional (NISN).\n4. Memiliki nilai rapor Kelas X/Semester 1, Kelas X/Semester 2, Kelas XI/Semester 1, Kelas XI/Semester 2 dan Kelas XII/Semester 1 yang telah diisikan di PDSS.",
+    "content": "## Persyaratan Siswa\n\n1. Siswa MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah kelas terakhir pada tahun 2026.\n2. Memiliki prestasi akademik dan memenuhi persyaratan yang ditentukan oleh masing-masing Perguruan Tinggi.\n3. Memiliki Nomor Induk Siswa Nasional (NISN).\n4. Memiliki nilai rapor Kelas X/Semester 1, Kelas X/Semester 2, Kelas XI/Semester 1, Kelas XI/Semester 2 dan Kelas XII/Semester 1 yang telah diisikan di PDSS."
+  },
+  {
+    "id": "08ed61f9654846bb00f6c621a0e695a5",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Portofolio",
+    "parent_context": "SNBP > Portofolio",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Portofolio SNBP",
+    "alias_topik": [
+      "portofolio SNBP",
+      "syarat portofolio"
+    ],
+    "search_text": "Judul: Portofolio SNBP\nKonteks: SNBP > Portofolio\nAlias: portofolio SNBP, syarat portofolio\nIntent: tanya_persyaratan\n\n## Portofolio\n\n1. Olahraga\n2. Seni Rupa, Desain, dan Kriya\n3. Seni Tari\n4. Seni Musik\n5. Seni Karawitan\n6. Etnomusikologi\n7. Teater\n8. Fotografi\n9. Film Televisi\n10. Seni Pedalangan\n11. Sendratasik",
+    "content": "## Portofolio\n\n1. Olahraga\n2. Seni Rupa, Desain, dan Kriya\n3. Seni Tari\n4. Seni Musik\n5. Seni Karawitan\n6. Etnomusikologi\n7. Teater\n8. Fotografi\n9. Film Televisi\n10. Seni Pedalangan\n11. Sendratasik"
+  },
+  {
+    "id": "f2d13645e918984b8bf9b1a57c8f8396",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Ketentuan Umum",
+    "parent_context": "SNBT > Ketentuan Umum",
+    "intents": [
+      "tanya_jalur",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Umum SNBT",
+    "alias_topik": [
+      "ketentuan SNBT",
+      "aturan SNBT",
+      "syarat umum SNBT"
+    ],
+    "search_text": "Judul: Ketentuan Umum SNBT\nKonteks: SNBT > Ketentuan Umum\nAlias: ketentuan SNBT, aturan SNBT, syarat umum SNBT\nIntent: tanya_jalur, tanya_persyaratan\n\n## Ketentuan Umum\n\n1. Peserta SNBT hanya diperbolehkan mengikuti UTBK 2026 sebanyak satu kali.\n2. Hasil UTBK 2026 hanya berlaku untuk mengikuti SNBT dan penerimaan di PTN tahun 2026.\n3. Seleksi Jalur SNBT 2026 berdasarkan hasil UTBK 2026, dan ditambah portofolio bagi peserta yang memilih program studi seni dan/atau olahraga.\n4. Siswa yang telah dinyatakan lulus seleksi jalur SNBP 2026, SNBP 2025, dan SNBP 2024 tidak dapat mengikuti SNBT 2026.",
+    "content": "## Ketentuan Umum\n\n1. Peserta SNBT hanya diperbolehkan mengikuti UTBK 2026 sebanyak satu kali.\n2. Hasil UTBK 2026 hanya berlaku untuk mengikuti SNBT dan penerimaan di PTN tahun 2026.\n3. Seleksi Jalur SNBT 2026 berdasarkan hasil UTBK 2026, dan ditambah portofolio bagi peserta yang memilih program studi seni dan/atau olahraga.\n4. Siswa yang telah dinyatakan lulus seleksi jalur SNBP 2026, SNBP 2025, dan SNBP 2024 tidak dapat mengikuti SNBT 2026."
+  },
+  {
+    "id": "43424e8f3c98e194a270119d41905fea",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Persyaratan Peserta",
+    "parent_context": "SNBT > Persyaratan Peserta",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Peserta SNBT",
+    "alias_topik": [
+      "syarat jalur snbt",
+      "syarat peserta SNBT",
+      "persyaratan UTBK-SNBT",
+      "syarat UTBK"
+    ],
+    "search_text": "Judul: Persyaratan Peserta SNBT\nKonteks: SNBT > Persyaratan Peserta\nAlias: syarat jalur snbt, syarat peserta SNBT, persyaratan UTBK-SNBT, syarat UTBK\nIntent: tanya_persyaratan\n\n## Persyaratan Peserta\n\n1. Peserta harus memiliki Akun SNPMB Siswa. Registrasi Akun SNPMB Siswa dapat dilakukan di Portal SNPMB.\n2. Warga Negara Indonesia (WNI) yang memiliki Nomor Induk Kependudukan (NIK).\n3. Siswa SMA/SMK/MA atau yang sederajat pada kelas terakhir tahun 2026, atau Peserta didik Paket C tahun 2026 dengan umur maksimal 25 tahun (per 1 Juli 2026).\n4. Siswa yang belum mempunyai ijazah harus membawa surat keterangan siswa kelas 12 sekurang-kurangnya disertai dengan:\n   a. identitas, meliputi nama, kelas, NISN dan NPSN;\n   b. pas foto terbaru (berwarna);\n   c. tanda tangan Kepala Sekolah/Madrasah; dan\n   d. stempel/cap sekolah.\n5. Siswa lulusan SMA/SMK/MA atau yang sederajat tahun 2024 dan 2025 atau Lulusan Paket C tahun 2024 dan 2025 dengan umur maksimal 25 tahun (per 1 Juli 2026)\n6. Bagi lulusan SMA sederajat dari luar negeri harus memiliki ijazah yang sudah disetarakan.\n7. Bagi peserta yang memilih program studi bidang Seni dan/atau Olahraga wajib mengunggah portofolio.\n8. Memiliki kesehatan yang memadai sehingga tidak mengganggu kelancaran proses studi.\n9. Bagi peserta berkebutuhan khusus tunanetra wajib mengunggah Surat Pernyataan Tuna Netra.\n10. Membayar biaya UTBK.",
+    "content": "## Persyaratan Peserta\n\n1. Peserta harus memiliki Akun SNPMB Siswa. Registrasi Akun SNPMB Siswa dapat dilakukan di Portal SNPMB.\n2. Warga Negara Indonesia (WNI) yang memiliki Nomor Induk Kependudukan (NIK).\n3. Siswa SMA/SMK/MA atau yang sederajat pada kelas terakhir tahun 2026, atau Peserta didik Paket C tahun 2026 dengan umur maksimal 25 tahun (per 1 Juli 2026).\n4. Siswa yang belum mempunyai ijazah harus membawa surat keterangan siswa kelas 12 sekurang-kurangnya disertai dengan:\n   a. identitas, meliputi nama, kelas, NISN dan NPSN;\n   b. pas foto terbaru (berwarna);\n   c. tanda tangan Kepala Sekolah/Madrasah; dan\n   d. stempel/cap sekolah.\n5. Siswa lulusan SMA/SMK/MA atau yang sederajat tahun 2024 dan 2025 atau Lulusan Paket C tahun 2024 dan 2025 dengan umur maksimal 25 tahun (per 1 Juli 2026)\n6. Bagi lulusan SMA sederajat dari luar negeri harus memiliki ijazah yang sudah disetarakan.\n7. Bagi peserta yang memilih program studi bidang Seni dan/atau Olahraga wajib mengunggah portofolio.\n8. Memiliki kesehatan yang memadai sehingga tidak mengganggu kelancaran proses studi.\n9. Bagi peserta berkebutuhan khusus tunanetra wajib mengunggah Surat Pernyataan Tuna Netra.\n10. Membayar biaya UTBK."
+  },
+  {
+    "id": "ca6417e15964ce7e0f56b0f4457f7242",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Portofolio",
+    "parent_context": "SNBT > Portofolio",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Portofolio SNBT",
+    "alias_topik": [
+      "portofolio SNBT",
+      "portofolio jalur SNBT",
+      "portofolio UTBK",
+      "syarat portofolio"
+    ],
+    "search_text": "Judul: Portofolio SNBT\nKonteks: SNBT > Portofolio\nAlias: portofolio SNBT, portofolio jalur SNBT, portofolio UTBK, syarat portofolio\nIntent: tanya_persyaratan\n\n## Portofolio\n\n1. Olahraga\n2. Seni Rupa, Desain, dan Kriya\n3. Seni Tari\n4. Seni Musik\n5. Seni Karawitan\n6. Etnomusikologi\n7. Teater\n8. Fotografi\n9. Film Televisi\n10. Seni Pedalangan\n11. Sendratasik\nPanduan Portofolio dapat diakses pada menu Unduhan submenu Portofolio\n\nhttps://penerimaan.uinjkt.ac.id/id/snbt#jadwalpendaftaran",
+    "content": "## Portofolio\n\n1. Olahraga\n2. Seni Rupa, Desain, dan Kriya\n3. Seni Tari\n4. Seni Musik\n5. Seni Karawitan\n6. Etnomusikologi\n7. Teater\n8. Fotografi\n9. Film Televisi\n10. Seni Pedalangan\n11. Sendratasik\nPanduan Portofolio dapat diakses pada menu Unduhan submenu Portofolio\n\nhttps://penerimaan.uinjkt.ac.id/id/snbt#jadwalpendaftaran"
+  },
+  {
+    "id": "92e6850ebbe1c30374bc8ea873b05796",
+    "source_file": "span_ptkin_tagged.md",
+    "heading": "## Ketentuan Umum",
+    "parent_context": "Tentang SPAN-PTKIN > Ketentuan Umum",
+    "intents": [
+      "tanya_jalur",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Umum SPAN-PTKIN",
+    "alias_topik": [
+      "ketentuan SPAN PTKIN",
+      "aturan SPAN PTKIN",
+      "syarat umum SPAN PTKIN"
+    ],
+    "search_text": "Judul: Ketentuan Umum SPAN-PTKIN\nKonteks: Tentang SPAN-PTKIN > Ketentuan Umum\nAlias: ketentuan SPAN PTKIN, aturan SPAN PTKIN, syarat umum SPAN PTKIN\nIntent: tanya_jalur, tanya_persyaratan\n\n## Ketentuan Umum\n\n1. SPAN-PTKIN merupakan seleksi nasional berdasarkan penjaringan prestasi akademik dengan menggunakan nilai rapor dan prestasi lain berupa portofolio tanpa ujian tertulis.\n2. Satuan Pendidikan yang berhak mendaftarkan siswanya dalam SPAN-PTKIN adalah MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah yang secara sah memperoleh izin penyelenggaraan pendidikan dari pemerintah.\n3. Siswa yang berhak mengikuti seleksi adalah siswa yang didaftarkan oleh Kepala Satuan Pendidikan MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah masing - masing.",
+    "content": "## Ketentuan Umum\n\n1. SPAN-PTKIN merupakan seleksi nasional berdasarkan penjaringan prestasi akademik dengan menggunakan nilai rapor dan prestasi lain berupa portofolio tanpa ujian tertulis.\n2. Satuan Pendidikan yang berhak mendaftarkan siswanya dalam SPAN-PTKIN adalah MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah yang secara sah memperoleh izin penyelenggaraan pendidikan dari pemerintah.\n3. Siswa yang berhak mengikuti seleksi adalah siswa yang didaftarkan oleh Kepala Satuan Pendidikan MA/MAK/SMA/SMK/Pendidikan Diniyah Formal/Pendidikan Kesetaraan Pondok Pensantren Salafiyah/Mu'adalah Muallimin/Mua'dalah Salafiyah masing - masing."
+  },
+  {
+    "id": "cd2b8043dba9cfebc7b36a0722d8ef70",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 1. Persyaratan",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 1. Persyaratan",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_profesi"
+    ],
+    "topik": "Persyaratan Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "syarat Obgin",
+      "persyaratan spesialis Obgin",
+      "dokumen Obgin"
+    ],
+    "search_text": "Judul: Persyaratan Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 1. Persyaratan\nAlias: syarat Obgin, persyaratan spesialis Obgin, dokumen Obgin\nIntent: tanya_persyaratan, tanya_profesi\n\n## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Obstetri dan Ginekologi (Obgin) Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta:\n1. KTP & KK (usia maksimal 35 tahun bagi staf FK/RS dan maksimal 40 tahun bagi TNI/Polri)\n2. Curriculum Vitae\n3. Scan asli ijazah dokter\n4. Scan asli transkrip nilai (minimal IPK 2.75)\n5. Surat rekomendasi untuk melanjutkan Pendidikan\n6. TOEFL ITP (minimal 500 dari Lembaga terakreditasi)\n7. Scan asli STR & SIP (yang masih berlaku)\n8. Sertifikat ACLS (yang masih berlaku)\n9. SKCK (Surat Keterangan Catatan Kepolisian) dengan masa berlaku 6 bulan\n10. Asuransi Kesehatan yang aktif dan dapat digunakan selama Pendidikan (BPJS Kesehatan)\n11. Surat keterangan pengalaman kerja (minimum 6 bulan) dari institusi asal\n12. Surat pernyataan kesediaan ditempatkan sebagai staf pengajar FK UIN di seluruh Indonesia\n13. Surat pernyataan kemampuan finansial selama masa Pendidikan\n14. Surat pernyataan persetujuan keluarga/pasangan\n15. Surat pernyataan keaslian dokumen\n16. Surat pernyataan menunda kehamilan selama Pendidikan (selama 1 tahun)\n17. Surat pernyataan tidak melakukan perundungan, perbuatan asusila dan perbuatan yang melanggar norma agama\n18. Calon Peserta hanya boleh melamar 2 (dua) kali di program studi yang sama\n19. Hasil seleksi bersifat mutlak dan tidak dapat diganggu gugat (Surat pernyataan bersedia menerima hasil seleksi)",
+    "content": "## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Obstetri dan Ginekologi (Obgin) Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta:\n1. KTP & KK (usia maksimal 35 tahun bagi staf FK/RS dan maksimal 40 tahun bagi TNI/Polri)\n2. Curriculum Vitae\n3. Scan asli ijazah dokter\n4. Scan asli transkrip nilai (minimal IPK 2.75)\n5. Surat rekomendasi untuk melanjutkan Pendidikan\n6. TOEFL ITP (minimal 500 dari Lembaga terakreditasi)\n7. Scan asli STR & SIP (yang masih berlaku)\n8. Sertifikat ACLS (yang masih berlaku)\n9. SKCK (Surat Keterangan Catatan Kepolisian) dengan masa berlaku 6 bulan\n10. Asuransi Kesehatan yang aktif dan dapat digunakan selama Pendidikan (BPJS Kesehatan)\n11. Surat keterangan pengalaman kerja (minimum 6 bulan) dari institusi asal\n12. Surat pernyataan kesediaan ditempatkan sebagai staf pengajar FK UIN di seluruh Indonesia\n13. Surat pernyataan kemampuan finansial selama masa Pendidikan\n14. Surat pernyataan persetujuan keluarga/pasangan\n15. Surat pernyataan keaslian dokumen\n16. Surat pernyataan menunda kehamilan selama Pendidikan (selama 1 tahun)\n17. Surat pernyataan tidak melakukan perundungan, perbuatan asusila dan perbuatan yang melanggar norma agama\n18. Calon Peserta hanya boleh melamar 2 (dua) kali di program studi yang sama\n19. Hasil seleksi bersifat mutlak dan tidak dapat diganggu gugat (Surat pernyataan bersedia menerima hasil seleksi)"
+  },
+  {
+    "id": "dff3f1e93015f4e4ccacb84d7bff87b9",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 1. Persyaratan",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 1. Persyaratan",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_profesi"
+    ],
+    "topik": "Persyaratan Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "syarat pulmonologi",
+      "syarat spesialis pulmonologi",
+      "dokumen pulmonologi",
+      "PPDS pulmonologi"
+    ],
+    "search_text": "Judul: Persyaratan Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 1. Persyaratan\nAlias: syarat pulmonologi, syarat spesialis pulmonologi, dokumen pulmonologi, PPDS pulmonologi\nIntent: tanya_persyaratan, tanya_profesi\n\n## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Pulmonologi dan Kedokteran Respirasi Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta.\n1. Data Pribadi\n2. Kartu Tanda Penduduk (KTP) dengan usia maksimal 35 Tahun ⁠bagi staf FK/RS dan maksimal 40 Tahun bagi TNI/POLRI\n3. Kartu Keluarga (KK)\n4. Curriculum Vitae (Unduh template di sini)\n5. Formulir Pendaftaran Spesialis (mengisi di website pendaftaran)\n6. Scan asli Ijazah Dokter\n7. Scan asli Transkrip Nilai (IPK minimal 2,75)\n8. Surat Rekomendasi untuk Melanjutkan Pendidikan (dari Institusi layanan kesehatan/Pendidikan yang menjadi tujuan setelah pendidikan) → diutamakan dari institusi pemerintah/PNS/TNI/POLRI\n9. TOEFL Institutional Testing Program (ITP) dengan skor minimal 500 yang dikeluarkan oleh lembaga terakreditasi/LIA\n10. Scan asli Surat Tanda Registrasi (STR) yang masih berlaku\n11. Scan asli Surat Izin Praktik (SIP) yang masih berlaku\n12. Scan asli Sertifikat Advanced Cardiovascular Life Support (ACLS) yang masih berlaku\n13. SKCK (Surat Keterangan Catatan Kepolisian)\n14. Surat Keterangan Pengalaman Kerja (minimal 1 tahun) dari Institusi asal\n15. Surat Keterangan Kesehatan (dari RS Haji Jakarta untuk domisili Jabodetabek atau RS Pemerintah daerah setempat jika domisili luar Jabodetabek)\n16. Surat Keterangan Bebas Narkoba\n17. Surat Keterangan Sehat Jasmani (wajib ada foto Toraks, OT, PT, Ur, Cr, HbA1c, HIV, HBsAg, DL, EKG, tes buta warna)\n18. Surat Keterangan Sehat Rohani (MMPI) (harus menyertakan hasil yang berupa grafik, bukan hanya hasil akhir)\n19. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di Seluruh Indonesia setelah lulus, bila Peserta bukan PNS/TNI/POLRI → (Unduh template di sini)\n20. Surat Pernyataan Kemampuan Finansial Selama Masa Pendidikan (bermaterai) → (Unduh template di sini)\n21. Surat Pernyataan Persetujuan Keluarga/Pasangan → (Unduh template di sini)\n22. Surat Pernyataan Keaslian Dokumen (bermaterai) → (Unduh template di sini)",
+    "content": "## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Pulmonologi dan Kedokteran Respirasi Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta.\n1. Data Pribadi\n2. Kartu Tanda Penduduk (KTP) dengan usia maksimal 35 Tahun ⁠bagi staf FK/RS dan maksimal 40 Tahun bagi TNI/POLRI\n3. Kartu Keluarga (KK)\n4. Curriculum Vitae (Unduh template di sini)\n5. Formulir Pendaftaran Spesialis (mengisi di website pendaftaran)\n6. Scan asli Ijazah Dokter\n7. Scan asli Transkrip Nilai (IPK minimal 2,75)\n8. Surat Rekomendasi untuk Melanjutkan Pendidikan (dari Institusi layanan kesehatan/Pendidikan yang menjadi tujuan setelah pendidikan) → diutamakan dari institusi pemerintah/PNS/TNI/POLRI\n9. TOEFL Institutional Testing Program (ITP) dengan skor minimal 500 yang dikeluarkan oleh lembaga terakreditasi/LIA\n10. Scan asli Surat Tanda Registrasi (STR) yang masih berlaku\n11. Scan asli Surat Izin Praktik (SIP) yang masih berlaku\n12. Scan asli Sertifikat Advanced Cardiovascular Life Support (ACLS) yang masih berlaku\n13. SKCK (Surat Keterangan Catatan Kepolisian)\n14. Surat Keterangan Pengalaman Kerja (minimal 1 tahun) dari Institusi asal\n15. Surat Keterangan Kesehatan (dari RS Haji Jakarta untuk domisili Jabodetabek atau RS Pemerintah daerah setempat jika domisili luar Jabodetabek)\n16. Surat Keterangan Bebas Narkoba\n17. Surat Keterangan Sehat Jasmani (wajib ada foto Toraks, OT, PT, Ur, Cr, HbA1c, HIV, HBsAg, DL, EKG, tes buta warna)\n18. Surat Keterangan Sehat Rohani (MMPI) (harus menyertakan hasil yang berupa grafik, bukan hanya hasil akhir)\n19. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di Seluruh Indonesia setelah lulus, bila Peserta bukan PNS/TNI/POLRI → (Unduh template di sini)\n20. Surat Pernyataan Kemampuan Finansial Selama Masa Pendidikan (bermaterai) → (Unduh template di sini)\n21. Surat Pernyataan Persetujuan Keluarga/Pasangan → (Unduh template di sini)\n22. Surat Pernyataan Keaslian Dokumen (bermaterai) → (Unduh template di sini)"
+  },
+  {
+    "id": "85e2e4c9837d361e4083d9fec3325e1a",
+    "source_file": "spmb_mandiri_non_reguler_prestasi_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler Prestasi",
+    "alias_topik": [
+      "syarat prestasi",
+      "ketentuan jalur prestasi",
+      "sertifikat prestasi",
+      "jalur tahfidz",
+      "jalur alquran"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler Prestasi\nKonteks: Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Peserta\nAlias: syarat prestasi, ketentuan jalur prestasi, sertifikat prestasi, jalur tahfidz, jalur alquran\nIntent: tanya_persyaratan, tanya_jalur\n\n## Ketentuan Peserta\n\nSeleksi ini diperuntukkan bagi calon mahasiswa yang memiliki prestasi di tingkat Nasional maupun Internasional, baik di bidang akademik maupun non akademik, yang dibuktikan dengan sertifikat kejuaraan dan divalidasi oleh lembaga yang kredibel.",
+    "content": "## Ketentuan Peserta\n\nSeleksi ini diperuntukkan bagi calon mahasiswa yang memiliki prestasi di tingkat Nasional maupun Internasional, baik di bidang akademik maupun non akademik, yang dibuktikan dengan sertifikat kejuaraan dan divalidasi oleh lembaga yang kredibel."
+  },
+  {
+    "id": "f87af2830bd5aac53d863b1e73b712e2",
+    "source_file": "spmb_mandiri_non_reguler_prestasi_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Penilaian",
+    "intents": [
+      "tanya_ujian",
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler Prestasi",
+    "alias_topik": [
+      "penilaian prestasi",
+      "rapor prestasi",
+      "wawancara prestasi",
+      "portofolio prestasi",
+      "jalur alquran",
+      "jalur tahfidz"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler Prestasi\nKonteks: Tentang SPMB Mandiri Non-Reguler (Prestasi) > Ketentuan Penilaian\nAlias: penilaian prestasi, rapor prestasi, wawancara prestasi, portofolio prestasi, jalur alquran, jalur tahfidz\nIntent: tanya_ujian, tanya_persyaratan\n\n## Ketentuan Penilaian\n\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait prestasi bidang akademik serta non akademik; dan\n3. Portofolio prestasi:\n   a. Memiliki Nomor Induk Siswa Nasional (NISN);\n   b. Memiliki prestasi minimal peringkat ketiga pada kompetisi tingkat Nasional atau Internasional; dan\n   c. Bukti prestasi seperti piagam penghargaan dan sertifikat yang diperoleh saat SMA/SMK/MA/MAK/Pesantren Pendidikan Diniyah Formal (PDF) /Satuan Pendidikan Mu’adalah/Pendidikan Kesetaraan Pondok Pesantren Salafiyah (PKPPS) atau sederajat yang memiliki Nomor Pokok Sekolah Nasional (NPSN). Bukti diunggah ke laman Admisi UIN Jakarta (maksimal 3 file).",
+    "content": "## Ketentuan Penilaian\n\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait prestasi bidang akademik serta non akademik; dan\n3. Portofolio prestasi:\n   a. Memiliki Nomor Induk Siswa Nasional (NISN);\n   b. Memiliki prestasi minimal peringkat ketiga pada kompetisi tingkat Nasional atau Internasional; dan\n   c. Bukti prestasi seperti piagam penghargaan dan sertifikat yang diperoleh saat SMA/SMK/MA/MAK/Pesantren Pendidikan Diniyah Formal (PDF) /Satuan Pendidikan Mu’adalah/Pendidikan Kesetaraan Pondok Pesantren Salafiyah (PKPPS) atau sederajat yang memiliki Nomor Pokok Sekolah Nasional (NPSN). Bukti diunggah ke laman Admisi UIN Jakarta (maksimal 3 file)."
+  },
+  {
+    "id": "9fc1c594083974af2f1e685c2cdcf2ae",
+    "source_file": "talent_scouting_ts_tagged.md",
+    "heading": "## Ketentuan Penilaian",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Ketentuan Penilaian",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_ujian",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Penilaian SPMB Mandiri Non-Reguler Talent Scouting",
+    "alias_topik": [
+      "penilaian TS",
+      "syarat TS",
+      "MoU MoA",
+      "rapor TS",
+      "wawancara TS"
+    ],
+    "search_text": "Judul: Ketentuan Penilaian SPMB Mandiri Non-Reguler Talent Scouting\nKonteks: Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Ketentuan Penilaian\nAlias: penilaian TS, syarat TS, MoU MoA, rapor TS, wawancara TS\nIntent: tanya_persyaratan, tanya_ujian, tanya_jalur\n\n## Ketentuan Penilaian\n\nSalinan MoU atau MoA antara sekolah dengan Fakultas/Universitas yang masih berlaku;\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n3. Bukti prestasi (piagam atau sertifikat).",
+    "content": "## Ketentuan Penilaian\n\nSalinan MoU atau MoA antara sekolah dengan Fakultas/Universitas yang masih berlaku;\n1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;\n2. Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan\n3. Bukti prestasi (piagam atau sertifikat)."
+  },
+  {
+    "id": "ae08769c914d8775c701ea6e00e99690",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Isi Formulir Daftar Ulang Bagian Informasi Pribadi, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBT, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBP, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "isi formulir daftar ulang",
+      "form daftar ulang",
+      "informasi pribadi daftar ulang",
+      "dokumen pribadi daftar ulang",
+      "pas foto daftar ulang",
+      "KTP daftar ulang",
+      "Kartu Keluarga daftar ulang",
+      "BPJS daftar ulang",
+      "NISN daftar ulang",
+      "formulir daftar ulang S1",
+      "formulir daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Isi Formulir Daftar Ulang Bagian Informasi Pribadi, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBT, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBP, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nAlias: isi formulir daftar ulang, form daftar ulang, informasi pribadi daftar ulang, dokumen pribadi daftar ulang, pas foto daftar ulang, KTP daftar ulang, Kartu Keluarga daftar ulang, BPJS daftar ulang, NISN daftar ulang, formulir daftar ulang S1, formulir daftar ulang sarjana\nIntent: daftar_ulang, tanya_prosedur_pendaftaran, tanya_persyaratan\n\n## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\n\nLangkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nCatatan wajib:\n- Seluruh isian formulir yang bertanda bintang (*) wajib diisi.\n\nBAGIAN 1 - INFORMASI PRIBADI\n\nDokumen atau bahan yang disiapkan:\n- Pas Foto Terbaru Formal Latar Merah (Wajib).\n  Ketentuan:\n  - Tidak menggunakan seragam sekolah.\n  - Tidak berkacamata.\n  - Tidak terlihat gigi.\n  - Format JPEG.\n  - Rasio foto 4 x 6 atau maksimal resolusi 300px x 450px.\n  - Maksimal ukuran file 200 kb.\n- Foto KTP/Kartu Keluarga format PDF/JPG/JPEG/PNG (Wajib).\n  Maksimal ukuran file 1 MB.\n- NISN (Nomor Induk Siswa Nasional) diisi dengan 10 digit angka.\n- Foto Kartu BPJS format JPG/JPEG/PNG (Opsional/Jika Ada).\n  Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama; Agenda; Informasi; Pengumuman; Keluar\n- Informasi Pribadi; Riwayat Pendidikan; Data UKT; Data Orang Tua; Data Wali; Verifikasi\n- Pas foto*; Upload Foto\n- Nama lengkap (Sesuai Ijazah)*\n- Jenis kelamin: Laki-Laki / Perempuan\n- NIK / No. KTP*\n- Upload KTP*; KTP; Upload Berkas\n- Upload KTP dengan format *.pdf\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\n\nLangkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nCatatan wajib:\n- Seluruh isian formulir yang bertanda bintang (*) wajib diisi.\n\nBAGIAN 1 - INFORMASI PRIBADI\n\nDokumen atau bahan yang disiapkan:\n- Pas Foto Terbaru Formal Latar Merah (Wajib).\n  Ketentuan:\n  - Tidak menggunakan seragam sekolah.\n  - Tidak berkacamata.\n  - Tidak terlihat gigi.\n  - Format JPEG.\n  - Rasio foto 4 x 6 atau maksimal resolusi 300px x 450px.\n  - Maksimal ukuran file 200 kb.\n- Foto KTP/Kartu Keluarga format PDF/JPG/JPEG/PNG (Wajib).\n  Maksimal ukuran file 1 MB.\n- NISN (Nomor Induk Siswa Nasional) diisi dengan 10 digit angka.\n- Foto Kartu BPJS format JPG/JPEG/PNG (Opsional/Jika Ada).\n  Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama; Agenda; Informasi; Pengumuman; Keluar\n- Informasi Pribadi; Riwayat Pendidikan; Data UKT; Data Orang Tua; Data Wali; Verifikasi\n- Pas foto*; Upload Foto\n- Nama lengkap (Sesuai Ijazah)*\n- Jenis kelamin: Laki-Laki / Perempuan\n- NIK / No. KTP*\n- Upload KTP*; KTP; Upload Berkas\n- Upload KTP dengan format *.pdf\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "7030884a4a88ba9b0f83d6e8183126b4",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Riwayat Pendidikan Formulir Daftar Ulang, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBT, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBP, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "riwayat pendidikan daftar ulang",
+      "ijazah daftar ulang",
+      "SKL daftar ulang",
+      "Surat Keterangan Kelas XII daftar ulang",
+      "rapor daftar ulang",
+      "data SMTA daftar ulang",
+      "asal sekolah daftar ulang",
+      "riwayat pendidikan daftar ulang S1"
+    ],
+    "search_text": "Judul: Riwayat Pendidikan Formulir Daftar Ulang, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBT, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBP, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang\nAlias: riwayat pendidikan daftar ulang, ijazah daftar ulang, SKL daftar ulang, Surat Keterangan Kelas XII daftar ulang, rapor daftar ulang, data SMTA daftar ulang, asal sekolah daftar ulang, riwayat pendidikan daftar ulang S1\nIntent: daftar_ulang, tanya_persyaratan\n\n## Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang\n\nDokumen atau bahan yang disiapkan:\n- Foto Ijazah/Surat Keterangan Lulus (SKL)/Surat Keterangan Kelas XII\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n- Foto Rapor dari kelas X(1-2), XI(1-2), XII(1) dalam satu file\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n\nTeks pada tampilan formulir:\n- Tahun lulus SMTA*: 2025\n- Jurusan SMTA*: SMU/MA IPA\n- Jenis SMTA*: SMA\n- Pilih SMTA*: Pilih SMTA\n- Nama SMTA lain\n- Isi nama SMTA jika tidak ada dalam daftar list SMTA di atas,\n  dengan terlebih dahulu memilih SMTA Lain-lain sesuai dengan kota sekolah.\n- Asal Negara SMTA: INDONESIA\n- Provinsi SMTA: Prov. Banten\n- Kabupaten SMTA: Kab Tangerang\n- Kecamatan SMTA: Kec Kelapa Dua\n- Alamat SMTA\n- Maksimal 90 karakter, gunakan spasi untuk memisahkan tiap kata.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang\n\nDokumen atau bahan yang disiapkan:\n- Foto Ijazah/Surat Keterangan Lulus (SKL)/Surat Keterangan Kelas XII\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n- Foto Rapor dari kelas X(1-2), XI(1-2), XII(1) dalam satu file\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n\nTeks pada tampilan formulir:\n- Tahun lulus SMTA*: 2025\n- Jurusan SMTA*: SMU/MA IPA\n- Jenis SMTA*: SMA\n- Pilih SMTA*: Pilih SMTA\n- Nama SMTA lain\n- Isi nama SMTA jika tidak ada dalam daftar list SMTA di atas,\n  dengan terlebih dahulu memilih SMTA Lain-lain sesuai dengan kota sekolah.\n- Asal Negara SMTA: INDONESIA\n- Provinsi SMTA: Prov. Banten\n- Kabupaten SMTA: Kab Tangerang\n- Kecamatan SMTA: Kec Kelapa Dua\n- Alamat SMTA\n- Maksimal 90 karakter, gunakan spasi untuk memisahkan tiap kata.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "8aec7e8029877bba68188846a5b9fcdb",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 3: DATA UKT",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 3: DATA UKT",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Data UKT Formulir Daftar Ulang, Data UKT Daftar Ulang S1 Sarjana Jalur SNBT, Data UKT Daftar Ulang S1 Sarjana Jalur SNBP, Data UKT Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "data UKT",
+      "penentuan UKT",
+      "kesanggupan membayar UKT",
+      "UKT daftar ulang S1",
+      "UKT daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Data UKT Formulir Daftar Ulang, Data UKT Daftar Ulang S1 Sarjana Jalur SNBT, Data UKT Daftar Ulang S1 Sarjana Jalur SNBP, Data UKT Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 3: DATA UKT\nAlias: data UKT, penentuan UKT, kesanggupan membayar UKT, UKT daftar ulang S1, UKT daftar ulang sarjana\nIntent: daftar_ulang, tanya_persyaratan\n\n## BAGIAN 3: DATA UKT\n\nDokumen atau bahan yang disiapkan:\n- Foto Surat Pernyataan Kebenaran Data dan Kesanggupan Membayar UKT\n  yang ditandatangani Calon Mahasiswa dan Orang Tua/Wali serta dibubuhkan\n  Materai Fisik/e-Materai Rp10.000,-.\n- Silakan unduh template Surat Pernyataan pada link download template.\n- Format file PDF (Wajib).\n- Maksimal ukuran file 2 MB.\nCatatan pilihan UKT:\n- Jika ingin memilih UKT Kelompok 7, klik Tidak pada isian Mengikuti Proses\n  Penentuan UKT.\n- Jika memilih Tidak, Anda tidak perlu melakukan upload dokumen pendukung UKT\n  dan dapat langsung melakukan pembayaran.\nTeks pada tampilan formulir:\n- Dokumen yang harus diisi calon mahasiswa*\n- Download template\n- Dokumen; Upload Berkas\n- Mengikuti Proses Penentuan UKT*: Ya / Tidak\n- Saya setuju untuk dimasukkan kelompok UKT paling tinggi (7)\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.\n\n##BAGIAN 3: DATA UKT (MENGIKUTI PROSES PENENTUAN UKT)\n\nInstruksi:\n- Jika memilih mengikuti Proses Penentuan UKT, klik tombol Ya dan siapkan dokumen berikut:\n  - Foto Mutasi Rekening 3 Bulan Terakhir (Opsional/Jika Ada).\n  - Foto SPPT PBB Tahun Terakhir (Jika Ada).\n  - Berkas Bukti Pajak Bumi dan Bangunan (PBB) (Wajib).\n  - Berkas STNK Mobil.\n  - Berkas STNK Motor.\n  - Berkas Kartu Keluarga (Wajib).\n  - Surat Keterangan Tidak Mampu (SKTM/KIP/PKH/Pra-Sejahtera) (Jika Ada).\n  - Foto Rumah Tampak Dalam (Wajib).\n  - Foto Rumah Tampak Luar (Wajib).\n- Untuk format dan ukuran file dokumen di atas dapat dilihat pada isian formulir.\nTeks pada tampilan formulir:\n- Mutasi Rekening 3 bulan Terakhir (Opsional/Jika Ada); Upload Berkas\n- SPT Tahun Terakhir (Opsional/Jika Ada); Upload Berkas\n- Daya Listrik Rumah*: 1200 Watt\n- Status Kepemilikan Rumah*: Kontrakan < 1 Juta Per Bulan\n- Luas Bangunan*: 51 M2 - 100 M2\n- Luas Tanah Bangunan*: 60 M2 - 100 M2\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 3: DATA UKT\n\nDokumen atau bahan yang disiapkan:\n- Foto Surat Pernyataan Kebenaran Data dan Kesanggupan Membayar UKT\n  yang ditandatangani Calon Mahasiswa dan Orang Tua/Wali serta dibubuhkan\n  Materai Fisik/e-Materai Rp10.000,-.\n- Silakan unduh template Surat Pernyataan pada link download template.\n- Format file PDF (Wajib).\n- Maksimal ukuran file 2 MB.\nCatatan pilihan UKT:\n- Jika ingin memilih UKT Kelompok 7, klik Tidak pada isian Mengikuti Proses\n  Penentuan UKT.\n- Jika memilih Tidak, Anda tidak perlu melakukan upload dokumen pendukung UKT\n  dan dapat langsung melakukan pembayaran.\nTeks pada tampilan formulir:\n- Dokumen yang harus diisi calon mahasiswa*\n- Download template\n- Dokumen; Upload Berkas\n- Mengikuti Proses Penentuan UKT*: Ya / Tidak\n- Saya setuju untuk dimasukkan kelompok UKT paling tinggi (7)\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.\n\n##BAGIAN 3: DATA UKT (MENGIKUTI PROSES PENENTUAN UKT)\n\nInstruksi:\n- Jika memilih mengikuti Proses Penentuan UKT, klik tombol Ya dan siapkan dokumen berikut:\n  - Foto Mutasi Rekening 3 Bulan Terakhir (Opsional/Jika Ada).\n  - Foto SPPT PBB Tahun Terakhir (Jika Ada).\n  - Berkas Bukti Pajak Bumi dan Bangunan (PBB) (Wajib).\n  - Berkas STNK Mobil.\n  - Berkas STNK Motor.\n  - Berkas Kartu Keluarga (Wajib).\n  - Surat Keterangan Tidak Mampu (SKTM/KIP/PKH/Pra-Sejahtera) (Jika Ada).\n  - Foto Rumah Tampak Dalam (Wajib).\n  - Foto Rumah Tampak Luar (Wajib).\n- Untuk format dan ukuran file dokumen di atas dapat dilihat pada isian formulir.\nTeks pada tampilan formulir:\n- Mutasi Rekening 3 bulan Terakhir (Opsional/Jika Ada); Upload Berkas\n- SPT Tahun Terakhir (Opsional/Jika Ada); Upload Berkas\n- Daya Listrik Rumah*: 1200 Watt\n- Status Kepemilikan Rumah*: Kontrakan < 1 Juta Per Bulan\n- Luas Bangunan*: 51 M2 - 100 M2\n- Luas Tanah Bangunan*: 60 M2 - 100 M2\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "ad7e38ca30a077bf1c2b4bfe0aba297c",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 4: DATA ORANG TUA",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 4: DATA ORANG TUA",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Data Orang Tua Formulir Daftar Ulang, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBT, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBP, Data Orang Tua Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "data orang tua",
+      "slip gaji orang tua",
+      "pekerjaan orang tua",
+      "data orang tua daftar ulang S1"
+    ],
+    "search_text": "Judul: Data Orang Tua Formulir Daftar Ulang, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBT, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBP, Data Orang Tua Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 4: DATA ORANG TUA\nAlias: data orang tua, slip gaji orang tua, pekerjaan orang tua, data orang tua daftar ulang S1\nIntent: daftar_ulang, tanya_persyaratan\n\n## BAGIAN 4: DATA ORANG TUA\n\nDokumen atau bahan yang disiapkan:\n- Berkas Slip Gaji Ayah format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n- Berkas Slip Gaji Ibu format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- NIK/No KTP/No Passport Ayah\n- Nama Ayah*\n- Alamat Ayah\n- No.Telp Ayah; Isi dengan angka\n- Pendidikan Ayah*: SMA; Pendidikan terakhir Ayah\n- Jenjang Pendidikan Ayah*: SMA/sederajat\n- Pekerjaan Ayah*: Sudah Meninggal\n- Alamat kantor Ayah; Alamat kantor Ayah, maksimal 30 karakter\n- No.Telp Kantor Ayah; Isi dengan angka\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 4: DATA ORANG TUA\n\nDokumen atau bahan yang disiapkan:\n- Berkas Slip Gaji Ayah format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n- Berkas Slip Gaji Ibu format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- NIK/No KTP/No Passport Ayah\n- Nama Ayah*\n- Alamat Ayah\n- No.Telp Ayah; Isi dengan angka\n- Pendidikan Ayah*: SMA; Pendidikan terakhir Ayah\n- Jenjang Pendidikan Ayah*: SMA/sederajat\n- Pekerjaan Ayah*: Sudah Meninggal\n- Alamat kantor Ayah; Alamat kantor Ayah, maksimal 30 karakter\n- No.Telp Kantor Ayah; Isi dengan angka\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "8f1dc10daa62eda8b687ac38163ff8ca",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 5: DATA WALI",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 5: DATA WALI",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Data Wali Formulir Daftar Ulang, Data Wali Daftar Ulang S1 Sarjana Jalur SNBT, Data Wali Daftar Ulang S1 Sarjana Jalur SNBP, Data Wali Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "data wali",
+      "wali daftar ulang",
+      "data wali daftar ulang S1"
+    ],
+    "search_text": "Judul: Data Wali Formulir Daftar Ulang, Data Wali Daftar Ulang S1 Sarjana Jalur SNBT, Data Wali Daftar Ulang S1 Sarjana Jalur SNBP, Data Wali Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 5: DATA WALI\nAlias: data wali, wali daftar ulang, data wali daftar ulang S1\nIntent: daftar_ulang, tanya_persyaratan\n\n## BAGIAN 5: DATA WALI\n\nInstruksi:\n- Jika Anda tidak mempunyai Wali, Anda bisa kosongkan isian formulir pada bagian ini.\nTeks pada tampilan formulir:\n- Nama wali\n- Pendidikan Wali: -- PILIH --\n- Pendidikan terakhir Wali\n- Jenjang Pendidikan Wali: -- PILIH --\n- Pekerjaan wali: -- PILIH --\n- Penghasilan Wali: -- PILIH --\n- Penghasilan Wali\n- Alamat wali\n- Maksimal 30 karakter\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 5: DATA WALI\n\nInstruksi:\n- Jika Anda tidak mempunyai Wali, Anda bisa kosongkan isian formulir pada bagian ini.\nTeks pada tampilan formulir:\n- Nama wali\n- Pendidikan Wali: -- PILIH --\n- Pendidikan terakhir Wali\n- Jenjang Pendidikan Wali: -- PILIH --\n- Pekerjaan wali: -- PILIH --\n- Penghasilan Wali: -- PILIH --\n- Penghasilan Wali\n- Alamat wali\n- Maksimal 30 karakter\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "49cebdf4ce2c90905eaaea05af2a56d2",
+    "source_file": "um_ptkin_tagged.md",
+    "heading": "## Ketentuan Umum",
+    "parent_context": "Tentang UM-PTKIN > Ketentuan Umum",
+    "intents": [
+      "tanya_persyaratan"
+    ],
+    "topik": "Ketentuan Umum UM-PTKIN",
+    "alias_topik": [
+      "ketentuan UM PTKIN",
+      "syarat umum UM PTKIN",
+      "aturan UM PTKIN"
+    ],
+    "search_text": "Judul: Ketentuan Umum UM-PTKIN\nKonteks: Tentang UM-PTKIN > Ketentuan Umum\nAlias: ketentuan UM PTKIN, syarat umum UM PTKIN, aturan UM PTKIN\nIntent: tanya_persyaratan\n\n## Ketentuan Umum\n\n1. Peserta yang berhak mendaftar adalah siswa pada Satuan Pendidikan MA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025, dan 2026.\n2. Peserta lulusan tahun 2024 dan 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL), dan Peserta lulusan 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa.\n3. Peserta wajib memiliki: a. Nomor Induk Siswa Nasional (NISN); b. Email yang aktif dan dapat dihubungi; c. Nomor WhatsApp yang aktif dan dapat dihubungi.\n4. Peserta melakukan pendaftaran secara mandiri pada laman https://um.ptkin.ac.id.\n5. Peserta melakukan pembayaran biaya pendaftaran melalui bank yang ditetapkan oleh Panitia Nasional. Biaya pendaftaran yang sudah dibayarkan tidak dapat ditarik kembali dengan alasan apapun.\n6. Peserta memilih maksimal 3 (tiga) Program Studi pada PTKIN/PTN.\n7. Peserta memilih PTKIN/PTN Titik Lokasi Ujian.\n8. Pendaftaran peserta dinyatakan selesai apabila peserta telah melakukan Finalisasi Pendaftaran.",
+    "content": "## Ketentuan Umum\n\n1. Peserta yang berhak mendaftar adalah siswa pada Satuan Pendidikan MA/MAK/SMA/SMK/SPM/PDF/PKPPS/sederajat lulusan tahun 2024, 2025, dan 2026.\n2. Peserta lulusan tahun 2024 dan 2025 wajib memiliki Ijazah/Surat Keterangan Lulus (SKL), dan Peserta lulusan 2026 wajib memiliki salah satu dari Surat Keterangan Lulus (SKL)/Pengumuman Lulus/KTP/Kartu Siswa.\n3. Peserta wajib memiliki: a. Nomor Induk Siswa Nasional (NISN); b. Email yang aktif dan dapat dihubungi; c. Nomor WhatsApp yang aktif dan dapat dihubungi.\n4. Peserta melakukan pendaftaran secara mandiri pada laman https://um.ptkin.ac.id.\n5. Peserta melakukan pembayaran biaya pendaftaran melalui bank yang ditetapkan oleh Panitia Nasional. Biaya pendaftaran yang sudah dibayarkan tidak dapat ditarik kembali dengan alasan apapun.\n6. Peserta memilih maksimal 3 (tiga) Program Studi pada PTKIN/PTN.\n7. Peserta memilih PTKIN/PTN Titik Lokasi Ujian.\n8. Pendaftaran peserta dinyatakan selesai apabila peserta telah melakukan Finalisasi Pendaftaran."
+  }
+]

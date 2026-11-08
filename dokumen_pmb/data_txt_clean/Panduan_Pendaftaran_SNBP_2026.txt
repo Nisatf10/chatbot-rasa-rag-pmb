@@ -1,0 +1,218 @@
+Panduan Pendaftaran Snbp 2026
+Sumber: Panduan Pendaftaran SNBP 2026.pdf
+
+PANDUAN PENDAFTARAN
+SNBP 2026
+SELEKSI NASIONAL PENERIMAAN MAHASISWA BARU
+RINGKASAN
+Dokumen ini berisi Panduan Pendaftaran SNBP 2026
+yang diisikan oleh siswa
+2026
+
+Panduan Pendaftaran SNBP 2026
+1. Pendahuluan
+Dokumen ini berisi panduan pendaftaran SNBP yang diisikan oleh siswa sesuai dengan periode
+yang sudah ditetapkan oleh panitia SNPMB. Siswa dapat mendaftar SNBP melalui portal
+SNPMB yang dapat diakses pada tautan https://portal.snpmb.id/ atau melalui laman
+https://snbp.snpmb.id/. Siswa yang dapat mendaftar SNBP adalah siswa yang memenuhi
+kriteria, (1) dinyatakan eligible oleh sekolah; (2) memiliki Akun SNPMB Siswa yang telah
+disimpan permanen; dan (3) memiliki nilai lengkap pada PDSS yang diisikan dan difinalisasikan
+oleh Sekolah.
+
+Siswa Pendaftar KIP Kuliah diminta untuk melakukan pendaftaran di SIM KIP Kuliah sebelum
+melakukan pendaftaran SNBP.
+
+Secara umum, tahapan pendaftaran SNBP sebagai berikut:
+1. Login di portal SNBP dengan menggunakan alamat email dan password yang didaftarkan
+dan pilih menu Pendaftaran SNBP.
+2. Siswa melakukan pendaftaran SNBP dengan mengisikan pilihan prodi yang dipilih pada
+halaman PILIHAN.
+3. Siswa mengisikan portofolio pada halaman PORTOFOLIO jika prodi yang diplih
+mensyaratkan adanya dokumen portofolio. Jika prodi yang dipilih tidak mensyaratkan
+adanya dokumen portofolio, maka halaman ini tidak perlu diisikan.
+4. Siswa mengisikan prestasi pada halaman PRESTASI. Isian prestasi pada halaman ini
+bersifat tidak wajib, artinya isiannya tidak harus ada. Silakan isikan prestasi yang sesuai
+dengan bidang dan tingkat prestasi yang pernah didapatkan serta sesuai dengan prodi
+yang diminati.
+5. Siswa melakukan finalisasi pada halaman FINALISASI jika semua isian data sudah diyakini
+kebenarannya. Setelah melakukan finalisasi, isian data tidak dapat dibatalkan dan tidak
+bisa diubah dengan alasan apapun.
+6. Siswa mengunduh dan mencetak kartu peserta SNBP.
+
+Setiap tahapan akan dijelaskan lebih detil pada bagian selanjutnya dalam dokumen ini.
+
+Catatan: Foto dan beberapa informasi tulisan pada gambar dalam panduan ini sengaja diblok/blur agar identitas
+siswa tidak terlihat. Pada tampilan asli Anda tidak akan ada blok/blur baik pada foto maupun tulisan.
+
+2. Login Siswa
+Silakan masuk ke halaman awal dengan login via portal SNBP yang dapat diakses pada tautan
+https://portal.snpmb.id/, dan pilih menu Pendaftaran SNBP seperti gambar berikut:
+
+
+Panduan Pendaftaran SNBP 2026
+Atau langsung melalui laman SNBP yang dapat diakses apada tautan https://snbp.snpmb.id/
+seperti pada gambar berikut:
+Masukkan Email dan Password pada form login di atas. Gunakan alamat Email dan Password
+yang didaftarkan dan diverifikasi pada portal SNPMB.
+Jika Anda memenuhi syarat untuk mendaftar SNBP, maka tampilan berikutnya adalah tampilan
+seperti pada Halaman Profil yang akan dijelaskan pada bab selanjutnya.
+Jika Anda tidak memenuhi syarat untuk mendaftar SNBP, maka akan muncul pesan "Mohon
+maaf, Anda tidak berhak mengikuti SNBP 2026. Silakan mengikuti SNBT 2026. Anda akan
+otomatis logout dalam 30 detik." seperti pada tampilan berikut:
+Jika Anda memenuhi syarat yang disebutkan sebelumnya di bagian pendahuluan namun belum
+melakukan permanen pada portal SNPMB, maka akan muncul pesan “Data Anda belum
+permanen, pastikan data Anda sudah permanen pada portal SNPMB. Anda otomatis akan
+logout dalam 30 detik.” Seperti pada tampilan berikut:
+
+Panduan Pendaftaran SNBP 2026
+Jika Anda bukan siswa lulusan tahun ini atau bukan siswa aktif, maka akan muncul pesan “Anda
+tidak diperbolehkan untuk login ke aplikasi pendaftaran SNBP. Pastikan akun Anda terdaftar
+sebagai siswa aktif yang dapat mendaftar di SNBP. Anda otomatis akan logout dalam 30 detik.”
+Seperti pada tampilan berikut:
+Catatan tambahan untuk siswa pendaftar KIP Kuliah, anda diharuskan untuk melakukan
+pendaftaran di SIM KIP Kuliah sebelum melakukan pendaftaran SNBP. Jika tidak melakukan hal
+tersebut, maka anda akan terkendala ketika melakukan login ini.
+
+3. Profil
+Halaman profil berisi informasi biodata dari siswa. Perlu dicatat bahwa seluruh informasi pada
+kolom Biodata diambil dari data yang telah diisikan di portal, demikian halnya dengan data
+Nama, NISN, NPSN Sekolah, dan Asal Sekolah. Isian tersebut tidak dapat diubah pada aplikasi
+pendaftaran SNBP.
+Sama dengan tahun sebelumnya, data tambahan yang berisi Kontak dan Data Orang Tua tidak
+perlu diisikan karena diambil dari data isian Anda di portal. Sehingga isiannya tidak dapat
+diubah pada aplikasi pendaftaran SNBP ini.
+Berikut adalah tampilan awal dari halaman profil:
+Setelah memastikan bahwa seluruh isian data Anda pada halaman Profil ini tepat, berikutnya
+Anda bisa melanjutkan ke halaman PILIHAN.
+
+4. Pilihan
+Tampilan awal dari halaman PILIHAN sebagai berikut:
+
+
+Panduan Pendaftaran SNBP 2026
+Halaman-6
+Silakan pilih salah satu PTN/Politeknik Negeri dari daftar yang disediakan pada kolom Pilihan
+PTN/Politeknik Negeri, setelah itu akan muncul Daftar Prodi yang bisa dipilih oleh siswa.
+Program studi yang akan muncul adalah seluruh jurusan karena batasan syarat jurusan (MIPA,
+IPS, ataupun Bahasa) untuk prodi tertentu pada PTN/Politeknik Negeri sudah tidak ada lagi.
+Berikut adalah contoh tampilannya:
+Setiap siswa dapat memilih dua program studi dari satu PTN/Politeknik Negeri atau dua
+PTN/Politeknik Negeri. Aturan umumnya adalah jika memilih dua program studi, salah satu
+harus berada di PTN/Politeknik Negeri pada provinsi yang sama dengan SMA/MA/SMK
+asalnya. Jika hanya memilih satu program studi, siswa dapat memilih PTN/Politeknik Negeri
+yang berada di provinsi manapun. Aturan ini dikecualikan untuk:
+1. Siswa yang berasal dari SMA Luar Negeri, pilihan program studinya pada PTN/Politeknik
+Negeri bebas bisa di manapun (tidak harus salah satu berada di Prov DKI Jakarta) baik
+itu dua pilihan program studi atau satu pilihan program studi.
+2. Siswa lulusan dari Papua (provinsi manapun di Papua) yang hendak memilih dua
+program studi, salah satu pilihan program studi harus memilih PTN/Politeknik Negeri
+yang berada di provinsi Papua manapun. Sementara pilihan lainnya (yang kedua)
+mengikuti aturan umum.
+
+Terdapat juga informasi apakah prodi yang dipilih membutuhkan dokumen portofolio atau tidak
+pada kolom Portofolio. Jika kolom Portofolio bertuliskan keterangan “-“, artinya prodi tersebut
+tidak membutuhkan dokumen portofolio. Berikut contoh tampilan jika prodi membutuhkan
+dokumen portofolio:
+
+
+Panduan Pendaftaran SNBP 2026
+Jika sudah memilih prodi, silakan tekan Simpan Semua Pilihan pada tombol di kanan atas
+seperti yang ditandai dengan kotak hijau pada gambar berikut:
+Kemudian akan muncul pop-up konfirmasi pilihan sebagai berikut jika pilihan prodi Anda tidak
+membutuhkan isian portofolio:
+Pilih Simpan dan jika berhasil akan muncul notifikasi seperti pada gambar berikut:
+Jika Anda sudah Simpan Pilihan kemudian Anda ingin mengganti pilihan yang sudah dibuat dari
+prodi yang tidak memerlukan isian portofolio ke prodi yang memerlukan isian portofolio, akan
+muncul pop-up konfirmasi pilihan sebagai berikut:
+
+Panduan Pendaftaran SNBP 2026
+Kemungkinan berikutnya adalah jika Anda sudah Simpan Pilihan kemudian Anda ingin
+mengganti pilihan yang sudah dibuat dari prodi yang memerlukan isian portofolio ke prodi yang
+tetap memerlukan isian portofolio dengan jenis isian portofolio yang sama, akan muncul pop-
+up konfirmasi pilihan sebagai berikut:
+Terakhir, jika Anda sudah Simpan Pilihan kemudian Anda ingin mengganti pilihan yang sudah
+dibuat dari prodi yang memerlukan isian portofolio ke prodi yang tetap memerlukan isian
+portofolio namun jenis isian portofolionya berbeda, akan muncul pop-up konfirmasi pilihan
+sebagai berikut:
+Anda dapat melihat kembali prodi yang sudah Anda pilih dengan menekan tombol Pilihan Anda
+yang terletak di sebelah tombol Simpan Pilihan Anda
+Setelah dipilih, maka akan terlihat pilihan prodi yang sudah Anda isikan sebelumnya seperti
+pada gambar berikut:
+
+Panduan Pendaftaran SNBP 2026
+
+5. Portofolio
+Beberapa prodi mensyaratkan untuk mengisikan portofolio, seperti contohnya Seni Rupa,
+Desain, dan Kriya diharuskan mengunggah karya gambar maupun syarat lainnya yang tertera
+pada instruksi. Pilih halaman PORTOFOLIO, maka prodi yang Anda pilih yang mensyaratkan
+adanya isian portofolio akan muncul tampilan sebagai berikut:
+Jika prodi yang dipilih tidak mensyaratkan adanya portofolio maka halaman pada gambar di
+atas akan kosong (hanya muncul header Portofolio saja). Untuk melihat instruksi dan
+kebutuhan portofolio silakan Unduh Instruksi dan Unduh Dokumentasi yang disediakan
+(ditandai pada kotak berwarnya oranye pada gambar).
+Untuk mengisi portofolio, pilih Choose File (ditandai kotak merah pada gambar) untuk memilih
+file yang akan diunggah kemudian tekan tombol SIMPAN.
+Menu Unduh PPT digunakan untuk mengunduh PPT portofolio yang sudah Anda unggah
+sekaligus sebagai penanda bahwa sudah ada file yang Anda unggah. Pada kondisi awal atau jika
+portofolio belum diunggah, maka tombol Belum Diunggah akan tampak (kotak hijau pada
+gambar). Jika portofolio sudah diunggah, tombol akan berganti menjadi Sudah Diunggah,
+Unduh seperti pada gambar berikut:
+
+Panduan Pendaftaran SNBP 2026
+Jika berhasil menyimpan, akan muncul notifikasi sebagai berikut:
+Jika Anda sudah mengunggah portofolio, tetapi sebelum finalisasi dilakukan Anda berubah
+pikiran dan mengganti pilihan prodi yang tidak mensyaratkan adanya isian portofolio, maka
+isian portofolio sebelumnya akan dihapuskan.
+
+6. Prestasi
+Berikut adalah tampilan awal halaman PRESTASI:
+Isian prestasi bersifat tidak wajib diisikan, artinya jika memang tidak memiliki prestasi dengan
+Bidang dan Tingkat Prestasi yang disyaratkan pada pilihan, halaman ini bisa dikosongkan
+dengan tanpa mengunggah dan mengisi apapun. Prestasi yang dapat diisikan pada halaman ini
+maksimal 3 buah prestasi.
+Silakan mengunggah bukti prestasi terlebih dahulu, unggah Bukti Prestasi dengan menekan
+tombol Choose File kemudian pilih file yang akan Anda unggah dengan ukuran maksimal 2MB
+
+Panduan Pendaftaran SNBP 2026
+yang berformat pdf/png/jpg. Format lain selain pdf/png/jpg akan ditolak saat akan menyimpan
+bukti prestas tersebut.
+Kemudian isikan Deskripsi dari prestasi yang Anda unggah, jika Anda memilih untuk
+mengunggah prestasi maka kolom Deskripsi ini wajib diisi. Contoh isian deskripsi sebagai
+berikut: Juara 1 dari 150 peserta lomba pencak silat tingkat provinsi Jawa Barat yang
+diselenggarakan oleh Dispora Jabar.
+Berikutnya adalah pengisian Bidang Prestasi. Silakan dipilih Bidang Prestasi yang akan diisikan
+seperti pada pilihan berikut:
+Berikutnya isi juga Tingkat Prestasi yang harus diisikan seperti pada pilihan berikut:
+Kemudian, silakan isikan juga pada kolom Individu/Kelompok mengenai prestasi yang Anda
+dapatkan seperti pada pilihan berikut:
+Terakhir, Isikan juga Tahun Perolehan Prestasi dan Nama Lembaga Pemberi Prestasi untuk
+melengkapi isian prestasi Anda.
+Setelah selesai mengisi Prestasi, tekan tombol SIMPAN (kotak hijau) yang ada pada akhir
+halaman kanan bawah (setelah isian Prestasi 3) seperti pada tampilan berikut:
+Setelah menyimpan, akan muncul notifikasi berikut jika penyimpan telah berhasil:
+Guna memastikan bahwa file yang diunggah sudah benar, Anda dapat mengunduh file tersebut
+pada kolom Unduh Bukti Prestasi setelah Anda menyimpan Prestasi. Tampilan Unduh Bukti
+Prestasi akan seperti gambar berikut jika Anda sudah mengisi dan menyimpan file prestasi:
+
+7. Finalisasi
+Berikut adalah tampilan awal halaman FINALISASI:
+Panduan Pendaftaran SNBP 2026
+Mohon melakukan Finalisasi data pilihan SNBP Anda jika Anda memang sudah yakin semua
+isian sudah diisikan dengan benar. Silakan membaca dengan detail terlebih dahulu
+pernyataan yang akan disetujui.
+Perlu dicatat, ketika sudah melakukan Finalisasi maka seluruh isian data tidak dapat diubah
+lagi dan Anda tidak bisa membatalkan Finalisasi dengan cara apapun.
+Jika sudah yakin benar, berikan checklist pada pernyataan persetujuan “Saya setuju untuk
+finalisasi” seperti pada gambar sebelumnya pada kotak yang diberi warna merah.
+Kemudian pilih Finalisasi, maka akan muncul pop-up persetujuan seperti pada gambar berikut:
+Pilih Finalisasi jika Anda sudah yakin semua isian Anda sudah benar. Setelah itu tampilan
+halaman finalisasi akan berubah dengan adanya keterangan tanggal dan waktu finalisasi yang
+sudah dilakukan, seperti pada gambar berikut:
+
+8. Kartu Peserta
+Kartu peserta berada pada halaman yang sama dengan Finalisasi. Anda hanya bisa mengunduh
+kartu peserta jika Anda sudah melakukan Finalisasi.
+
+Panduan Pendaftaran SNBP 2026
+Berikut adalah contoh dari kartu peserta yang dapat diunduh setelah melakukan finalisasi:
+Setelah unduh kartu peserta, maka tahapan pendaftaran SNBP oleh siswa telah SELESAI.

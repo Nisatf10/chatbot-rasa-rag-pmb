@@ -1,0 +1,324 @@
+[Halaman 1]
+VIA BANK 
+VIA BANK 
+TATA CARA
+TATA CARA
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+PEMBAYARAN UKT
+
+[Halaman 2]
+1
+Pada halaman utama, pilih menu
+Bayar & Beli
+Pada halaman utama, pilih menu
+Bayar & Beli
+5
+Periksa detail tagihan, lalu konfirmasi
+pembayaran dan simpan bukti
+pembayaran
+Periksa detail tagihan, lalu konfirmasi
+pembayaran dan simpan bukti
+pembayaran
+4
+2
+Selanjutnya Pilih Menu
+Pendidikan
+Selanjutnya Pilih Menu
+Pendidikan
+3
+Ketik UIN Syarif Hidayatullah
+Jakarta di kolom pencarian
+Ketik UIN Syarif Hidayatullah
+Jakarta di kolom pencarian
+Masukkan Nomor Peserta Ujian
+Masukkan Nomor Peserta Ujian
+1. MELALUI MOBILE (WONDR BY BNI)
+1. MELALUI MOBILE (WONDR BY BNI)
+
+[Halaman 3]
+3
+1
+2
+5
+6
+REKENING
+KORAN
+REKENING
+KORAN
+TRANSFER
+TRANSFER
+INFORMASI
+SALDO 
+INFORMASI
+SALDO 
+TARIK TUNAI
+TARIK TUNAI
+GANTI PIN
+GANTI PIN
+SILAHKAN PILIH JENIS
+TRANSAKSI
+SILAHKAN PILIH JENIS
+TRANSAKSI
+- - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - -
+PEMBAYARAN
+PEMBAYARAN
+->
+->
+->
+->
+->
+->
+<- 
+<- 
+<- 
+<- 
+<- 
+<- 
+SMS BANKING
+SMS BANKING ->
+->
+PEMBELIAN
+PEMBELIAN
+<- 
+<- 
+500.000
+500.000
+300.000
+300.000
+100.000
+100.000
+200.000
+200.000
+TRANSAKSI
+LAINNYA
+TRANSAKSI
+LAINNYA
+SILAHKAN PILIH JENIS
+PENARIKAN
+SILAHKAN PILIH JENIS
+PENARIKAN
+- - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - -
+->
+->
+->
+->
+->
+->
+<- 
+<- 
+<- 
+<- 
+MULTIPAYMENT
+MULTIPAYMENT
+TELPON/HP
+TELPON/HP
+KPR
+KPR
+TARIK TUNAI
+TARIK TUNAI
+KARTU
+KREDIT
+KARTU
+KREDIT
+SILAHKAN PILIH JENIS
+TRANSAKSI PEMBAYARAN
+SILAHKAN PILIH JENIS
+TRANSAKSI PEMBAYARAN
+- - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - -
+PDAM
+PDAM
+->
+->
+->
+->
+->
+->
+<- 
+<- 
+<- 
+<- 
+<- 
+<- 
+GAS
+GAS
+<- 
+<- 
+Pilih menu Transaksi Lainnya
+Pilih menu Pembayaran
+FINANCE
+FINANCE
+PENDIDIKAN
+PENDIDIKAN
+KPR
+KPR
+TARIK TUNAI
+TARIK TUNAI
+KARTU
+KREDIT
+KARTU
+KREDIT
+MENU PEMBAYARAN
+MULTIPAYMENT
+MENU PEMBAYARAN
+MULTIPAYMENT
+- - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - -
+SAVE DEPOSIT
+SAVE DEPOSIT
+->
+->
+->
+->
+->
+->
+<- 
+<- 
+<- 
+<- 
+<- 
+<- 
+VIRTUAL ACC
+VIRTUAL ACC
+<- 
+<- 
+Pilih menu Multipayment
+Pilih menu Pendidikan
+TEKAN JIKA BENAR
+TEKAN JIKA BENAR
+MASUKKAN KODE INSTITUSI +
+KODE PEMBAYARAN
+MASUKKAN KODE INSTITUSI +
+KODE PEMBAYARAN
+- - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - -
+->
+->
+->
+->
+Ketik Kode UIN Syarif Hidayatullah
+Jakarta + Nomor Peserta Ujian
+4
+TEKAN JIKA BENAR
+TEKAN JIKA BENAR ->
+->
+TEKAN JIKA SALAH
+TEKAN JIKA SALAH
+- - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - -
+MASUKKAN KODE UIN JKT +
+NO.PESERTA
+MASUKKAN KODE UIN JKT +
+NO.PESERTA
+CONTOH:
+1.AAAA1123XXXX
+2.AAAA=KODE UIN (CONTOH)
+3.1123082XXX=NIM
+CONTOH:
+1.AAAA1123XXXX
+2.AAAA=KODE UIN (CONTOH)
+3.1123082XXX=NIM
+Pastikan Data sudah benar,
+pilih BENAR dan Cetak Resi
+TEKAN JIKA SALAH
+TEKAN JIKA SALAH ->
+->
+NAMA INSTITUSI
+NAMA INSTITUSI
+NAMA MAHASISWA
+NAMA MAHASISWA
+NO MAHASISWA
+NO MAHASISWA
+PEMBAYARAN
+PEMBAYARAN
+JUMLAH
+JUMLAH
+ADMIN BANK
+ADMIN BANK
+:
+:
+:
+:
+:
+:
+UIN JKT
+UIN JKT
+UCUP
+UCUP
+11230820XXX
+11230820XXX
+TAGIHAN
+TAGIHAN
+RP. 6.800.000
+RP. 6.800.000
+???
+???
+2. MELALUI ATM BNI
+2. MELALUI ATM BNI
+
+[Halaman 4]
+1
+Informasikan kepada petugas teller :
+Nama anda, nama institusi/kode biller
+(UIN Syarif Hidayatullah), nominal dan
+Nomor Peserta Ujian
+Informasikan kepada petugas teller :
+Nama anda, nama institusi/kode biller
+(UIN Syarif Hidayatullah), nominal dan
+Nomor Peserta Ujian
+2
+Teller menginput data tersebut dan
+melakukan 
+konfirmasi 
+data
+pembayaran (nama institusi, kode
+pembayaran, nama mahasiwa, dan
+nominal tagihan)
+Teller menginput data tersebut dan
+melakukan 
+konfirmasi 
+data
+pembayaran (nama institusi, kode
+pembayaran, nama mahasiwa, dan
+nominal tagihan)
+3
+Apabila 
+sudah 
+sesuai, 
+nasabah
+memberikan uang cash sesuai nominal
+tagihan pembayaran kepada teller, dan
+Teller memproses transaksi
+Apabila 
+sudah 
+sesuai, 
+nasabah
+memberikan uang cash sesuai nominal
+tagihan pembayaran kepada teller, dan
+Teller memproses transaksi
+4
+Transaksi 
+berhasil, 
+teller 
+akan
+memberikan bukti pembayaran yang
+sudah divalidasi
+Transaksi 
+berhasil, 
+teller 
+akan
+memberikan bukti pembayaran yang
+sudah divalidasi
+Kode Biller UIN: 8004
+Kode Biller UIN: 8004
+3. MELALUI TELLER BNI
+3. MELALUI TELLER BNI

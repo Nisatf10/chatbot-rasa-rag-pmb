@@ -1,0 +1,264 @@
+TATA CARA ISI FORMULIR DAFTAR ULANG
+UIN Syarif Hidayatullah Jakarta
+
+Sumber: Tata cara isi formulir daftar ulang.pdf
+
+============================================================
+HALAMAN 1 - LANGKAH 1: LOGIN APLIKASI
+============================================================
+
+Buka Browser dan Login Aplikasi
+
+- Buka browser dan login aplikasi dengan mengetik:
+  admisi.uinjkt.ac.id
+
+Jalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:
+- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).
+  Contoh: 1234567891
+- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl
+  (disambung/tanpa strip).
+  Contoh: 20070517
+
+Jalur SPMB Mandiri Reguler dan Non Reguler:
+- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).
+  Contoh: 1234567891
+- Password diisi dengan Password Pendaftaran Awal.
+  Contoh: 2ABCD4QZ
+
+Teks pada contoh layar aplikasi:
+- Portal PMB Online
+- Login untuk mengisi form pendaftaran:
+- Melakukan login dengan memasukkan Nomor Pendaftaran
+- Nomor Pendaftaran (Registration Number)
+- Password
+- MASUK / LOGIN / DAFTAR ULANG
+
+============================================================
+HALAMAN 2 - LANGKAH 2: ISI FORMULIR DAFTAR ULANG
+============================================================
+
+Catatan wajib:
+- Seluruh isian formulir yang bertanda bintang (*) wajib diisi.
+
+------------------------------------------------------------
+BAGIAN 1 - INFORMASI PRIBADI
+------------------------------------------------------------
+
+Dokumen atau bahan yang disiapkan:
+- Pas Foto Terbaru Formal Latar Merah (Wajib).
+  Ketentuan:
+  - Tidak menggunakan seragam sekolah.
+  - Tidak berkacamata.
+  - Tidak terlihat gigi.
+  - Format JPEG.
+  - Rasio foto 4 x 6 atau maksimal resolusi 300px x 450px.
+  - Maksimal ukuran file 200 kb.
+
+- Foto KTP/Kartu Keluarga format PDF/JPG/JPEG/PNG (Wajib).
+  Maksimal ukuran file 1 MB.
+
+- NISN (Nomor Induk Siswa Nasional) diisi dengan 10 digit angka.
+
+- Foto Kartu BPJS format JPG/JPEG/PNG (Opsional/Jika Ada).
+  Maksimal ukuran file 200 kb.
+
+Teks pada tampilan formulir:
+- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH
+- Halaman Utama; Agenda; Informasi; Pengumuman; Keluar
+- Informasi Pribadi; Riwayat Pendidikan; Data UKT; Data Orang Tua; Data Wali; Verifikasi
+- Pas foto*; Upload Foto
+- Nama lengkap (Sesuai Ijazah)*
+- Jenis kelamin: Laki-Laki / Perempuan
+- NIK / No. KTP*
+- Upload KTP*; KTP; Upload Berkas
+- Upload KTP dengan format *.pdf
+- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR
+
+Catatan tombol:
+- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.
+- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.
+
+============================================================
+HALAMAN 3 - BAGIAN 2: RIWAYAT PENDIDIKAN
+============================================================
+
+Dokumen atau bahan yang disiapkan:
+- Foto Ijazah/Surat Keterangan Lulus (SKL)/Surat Keterangan Kelas XII
+  format PDF (Wajib). Maksimal ukuran file 1 MB.
+- Foto Rapor dari kelas X(1-2), XI(1-2), XII(1) dalam satu file
+  format PDF (Wajib). Maksimal ukuran file 1 MB.
+
+Teks pada tampilan formulir:
+- Tahun lulus SMTA*: 2025
+- Jurusan SMTA*: SMU/MA IPA
+- Jenis SMTA*: SMA
+- Pilih SMTA*: Pilih SMTA
+- Nama SMTA lain
+- Isi nama SMTA jika tidak ada dalam daftar list SMTA di atas,
+  dengan terlebih dahulu memilih SMTA Lain-lain sesuai dengan kota sekolah.
+- Asal Negara SMTA: INDONESIA
+- Provinsi SMTA: Prov. Banten
+- Kabupaten SMTA: Kab Tangerang
+- Kecamatan SMTA: Kec Kelapa Dua
+- Alamat SMTA
+- Maksimal 90 karakter, gunakan spasi untuk memisahkan tiap kata.
+- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR
+
+Catatan tombol:
+- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.
+- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.
+
+============================================================
+HALAMAN 4 - BAGIAN 3: DATA UKT
+============================================================
+
+Dokumen atau bahan yang disiapkan:
+- Foto Surat Pernyataan Kebenaran Data dan Kesanggupan Membayar UKT
+  yang ditandatangani Calon Mahasiswa dan Orang Tua/Wali serta dibubuhkan
+  Materai Fisik/e-Materai Rp10.000,-.
+- Silakan unduh template Surat Pernyataan pada link download template.
+- Format file PDF (Wajib).
+- Maksimal ukuran file 2 MB.
+
+Catatan pilihan UKT:
+- Jika ingin memilih UKT Kelompok 7, klik Tidak pada isian Mengikuti Proses
+  Penentuan UKT.
+- Jika memilih Tidak, Anda tidak perlu melakukan upload dokumen pendukung UKT
+  dan dapat langsung melakukan pembayaran.
+
+Teks pada tampilan formulir:
+- Dokumen yang harus diisi calon mahasiswa*
+- Download template
+- Dokumen; Upload Berkas
+- Mengikuti Proses Penentuan UKT*: Ya / Tidak
+- Saya setuju untuk dimasukkan kelompok UKT paling tinggi (7)
+- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR
+
+Catatan tombol:
+- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.
+- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.
+
+============================================================
+HALAMAN 5 - BAGIAN 3: DATA UKT (MENGIKUTI PROSES PENENTUAN UKT)
+============================================================
+
+Instruksi:
+- Jika memilih mengikuti Proses Penentuan UKT, klik tombol Ya dan siapkan dokumen berikut:
+  - Foto Mutasi Rekening 3 Bulan Terakhir (Opsional/Jika Ada).
+  - Foto SPPT PBB Tahun Terakhir (Jika Ada).
+  - Berkas Bukti Pajak Bumi dan Bangunan (PBB) (Wajib).
+  - Berkas STNK Mobil.
+  - Berkas STNK Motor.
+  - Berkas Kartu Keluarga (Wajib).
+  - Surat Keterangan Tidak Mampu (SKTM/KIP/PKH/Pra-Sejahtera) (Jika Ada).
+  - Foto Rumah Tampak Dalam (Wajib).
+  - Foto Rumah Tampak Luar (Wajib).
+- Untuk format dan ukuran file dokumen di atas dapat dilihat pada isian formulir.
+
+Teks pada tampilan formulir:
+- Mutasi Rekening 3 bulan Terakhir (Opsional/Jika Ada); Upload Berkas
+- SPT Tahun Terakhir (Opsional/Jika Ada); Upload Berkas
+- Daya Listrik Rumah*: 1200 Watt
+- Status Kepemilikan Rumah*: Kontrakan < 1 Juta Per Bulan
+- Luas Bangunan*: 51 M2 - 100 M2
+- Luas Tanah Bangunan*: 60 M2 - 100 M2
+- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR
+
+Catatan tombol:
+- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.
+- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.
+
+============================================================
+HALAMAN 6 - BAGIAN 4: DATA ORANG TUA
+============================================================
+
+Dokumen atau bahan yang disiapkan:
+- Berkas Slip Gaji Ayah format ZIP/RAR/PDF/JPG/JPEG/PNG
+  (Wajib Jika Ada). Maksimal ukuran file 200 kb.
+- Berkas Slip Gaji Ibu format ZIP/RAR/PDF/JPG/JPEG/PNG
+  (Wajib Jika Ada). Maksimal ukuran file 200 kb.
+
+Teks pada tampilan formulir:
+- NIK/No KTP/No Passport Ayah
+- Nama Ayah*
+- Alamat Ayah
+- No.Telp Ayah; Isi dengan angka
+- Pendidikan Ayah*: SMA; Pendidikan terakhir Ayah
+- Jenjang Pendidikan Ayah*: SMA/sederajat
+- Pekerjaan Ayah*: Sudah Meninggal
+- Alamat kantor Ayah; Alamat kantor Ayah, maksimal 30 karakter
+- No.Telp Kantor Ayah; Isi dengan angka
+- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR
+
+Catatan tombol:
+- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.
+- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.
+
+============================================================
+HALAMAN 7 - BAGIAN 5: DATA WALI
+============================================================
+
+Instruksi:
+- Jika Anda tidak mempunyai Wali, Anda bisa kosongkan isian formulir pada bagian ini.
+
+Teks pada tampilan formulir:
+- Nama wali
+- Pendidikan Wali: -- PILIH --
+- Pendidikan terakhir Wali
+- Jenjang Pendidikan Wali: -- PILIH --
+- Pekerjaan wali: -- PILIH --
+- Penghasilan Wali: -- PILIH --
+- Penghasilan Wali
+- Alamat wali
+- Maksimal 30 karakter
+- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR
+
+Catatan tombol:
+- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.
+- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.
+
+============================================================
+HALAMAN 8 - BAGIAN 6: VERIFIKASI
+============================================================
+
+Instruksi:
+- Kode verifikasi diisi sesuai gambar teks.
+- Jika gambar teks tidak terbaca atau tidak tampil, silakan klik link:
+  Tidak terbaca? Ganti text.
+- Ceklist Konfirmasi jika isian formulir pendaftaran ulang sudah lengkap
+  dan sesuai ketentuan.
+- Pastikan Anda telah melengkapi isian formulir pada langkah 2 sesuai
+  ketentuan berlaku.
+- Klik tombol KIRIM FORMULIR untuk mengirim formulir pendaftaran ulang
+  dan menampilkan informasi formulir berhasil dikirim.
+- Langkah selanjutnya adalah menunggu pengumuman Kelompok UKT sesuai jadwal.
+
+Teks pada tampilan formulir:
+- Tgl pendaftaran: 23 Maret 2025
+- Kode verifikasi*
+- Tidak terbaca? Ganti text.
+- Ketik teks sesuai kode verifikasi
+- Konfirmasi*
+- Dengan ini saya menyatakan bahwa data yang saya isikan adalah data yang
+  sebenarnya, jika di kemudian hari ternyata data yang saya isikan terbukti
+  tidak benar maka saya bersedia digugurkan dan diproses sesuai aturan
+  perundang-undangan.
+- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR
+
+Catatan tombol:
+- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.
+- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.
+
+============================================================
+RINGKASAN ALUR
+============================================================
+
+1. Login ke admisi.uinjkt.ac.id.
+2. Isi Informasi Pribadi.
+3. Isi Riwayat Pendidikan.
+4. Isi Data UKT.
+5. Jika mengikuti proses penentuan UKT, unggah dokumen pendukung UKT.
+6. Isi Data Orang Tua.
+7. Isi Data Wali jika ada.
+8. Lakukan Verifikasi.
+9. Kirim formulir dan tunggu pengumuman Kelompok UKT sesuai jadwal.

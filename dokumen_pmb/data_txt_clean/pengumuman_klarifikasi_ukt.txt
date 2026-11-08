@@ -1,0 +1,45 @@
+PENGUMUMAN KLARIFIKASI UKT
+Sumber: Pengumuman Klarifikasi UKT.pdf
+
+HALAMAN 1 - LANGKAH 1: LOGIN APLIKASI
+Buka Browser dan Login Aplikasi
+- Buka browser dan login aplikasi dengan mengetik: admisi.uinjkt.ac.id
+
+Jalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:
+- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).
+  Contoh: 1234567891
+- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl (disambung/tanpa strip).
+  Contoh: 20070517
+
+Jalur SPMB Mandiri Reguler dan Non Reguler:
+- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).
+  Contoh: 1234567891
+- Password diisi dengan Password Pendaftaran Awal.
+  Contoh: 2ABCD4QZ
+
+Teks pada contoh layar aplikasi:
+- Portal PMB Online
+- Login untuk mengisi form pendaftaran:
+- Melakukan login dengan memasukkan Nomor Pendaftaran
+- Nomor Pendaftaran (Registration Number)
+- Password
+- MASUK / LOGIN / DAFTAR ULANG
+
+HALAMAN 2 - LANGKAH 2: CEK PENGUMUMAN KLARIFIKASI UKT
+
+Instruksi:
+- Bagi yang tidak mengikuti Proses Penentuan UKT, bisa langsung melakukan pembayaran UKT di Bank dan lewati tahap ini.
+- Cek informasi Kelompok UKT yang telah diverifikasi oleh Panitia PMB berdasarkan pengajuan Klarifikasi UKT Anda.
+- Hasil pengumuman klarifikasi UKT pada tahap ini sudah final. Silahkan melakukan pembayaran UKT.
+
+Teks pada tampilan contoh aplikasi:
+- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH
+- No. Ujian: 424429999
+- Nama: AHMAD SAJA
+- Fakultas: FAKULTAS SAINS DAN TEKNOLOGI
+- Prodi: KIMIA
+- Jenjang: S1
+- Kelompok UKT: UKT Kelompok 4
+- Jumlah Pembayaran UKT: Rp4.500.000,00
+- Pengajuan Klarifikasi sudah berakhir
+- NIM: -

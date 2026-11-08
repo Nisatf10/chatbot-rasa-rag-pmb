@@ -1,0 +1,456 @@
+[
+  {
+    "id": "6bd521dd6efd26b65d5e41f42f94ef6f",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Link Pendaftaran Beasiswa Eksternal",
+    "parent_context": "D. Pendaftaran Beasiswa > Link Pendaftaran Beasiswa Eksternal",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_beasiswa",
+      "tanya_link"
+    ],
+    "topik": "Link Pendaftaran Beasiswa Eksternal",
+    "alias_topik": [
+      "link beasiswa eksternal",
+      "pendaftaran beasiswa eksternal",
+      "daftar KJMU",
+      "daftar KSE",
+      "daftar Djarum Plus",
+      "daftar BAZNAS"
+    ],
+    "search_text": "Judul: Link Pendaftaran Beasiswa Eksternal\nKonteks: D. Pendaftaran Beasiswa > Link Pendaftaran Beasiswa Eksternal\nAlias: link beasiswa eksternal, pendaftaran beasiswa eksternal, daftar KJMU, daftar KSE, daftar Djarum Plus, daftar BAZNAS\nIntent: tanya_prosedur_pendaftaran, tanya_beasiswa, tanya_link\n\n### Link Pendaftaran Beasiswa Eksternal\n\nKartu Jakarta Mahasiswa Unggul (KJMU): https://p4op.jakarta.go.id/kjmu/beranda;\nKarya Salemba Empat (KSE): https://kse.or.id/home\nDjarum Plus: https://djarumbeasiswaplus.org/\nBadan Amil Zakat Nasional (BAZNAS): https://beasiswa.baznas.go.id/\nUntuk beasiswa eksternal lainnya, dapat dilihat di website pemberi beasiswa tersebut.",
+    "content": "### Link Pendaftaran Beasiswa Eksternal\n\nKartu Jakarta Mahasiswa Unggul (KJMU): https://p4op.jakarta.go.id/kjmu/beranda;\nKarya Salemba Empat (KSE): https://kse.or.id/home\nDjarum Plus: https://djarumbeasiswaplus.org/\nBadan Amil Zakat Nasional (BAZNAS): https://beasiswa.baznas.go.id/\nUntuk beasiswa eksternal lainnya, dapat dilihat di website pemberi beasiswa tersebut."
+  },
+  {
+    "id": "bc740e9924fccb9e4c74b06a2cc25b48",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### D. Alur Registrasi dan Pendaftaran Peserta",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > D. Alur Registrasi dan Pendaftaran Peserta",
+    "intents": [
+      "tanya_link"
+    ],
+    "topik": "Alur Registrasi dan Pendaftaran Peserta UM-PTKIN",
+    "alias_topik": [
+      "alur daftar UM-PTKIN",
+      "registrasi UM-PTKIN"
+    ],
+    "search_text": "Judul: Alur Registrasi dan Pendaftaran Peserta UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > D. Alur Registrasi dan Pendaftaran Peserta\nAlias: alur daftar UM-PTKIN, registrasi UM-PTKIN\nIntent: tanya_link\n\n### D. Alur Registrasi dan Pendaftaran Peserta\n\n1. Pendaftaran dilakukan pada laman https://um.ptkin.ac.id\n2. Pemilihan Program Studi, Pemilihan Titik Lokasi Ujian, Cetak Kartu Ujian, Ujicoba, dan Ujian SSE UM-PTKIN dilakukan pada laman https://um.ptkin.ac.id",
+    "content": "### D. Alur Registrasi dan Pendaftaran Peserta\n\n1. Pendaftaran dilakukan pada laman https://um.ptkin.ac.id\n2. Pemilihan Program Studi, Pemilihan Titik Lokasi Ujian, Cetak Kartu Ujian, Ujicoba, dan Ujian SSE UM-PTKIN dilakukan pada laman https://um.ptkin.ac.id"
+  },
+  {
+    "id": "16529cc21521956ee85b1023abe35c9e",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### I. Layanan Aduan",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > I. Layanan Aduan",
+    "intents": [
+      "tanya_kontak",
+      "tanya_link"
+    ],
+    "topik": "Layanan Aduan UM-PTKIN",
+    "alias_topik": [
+      "aduan UM-PTKIN",
+      "helpdesk UM-PTKIN",
+      "sapa PTKIN"
+    ],
+    "search_text": "Judul: Layanan Aduan UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > I. Layanan Aduan\nAlias: aduan UM-PTKIN, helpdesk UM-PTKIN, sapa PTKIN\nIntent: tanya_kontak, tanya_link\n\n### I. Layanan Aduan\n\nSiswa dapat mengajukan aduan melalui WhatsApp/ Email dengan Format aduan NPSN#Nama_Sekolah#NISN#Nama_Siswa#Tuliskan_Aduan yang diajukan atau melalui aplikasi SAPA pada laman https://sapa.ptkin.ac.id/ bagi siswa (registrasi terlebih dahulu pada akun sapa).",
+    "content": "### I. Layanan Aduan\n\nSiswa dapat mengajukan aduan melalui WhatsApp/ Email dengan Format aduan NPSN#Nama_Sekolah#NISN#Nama_Siswa#Tuliskan_Aduan yang diajukan atau melalui aplikasi SAPA pada laman https://sapa.ptkin.ac.id/ bagi siswa (registrasi terlebih dahulu pada akun sapa)."
+  },
+  {
+    "id": "d1e957e6f9182d7efb5bf6858e8b5800",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## ChatBot WhatsApp UIN Jakarta",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > ChatBot WhatsApp UIN Jakarta",
+    "intents": [
+      "tanya_kontak",
+      "tanya_link"
+    ],
+    "topik": "ChatBot WhatsApp UIN Jakarta",
+    "alias_topik": [
+      "WA PMB UIN Jakarta",
+      "WhatsApp PMB UIN Jakarta",
+      "chatbot PMB UIN Jakarta"
+    ],
+    "search_text": "Judul: ChatBot WhatsApp UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > ChatBot WhatsApp UIN Jakarta\nAlias: WA PMB UIN Jakarta, WhatsApp PMB UIN Jakarta, chatbot PMB UIN Jakarta\nIntent: tanya_kontak, tanya_link\n\n## ChatBot WhatsApp UIN Jakarta\n\nChatBot WhatsApp UIN Jakarta (layanan 08.00–16.00 WIB) https://wa.me/+6285136908556",
+    "content": "## ChatBot WhatsApp UIN Jakarta\n\nChatBot WhatsApp UIN Jakarta (layanan 08.00–16.00 WIB) https://wa.me/+6285136908556"
+  },
+  {
+    "id": "17f8ffdf6e101c5fdd5955a75a8d3797",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Media Sosial & Informasi Resmi UIN Jakarta",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Media Sosial & Informasi Resmi UIN Jakarta",
+    "intents": [
+      "tanya_kontak",
+      "tanya_link"
+    ],
+    "topik": "Media Sosial dan Informasi Resmi UIN Jakarta",
+    "alias_topik": [
+      "media sosial UIN Jakarta",
+      "instagram UIN Jakarta",
+      "website UIN Jakarta"
+    ],
+    "search_text": "Judul: Media Sosial dan Informasi Resmi UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Media Sosial & Informasi Resmi UIN Jakarta\nAlias: media sosial UIN Jakarta, instagram UIN Jakarta, website UIN Jakarta\nIntent: tanya_kontak, tanya_link\n\n## Media Sosial & Informasi Resmi UIN Jakarta\n\nInstagram Resmi UIN Jakartahttps://www.instagram.com/uinjktofficial/\nTikTok Resmi UIN Jakartahttps://www.tiktok.com/@uinjktofficial\nWhatsApp Channel UIN Jakartahttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\nWebsite Resmi (Berita PMB UIN Jakarta)https://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta\n\nInstagram Resmi UIN Jakarta\nhttps://www.instagram.com/uinjktofficial/\n\nTikTok Resmi UIN Jakarta\nhttps://www.tiktok.com/@uinjktofficial\n\nWhatsApp Channel UIN Jakarta\nhttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\n\nWebsite Resmi Berita PMB UIN Jakarta\nhttps://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta",
+    "content": "## Media Sosial & Informasi Resmi UIN Jakarta\n\nInstagram Resmi UIN Jakartahttps://www.instagram.com/uinjktofficial/\nTikTok Resmi UIN Jakartahttps://www.tiktok.com/@uinjktofficial\nWhatsApp Channel UIN Jakartahttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\nWebsite Resmi (Berita PMB UIN Jakarta)https://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta\n\nInstagram Resmi UIN Jakarta\nhttps://www.instagram.com/uinjktofficial/\n\nTikTok Resmi UIN Jakarta\nhttps://www.tiktok.com/@uinjktofficial\n\nWhatsApp Channel UIN Jakarta\nhttps://whatsapp.com/channel/0029VaHMO15CnA801dG6dc33\n\nWebsite Resmi Berita PMB UIN Jakarta\nhttps://uinjkt.ac.id/id/tag/kuliah-di-uin-jakarta"
+  },
+  {
+    "id": "3e32694e246b2d7014c730d00b17d09d",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link prodi program studi uin jakarta",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link prodi program studi uin jakarta",
+    "intents": [
+      "tanya_link"
+    ],
+    "topik": "Daftar Program Studi Sarjana UIN Jakarta",
+    "alias_topik": [
+      "Link daftar prodi UIN Jakarta",
+      "Link rogram studi UIN Jakarta",
+      "Link prodi sarjana UIN Jakarta",
+      "Link jurusan UIN Jakarta",
+      "fakultas UIN Jakarta",
+      "pendidikan UIN Jakarta"
+    ],
+    "search_text": "Judul: Daftar Program Studi Sarjana UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link prodi program studi uin jakarta\nAlias: Link daftar prodi UIN Jakarta, Link rogram studi UIN Jakarta, Link prodi sarjana UIN Jakarta, Link jurusan UIN Jakarta, fakultas UIN Jakarta, pendidikan UIN Jakarta\nIntent: tanya_link\n\n## Link prodi program studi uin jakarta\n\nLink prodi program studi uin jakarta\nUntuk mengetahui Daftar Program Studi program sarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://uinjkt.ac.id/id/pendidikan",
+    "content": "## Link prodi program studi uin jakarta\n\nLink prodi program studi uin jakarta\nUntuk mengetahui Daftar Program Studi program sarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://uinjkt.ac.id/id/pendidikan"
+  },
+  {
+    "id": "478dd48a739cbcdf428953f60691d6a8",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link informasi pmb",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link informasi pmb",
+    "intents": [
+      "tanya_link"
+    ],
+    "topik": "Jalur Masuk Program Sarjana UIN Jakarta",
+    "alias_topik": [
+      "jalur masuk UIN Jakarta",
+      "jalur pendaftaran UIN Jakarta",
+      "penerimaan UIN Jakarta",
+      "seleksi masuk UIN Jakarta",
+      "PMB UIN Jakarta"
+    ],
+    "search_text": "Judul: Jalur Masuk Program Sarjana UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link informasi pmb\nAlias: jalur masuk UIN Jakarta, jalur pendaftaran UIN Jakarta, penerimaan UIN Jakarta, seleksi masuk UIN Jakarta, PMB UIN Jakarta\nIntent: tanya_link\n\n## Link informasi pmb\n\nLink informasi pmb\nUntuk mengetahui jalur masuk program sarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://penerimaan.uinjkt.ac.id/id",
+    "content": "## Link informasi pmb\n\nLink informasi pmb\nUntuk mengetahui jalur masuk program sarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://penerimaan.uinjkt.ac.id/id"
+  },
+  {
+    "id": "892362d28d4310f171d0dc5143ce7bc2",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link daftar ulang",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link daftar ulang",
+    "intents": [
+      "tanya_link"
+    ],
+    "topik": "Portal daftar ulang mahasiswa baru UIN Syarif Hidayatullah Jakarta jalur SNBP SNBT UTBK UMPTKIN SPAN SPMB Mandiri",
+    "alias_topik": [
+      "link daftar ulang UIN Jakarta",
+      "portal daftar ulang UIN Jakarta",
+      "daftar ulang mahasiswa baru UIN Jakarta",
+      "daftar ulang SNBP UIN Jakarta",
+      "daftar ulang SNBT UIN Jakarta",
+      "daftar ulang UMPTKIN UIN Jakarta",
+      "daftar ulang SPAN UIN Jakarta",
+      "daftar ulang SPMB Mandiri UIN Jakarta"
+    ],
+    "search_text": "Judul: Portal daftar ulang mahasiswa baru UIN Syarif Hidayatullah Jakarta jalur SNBP SNBT UTBK UMPTKIN SPAN SPMB Mandiri\nKonteks: Kontak Informasi PMB UIN Jakarta > Link daftar ulang\nAlias: link daftar ulang UIN Jakarta, portal daftar ulang UIN Jakarta, daftar ulang mahasiswa baru UIN Jakarta, daftar ulang SNBP UIN Jakarta, daftar ulang SNBT UIN Jakarta, daftar ulang UMPTKIN UIN Jakarta, daftar ulang SPAN UIN Jakarta, daftar ulang SPMB Mandiri UIN Jakarta\nIntent: tanya_link\n\n## Link daftar ulang\n\nUntuk mengetahui portal pendaftaran program sarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://admisi.uinjkt.ac.id/",
+    "content": "## Link daftar ulang\n\nUntuk mengetahui portal pendaftaran program sarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://admisi.uinjkt.ac.id/"
+  },
+  {
+    "id": "8e5d6cac85c10de386d7ccdb131771af",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link pendaftaran SPMB Mandiri",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link pendaftaran SPMB Mandiri",
+    "intents": [
+      "tanya_link"
+    ],
+    "topik": "Portal pendaftaran SPMB Mandiri Reguler dan Non Reguler Program Sarjana UIN Syarif Hidayatullah Jakarta",
+    "alias_topik": [
+      "link pendaftaran SPMB Mandiri UIN Jakarta",
+      "portal SPMB Mandiri UIN Jakarta",
+      "pendaftaran mandiri UIN Jakarta",
+      "daftar SPMB Mandiri Reguler UIN Jakarta",
+      "daftar SPMB Mandiri Non Reguler UIN Jakarta",
+      "penerimaan mandiri UIN Jakarta",
+      "jalur mandiri UIN Jakarta"
+    ],
+    "search_text": "Judul: Portal pendaftaran SPMB Mandiri Reguler dan Non Reguler Program Sarjana UIN Syarif Hidayatullah Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link pendaftaran SPMB Mandiri\nAlias: link pendaftaran SPMB Mandiri UIN Jakarta, portal SPMB Mandiri UIN Jakarta, pendaftaran mandiri UIN Jakarta, daftar SPMB Mandiri Reguler UIN Jakarta, daftar SPMB Mandiri Non Reguler UIN Jakarta, penerimaan mandiri UIN Jakarta, jalur mandiri UIN Jakarta\nIntent: tanya_link\n\n## Link pendaftaran SPMB Mandiri \n\nUntuk mendaftar jalur SPMB Mandiri Reguler dan SPMB Mandiri Non Reguler silakan kunjungi tautan berikut:\nhttps://penerimaan.uinjkt.ac.id/id",
+    "content": "## Link pendaftaran SPMB Mandiri \n\nUntuk mendaftar jalur SPMB Mandiri Reguler dan SPMB Mandiri Non Reguler silakan kunjungi tautan berikut:\nhttps://penerimaan.uinjkt.ac.id/id"
+  },
+  {
+    "id": "24a4a6dc45a9157a8eab13d9f603e995",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link pendaftaran pascasarjana magister doktor spesialis profesi",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link pendaftaran pascasarjana magister doktor spesialis profesi",
+    "intents": [
+      "tanya_link"
+    ],
+    "topik": "Program dan Portal Pendaftaran Pascasarjana magister doktor Spesialis dan Profesi UIN Jakarta",
+    "alias_topik": [
+      "Link pascasarjana UIN Jakarta",
+      "Link S2 UIN Jakarta",
+      "Link S3 UIN Jakarta",
+      "Link spesialis UIN Jakarta",
+      "Link profesi UIN Jakarta",
+      "SPMB UIN Jakarta",
+      "portal pascasarjana UIN Jakarta"
+    ],
+    "search_text": "Judul: Program dan Portal Pendaftaran Pascasarjana magister doktor Spesialis dan Profesi UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link pendaftaran pascasarjana magister doktor spesialis profesi\nAlias: Link pascasarjana UIN Jakarta, Link S2 UIN Jakarta, Link S3 UIN Jakarta, Link spesialis UIN Jakarta, Link profesi UIN Jakarta, SPMB UIN Jakarta, portal pascasarjana UIN Jakarta\nIntent: tanya_link\n\n## Link pendaftaran pascasarjana magister doktor spesialis profesi\n\nUntuk mengetahui Program dan Portal pendaftaran Pascasarjana, Spesialis dan Profesi UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nLink Pendaftaran Pascasarjana, Magister, Doktor\nhttps://spmb.uinjkt.ac.id",
+    "content": "## Link pendaftaran pascasarjana magister doktor spesialis profesi\n\nUntuk mengetahui Program dan Portal pendaftaran Pascasarjana, Spesialis dan Profesi UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nLink Pendaftaran Pascasarjana, Magister, Doktor\nhttps://spmb.uinjkt.ac.id"
+  },
+  {
+    "id": "b79de76e773c5c44bfdd472681c1f484",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link Informasi biaya pascasarjana",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link Informasi biaya pascasarjana",
+    "intents": [
+      "tanya_biaya",
+      "tanya_link"
+    ],
+    "topik": "Biaya Kuliah Pascasarjana UIN Jakarta",
+    "alias_topik": [
+      "Link biaya pascasarjana UIN Jakarta",
+      "Link UKT pascasarjana UIN Jakarta",
+      "tarif S2 UIN Jakarta",
+      "tarif S3 UIN Jakarta",
+      "biaya magister UIN Jakarta",
+      "biaya doktor UIN Jakarta"
+    ],
+    "search_text": "Judul: Biaya Kuliah Pascasarjana UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link Informasi biaya pascasarjana\nAlias: Link biaya pascasarjana UIN Jakarta, Link UKT pascasarjana UIN Jakarta, tarif S2 UIN Jakarta, tarif S3 UIN Jakarta, biaya magister UIN Jakarta, biaya doktor UIN Jakarta\nIntent: tanya_biaya, tanya_link\n\n## Link Informasi biaya pascasarjana\n\nUntuk mengetahui biaya kuliah Pascasarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://asset.uinjkt.ac.id/uploads/fmXyXwZY/2025/03/tarif-layanan-akademik-program-magister-doktoral-profesi-dan-spesialis.pdf",
+    "content": "## Link Informasi biaya pascasarjana\n\nUntuk mengetahui biaya kuliah Pascasarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://asset.uinjkt.ac.id/uploads/fmXyXwZY/2025/03/tarif-layanan-akademik-program-magister-doktoral-profesi-dan-spesialis.pdf"
+  },
+  {
+    "id": "bfac9f45748331983757dfbcd8fe7590",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link Informasi Beasiswa",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link Informasi Beasiswa",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_link"
+    ],
+    "topik": "Beasiswa UIN Jakarta",
+    "alias_topik": [
+      "Link Informasi beasiswa UIN Jakarta",
+      "info beasiswa UIN Jakarta",
+      "bantuan biaya kuliah UIN Jakarta",
+      "scholarship UIN Jakarta"
+    ],
+    "search_text": "Judul: Beasiswa UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link Informasi Beasiswa\nAlias: Link Informasi beasiswa UIN Jakarta, info beasiswa UIN Jakarta, bantuan biaya kuliah UIN Jakarta, scholarship UIN Jakarta\nIntent: tanya_beasiswa, tanya_link\n\n## Link Informasi Beasiswa\n\nUntuk mengetahui Beasiswa UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://www.uinjkt.ac.id/id/beasiswa/",
+    "content": "## Link Informasi Beasiswa\n\nUntuk mengetahui Beasiswa UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://www.uinjkt.ac.id/id/beasiswa/"
+  },
+  {
+    "id": "a2c99fd5f19ce6b3f2727d22d571cd62",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## INFORMASI LENGKAP DAN PENDAFTARAN",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > INFORMASI LENGKAP DAN PENDAFTARAN",
+    "intents": [
+      "tanya_link",
+      "tanya_kontak"
+    ],
+    "topik": "Informasi Lengkap dan Pendaftaran SNBP dan UTBK-SNBT",
+    "alias_topik": [
+      "Link informasi SNBP",
+      "informasi SNBT",
+      "link pendaftaran SNBP",
+      "link pendaftaran SNBT"
+    ],
+    "search_text": "Judul: Informasi Lengkap dan Pendaftaran SNBP dan UTBK-SNBT\nKonteks: Kontak Informasi PMB UIN Jakarta > INFORMASI LENGKAP DAN PENDAFTARAN\nAlias: Link informasi SNBP, informasi SNBT, link pendaftaran SNBP, link pendaftaran SNBT\nIntent: tanya_link, tanya_kontak\n\n## INFORMASI LENGKAP DAN PENDAFTARAN\n\n- https://snpmb.id/\n- https://uinjkt.ac.id/id/program-sarjana\nWebsite : https://uinjkt.ac.id\nEmail   : humas@apps.uinjkt.ac.id\nInstagram: @uinjktofficial\nTelepon : +62 851-3690-8556",
+    "content": "## INFORMASI LENGKAP DAN PENDAFTARAN\n\n- https://snpmb.id/\n- https://uinjkt.ac.id/id/program-sarjana\nWebsite : https://uinjkt.ac.id\nEmail   : humas@apps.uinjkt.ac.id\nInstagram: @uinjktofficial\nTelepon : +62 851-3690-8556"
+  },
+  {
+    "id": "346f65a138ac34207fcf90659fd0a247",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Sekolah Pascasarjana",
+    "parent_context": "Sekolah Pascasarjana",
+    "intents": [
+      "tanya_prodi_fakultas",
+      "tanya_link"
+    ],
+    "topik": "Sekolah Pascasarjana",
+    "alias_topik": [
+      "Sekolah Pascasarjana",
+      "program studi Sekolah Pascasarjana",
+      "prodi Sekolah Pascasarjana"
+    ],
+    "search_text": "Judul: Sekolah Pascasarjana\nKonteks: Sekolah Pascasarjana\nAlias: Sekolah Pascasarjana, program studi Sekolah Pascasarjana, prodi Sekolah Pascasarjana\nIntent: tanya_prodi_fakultas, tanya_link\n\n### Sekolah Pascasarjana\n\n• Magister Pengkajian Islam\n• Doktor Pengkajian Islam\nInfo Prodi/Fakultas: https://www.uinjkt.ac.id/id/pendidikan\nWebsite: https://uinjkt.ac.id | Email: humas@apps.uinjkt.ac.id | Telp: +62 851-3690-8556",
+    "content": "### Sekolah Pascasarjana\n\n• Magister Pengkajian Islam\n• Doktor Pengkajian Islam\nInfo Prodi/Fakultas: https://www.uinjkt.ac.id/id/pendidikan\nWebsite: https://uinjkt.ac.id | Email: humas@apps.uinjkt.ac.id | Telp: +62 851-3690-8556"
+  },
+  {
+    "id": "41dd22b177f6eec6c48bba1faaf49360",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "## Link Pendaftaran:",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Pendaftaran:",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_link",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Link Pendaftaran Pascasarjana UIN Jakarta",
+    "alias_topik": [
+      "link daftar pascasarjana",
+      "formulir pascasarjana"
+    ],
+    "search_text": "Judul: Link Pendaftaran Pascasarjana UIN Jakarta\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Pendaftaran:\nAlias: link daftar pascasarjana, formulir pascasarjana\nIntent: tanya_prosedur_pendaftaran, tanya_link, tanya_pascasarjana\n\n## Link Pendaftaran:\n\nLink Pendaftaran magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir.zul",
+    "content": "## Link Pendaftaran:\n\nLink Pendaftaran magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir.zul"
+  },
+  {
+    "id": "074ded4065d75cc62a699041ca1dc7ff",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "## Link Cetak Kartu Pendaftaran:",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Cetak Kartu Pendaftaran:",
+    "intents": [
+      "tanya_link",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Link Cetak Kartu Pendaftaran Pascasarjana magister doktor spesialis profesi",
+    "alias_topik": [
+      "cetak kartu pendaftaran pascasarjana magister doktor spesialis profesi"
+    ],
+    "search_text": "Judul: Link Cetak Kartu Pendaftaran Pascasarjana magister doktor spesialis profesi\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Cetak Kartu Pendaftaran:\nAlias: cetak kartu pendaftaran pascasarjana magister doktor spesialis profesi\nIntent: tanya_link, tanya_pascasarjana\n\n## Link Cetak Kartu Pendaftaran:\n\nLink Cetak Kartu Pendaftaran magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_calon.zul",
+    "content": "## Link Cetak Kartu Pendaftaran:\n\nLink Cetak Kartu Pendaftaran magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_calon.zul"
+  },
+  {
+    "id": "f1357a064ae6bcc965b876263acc2d98",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "## Link Pengumuman Hasil Akhir Kelulusan:",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Pengumuman Hasil Akhir Kelulusan:",
+    "intents": [
+      "tanya_link",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Link Pengumuman Hasil Akhir Kelulusan Pascasarjana",
+    "alias_topik": [
+      "link kelulusan pascasarjana",
+      "pengumuman hasil akhir pascasarjana"
+    ],
+    "search_text": "Judul: Link Pengumuman Hasil Akhir Kelulusan Pascasarjana\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Pengumuman Hasil Akhir Kelulusan:\nAlias: link kelulusan pascasarjana, pengumuman hasil akhir pascasarjana\nIntent: tanya_link, tanya_pascasarjana\n\n## Link Pengumuman Hasil Akhir Kelulusan:\n\nLink Pengumuman Hasil Akhir Kelulusan magister doktor\nhttps://kelulusan.uinjkt.ac.id/pascasarjana/",
+    "content": "## Link Pengumuman Hasil Akhir Kelulusan:\n\nLink Pengumuman Hasil Akhir Kelulusan magister doktor\nhttps://kelulusan.uinjkt.ac.id/pascasarjana/"
+  },
+  {
+    "id": "078a4cac64b5b2b2a9e9d7390daf4a77",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "## Link Daftar Ulang:",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Daftar Ulang:",
+    "intents": [
+      "daftar_ulang",
+      "tanya_link",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Link Daftar Ulang Pascasarjana magister doktor spesialis profesi",
+    "alias_topik": [
+      "link registrasi ulang pascasarjana",
+      "login daftar ulang pascasarjana"
+    ],
+    "search_text": "Judul: Link Daftar Ulang Pascasarjana magister doktor spesialis profesi\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Daftar Ulang:\nAlias: link registrasi ulang pascasarjana, login daftar ulang pascasarjana\nIntent: daftar_ulang, tanya_link, tanya_pascasarjana\n\n## Link Daftar Ulang:\n\nLink Daftar Ulang magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul",
+    "content": "## Link Daftar Ulang:\n\nLink Daftar Ulang magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul"
+  },
+  {
+    "id": "adf4df79871b641fb50aac8dfc63ea4b",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Pendaftaran",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Pendaftaran",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pendaftaran Program Profesi Dokter",
+    "alias_topik": [
+      "daftar profesi dokter",
+      "link pendaftaran profesi dokter"
+    ],
+    "search_text": "Judul: Pendaftaran Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Pendaftaran\nAlias: daftar profesi dokter, link pendaftaran profesi dokter\nIntent: tanya_profesi, tanya_prosedur_pendaftaran, tanya_link\n\n## Pendaftaran\n\nSelamat Datang, Calon Mahasiswa Program Profesi Dokter! Silakan melakukan pendaftaran dengan mengunjungi link berikut:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_pd.zul",
+    "content": "## Pendaftaran\n\nSelamat Datang, Calon Mahasiswa Program Profesi Dokter! Silakan melakukan pendaftaran dengan mengunjungi link berikut:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_pd.zul"
+  },
+  {
+    "id": "674124dbc2848588509905c94ecd8f79",
+    "source_file": "pengumuman_kelompok_ukt_tagged.md",
+    "heading": "# PENGUMUMAN KELOMPOK UKT",
+    "parent_context": "PENGUMUMAN KELOMPOK UKT",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pengumuman Kelompok UKT",
+    "alias_topik": [
+      "kelompok UKT",
+      "pengumuman UKT",
+      "cek UKT"
+    ],
+    "search_text": "Judul: Pengumuman Kelompok UKT\nKonteks: PENGUMUMAN KELOMPOK UKT\nAlias: kelompok UKT, pengumuman UKT, cek UKT\nIntent: tanya_prosedur_pendaftaran, tanya_link\n\n# PENGUMUMAN KELOMPOK UKT\n\nHALAMAN 1 – LANGKAH 1: LOGIN APLIKASI\nBuka Browser dan Login Aplikasi\n- Buka browser, kemudian akses laman: admisi.uinjkt.ac.id\n- Lakukan login ke aplikasi sesuai dengan jalur pendaftaran Anda\n\nJalur SNBP, SPAN-PTKIN, SNBT, dan UMPTKIN\n- Nomor Pendaftaran diisi dengan nomor peserta (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan tanggal lahir format YYYYMMDD (tanpa spasi atau tanda strip)  \n  Contoh: 20070517\n\nJalur SPMB Mandiri (Reguler dan Non-Reguler)\n- Nomor Pendaftaran diisi dengan nomor pendaftaran (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan password saat pendaftaran awal  \n  Contoh: 2ABCD4QZ\n\nTeks pada Tampilan Contoh Aplikasi\n- Portal PMB Online  \n- Login untuk mengisi form pendaftaran  \n- Masukkan Nomor Pendaftaran  \n- Nomor Pendaftaran (Registration Number)  \n- Password  \n- MASUK / LOGIN / DAFTAR ULANG\n\n---",
+    "content": "# PENGUMUMAN KELOMPOK UKT\n\nHALAMAN 1 – LANGKAH 1: LOGIN APLIKASI\nBuka Browser dan Login Aplikasi\n- Buka browser, kemudian akses laman: admisi.uinjkt.ac.id\n- Lakukan login ke aplikasi sesuai dengan jalur pendaftaran Anda\n\nJalur SNBP, SPAN-PTKIN, SNBT, dan UMPTKIN\n- Nomor Pendaftaran diisi dengan nomor peserta (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan tanggal lahir format YYYYMMDD (tanpa spasi atau tanda strip)  \n  Contoh: 20070517\n\nJalur SPMB Mandiri (Reguler dan Non-Reguler)\n- Nomor Pendaftaran diisi dengan nomor pendaftaran (tanpa spasi atau tanda strip)  \n  Contoh: 1234567891\n- Password diisi dengan password saat pendaftaran awal  \n  Contoh: 2ABCD4QZ\n\nTeks pada Tampilan Contoh Aplikasi\n- Portal PMB Online  \n- Login untuk mengisi form pendaftaran  \n- Masukkan Nomor Pendaftaran  \n- Nomor Pendaftaran (Registration Number)  \n- Password  \n- MASUK / LOGIN / DAFTAR ULANG\n\n---"
+  },
+  {
+    "id": "e75abd3b4c2b31231ea1ca4a6a70e67a",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## Informasi Tambahan",
+    "parent_context": "Informasi Tambahan",
+    "intents": [
+      "tanya_profesi",
+      "tanya_kontak",
+      "tanya_ujian",
+      "tanya_link"
+    ],
+    "topik": "Informasi Tambahan Profesi Apoteker",
+    "alias_topik": [
+      "kontak profesi apoteker",
+      "ujian profesi apoteker",
+      "materi ujian apoteker"
+    ],
+    "search_text": "Judul: Informasi Tambahan Profesi Apoteker\nKonteks: Informasi Tambahan\nAlias: kontak profesi apoteker, ujian profesi apoteker, materi ujian apoteker\nIntent: tanya_profesi, tanya_kontak, tanya_ujian, tanya_link\n\n## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian.",
+    "content": "## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian."
+  },
+  {
+    "id": "17551b7ba25ad401c4c18e3e164c61ed",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## PENDAFTARAN",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > PENDAFTARAN",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pendaftaran Pendidikan Profesi Ners",
+    "alias_topik": [
+      "daftar profesi ners",
+      "link pendaftaran ners"
+    ],
+    "search_text": "Judul: Pendaftaran Pendidikan Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > PENDAFTARAN\nAlias: daftar profesi ners, link pendaftaran ners\nIntent: tanya_profesi, tanya_prosedur_pendaftaran, tanya_link\n\n## PENDAFTARAN\n\nPendaftaran Calon Mahasiswa Baru untuk Program Studi Pendidikan Profesi Ners telah dibuka. Untuk mendaftar, silakan kunjungi link di bawah ini:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_ners.zul",
+    "content": "## PENDAFTARAN\n\nPendaftaran Calon Mahasiswa Baru untuk Program Studi Pendidikan Profesi Ners telah dibuka. Untuk mendaftar, silakan kunjungi link di bawah ini:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_ners.zul"
+  },
+  {
+    "id": "e32677bf50d457f3d4805638fa35359b",
+    "source_file": "s2_s3_2_tagged.md",
+    "heading": "## Info lebih lanjut:",
+    "parent_context": "Info lebih lanjut:",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Info Lebih Lanjut Program Magister dan Doktor",
+    "alias_topik": [
+      "kontak pascasarjana",
+      "info S2 S3",
+      "link pendaftaran pascasarjana"
+    ],
+    "search_text": "Judul: Info Lebih Lanjut Program Magister dan Doktor\nKonteks: Info lebih lanjut:\nAlias: kontak pascasarjana, info S2 S3, link pendaftaran pascasarjana\nIntent: tanya_kontak, tanya_prosedur_pendaftaran, tanya_link\n\n## Info lebih lanjut:\n\nlink informasi lebih lanjut\nhttps://spmb.uinjkt.ac.id/\nInstagram:\nuinjktofficial\nEmail:\nhumas@apps.uinjkt.ac.id\nWebsite:\nwww.uinjkt.ac.id",
+    "content": "## Info lebih lanjut:\n\nlink informasi lebih lanjut\nhttps://spmb.uinjkt.ac.id/\nInstagram:\nuinjktofficial\nEmail:\nhumas@apps.uinjkt.ac.id\nWebsite:\nwww.uinjkt.ac.id"
+  },
+  {
+    "id": "1a748094efac46596ead18e68fe58258",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 8. Daftar Ulang",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_profesi",
+      "tanya_jadwal",
+      "tanya_link"
+    ],
+    "topik": "Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "daftar ulang Obgin",
+      "registrasi ulang spesialis",
+      "link daftar ulang Obgin"
+    ],
+    "search_text": "Judul: Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang\nAlias: daftar ulang Obgin, registrasi ulang spesialis, link daftar ulang Obgin\nIntent: daftar_ulang, tanya_profesi, tanya_jadwal, tanya_link\n\n## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul",
+    "content": "## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul"
+  }
+]

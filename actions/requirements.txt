@@ -1,0 +1,8 @@
+google-generativeai==0.8.6
+sentence-transformers==5.2.2
+faiss-cpu==1.7.4
+python-dotenv==1.2.1
+numpy==1.23.5
+pandas==1.5.0
+rasa==3.6.21
+rasa-sdk==3.6.2

@@ -1,0 +1,34 @@
+TATA CARA PEMBAYARAN BIAYA UTBK-SNBT 2026
+BANK MANDIRI
+
+Sumber PDF: Tata Cara Pembayaran UTBK SNBT 2026 - Bank Mandiri.pdf
+
+Pembayaran biaya UTBK SNPMB 2026 melalui Bank Mandiri dapat dilakukan pada channel Livin by Mandiri dan Mandiri ATM. Panduan pembayaran melalui Bank Mandiri dapat dilakukan sebagai berikut.
+
+1. Livin by Mandiri Apps (Android/iOS)
+
+1) Login pada aplikasi New Livin' by Mandiri, kemudian pilih menu Bayar.
+
+2) Pada menu Bayar, tekan pada kolom Cari Penyedia Jasa.
+
+3) Pada kolom Cari Penyedia Jasa, ketik Kode Institusi yaitu 10000, kemudian pilih UTBK SNPMB 2026.
+
+4) Masukkan Nomor Induk Siswa (10 digit angka) dan Kode Pembayaran (8 digit angka) yang tercetak pada slip pembayaran UTBK yang diperoleh setelah melakukan pendaftaran, kemudian klik LANJUT.
+
+5) Pada halaman Konfirmasi Pembayaran, cek kembali detail pembayaran, terutama Kode Pembayaran dan Nomor Induk Siswa. Bila sudah benar, klik Lanjut Bayar.
+
+6) Setelah pembayaran berhasil maka akan muncul Bukti Transaksi.
+
+2. Mandiri ATM
+
+1) Setelah memasukkan PIN ATM, pilih menu BAYAR kemudian pilih menu PENDIDIKAN.
+
+2) Masukkan Kode Institusi UTBK SNPMB 2026 yaitu 10000.
+
+3) Masukkan Nomor Induk Siswa (10 digit angka) dan Kode Pembayaran (8 digit angka) yang tercetak pada slip pembayaran UTBK yang diperoleh setelah melakukan pendaftaran.
+
+4) Pilih Item Pembayaran UTBK SNPMB 2026, ketik nomor urut 1 yang ada di bagian kiri. Jika sudah benar, pilih YA.
+
+5) Pada menu Konfirmasi Pembayaran, cek kembali detail pembayaran, terutama Kode Pembayaran dan Nomor Induk Siswa. Bila sudah benar, pilih YA. Pastikan muncul tulisan Transaksi Sukses pada layar dan keluar struk ATM sebagai bukti sah pembayaran.
+
+6) Transaksi telah selesai kemudian cetak STRUK/RESI.

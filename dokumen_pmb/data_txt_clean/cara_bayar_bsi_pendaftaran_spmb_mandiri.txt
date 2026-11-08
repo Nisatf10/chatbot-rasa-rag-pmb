@@ -1,0 +1,44 @@
+TATA CARA VIA BANK
+Pembayaran Pendaftaran SPMB Mandiri Reguler dan Non Reguler
+
+1. MELALUI MOBILE (BYOND) & BSI NET
+1. Pilih menu Pembayaran/Payment
+2. Pilih Akademik
+3. Masukkan Kode Akademik (2831) / Nama Akademik (UIN SYARIF HIDAYATULLAH)
+4. Setelah itu, masukan Nomor Pendaftaran SPMB Mandiri
+5. Cek detail transaksi (tagihan sudah termasuk admin Rp2.500)
+6. Jika sudah selesai masukan Nomor PIN dan simpan bukti transaksi. Selesai.
+
+
+2. MELALUI ATM BSI
+1. Pilih menu Pembayaran/Payment.
+2. Pilih Akademik
+3. Masukkan Kode Akademik (2831) + Nomor Pendaftaran SPMB Mandiri
+   Contoh Nomor Peserta = 26123456, maka diinput: 283126123456
+4. Pilih Benar / Selanjutnya
+5. Cek detail transaksi (tagihan sudah termasuk admin Rp2.500)
+6. Jika sudah sesuai pilih Ya dan simpan bukti transaksi. Selesai.
+
+
+3. MELALUI TELLER BSI
+1. Sampaikan kepada teller nama institusi/kode biller (UIN Syarif Hidayatullah / 2831) dan Nomor Pendaftaran SPMB Mandiri
+2. Teller memverifikasi data dan menyebutkan detail tagihan
+3. Lakukan pembayaran sesuai nominal kepada teller.
+4. Teller memproses transaksi dan memberikan bukti pembayaran.
+5. Selesai
+
+
+4. MELALUI TRANSFER BANK LAIN
+1. Pilih menu Transfer Online Antar Bank (selain SKN,RTGS,BI-Fast)
+2. Pilih Bank Tujuan Bank Syariah Indonesia
+3. Ketik 900+2831+Nomor Pendaftaran SPMB Mandiri
+4. Masukan Nominal Tagihan Pembayaran + biaya admin Rp2.500
+5. Jika sudah sesuai pilih “Selanjutnya” dan transaksi berhasil
+
+*Tata cara menyesesuaikan dengan bank masing-masing
+
+Contoh: Nomor Pendaftaran = 26123456
+Maka diinput: 900283126123456
+
+Contoh: Tarif UKT = Rp5.000.000
+Maka diinput: Rp 5.002.500

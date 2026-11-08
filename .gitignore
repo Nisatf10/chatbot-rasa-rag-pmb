@@ -1,0 +1,45 @@
+# Environment variables rahasia
+.env
+credentials.yml
+duckdns/
+
+# File dari home folder VPS (tidak boleh ikut)
+.bash_history
+.cache/
+.config/
+.keras/
+.local/
+.ssh/
+
+# Folder Virtual Environment
+venv/
+
+# Folder cache python
+__pycache__/
+*.pyc
+*.pyo
+
+# Folder sementara bawaan Rasa
+.rasa/
+
+# File model Rasa (kecuali model terakhir)
+models/*
+!models/20260603-220908-trite-number.tar.gz
+
+# Log training & visualisasi
+tensorboard_logs/
+graph.html
+
+# --- FILE EVALUASI SKRIPSI (Diabaikan dari GitHub) ---
+results_evaluation_nlu/
+ragas_eval_log.csv
+test_nlu/
+results_evaluation_rag/
+ragas_data_uji/
+
+# Script lokal yang tidak dipakai di Docker/VPS
+run_rasa.py
+telegram_polling.py
+
+# File backup lokal
+backup_requirements.txt

@@ -1,0 +1,43 @@
+# TATA CARA PEMBAYARAN UKT
+<!-- intents: cara_bayar -->
+<!-- topik: Tata Cara Pembayaran UKT via Bank BNI -->
+<!-- alias_topik: pembayaran UKT BNI, cara bayar UKT BNI, bayar UKT, Bank BNI -->
+## VIA BANK BNI
+<!-- intents: cara_bayar -->
+<!-- topik: Pembayaran UKT via Bank BNI -->
+<!-- alias_topik: BNI, bayar UKT via BNI, pembayaran UKT Bank BNI -->
+
+1. MELALUI BNI
+1. MELALUI MOBILE (WONDR BY BNI)
+1. Pada halaman utama, pilih menu Bayar & Beli
+2. Selanjutnya Pilih Menu Pendidikan
+3. Ketik UIN Syarif Hidayatullah Jakarta di kolom pencarian
+4. Masukkan Nomor Peserta Ujian
+5. Periksa detail tagihan, lalu konfirmasi pembayaran dan simpan bukti pembayaran
+
+2. MELALUI ATM BNI
+1. Pilih menu Transaksi Lainnya
+2. Pilih menu Pembayaran
+3. Pilih menu Multipayment
+4. Pilih menu Pendidikan
+5. Ketik Kode UIN Syarif Hidayatullah Jakarta + Nomor Peserta Ujian
+   MASUKKAN KODE INSTITUSI + KODE PEMBAYARAN
+   MASUKKAN KODE UIN JKT + NO.PESERTA
+   CONTOH:
+   1.AAAA1123XXXX
+   2.AAAA=KODE UIN (CONTOH)
+   3.1123082XXX=NIM
+6. Pastikan Data sudah benar, pilih BENAR dan Cetak Resi
+   NAMA INSTITUSI : UIN JKT
+   NAMA MAHASISWA : UCUP
+   NO MAHASISWA : 11230820XXX
+   PEMBAYARAN : TAGIHAN
+   JUMLAH : RP. 6.800.000
+   ADMIN BANK : ???
+
+3. MELALUI TELLER BNI
+Kode Biller UIN: 8004
+1. Informasikan kepada petugas teller : Nama anda, nama institusi/kode biller (UIN Syarif Hidayatullah), nominal dan Nomor Peserta Ujian
+2. Teller menginput data tersebut dan melakukan konfirmasi data pembayaran (nama institusi, kode pembayaran, nama mahasiwa, dan nominal tagihan)
+3. Apabila sudah sesuai, nasabah memberikan uang cash sesuai nominal tagihan pembayaran kepada teller, dan Teller memproses transaksi
+4. Transaksi berhasil, teller akan memberikan bukti pembayaran yang sudah divalidasi

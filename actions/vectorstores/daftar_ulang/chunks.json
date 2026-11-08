@@ -1,0 +1,370 @@
+[
+  {
+    "id": "4a7040676d829fe53f770ceb404d9525",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "# REGISTRASI DAN PERKULIAHAN PASCASARJANA",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA",
+    "intents": [
+      "daftar_ulang",
+      "tanya_jadwal",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Registrasi Daftar Ulang S2 S3 Magister Doktor dan Perkuliahan Pascasarjana UIN Jakarta",
+    "alias_topik": [
+      "daftar ulang pascasarjana",
+      "registrasi ulang S2",
+      "registrasi ulang S3",
+      "NIM S2 S3",
+      "matrikulasi pascasarjana"
+    ],
+    "search_text": "Judul: Registrasi Daftar Ulang S2 S3 Magister Doktor dan Perkuliahan Pascasarjana UIN Jakarta\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA\nAlias: daftar ulang pascasarjana, registrasi ulang S2, registrasi ulang S3, NIM S2 S3, matrikulasi pascasarjana\nIntent: daftar_ulang, tanya_jadwal, tanya_pascasarjana\n\n# REGISTRASI DAN PERKULIAHAN PASCASARJANA\n\n4. Pendaftaran Ulang\nLogin Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Pembayaran biaya kuliah melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia.\nPendaftaran Ulang:\n- Ganjil: 23 Juli - 13 Agustus 2026\n- Genap: -\n\n5. Nomor Induk Mahasiswa\nCetak Nomor Induk Mahasiswa (NIM) akan dapat dilakukan pada tanggal:\n- Ganjil: 14 Agustus 2026\n- Genap: -\nSilakan cek secara berkala.\n\n6. Matrikulasi\nMatrikulasi:\n- Ganjil: 18 - 31 Agustus 2026\n- Genap: -\n\n7. Awal Perkuliahan\nAwal Perkuliahan:\n- Ganjil: 1 September 2026\n- Genap: -",
+    "content": "# REGISTRASI DAN PERKULIAHAN PASCASARJANA\n\n4. Pendaftaran Ulang\nLogin Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Pembayaran biaya kuliah melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia.\nPendaftaran Ulang:\n- Ganjil: 23 Juli - 13 Agustus 2026\n- Genap: -\n\n5. Nomor Induk Mahasiswa\nCetak Nomor Induk Mahasiswa (NIM) akan dapat dilakukan pada tanggal:\n- Ganjil: 14 Agustus 2026\n- Genap: -\nSilakan cek secara berkala.\n\n6. Matrikulasi\nMatrikulasi:\n- Ganjil: 18 - 31 Agustus 2026\n- Genap: -\n\n7. Awal Perkuliahan\nAwal Perkuliahan:\n- Ganjil: 1 September 2026\n- Genap: -"
+  },
+  {
+    "id": "078a4cac64b5b2b2a9e9d7390daf4a77",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "## Link Daftar Ulang:",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Daftar Ulang:",
+    "intents": [
+      "daftar_ulang",
+      "tanya_link",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Link Daftar Ulang Pascasarjana magister doktor spesialis profesi",
+    "alias_topik": [
+      "link registrasi ulang pascasarjana",
+      "login daftar ulang pascasarjana"
+    ],
+    "search_text": "Judul: Link Daftar Ulang Pascasarjana magister doktor spesialis profesi\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA > Link Daftar Ulang:\nAlias: link registrasi ulang pascasarjana, login daftar ulang pascasarjana\nIntent: daftar_ulang, tanya_link, tanya_pascasarjana\n\n## Link Daftar Ulang:\n\nLink Daftar Ulang magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul",
+    "content": "## Link Daftar Ulang:\n\nLink Daftar Ulang magister doktor spesialis profesi\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul"
+  },
+  {
+    "id": "1e41a6bd160f448b925b80d67cbbb371",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Daftar Ulang",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Daftar Ulang",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang",
+      "tanya_jadwal"
+    ],
+    "topik": "Daftar Ulang Program Profesi Dokter",
+    "alias_topik": [
+      "daftar ulang profesi dokter",
+      "registrasi ulang profesi dokter"
+    ],
+    "search_text": "Judul: Daftar Ulang Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Daftar Ulang\nAlias: daftar ulang profesi dokter, registrasi ulang profesi dokter\nIntent: tanya_profesi, daftar_ulang, tanya_jadwal\n\n## Daftar Ulang\n\nLogin untuk Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah.\nJadwal Daftar Ulang akan diinformasikan lebih lanjut.",
+    "content": "## Daftar Ulang\n\nLogin untuk Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah.\nJadwal Daftar Ulang akan diinformasikan lebih lanjut."
+  },
+  {
+    "id": "3095b5a8b4037cdeab705aee2fb9b387",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Prosedur Login Pendaftaran Ulang Program Profesi Dokter",
+    "alias_topik": [
+      "login daftar ulang profesi dokter",
+      "pendaftaran ulang profesi dokter"
+    ],
+    "search_text": "Judul: Prosedur Login Pendaftaran Ulang Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Prosedur Login Pendaftaran Ulang Calon Mahasiswa\nAlias: login daftar ulang profesi dokter, pendaftaran ulang profesi dokter\nIntent: tanya_profesi, daftar_ulang\n\n## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\n1. Calon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\n2. Calon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta.",
+    "content": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\n1. Calon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\n2. Calon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta."
+  },
+  {
+    "id": "196bcf213fa2ab00da8f982f43f6deff",
+    "source_file": "ppg_tagged.md",
+    "heading": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "parent_context": "PPG > Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Prosedur Login Pendaftaran Ulang Calon Mahasiswa PPG Profesi",
+    "alias_topik": [
+      "daftar ulang PPG",
+      "login daftar ulang PPG",
+      "pendaftaran ulang PPG"
+    ],
+    "search_text": "Judul: Prosedur Login Pendaftaran Ulang Calon Mahasiswa PPG Profesi\nKonteks: PPG > Prosedur Login Pendaftaran Ulang Calon Mahasiswa\nAlias: daftar ulang PPG, login daftar ulang PPG, pendaftaran ulang PPG\nIntent: tanya_profesi, daftar_ulang\n\n## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\nCalon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\nCalon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta.",
+    "content": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\nCalon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\nCalon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta."
+  },
+  {
+    "id": "88be128641e1c775d728802195628018",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:",
+    "parent_context": "1. Persyaratan > Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Daftar Ulang Berkas Setelah Lulus Profesi Apoteker",
+    "alias_topik": [
+      "berkas lulus apoteker",
+      "daftar ulang apoteker",
+      "surat pernyataan apoteker"
+    ],
+    "search_text": "Judul: Daftar Ulang Berkas Setelah Lulus Profesi Apoteker\nKonteks: 1. Persyaratan > Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:\nAlias: berkas lulus apoteker, daftar ulang apoteker, surat pernyataan apoteker\nIntent: tanya_profesi, daftar_ulang\n\n### Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n\nJika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n1. Surat pernyataan kesanggupan untuk membayar biaya perkuliahan \n2. Surat pernyataan kesediaan mengikuti aturan akademik \n3. Surat izin atasan (bagi yang bekerja) / Surat Pernyataan Tidak Bekerja \n4. Surat pernyataan tidak mengundurkan diri (jika dinyatakan lulus)",
+    "content": "### Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n\nJika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n1. Surat pernyataan kesanggupan untuk membayar biaya perkuliahan \n2. Surat pernyataan kesediaan mengikuti aturan akademik \n3. Surat izin atasan (bagi yang bekerja) / Surat Pernyataan Tidak Bekerja \n4. Surat pernyataan tidak mengundurkan diri (jika dinyatakan lulus)"
+  },
+  {
+    "id": "53855030749550152bc4c0c16dae7267",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## Bagi Peserta yang Lulus Seleksi PMB",
+    "parent_context": "Bagi Peserta yang Lulus Seleksi PMB",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Daftar Ulang Profesi Apoteker",
+    "alias_topik": [
+      "lulus seleksi apoteker",
+      "daftar ulang apoteker",
+      "pengisian KRS apoteker"
+    ],
+    "search_text": "Judul: Daftar Ulang Profesi Apoteker\nKonteks: Bagi Peserta yang Lulus Seleksi PMB\nAlias: lulus seleksi apoteker, daftar ulang apoteker, pengisian KRS apoteker\nIntent: tanya_profesi, daftar_ulang\n\n## Bagi Peserta yang Lulus Seleksi PMB\n\nBagi peserta yang lulus Seleksi dapat melakukan proses berikut:\n1. Pendaftaran Ulang\n2. Pengumpulan berkas (bagi yang belum lengkap)\n3. Pengisian KRS bagi yang dinyatakan LULUS",
+    "content": "## Bagi Peserta yang Lulus Seleksi PMB\n\nBagi peserta yang lulus Seleksi dapat melakukan proses berikut:\n1. Pendaftaran Ulang\n2. Pengumpulan berkas (bagi yang belum lengkap)\n3. Pengisian KRS bagi yang dinyatakan LULUS"
+  },
+  {
+    "id": "a07e07bf30f729602852ee055d7399e8",
+    "source_file": "sk_rektor_kalender_akademik_2026_2027_tagged.md",
+    "heading": "## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)",
+    "parent_context": "JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)",
+    "intents": [
+      "tanya_jadwal",
+      "daftar_ulang",
+      "tanya_ujian"
+    ],
+    "topik": "Jadwal Pendafataran dan Daftar Ulang Program Magister S2 dan Doktor S3 Kalender PMB 2026/2027",
+    "alias_topik": [
+      "jadwal S2",
+      "jadwal S3",
+      "jadwal pascasarjana",
+      "ETIC TOAFL TPA wawancara"
+    ],
+    "search_text": "Judul: Jadwal Pendafataran dan Daftar Ulang Program Magister S2 dan Doktor S3 Kalender PMB 2026/2027\nKonteks: JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\nAlias: jadwal S2, jadwal S3, jadwal pascasarjana, ETIC TOAFL TPA wawancara\nIntent: tanya_jadwal, daftar_ulang, tanya_ujian\n\n## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\n\n| No. | Uraian Kegiatan | Ganjil | Genap |\n|---:|---|---|---|\n| 1 | Pendaftaran Online | 9 februari —25 Juni 2026 | 01 Maret—31 Desember 2026 |\n| 2a | Tes Masuk: ETIC dan TOAFL | 02—03 Juli 2026 | 07—08 Januari 2027 |\n| 2b | Tes Masuk: TPA | 06—07 Juli 2026 | 11—12 Januari 2027 |\n| 2c | Tes Masuk: Wawancara | 08—09 Juli 2026 | 13—14 Januari 2027 |\n| 3 | Pengumuman Kelulusan | 22 Juli 2026 | 27 Januari 2027 |\n| 4 | Daftar Ulang | 23 Juli—13 Agustus 2026 | 28 Januari—11 Februari 2027 |\n| 5 | Matrikulasi | 18—31 Agustus 2026 | 15—26 Februari 2027 |\n| 6 | Awal Perkuliahan | 01 September 2026 | 22 Maret 2027 |\n\nREKTOR,\nASEP SAEPUDIN JAHAR",
+    "content": "## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\n\n| No. | Uraian Kegiatan | Ganjil | Genap |\n|---:|---|---|---|\n| 1 | Pendaftaran Online | 9 februari —25 Juni 2026 | 01 Maret—31 Desember 2026 |\n| 2a | Tes Masuk: ETIC dan TOAFL | 02—03 Juli 2026 | 07—08 Januari 2027 |\n| 2b | Tes Masuk: TPA | 06—07 Juli 2026 | 11—12 Januari 2027 |\n| 2c | Tes Masuk: Wawancara | 08—09 Juli 2026 | 13—14 Januari 2027 |\n| 3 | Pengumuman Kelulusan | 22 Juli 2026 | 27 Januari 2027 |\n| 4 | Daftar Ulang | 23 Juli—13 Agustus 2026 | 28 Januari—11 Februari 2027 |\n| 5 | Matrikulasi | 18—31 Agustus 2026 | 15—26 Februari 2027 |\n| 6 | Awal Perkuliahan | 01 September 2026 | 22 Maret 2027 |\n\nREKTOR,\nASEP SAEPUDIN JAHAR"
+  },
+  {
+    "id": "1a748094efac46596ead18e68fe58258",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 8. Daftar Ulang",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_profesi",
+      "tanya_jadwal",
+      "tanya_link"
+    ],
+    "topik": "Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "daftar ulang Obgin",
+      "registrasi ulang spesialis",
+      "link daftar ulang Obgin"
+    ],
+    "search_text": "Judul: Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang\nAlias: daftar ulang Obgin, registrasi ulang spesialis, link daftar ulang Obgin\nIntent: daftar_ulang, tanya_profesi, tanya_jadwal, tanya_link\n\n## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul",
+    "content": "## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul"
+  },
+  {
+    "id": "fda441523698670c6e9db4f7b85e4649",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "# TATA CARA ISI FORMULIR DAFTAR ULANG",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Isi Formulir Daftar Ulang UIN Jakarta, Daftar Ulang S1 Sarjana Jalur SNBT, Daftar Ulang S1 Sarjana Jalur SNBP, Daftar Ulang S1 Sarjana Jalur UMPTKIN, Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "formulir daftar ulang",
+      "cara isi daftar ulang",
+      "registrasi ulang UIN Jakarta",
+      "daftar ulang S1",
+      "daftar ulang sarjana",
+      "daftar ulang SNBT",
+      "daftar ulang SNBP",
+      "daftar ulang UMPTKIN",
+      "daftar ulang SPAN PTKIN",
+      "daftar ulang SPMB Mandiri"
+    ],
+    "search_text": "Judul: Tata Cara Isi Formulir Daftar Ulang UIN Jakarta, Daftar Ulang S1 Sarjana Jalur SNBT, Daftar Ulang S1 Sarjana Jalur SNBP, Daftar Ulang S1 Sarjana Jalur UMPTKIN, Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG\nAlias: formulir daftar ulang, cara isi daftar ulang, registrasi ulang UIN Jakarta, daftar ulang S1, daftar ulang sarjana, daftar ulang SNBT, daftar ulang SNBP, daftar ulang UMPTKIN, daftar ulang SPAN PTKIN, daftar ulang SPMB Mandiri\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n# TATA CARA ISI FORMULIR DAFTAR ULANG\n\nUIN Syarif Hidayatullah Jakarta\n\n> Sumber: Tata cara isi formulir daftar ulang.pdf",
+    "content": "# TATA CARA ISI FORMULIR DAFTAR ULANG\n\nUIN Syarif Hidayatullah Jakarta\n\n> Sumber: Tata cara isi formulir daftar ulang.pdf"
+  },
+  {
+    "id": "99c4719757428b9899c1d34e84764ca3",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## Langkah 1: Login Aplikasi Daftar Ulang",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 1: Login Aplikasi Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Daftar Ulang SPANPTKIN UMPTKIN SNBP SNBT SPMB Mandiri, Login Daftar Ulang S1 Sarjana Jalur SNBT, Login Daftar Ulang S1 Sarjana Jalur SNBP, Login Daftar Ulang S1 Sarjana Jalur UMPTKIN, Login Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Login Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "login daftar ulang",
+      "daftar ulang klogin admisi",
+      "admisi.uinjkt.ac.id",
+      "cara login daftar ulang",
+      "portal PMB online",
+      "login SNBP",
+      "login SPAN PTKIN",
+      "login SNBT",
+      "login UMPTKIN",
+      "login mandiri",
+      "login SPMB Mandiri",
+      "password pendaftaran awal",
+      "login daftar ulang S1",
+      "login daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Tata Cara Daftar Ulang SPANPTKIN UMPTKIN SNBP SNBT SPMB Mandiri, Login Daftar Ulang S1 Sarjana Jalur SNBT, Login Daftar Ulang S1 Sarjana Jalur SNBP, Login Daftar Ulang S1 Sarjana Jalur UMPTKIN, Login Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Login Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 1: Login Aplikasi Daftar Ulang\nAlias: login daftar ulang, daftar ulang klogin admisi, admisi.uinjkt.ac.id, cara login daftar ulang, portal PMB online, login SNBP, login SPAN PTKIN, login SNBT, login UMPTKIN, login mandiri, login SPMB Mandiri, password pendaftaran awal, login daftar ulang S1, login daftar ulang sarjana\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n## Langkah 1: Login Aplikasi Daftar Ulang\n\nLangkah 1: Login Aplikasi Daftar Ulang\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik:\n  admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl\n  (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG",
+    "content": "## Langkah 1: Login Aplikasi Daftar Ulang\n\nLangkah 1: Login Aplikasi Daftar Ulang\nBuka Browser dan Login Aplikasi\n\n- Buka browser dan login aplikasi dengan mengetik:\n  admisi.uinjkt.ac.id\n\nJalur SNBP, SPAN PTKIN, SNBT, UMPTKIN:\n\n- Nomor Pendaftaran diisi dengan Nomor Peserta (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Tanggal Lahir dengan format Thn+Bln+Tgl\n  (disambung/tanpa strip).\n  Contoh: 20070517\n\nJalur SPMB Mandiri Reguler dan Non Reguler:\n\n- Nomor Pendaftaran diisi dengan Nomor Pendaftaran (disambung/tanpa strip).\n  Contoh: 1234567891\n- Password diisi dengan Password Pendaftaran Awal.\n  Contoh: 2ABCD4QZ\n\nTeks pada contoh layar aplikasi:\n\n- Portal PMB Online\n- Login untuk mengisi form pendaftaran:\n- Melakukan login dengan memasukkan Nomor Pendaftaran\n- Nomor Pendaftaran (Registration Number)\n- Password\n- MASUK / LOGIN / DAFTAR ULANG"
+  },
+  {
+    "id": "ae08769c914d8775c701ea6e00e99690",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran",
+      "tanya_persyaratan"
+    ],
+    "topik": "Isi Formulir Daftar Ulang Bagian Informasi Pribadi, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBT, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBP, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "isi formulir daftar ulang",
+      "form daftar ulang",
+      "informasi pribadi daftar ulang",
+      "dokumen pribadi daftar ulang",
+      "pas foto daftar ulang",
+      "KTP daftar ulang",
+      "Kartu Keluarga daftar ulang",
+      "BPJS daftar ulang",
+      "NISN daftar ulang",
+      "formulir daftar ulang S1",
+      "formulir daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Isi Formulir Daftar Ulang Bagian Informasi Pribadi, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBT, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SNBP, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Informasi Pribadi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nAlias: isi formulir daftar ulang, form daftar ulang, informasi pribadi daftar ulang, dokumen pribadi daftar ulang, pas foto daftar ulang, KTP daftar ulang, Kartu Keluarga daftar ulang, BPJS daftar ulang, NISN daftar ulang, formulir daftar ulang S1, formulir daftar ulang sarjana\nIntent: daftar_ulang, tanya_prosedur_pendaftaran, tanya_persyaratan\n\n## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\n\nLangkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nCatatan wajib:\n- Seluruh isian formulir yang bertanda bintang (*) wajib diisi.\n\nBAGIAN 1 - INFORMASI PRIBADI\n\nDokumen atau bahan yang disiapkan:\n- Pas Foto Terbaru Formal Latar Merah (Wajib).\n  Ketentuan:\n  - Tidak menggunakan seragam sekolah.\n  - Tidak berkacamata.\n  - Tidak terlihat gigi.\n  - Format JPEG.\n  - Rasio foto 4 x 6 atau maksimal resolusi 300px x 450px.\n  - Maksimal ukuran file 200 kb.\n- Foto KTP/Kartu Keluarga format PDF/JPG/JPEG/PNG (Wajib).\n  Maksimal ukuran file 1 MB.\n- NISN (Nomor Induk Siswa Nasional) diisi dengan 10 digit angka.\n- Foto Kartu BPJS format JPG/JPEG/PNG (Opsional/Jika Ada).\n  Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama; Agenda; Informasi; Pengumuman; Keluar\n- Informasi Pribadi; Riwayat Pendidikan; Data UKT; Data Orang Tua; Data Wali; Verifikasi\n- Pas foto*; Upload Foto\n- Nama lengkap (Sesuai Ijazah)*\n- Jenis kelamin: Laki-Laki / Perempuan\n- NIK / No. KTP*\n- Upload KTP*; KTP; Upload Berkas\n- Upload KTP dengan format *.pdf\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## Langkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\n\nLangkah 2: Isi Formulir Daftar Ulang - Informasi Pribadi\nCatatan wajib:\n- Seluruh isian formulir yang bertanda bintang (*) wajib diisi.\n\nBAGIAN 1 - INFORMASI PRIBADI\n\nDokumen atau bahan yang disiapkan:\n- Pas Foto Terbaru Formal Latar Merah (Wajib).\n  Ketentuan:\n  - Tidak menggunakan seragam sekolah.\n  - Tidak berkacamata.\n  - Tidak terlihat gigi.\n  - Format JPEG.\n  - Rasio foto 4 x 6 atau maksimal resolusi 300px x 450px.\n  - Maksimal ukuran file 200 kb.\n- Foto KTP/Kartu Keluarga format PDF/JPG/JPEG/PNG (Wajib).\n  Maksimal ukuran file 1 MB.\n- NISN (Nomor Induk Siswa Nasional) diisi dengan 10 digit angka.\n- Foto Kartu BPJS format JPG/JPEG/PNG (Opsional/Jika Ada).\n  Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH\n- Halaman Utama; Agenda; Informasi; Pengumuman; Keluar\n- Informasi Pribadi; Riwayat Pendidikan; Data UKT; Data Orang Tua; Data Wali; Verifikasi\n- Pas foto*; Upload Foto\n- Nama lengkap (Sesuai Ijazah)*\n- Jenis kelamin: Laki-Laki / Perempuan\n- NIK / No. KTP*\n- Upload KTP*; KTP; Upload Berkas\n- Upload KTP dengan format *.pdf\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "7030884a4a88ba9b0f83d6e8183126b4",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Riwayat Pendidikan Formulir Daftar Ulang, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBT, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBP, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "riwayat pendidikan daftar ulang",
+      "ijazah daftar ulang",
+      "SKL daftar ulang",
+      "Surat Keterangan Kelas XII daftar ulang",
+      "rapor daftar ulang",
+      "data SMTA daftar ulang",
+      "asal sekolah daftar ulang",
+      "riwayat pendidikan daftar ulang S1"
+    ],
+    "search_text": "Judul: Riwayat Pendidikan Formulir Daftar Ulang, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBT, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SNBP, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Riwayat Pendidikan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang\nAlias: riwayat pendidikan daftar ulang, ijazah daftar ulang, SKL daftar ulang, Surat Keterangan Kelas XII daftar ulang, rapor daftar ulang, data SMTA daftar ulang, asal sekolah daftar ulang, riwayat pendidikan daftar ulang S1\nIntent: daftar_ulang, tanya_persyaratan\n\n## Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang\n\nDokumen atau bahan yang disiapkan:\n- Foto Ijazah/Surat Keterangan Lulus (SKL)/Surat Keterangan Kelas XII\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n- Foto Rapor dari kelas X(1-2), XI(1-2), XII(1) dalam satu file\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n\nTeks pada tampilan formulir:\n- Tahun lulus SMTA*: 2025\n- Jurusan SMTA*: SMU/MA IPA\n- Jenis SMTA*: SMA\n- Pilih SMTA*: Pilih SMTA\n- Nama SMTA lain\n- Isi nama SMTA jika tidak ada dalam daftar list SMTA di atas,\n  dengan terlebih dahulu memilih SMTA Lain-lain sesuai dengan kota sekolah.\n- Asal Negara SMTA: INDONESIA\n- Provinsi SMTA: Prov. Banten\n- Kabupaten SMTA: Kab Tangerang\n- Kecamatan SMTA: Kec Kelapa Dua\n- Alamat SMTA\n- Maksimal 90 karakter, gunakan spasi untuk memisahkan tiap kata.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## Bagian 2: Riwayat Pendidikan Formulir Daftar Ulang\n\nDokumen atau bahan yang disiapkan:\n- Foto Ijazah/Surat Keterangan Lulus (SKL)/Surat Keterangan Kelas XII\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n- Foto Rapor dari kelas X(1-2), XI(1-2), XII(1) dalam satu file\n  format PDF (Wajib). Maksimal ukuran file 1 MB.\n\nTeks pada tampilan formulir:\n- Tahun lulus SMTA*: 2025\n- Jurusan SMTA*: SMU/MA IPA\n- Jenis SMTA*: SMA\n- Pilih SMTA*: Pilih SMTA\n- Nama SMTA lain\n- Isi nama SMTA jika tidak ada dalam daftar list SMTA di atas,\n  dengan terlebih dahulu memilih SMTA Lain-lain sesuai dengan kota sekolah.\n- Asal Negara SMTA: INDONESIA\n- Provinsi SMTA: Prov. Banten\n- Kabupaten SMTA: Kab Tangerang\n- Kecamatan SMTA: Kec Kelapa Dua\n- Alamat SMTA\n- Maksimal 90 karakter, gunakan spasi untuk memisahkan tiap kata.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "8aec7e8029877bba68188846a5b9fcdb",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 3: DATA UKT",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 3: DATA UKT",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Data UKT Formulir Daftar Ulang, Data UKT Daftar Ulang S1 Sarjana Jalur SNBT, Data UKT Daftar Ulang S1 Sarjana Jalur SNBP, Data UKT Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "data UKT",
+      "penentuan UKT",
+      "kesanggupan membayar UKT",
+      "UKT daftar ulang S1",
+      "UKT daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Data UKT Formulir Daftar Ulang, Data UKT Daftar Ulang S1 Sarjana Jalur SNBT, Data UKT Daftar Ulang S1 Sarjana Jalur SNBP, Data UKT Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data UKT Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 3: DATA UKT\nAlias: data UKT, penentuan UKT, kesanggupan membayar UKT, UKT daftar ulang S1, UKT daftar ulang sarjana\nIntent: daftar_ulang, tanya_persyaratan\n\n## BAGIAN 3: DATA UKT\n\nDokumen atau bahan yang disiapkan:\n- Foto Surat Pernyataan Kebenaran Data dan Kesanggupan Membayar UKT\n  yang ditandatangani Calon Mahasiswa dan Orang Tua/Wali serta dibubuhkan\n  Materai Fisik/e-Materai Rp10.000,-.\n- Silakan unduh template Surat Pernyataan pada link download template.\n- Format file PDF (Wajib).\n- Maksimal ukuran file 2 MB.\nCatatan pilihan UKT:\n- Jika ingin memilih UKT Kelompok 7, klik Tidak pada isian Mengikuti Proses\n  Penentuan UKT.\n- Jika memilih Tidak, Anda tidak perlu melakukan upload dokumen pendukung UKT\n  dan dapat langsung melakukan pembayaran.\nTeks pada tampilan formulir:\n- Dokumen yang harus diisi calon mahasiswa*\n- Download template\n- Dokumen; Upload Berkas\n- Mengikuti Proses Penentuan UKT*: Ya / Tidak\n- Saya setuju untuk dimasukkan kelompok UKT paling tinggi (7)\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.\n\n##BAGIAN 3: DATA UKT (MENGIKUTI PROSES PENENTUAN UKT)\n\nInstruksi:\n- Jika memilih mengikuti Proses Penentuan UKT, klik tombol Ya dan siapkan dokumen berikut:\n  - Foto Mutasi Rekening 3 Bulan Terakhir (Opsional/Jika Ada).\n  - Foto SPPT PBB Tahun Terakhir (Jika Ada).\n  - Berkas Bukti Pajak Bumi dan Bangunan (PBB) (Wajib).\n  - Berkas STNK Mobil.\n  - Berkas STNK Motor.\n  - Berkas Kartu Keluarga (Wajib).\n  - Surat Keterangan Tidak Mampu (SKTM/KIP/PKH/Pra-Sejahtera) (Jika Ada).\n  - Foto Rumah Tampak Dalam (Wajib).\n  - Foto Rumah Tampak Luar (Wajib).\n- Untuk format dan ukuran file dokumen di atas dapat dilihat pada isian formulir.\nTeks pada tampilan formulir:\n- Mutasi Rekening 3 bulan Terakhir (Opsional/Jika Ada); Upload Berkas\n- SPT Tahun Terakhir (Opsional/Jika Ada); Upload Berkas\n- Daya Listrik Rumah*: 1200 Watt\n- Status Kepemilikan Rumah*: Kontrakan < 1 Juta Per Bulan\n- Luas Bangunan*: 51 M2 - 100 M2\n- Luas Tanah Bangunan*: 60 M2 - 100 M2\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 3: DATA UKT\n\nDokumen atau bahan yang disiapkan:\n- Foto Surat Pernyataan Kebenaran Data dan Kesanggupan Membayar UKT\n  yang ditandatangani Calon Mahasiswa dan Orang Tua/Wali serta dibubuhkan\n  Materai Fisik/e-Materai Rp10.000,-.\n- Silakan unduh template Surat Pernyataan pada link download template.\n- Format file PDF (Wajib).\n- Maksimal ukuran file 2 MB.\nCatatan pilihan UKT:\n- Jika ingin memilih UKT Kelompok 7, klik Tidak pada isian Mengikuti Proses\n  Penentuan UKT.\n- Jika memilih Tidak, Anda tidak perlu melakukan upload dokumen pendukung UKT\n  dan dapat langsung melakukan pembayaran.\nTeks pada tampilan formulir:\n- Dokumen yang harus diisi calon mahasiswa*\n- Download template\n- Dokumen; Upload Berkas\n- Mengikuti Proses Penentuan UKT*: Ya / Tidak\n- Saya setuju untuk dimasukkan kelompok UKT paling tinggi (7)\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.\n\n##BAGIAN 3: DATA UKT (MENGIKUTI PROSES PENENTUAN UKT)\n\nInstruksi:\n- Jika memilih mengikuti Proses Penentuan UKT, klik tombol Ya dan siapkan dokumen berikut:\n  - Foto Mutasi Rekening 3 Bulan Terakhir (Opsional/Jika Ada).\n  - Foto SPPT PBB Tahun Terakhir (Jika Ada).\n  - Berkas Bukti Pajak Bumi dan Bangunan (PBB) (Wajib).\n  - Berkas STNK Mobil.\n  - Berkas STNK Motor.\n  - Berkas Kartu Keluarga (Wajib).\n  - Surat Keterangan Tidak Mampu (SKTM/KIP/PKH/Pra-Sejahtera) (Jika Ada).\n  - Foto Rumah Tampak Dalam (Wajib).\n  - Foto Rumah Tampak Luar (Wajib).\n- Untuk format dan ukuran file dokumen di atas dapat dilihat pada isian formulir.\nTeks pada tampilan formulir:\n- Mutasi Rekening 3 bulan Terakhir (Opsional/Jika Ada); Upload Berkas\n- SPT Tahun Terakhir (Opsional/Jika Ada); Upload Berkas\n- Daya Listrik Rumah*: 1200 Watt\n- Status Kepemilikan Rumah*: Kontrakan < 1 Juta Per Bulan\n- Luas Bangunan*: 51 M2 - 100 M2\n- Luas Tanah Bangunan*: 60 M2 - 100 M2\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "ad7e38ca30a077bf1c2b4bfe0aba297c",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 4: DATA ORANG TUA",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 4: DATA ORANG TUA",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Data Orang Tua Formulir Daftar Ulang, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBT, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBP, Data Orang Tua Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "data orang tua",
+      "slip gaji orang tua",
+      "pekerjaan orang tua",
+      "data orang tua daftar ulang S1"
+    ],
+    "search_text": "Judul: Data Orang Tua Formulir Daftar Ulang, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBT, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SNBP, Data Orang Tua Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Orang Tua Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 4: DATA ORANG TUA\nAlias: data orang tua, slip gaji orang tua, pekerjaan orang tua, data orang tua daftar ulang S1\nIntent: daftar_ulang, tanya_persyaratan\n\n## BAGIAN 4: DATA ORANG TUA\n\nDokumen atau bahan yang disiapkan:\n- Berkas Slip Gaji Ayah format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n- Berkas Slip Gaji Ibu format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- NIK/No KTP/No Passport Ayah\n- Nama Ayah*\n- Alamat Ayah\n- No.Telp Ayah; Isi dengan angka\n- Pendidikan Ayah*: SMA; Pendidikan terakhir Ayah\n- Jenjang Pendidikan Ayah*: SMA/sederajat\n- Pekerjaan Ayah*: Sudah Meninggal\n- Alamat kantor Ayah; Alamat kantor Ayah, maksimal 30 karakter\n- No.Telp Kantor Ayah; Isi dengan angka\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 4: DATA ORANG TUA\n\nDokumen atau bahan yang disiapkan:\n- Berkas Slip Gaji Ayah format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n- Berkas Slip Gaji Ibu format ZIP/RAR/PDF/JPG/JPEG/PNG\n  (Wajib Jika Ada). Maksimal ukuran file 200 kb.\n\nTeks pada tampilan formulir:\n- NIK/No KTP/No Passport Ayah\n- Nama Ayah*\n- Alamat Ayah\n- No.Telp Ayah; Isi dengan angka\n- Pendidikan Ayah*: SMA; Pendidikan terakhir Ayah\n- Jenjang Pendidikan Ayah*: SMA/sederajat\n- Pekerjaan Ayah*: Sudah Meninggal\n- Alamat kantor Ayah; Alamat kantor Ayah, maksimal 30 karakter\n- No.Telp Kantor Ayah; Isi dengan angka\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "8f1dc10daa62eda8b687ac38163ff8ca",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 5: DATA WALI",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 5: DATA WALI",
+    "intents": [
+      "daftar_ulang",
+      "tanya_persyaratan"
+    ],
+    "topik": "Data Wali Formulir Daftar Ulang, Data Wali Daftar Ulang S1 Sarjana Jalur SNBT, Data Wali Daftar Ulang S1 Sarjana Jalur SNBP, Data Wali Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "data wali",
+      "wali daftar ulang",
+      "data wali daftar ulang S1"
+    ],
+    "search_text": "Judul: Data Wali Formulir Daftar Ulang, Data Wali Daftar Ulang S1 Sarjana Jalur SNBT, Data Wali Daftar Ulang S1 Sarjana Jalur SNBP, Data Wali Daftar Ulang S1 Sarjana Jalur UMPTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Data Wali Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 5: DATA WALI\nAlias: data wali, wali daftar ulang, data wali daftar ulang S1\nIntent: daftar_ulang, tanya_persyaratan\n\n## BAGIAN 5: DATA WALI\n\nInstruksi:\n- Jika Anda tidak mempunyai Wali, Anda bisa kosongkan isian formulir pada bagian ini.\nTeks pada tampilan formulir:\n- Nama wali\n- Pendidikan Wali: -- PILIH --\n- Pendidikan terakhir Wali\n- Jenjang Pendidikan Wali: -- PILIH --\n- Pekerjaan wali: -- PILIH --\n- Penghasilan Wali: -- PILIH --\n- Penghasilan Wali\n- Alamat wali\n- Maksimal 30 karakter\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 5: DATA WALI\n\nInstruksi:\n- Jika Anda tidak mempunyai Wali, Anda bisa kosongkan isian formulir pada bagian ini.\nTeks pada tampilan formulir:\n- Nama wali\n- Pendidikan Wali: -- PILIH --\n- Pendidikan terakhir Wali\n- Jenjang Pendidikan Wali: -- PILIH --\n- Pekerjaan wali: -- PILIH --\n- Penghasilan Wali: -- PILIH --\n- Penghasilan Wali\n- Alamat wali\n- Maksimal 30 karakter\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "be52d0addc8c935e5358268fcd038ad6",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## BAGIAN 6: VERIFIKASI",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 6: VERIFIKASI",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Verifikasi Formulir Daftar Ulang, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBT, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBP, Verifikasi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "kode verifikasi",
+      "kirim formulir",
+      "konfirmasi daftar ulang",
+      "verifikasi daftar ulang S1"
+    ],
+    "search_text": "Judul: Verifikasi Formulir Daftar Ulang, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBT, Verifikasi Daftar Ulang S1 Sarjana Jalur SNBP, Verifikasi Daftar Ulang S1 Sarjana Jalur UMPTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Verifikasi Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > BAGIAN 6: VERIFIKASI\nAlias: kode verifikasi, kirim formulir, konfirmasi daftar ulang, verifikasi daftar ulang S1\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n## BAGIAN 6: VERIFIKASI\n\nInstruksi:\n- Kode verifikasi diisi sesuai gambar teks.\n- Jika gambar teks tidak terbaca atau tidak tampil, silakan klik link:\n  Tidak terbaca? Ganti text.\n- Ceklist Konfirmasi jika isian formulir pendaftaran ulang sudah lengkap\n  dan sesuai ketentuan.\n- Pastikan Anda telah melengkapi isian formulir pada langkah 2 sesuai\n  ketentuan berlaku.\n- Klik tombol KIRIM FORMULIR untuk mengirim formulir pendaftaran ulang\n  dan menampilkan informasi formulir berhasil dikirim.\n- Langkah selanjutnya adalah menunggu pengumuman Kelompok UKT sesuai jadwal.\nTeks pada tampilan formulir:\n- Tgl pendaftaran: 23 Maret 2025\n- Kode verifikasi*\n- Tidak terbaca? Ganti text.\n- Ketik teks sesuai kode verifikasi\n- Konfirmasi*\n- Dengan ini saya menyatakan bahwa data yang saya isikan adalah data yang\n  sebenarnya, jika di kemudian hari ternyata data yang saya isikan terbukti\n  tidak benar maka saya bersedia digugurkan dan diproses sesuai aturan\n  perundang-undangan.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya.",
+    "content": "## BAGIAN 6: VERIFIKASI\n\nInstruksi:\n- Kode verifikasi diisi sesuai gambar teks.\n- Jika gambar teks tidak terbaca atau tidak tampil, silakan klik link:\n  Tidak terbaca? Ganti text.\n- Ceklist Konfirmasi jika isian formulir pendaftaran ulang sudah lengkap\n  dan sesuai ketentuan.\n- Pastikan Anda telah melengkapi isian formulir pada langkah 2 sesuai\n  ketentuan berlaku.\n- Klik tombol KIRIM FORMULIR untuk mengirim formulir pendaftaran ulang\n  dan menampilkan informasi formulir berhasil dikirim.\n- Langkah selanjutnya adalah menunggu pengumuman Kelompok UKT sesuai jadwal.\nTeks pada tampilan formulir:\n- Tgl pendaftaran: 23 Maret 2025\n- Kode verifikasi*\n- Tidak terbaca? Ganti text.\n- Ketik teks sesuai kode verifikasi\n- Konfirmasi*\n- Dengan ini saya menyatakan bahwa data yang saya isikan adalah data yang\n  sebenarnya, jika di kemudian hari ternyata data yang saya isikan terbukti\n  tidak benar maka saya bersedia digugurkan dan diproses sesuai aturan\n  perundang-undangan.\n- < Sebelumnya; Simpan Sementara; Batal; Selanjutnya >; KIRIM FORMULIR\n\nCatatan tombol:\n- Klik tombol Simpan Sementara untuk menyimpan data bagian ini.\n- Klik tombol Selanjutnya untuk ke isian formulir selanjutnya."
+  },
+  {
+    "id": "caecbd7d0074775e222d421ee9caa9f8",
+    "source_file": "tata_cara_isi_formulir_daftar_ulang_tagged.md",
+    "heading": "## RINGKASAN ALUR",
+    "parent_context": "TATA CARA ISI FORMULIR DAFTAR ULANG > RINGKASAN ALUR",
+    "intents": [
+      "daftar_ulang",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Ringkasan Alur Isi Formulir Daftar Ulang, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBT, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBP, Ringkasan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri",
+    "alias_topik": [
+      "alur daftar ulang",
+      "ringkasan daftar ulang",
+      "langkah daftar ulang",
+      "alur daftar ulang S1",
+      "ringkasan daftar ulang sarjana"
+    ],
+    "search_text": "Judul: Ringkasan Alur Isi Formulir Daftar Ulang, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBT, Ringkasan Daftar Ulang S1 Sarjana Jalur SNBP, Ringkasan Daftar Ulang S1 Sarjana Jalur UMPTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPAN PTKIN, Ringkasan Daftar Ulang S1 Sarjana Jalur SPMB Mandiri\nKonteks: TATA CARA ISI FORMULIR DAFTAR ULANG > RINGKASAN ALUR\nAlias: alur daftar ulang, ringkasan daftar ulang, langkah daftar ulang, alur daftar ulang S1, ringkasan daftar ulang sarjana\nIntent: daftar_ulang, tanya_prosedur_pendaftaran\n\n## RINGKASAN ALUR\n\n1. Login ke admisi.uinjkt.ac.id.\n2. Isi Informasi Pribadi.\n3. Isi Riwayat Pendidikan.\n4. Isi Data UKT.\n5. Jika mengikuti proses penentuan UKT, unggah dokumen pendukung UKT.\n6. Isi Data Orang Tua.\n7. Isi Data Wali jika ada.\n8. Lakukan Verifikasi.\n9. Kirim formulir dan tunggu pengumuman Kelompok UKT sesuai jadwal.",
+    "content": "## RINGKASAN ALUR\n\n1. Login ke admisi.uinjkt.ac.id.\n2. Isi Informasi Pribadi.\n3. Isi Riwayat Pendidikan.\n4. Isi Data UKT.\n5. Jika mengikuti proses penentuan UKT, unggah dokumen pendukung UKT.\n6. Isi Data Orang Tua.\n7. Isi Data Wali jika ada.\n8. Lakukan Verifikasi.\n9. Kirim formulir dan tunggu pengumuman Kelompok UKT sesuai jadwal."
+  }
+]

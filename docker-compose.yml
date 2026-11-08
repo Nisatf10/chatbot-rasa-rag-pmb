@@ -1,0 +1,56 @@
+version: '3.8'
+services:
+
+  caddy:
+    image: caddy:2-alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    restart: unless-stopped
+
+  rasa:
+    image: rasa/rasa:3.6.21-full
+    user: "0:0"
+    expose:
+      - "5005"
+    volumes:
+      - .:/app
+      - ./telegram_patched.py:/opt/venv/lib/python3.10/site-packages/rasa/core/channels/telegram.py
+    working_dir: /app
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    command:
+      - run
+      - --enable-api
+      - --cors
+      - "*"
+      - --credentials
+      - /app/credentials.yml
+      - --endpoints
+      - /app/endpoints.yml
+      - --debug
+    depends_on:
+      - action_server
+    restart: unless-stopped
+
+  action_server:
+    build:
+      context: ./actions
+    user: "0:0"
+    expose:
+      - "5055"
+    volumes:
+      - ./actions:/app/actions
+    working_dir: /app
+    env_file:
+      - .env
+    restart: unless-stopped
+
+volumes:
+  caddy_data:
+  caddy_config:

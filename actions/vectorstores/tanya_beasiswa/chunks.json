@@ -1,0 +1,729 @@
+[
+  {
+    "id": "4687f8492c8ffab57dc98ce6d93f8422",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa BLU",
+    "parent_context": "Beasiswa BLU",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa BLU",
+    "alias_topik": [
+      "BLU",
+      "Beasiswa BLU"
+    ],
+    "search_text": "Judul: Beasiswa BLU\nKonteks: Beasiswa BLU\nAlias: BLU, Beasiswa BLU\nIntent: tanya_beasiswa\n\n### Beasiswa BLU\n\nBeasiswa Badan Layanan Umum (BLU) merupakan beasiswa yang berasal dari internal UIN Jakarta. Beasiswa ini merupakan bentuk dukungan finansial yang diberikan kepada mahasiswa 3 fakultas UIN Jakarta, yaitu Fakultas Ushuluddin, Fakultas Dirasat Islamiyah, dan Fakultas Adab dan Humaniora. Beasiswa ini mencakup pembebasan biaya kuliah selama masa studi, sehingga penerima hanya perlu fokus pada pembelajaran. Adapun jumlah penerima beasiswa ini di UIN Jakarta pada tahun 2024 yaitu sebanyak 163 mahasiswa. Adapun persyaratan yang harus dilengkapi oleh pendaftar beasiswa Badan Layanan Umum (BLU), yaitu sebagai berikut:",
+    "content": "### Beasiswa BLU\n\nBeasiswa Badan Layanan Umum (BLU) merupakan beasiswa yang berasal dari internal UIN Jakarta. Beasiswa ini merupakan bentuk dukungan finansial yang diberikan kepada mahasiswa 3 fakultas UIN Jakarta, yaitu Fakultas Ushuluddin, Fakultas Dirasat Islamiyah, dan Fakultas Adab dan Humaniora. Beasiswa ini mencakup pembebasan biaya kuliah selama masa studi, sehingga penerima hanya perlu fokus pada pembelajaran. Adapun jumlah penerima beasiswa ini di UIN Jakarta pada tahun 2024 yaitu sebanyak 163 mahasiswa. Adapun persyaratan yang harus dilengkapi oleh pendaftar beasiswa Badan Layanan Umum (BLU), yaitu sebagai berikut:"
+  },
+  {
+    "id": "2cc840f2ddb79eec5550a74298234d43",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### A. Persyaratan Umum",
+    "parent_context": "Beasiswa BLU",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "A. Persyaratan Umum Beasiswa BLU",
+    "alias_topik": [
+      "syarat Beasiswa BLU",
+      "persyaratan Beasiswa BLU"
+    ],
+    "search_text": "Judul: A. Persyaratan Umum Beasiswa BLU\nKonteks: Beasiswa BLU\nAlias: syarat Beasiswa BLU, persyaratan Beasiswa BLU\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta Program Sarjana Strata Satu (S1)\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus.",
+    "content": "#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta Program Sarjana Strata Satu (S1)\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus."
+  },
+  {
+    "id": "5ddcbdb4c6c32d88bc447a7b9ad03104",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa BLU",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa BLU",
+    "alias_topik": [
+      "syarat Beasiswa BLU",
+      "persyaratan Beasiswa BLU"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa BLU\nKonteks: Beasiswa BLU\nAlias: syarat Beasiswa BLU, persyaratan Beasiswa BLU\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Lulus Madrasah Aliyah (MA), Madrasah Aliyah Keagamaan (MAK), Pesantren, Madrasah Diniyah (Madin) Ulya, SMA, SMK, dan yang sederajat setahun sebelum atau pada tahun yang berjalan\n- Lulus tes Jalur Seleksi Beasiswa BLU masuk UIN Syarif Hidayatullah Jakarta pada Fakultas yang telah ditentukan oleh Universitas (Fakultas Ushuluddin, Fakultas Dirasat Islamiyah, dan Fakultas Adab dan Humaniora)\n- Mahasiswa yang masuk dalam golongan Uang Kuliah Tunggal (UKT) 3\nUsia maksimal pada saat mendaftar adalah 21 tahun.",
+    "content": "#### B. Persyaratan Khusus\n\n- Lulus Madrasah Aliyah (MA), Madrasah Aliyah Keagamaan (MAK), Pesantren, Madrasah Diniyah (Madin) Ulya, SMA, SMK, dan yang sederajat setahun sebelum atau pada tahun yang berjalan\n- Lulus tes Jalur Seleksi Beasiswa BLU masuk UIN Syarif Hidayatullah Jakarta pada Fakultas yang telah ditentukan oleh Universitas (Fakultas Ushuluddin, Fakultas Dirasat Islamiyah, dan Fakultas Adab dan Humaniora)\n- Mahasiswa yang masuk dalam golongan Uang Kuliah Tunggal (UKT) 3\nUsia maksimal pada saat mendaftar adalah 21 tahun."
+  },
+  {
+    "id": "ed4441bc90122dc7ff0023d3af9f6260",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa BLU Bagi Mahasiswa Asing",
+    "parent_context": "Beasiswa BLU Bagi Mahasiswa Asing",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa BLU Bagi Mahasiswa Asing",
+    "alias_topik": [
+      "BLU",
+      "Beasiswa BLU"
+    ],
+    "search_text": "Judul: Beasiswa BLU Bagi Mahasiswa Asing\nKonteks: Beasiswa BLU Bagi Mahasiswa Asing\nAlias: BLU, Beasiswa BLU\nIntent: tanya_beasiswa\n\n### Beasiswa BLU Bagi Mahasiswa Asing\n\nBadan Layanan Umum (BLU) untuk Mahasiswa Asing (Beasiswa Rektor) dari BLU UIN Syarif Hidayatullah Jakarta\nBeasiswa Rektor dari Badan Layanan Umum (BLU) UIN Syarif Hidayatullah Jakarta adalah program yang ditujukan untuk mahasiswa asing sebagai bagian dari upaya internasionalisasi dan penguatan jaringan akademik global. Beasiswa ini mencakup pembebasan biaya pendidikan, tunjangan hidup, dan fasilitas asrama, serta dirancang untuk mendukung mahasiswa asing dalam studi mereka di UIN Jakarta. Program ini terbuka bagi mahasiswa dari negara-negara tertentu. Dengan tujuan meningkatkan keberagaman, pertukaran budaya, dan akses ke pendidikan berkualitas, beasiswa ini menawarkan kesempatan belajar di universitas Islam ternama di Indonesia sekaligus mengenal budaya dan masyarakat lokal secara mendalam. Adapun persyaratan jika ingin mendaftar Beasiswa Badan Layanan Umum (BLU) untuk Mahasiswa Asing (Beasiswa Rektor) dari BLU UIN Syarif Hidayatullah Jakarta, yaitu sebagai berikut.",
+    "content": "### Beasiswa BLU Bagi Mahasiswa Asing\n\nBadan Layanan Umum (BLU) untuk Mahasiswa Asing (Beasiswa Rektor) dari BLU UIN Syarif Hidayatullah Jakarta\nBeasiswa Rektor dari Badan Layanan Umum (BLU) UIN Syarif Hidayatullah Jakarta adalah program yang ditujukan untuk mahasiswa asing sebagai bagian dari upaya internasionalisasi dan penguatan jaringan akademik global. Beasiswa ini mencakup pembebasan biaya pendidikan, tunjangan hidup, dan fasilitas asrama, serta dirancang untuk mendukung mahasiswa asing dalam studi mereka di UIN Jakarta. Program ini terbuka bagi mahasiswa dari negara-negara tertentu. Dengan tujuan meningkatkan keberagaman, pertukaran budaya, dan akses ke pendidikan berkualitas, beasiswa ini menawarkan kesempatan belajar di universitas Islam ternama di Indonesia sekaligus mengenal budaya dan masyarakat lokal secara mendalam. Adapun persyaratan jika ingin mendaftar Beasiswa Badan Layanan Umum (BLU) untuk Mahasiswa Asing (Beasiswa Rektor) dari BLU UIN Syarif Hidayatullah Jakarta, yaitu sebagai berikut."
+  },
+  {
+    "id": "7082e98042badf954a5139298327adcc",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### A. Persyaratan Umum",
+    "parent_context": "Beasiswa BLU Bagi Mahasiswa Asing",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "A. Persyaratan Umum Beasiswa BLU Bagi Mahasiswa Asing",
+    "alias_topik": [
+      "syarat Beasiswa BLU Bagi Mahasiswa Asing",
+      "persyaratan Beasiswa BLU Bagi Mahasiswa Asing"
+    ],
+    "search_text": "Judul: A. Persyaratan Umum Beasiswa BLU Bagi Mahasiswa Asing\nKonteks: Beasiswa BLU Bagi Mahasiswa Asing\nAlias: syarat Beasiswa BLU Bagi Mahasiswa Asing, persyaratan Beasiswa BLU Bagi Mahasiswa Asing\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus.",
+    "content": "#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\nTidak terlibat aksi demo anarkis yang menolak kebijakan kampus."
+  },
+  {
+    "id": "2137c7e1611e5184d267b32f5e0ef602",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa BLU Bagi Mahasiswa Asing",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa BLU Bagi Mahasiswa Asing",
+    "alias_topik": [
+      "syarat Beasiswa BLU Bagi Mahasiswa Asing",
+      "persyaratan Beasiswa BLU Bagi Mahasiswa Asing"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa BLU Bagi Mahasiswa Asing\nKonteks: Beasiswa BLU Bagi Mahasiswa Asing\nAlias: syarat Beasiswa BLU Bagi Mahasiswa Asing, persyaratan Beasiswa BLU Bagi Mahasiswa Asing\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n1. Program Strata Satu (S1):\n- Warga Negara Asing (WNA)\n- Usia maksimal 25 tahun\n- Melampirkan Curriculum Vitae (CV)\n- Melengkapi dokumen\nBelum menikah dan tidak boleh menikah selama mendapat beasiswa.\n2. Program Strata Dua (S2)\n- Warga Negara Asing (WNA)\n- Usia maksimal 35 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen\n3. Program Strata Tiga (Doktor)\n- Warga Negara Asing (WNA)\n- Usia maksimal 48 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen.",
+    "content": "#### B. Persyaratan Khusus\n\n1. Program Strata Satu (S1):\n- Warga Negara Asing (WNA)\n- Usia maksimal 25 tahun\n- Melampirkan Curriculum Vitae (CV)\n- Melengkapi dokumen\nBelum menikah dan tidak boleh menikah selama mendapat beasiswa.\n2. Program Strata Dua (S2)\n- Warga Negara Asing (WNA)\n- Usia maksimal 35 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen\n3. Program Strata Tiga (Doktor)\n- Warga Negara Asing (WNA)\n- Usia maksimal 48 tahun\n- Lulusan dari lembaga pendidikan terakreditasi atau memiliki ijazah yang diakui di negara asal\nMelengkapi dan mengumpulkan dokumen."
+  },
+  {
+    "id": "1d27bbe0e08e918cf14831baab1d7b09",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa KIP (Kartu Indonesia Pintar)",
+    "parent_context": "Beasiswa KIP (Kartu Indonesia Pintar)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa KIP (Kartu Indonesia Pintar)",
+    "alias_topik": [
+      "beasiswa KIP Kuliah",
+      "Kartu Indonesia Pintar"
+    ],
+    "search_text": "Judul: Beasiswa KIP (Kartu Indonesia Pintar)\nKonteks: Beasiswa KIP (Kartu Indonesia Pintar)\nAlias: beasiswa KIP Kuliah, Kartu Indonesia Pintar\nIntent: tanya_beasiswa\n\n### Beasiswa KIP (Kartu Indonesia Pintar)\n\nBeasiswa KIP (Kartu Indonesia Pintar) Kuliah adalah bantuan biaya pendidikan yang diberikan oleh pemerintah Indonesia kepada lulusan SMA/SMK atau sederajat yang memiliki keterbatasan ekonomi namun memiliki potensi akademik yang baik untuk melanjutkan pendidikan ke perguruan tinggi",
+    "content": "### Beasiswa KIP (Kartu Indonesia Pintar)\n\nBeasiswa KIP (Kartu Indonesia Pintar) Kuliah adalah bantuan biaya pendidikan yang diberikan oleh pemerintah Indonesia kepada lulusan SMA/SMK atau sederajat yang memiliki keterbatasan ekonomi namun memiliki potensi akademik yang baik untuk melanjutkan pendidikan ke perguruan tinggi"
+  },
+  {
+    "id": "98b2fec2858d536482c6a42a8807e814",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### Persyaratan Pendaftaran",
+    "parent_context": "Beasiswa KIP (Kartu Indonesia Pintar)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "Persyaratan Pendaftaran Beasiswa KIP (Kartu Indonesia Pintar)",
+    "alias_topik": [
+      "syarat Beasiswa KIP (Kartu Indonesia Pintar)",
+      "persyaratan Beasiswa KIP (Kartu Indonesia Pintar)"
+    ],
+    "search_text": "Judul: Persyaratan Pendaftaran Beasiswa KIP (Kartu Indonesia Pintar)\nKonteks: Beasiswa KIP (Kartu Indonesia Pintar)\nAlias: syarat Beasiswa KIP (Kartu Indonesia Pintar), persyaratan Beasiswa KIP (Kartu Indonesia Pintar)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### Persyaratan Pendaftaran\n\nSudah terdaftar sebagai mahasiswa UIN Syarif Hidayatullah Jakarta, Tahun Akademik 2025/2026:\n- Mahasiswa baru lulusan MA/SMA/sederajat yang diterima Tahun akademik 2025\n- Dinyatakan dengan bukti masuk, berupa salinan surat Keputusan\nMemiliki kartu program bantuan nasional dalam bentuk:\nKartu Indonesia Pintar (KIP); atau\nKartu Jakarta Pintar (KJP); atau\nKartu Keluarga Sejahtera (KKS) untuk Program Keluarga Harapan (PKH)\nBagi mahasiswa yang tidak termasuk dalam kategori pada point b, maka masih tetap dapat mendaftar untuk mendapatkan KIP Kuliah, jika kuota penerima beasiswa belum terpenuhi dengan syarat:\nTidak mampu secara ekonomi yang dibuktikan dengan :\n- tergolong dalam kelompok UKT 1 s.d. 3\nMahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan dibuktikan dengan surat keterangan dari pimpinan sekolah asal",
+    "content": "#### Persyaratan Pendaftaran\n\nSudah terdaftar sebagai mahasiswa UIN Syarif Hidayatullah Jakarta, Tahun Akademik 2025/2026:\n- Mahasiswa baru lulusan MA/SMA/sederajat yang diterima Tahun akademik 2025\n- Dinyatakan dengan bukti masuk, berupa salinan surat Keputusan\nMemiliki kartu program bantuan nasional dalam bentuk:\nKartu Indonesia Pintar (KIP); atau\nKartu Jakarta Pintar (KJP); atau\nKartu Keluarga Sejahtera (KKS) untuk Program Keluarga Harapan (PKH)\nBagi mahasiswa yang tidak termasuk dalam kategori pada point b, maka masih tetap dapat mendaftar untuk mendapatkan KIP Kuliah, jika kuota penerima beasiswa belum terpenuhi dengan syarat:\nTidak mampu secara ekonomi yang dibuktikan dengan :\n- tergolong dalam kelompok UKT 1 s.d. 3\nMahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan dibuktikan dengan surat keterangan dari pimpinan sekolah asal"
+  },
+  {
+    "id": "e694e44d2c11480ec080968de552f759",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "## Mekanisme pendaftaran",
+    "parent_context": "Mekanisme pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_beasiswa"
+    ],
+    "topik": "Mekanisme pendaftaran",
+    "alias_topik": [
+      "cara daftar beasiswa",
+      "pendaftaran beasiswa"
+    ],
+    "search_text": "Judul: Mekanisme pendaftaran\nKonteks: Mekanisme pendaftaran\nAlias: cara daftar beasiswa, pendaftaran beasiswa\nIntent: tanya_prosedur_pendaftaran, tanya_beasiswa\n\n## Mekanisme pendaftaran\n\n- Lulus salah satu jalur masuk UIN Syarif Hidayatullah Jakarta\n- Mendaftar ulang dan mendapatkan NIM\n- Melakukan pendaftaran daring (online)\nVerifikasi berkas oleh Tim Pengelola Beasiswa\nInterview yang dilakukan oleh pengelola bagi:\n- pendaftar beasiswa yang memiliki kartu KIP, KJP, KKS untuk PKH\n- kelompok UKT 1, 2 dan 3\nmahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan\n- Pengumuman kelulusan",
+    "content": "## Mekanisme pendaftaran\n\n- Lulus salah satu jalur masuk UIN Syarif Hidayatullah Jakarta\n- Mendaftar ulang dan mendapatkan NIM\n- Melakukan pendaftaran daring (online)\nVerifikasi berkas oleh Tim Pengelola Beasiswa\nInterview yang dilakukan oleh pengelola bagi:\n- pendaftar beasiswa yang memiliki kartu KIP, KJP, KKS untuk PKH\n- kelompok UKT 1, 2 dan 3\nmahasiswa difabel yang mengalami cacat bawaan/akibat kecelakaan\n- Pengumuman kelulusan"
+  },
+  {
+    "id": "0cefbc9ede5bc8ea512b093c3dc1a193",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa LPDP",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa LPDP",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa LPDP",
+    "alias_topik": [
+      "LPDP"
+    ],
+    "search_text": "Judul: Beasiswa LPDP\nKonteks: Beasiswa Pascasarjana > Beasiswa LPDP\nAlias: LPDP\nIntent: tanya_beasiswa\n\n### Beasiswa LPDP\n\nBeasiswa LPDP adalah program beasiswa yang diselenggarakan oleh Lembaga Pengelola Dana Pendidikan (LPDP) di bawah Kementerian Keuangan. Beasiswa ini bertujuan untuk membiayai studi lanjut (magister atau doktoral) bagi putra-putri terbaik Indonesia di perguruan tinggi terbaik, baik di dalam maupun luar negeri.",
+    "content": "### Beasiswa LPDP\n\nBeasiswa LPDP adalah program beasiswa yang diselenggarakan oleh Lembaga Pengelola Dana Pendidikan (LPDP) di bawah Kementerian Keuangan. Beasiswa ini bertujuan untuk membiayai studi lanjut (magister atau doktoral) bagi putra-putri terbaik Indonesia di perguruan tinggi terbaik, baik di dalam maupun luar negeri."
+  },
+  {
+    "id": "ce5815c6a98f56d924ab5f01da46c65a",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Indonesia Bangkit (BIB)",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Indonesia Bangkit (BIB)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Indonesia Bangkit (BIB)",
+    "alias_topik": [
+      "BIB",
+      "Beasiswa Indonesia Bangkit"
+    ],
+    "search_text": "Judul: Beasiswa Indonesia Bangkit (BIB)\nKonteks: Beasiswa Pascasarjana > Beasiswa Indonesia Bangkit (BIB)\nAlias: BIB, Beasiswa Indonesia Bangkit\nIntent: tanya_beasiswa\n\n### Beasiswa Indonesia Bangkit (BIB)\n\nBeasiswa Indonesia Bangkit (BIB) adalah program beasiswa yang merupakan hasil kolaborasi antara Kementerian Agama (Kemenag) dan Lembaga Pengelola Dana Pendidikan (LPDP) Kementerian Keuangan. Beasiswa ini bertujuan untuk meningkatkan kualitas sumber daya manusia Indonesia, terutama dalam bidang pendidikan dan keagamaan, melalui program gelar dan non-gelar.",
+    "content": "### Beasiswa Indonesia Bangkit (BIB)\n\nBeasiswa Indonesia Bangkit (BIB) adalah program beasiswa yang merupakan hasil kolaborasi antara Kementerian Agama (Kemenag) dan Lembaga Pengelola Dana Pendidikan (LPDP) Kementerian Keuangan. Beasiswa ini bertujuan untuk meningkatkan kualitas sumber daya manusia Indonesia, terutama dalam bidang pendidikan dan keagamaan, melalui program gelar dan non-gelar."
+  },
+  {
+    "id": "abc661da790b917fe95c42158341d202",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Program Beasiswa Kemenag-LPDP",
+    "parent_context": "Beasiswa Pascasarjana > Program Beasiswa Kemenag-LPDP",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Program Beasiswa Kemenag-LPDP",
+    "alias_topik": [
+      "LPDP"
+    ],
+    "search_text": "Judul: Program Beasiswa Kemenag-LPDP\nKonteks: Beasiswa Pascasarjana > Program Beasiswa Kemenag-LPDP\nAlias: LPDP\nIntent: tanya_beasiswa\n\n### Program Beasiswa Kemenag-LPDP\n\nBeasiswa Indonesia Bangkit (BIB) merupakan program beasiswa kolaboratif antara Kementerian Agama dan Lembaga Pengelola Dana Pendidikan (LPDP) yang dibiayai melalui Dana Abadi Pendidikan. Dalam kerangka tata kelola, Kementerian Agama melalui Pusat Pembiayaan Pendidikan Agama dan Pendidikan Keagamaan (PUSPENMA) berperan sebagai pengelola program yang memastikan kesesuaian kebijakan, relevansi bidang studi, serta ketercapaian output dan outcome pengembangan SDM keagamaan. Sementara LPDP berperan dalam pengelolaan pendanaan, penjaminan kualitas, dan akuntabilitas keuangan sesuai dengan prinsip Dana Abadi Pendidikan. Sinergi ini menegaskan komitmen bersama terhadap pengelolaan beasiswa yang profesional, transparan, dan berkelanjutan",
+    "content": "### Program Beasiswa Kemenag-LPDP\n\nBeasiswa Indonesia Bangkit (BIB) merupakan program beasiswa kolaboratif antara Kementerian Agama dan Lembaga Pengelola Dana Pendidikan (LPDP) yang dibiayai melalui Dana Abadi Pendidikan. Dalam kerangka tata kelola, Kementerian Agama melalui Pusat Pembiayaan Pendidikan Agama dan Pendidikan Keagamaan (PUSPENMA) berperan sebagai pengelola program yang memastikan kesesuaian kebijakan, relevansi bidang studi, serta ketercapaian output dan outcome pengembangan SDM keagamaan. Sementara LPDP berperan dalam pengelolaan pendanaan, penjaminan kualitas, dan akuntabilitas keuangan sesuai dengan prinsip Dana Abadi Pendidikan. Sinergi ini menegaskan komitmen bersama terhadap pengelolaan beasiswa yang profesional, transparan, dan berkelanjutan"
+  },
+  {
+    "id": "fe630d8c8bdb9b7d3d32589621ce93dc",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Tentang Beasiswa Indonesia Bangkit",
+    "parent_context": "Beasiswa Pascasarjana > Tentang Beasiswa Indonesia Bangkit",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Tentang Beasiswa Indonesia Bangkit",
+    "alias_topik": [
+      "BIB",
+      "Beasiswa Indonesia Bangkit"
+    ],
+    "search_text": "Judul: Tentang Beasiswa Indonesia Bangkit\nKonteks: Beasiswa Pascasarjana > Tentang Beasiswa Indonesia Bangkit\nAlias: BIB, Beasiswa Indonesia Bangkit\nIntent: tanya_beasiswa\n\n### Tentang Beasiswa Indonesia Bangkit\n\nBeasiswa Indonesia Bangkit (BIB) merupakan skema beasiswa prestisius kolaborasi antara Kementerian Agama dan LPDP Kementerian Keuangan Republik Indonesia untuk masyarakat Indonesia yang ingin mengembangakan karier, pengalaman, dan jaringan kampus di dalam dan luar negeri. Melalui program gelar (degree program) maupun program non-gelar (non-degree program), Beasiswa Indonesia Bangkit berkomitmen untuk menyiapkan pemimpin, pendidik, dan profesional masa depan serta mendorong inovasi demi terwujudnya Indonesia yang rukun dan harmonis. Beasiswa Indonesia Bangkit terus bergerak menuju kualitas sumber daya manusia yang memiliki daya saing tinggi, bukan hanya pada skala lokal, namun juga skala regional bahkan internasional",
+    "content": "### Tentang Beasiswa Indonesia Bangkit\n\nBeasiswa Indonesia Bangkit (BIB) merupakan skema beasiswa prestisius kolaborasi antara Kementerian Agama dan LPDP Kementerian Keuangan Republik Indonesia untuk masyarakat Indonesia yang ingin mengembangakan karier, pengalaman, dan jaringan kampus di dalam dan luar negeri. Melalui program gelar (degree program) maupun program non-gelar (non-degree program), Beasiswa Indonesia Bangkit berkomitmen untuk menyiapkan pemimpin, pendidik, dan profesional masa depan serta mendorong inovasi demi terwujudnya Indonesia yang rukun dan harmonis. Beasiswa Indonesia Bangkit terus bergerak menuju kualitas sumber daya manusia yang memiliki daya saing tinggi, bukan hanya pada skala lokal, namun juga skala regional bahkan internasional"
+  },
+  {
+    "id": "8dfa2d4313510134fdfb8992e02e4158",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Sumber Eksternal",
+    "parent_context": "Beasiswa Pascasarjana > Sumber Eksternal",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Sumber Eksternal",
+    "alias_topik": [
+      "sumber Eksternal"
+    ],
+    "search_text": "Judul: Sumber Eksternal\nKonteks: Beasiswa Pascasarjana > Sumber Eksternal\nAlias: sumber Eksternal\nIntent: tanya_beasiswa\n\n### Sumber Eksternal\n\nSumber Eksternal, yaitu anggaran beasiswa yang dihasilkan dari mitra kerja sama dengan pihak luar. Beasiswa yang tersedia yaitu sebagai berikut:\n- Kartu Jakarta Mahasiswa Unggul (KJMU)\n- Karya Salemba Empat (KSE)\n- Badan Amil Zakat Nasional (Baznas)\n- Djarum Plus\n- Badan Riset Inovasi Nasional (BRIN)\n- Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) bersumber dari Kementerian Keuangan, dikelola oleh Kementerian Agama untuk S1, S2, dan S3\n- Yayasan Baitul Mal (YBM) PLN\n- Inovasi Teknologi (Inotek)",
+    "content": "### Sumber Eksternal\n\nSumber Eksternal, yaitu anggaran beasiswa yang dihasilkan dari mitra kerja sama dengan pihak luar. Beasiswa yang tersedia yaitu sebagai berikut:\n- Kartu Jakarta Mahasiswa Unggul (KJMU)\n- Karya Salemba Empat (KSE)\n- Badan Amil Zakat Nasional (Baznas)\n- Djarum Plus\n- Badan Riset Inovasi Nasional (BRIN)\n- Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) bersumber dari Kementerian Keuangan, dikelola oleh Kementerian Agama untuk S1, S2, dan S3\n- Yayasan Baitul Mal (YBM) PLN\n- Inovasi Teknologi (Inotek)"
+  },
+  {
+    "id": "2b670145a377ffeadc5d16409292308a",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Kartu Jakarta Mahasiswa Unggul (KJMU);",
+    "parent_context": "Beasiswa Pascasarjana > Kartu Jakarta Mahasiswa Unggul (KJMU);",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Kartu Jakarta Mahasiswa Unggul (KJMU);",
+    "alias_topik": [],
+    "search_text": "Judul: Kartu Jakarta Mahasiswa Unggul (KJMU);\nKonteks: Beasiswa Pascasarjana > Kartu Jakarta Mahasiswa Unggul (KJMU);\n\nIntent: tanya_beasiswa\n\n### Kartu Jakarta Mahasiswa Unggul (KJMU);\n\nKartu Jakarta Mahasiswa Unggul (KJMU) adalah program bantuan pendidikan yang diselenggarakan oleh Pemerintah Provinsi DKI Jakarta melalui Dinas Pendidikan. Beasiswa ini ditujukan bagi mahasiswa dari keluarga kurang mampu (pemegang Kartu Keluarga Sejahtera/KKS) yang terdaftar sebagai penduduk DKI Jakarta. Program ini bertujuan untuk meningkatkan akses pendidikan tinggi bagi mahasiswa berprestasi, sekaligus mendorong peningkatan kualitas sumber daya manusia di Jakarta. Hingga saat ini jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 163 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Kartu Jakarta Mahasiswa Unggul (KJMU);\n\nKartu Jakarta Mahasiswa Unggul (KJMU) adalah program bantuan pendidikan yang diselenggarakan oleh Pemerintah Provinsi DKI Jakarta melalui Dinas Pendidikan. Beasiswa ini ditujukan bagi mahasiswa dari keluarga kurang mampu (pemegang Kartu Keluarga Sejahtera/KKS) yang terdaftar sebagai penduduk DKI Jakarta. Program ini bertujuan untuk meningkatkan akses pendidikan tinggi bagi mahasiswa berprestasi, sekaligus mendorong peningkatan kualitas sumber daya manusia di Jakarta. Hingga saat ini jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 163 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "27666298d3a80803da4e516baf22f88f",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Kartu Jakarta Mahasiswa Unggul (KJMU);",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Kartu Jakarta Mahasiswa Unggul (KJMU);",
+    "alias_topik": [
+      "syarat Kartu Jakarta Mahasiswa Unggul (KJMU);",
+      "persyaratan Kartu Jakarta Mahasiswa Unggul (KJMU);"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Kartu Jakarta Mahasiswa Unggul (KJMU);\nKonteks: Beasiswa Pascasarjana > Kartu Jakarta Mahasiswa Unggul (KJMU);\nAlias: syarat Kartu Jakarta Mahasiswa Unggul (KJMU);, persyaratan Kartu Jakarta Mahasiswa Unggul (KJMU);\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Dinyatakan lulus dari pendidikan menengah pada satuan pendidikan negeri/swasta di DKI Jakarta paling lama 3 tahun sebelumnya\n- Dinyatakan lulus pada PTN jalur reguler di bawah naungan Kementerian Pendidikan dan Kebudayaan Riset dan Teknologi (Kemendikbudristek) dan Kementerian Agama (Kemenag)\nBagi calon penerima KJMU yang sudah berstatus sebagai mahasiswa, ada ketentuan tambahan persyaratan khusus, yakni pengajuan sebagai calon penerima baru KJMU maksimal hingga semester 4 (tidak diperkenankan bagi mahasiswa lanjutan lebih dari semester 4).",
+    "content": "#### B. Persyaratan Khusus\n\n- Dinyatakan lulus dari pendidikan menengah pada satuan pendidikan negeri/swasta di DKI Jakarta paling lama 3 tahun sebelumnya\n- Dinyatakan lulus pada PTN jalur reguler di bawah naungan Kementerian Pendidikan dan Kebudayaan Riset dan Teknologi (Kemendikbudristek) dan Kementerian Agama (Kemenag)\nBagi calon penerima KJMU yang sudah berstatus sebagai mahasiswa, ada ketentuan tambahan persyaratan khusus, yakni pengajuan sebagai calon penerima baru KJMU maksimal hingga semester 4 (tidak diperkenankan bagi mahasiswa lanjutan lebih dari semester 4)."
+  },
+  {
+    "id": "fe17d3726ff55075dc2700475ebf36a6",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Karya Salemba Empat (KSE)",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Karya Salemba Empat (KSE)",
+    "alias_topik": [
+      "KSE",
+      "Karya Salemba Empat"
+    ],
+    "search_text": "Judul: Beasiswa Karya Salemba Empat (KSE)\nKonteks: Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)\nAlias: KSE, Karya Salemba Empat\nIntent: tanya_beasiswa\n\n### Beasiswa Karya Salemba Empat (KSE)\n\nBeasiswa Karya Salemba Empat (KSE) adalah program beasiswa yang diselenggarakan oleh Yayasan Karya Salemba Empat, sebuah lembaga nonprofit yang berdiri sejak tahun 1998. Yayasan ini bertujuan untuk meningkatkan akses pendidikan tinggi bagi mahasiswa berprestasi yang berasal dari keluarga dengan keterbatasan ekonomi. KSE menjalin kerja sama dengan berbagai institusi pendidikan, perusahaan, dan mitra lainnya untuk mendukung pengembangan sumber daya manusia yang berkualitas di Indonesia. Program Beasiswa KSE tidak hanya memberikan bantuan finansial, tetapi juga berbagai program pengembangan diri, seperti pelatihan kepemimpinan, mentoring, networking, dan kegiatan sosial yang dirancang untuk mendukung keberhasilan akademik dan profesional penerima beasiswa. Hingga saat ini, jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 66 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Beasiswa Karya Salemba Empat (KSE)\n\nBeasiswa Karya Salemba Empat (KSE) adalah program beasiswa yang diselenggarakan oleh Yayasan Karya Salemba Empat, sebuah lembaga nonprofit yang berdiri sejak tahun 1998. Yayasan ini bertujuan untuk meningkatkan akses pendidikan tinggi bagi mahasiswa berprestasi yang berasal dari keluarga dengan keterbatasan ekonomi. KSE menjalin kerja sama dengan berbagai institusi pendidikan, perusahaan, dan mitra lainnya untuk mendukung pengembangan sumber daya manusia yang berkualitas di Indonesia. Program Beasiswa KSE tidak hanya memberikan bantuan finansial, tetapi juga berbagai program pengembangan diri, seperti pelatihan kepemimpinan, mentoring, networking, dan kegiatan sosial yang dirancang untuk mendukung keberhasilan akademik dan profesional penerima beasiswa. Hingga saat ini, jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 66 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "fe9aa507a44c08bef308c3d640cb9ad1",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### A. Persyaratan Umum",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "A. Persyaratan Umum Beasiswa Karya Salemba Empat (KSE)",
+    "alias_topik": [
+      "syarat Beasiswa Karya Salemba Empat (KSE)",
+      "persyaratan Beasiswa Karya Salemba Empat (KSE)"
+    ],
+    "search_text": "Judul: A. Persyaratan Umum Beasiswa Karya Salemba Empat (KSE)\nKonteks: Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)\nAlias: syarat Beasiswa Karya Salemba Empat (KSE), persyaratan Beasiswa Karya Salemba Empat (KSE)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\n- Tidak terlibat aksi demo anarkis yang menolak kebijakan kampus.",
+    "content": "#### A. Persyaratan Umum\n\n- Terdaftar sebagai mahasiswa aktif UIN Syarif Hidayatullah Jakarta\n- Bersedia mematuhi segala ketentuan yang berlaku bagi mahasiswa penerima beasiswa\n- Tidak pernah melakukan pelanggaran Kode Etik Mahasiswa UIN Syarif Hidayatullah Jakarta\n- Melakukan pendaftaran online dibuktikan dengan bukti daftar online\n- Tidak terlibat aksi demo anarkis yang menolak kebijakan kampus."
+  },
+  {
+    "id": "b7563c5027c4a88fe66388a5497730b7",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Karya Salemba Empat (KSE)",
+    "alias_topik": [
+      "syarat Beasiswa Karya Salemba Empat (KSE)",
+      "persyaratan Beasiswa Karya Salemba Empat (KSE)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Karya Salemba Empat (KSE)\nKonteks: Beasiswa Pascasarjana > Beasiswa Karya Salemba Empat (KSE)\nAlias: syarat Beasiswa Karya Salemba Empat (KSE), persyaratan Beasiswa Karya Salemba Empat (KSE)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Mahasiswa yang bersangkutan belum menikah\n- Mahasiswa yang bersangkutan tidak sedang menerima beasiswa dari fakultas, universitas, lembaga atau pihak ketiga lain\n- Beasiswa diberikan dalam bentuk tunjangan biaya hidup sebesar Rp 750.000 (tujuh ratus lima puluh ribu rupiah) per bulan nya\n- Beasiswa ini diberikan tanpa ikatan kedinasan atau apapun terhadap mahasiswa penerima maupun pihak kampus.",
+    "content": "#### B. Persyaratan Khusus\n\n- Mahasiswa yang bersangkutan belum menikah\n- Mahasiswa yang bersangkutan tidak sedang menerima beasiswa dari fakultas, universitas, lembaga atau pihak ketiga lain\n- Beasiswa diberikan dalam bentuk tunjangan biaya hidup sebesar Rp 750.000 (tujuh ratus lima puluh ribu rupiah) per bulan nya\n- Beasiswa ini diberikan tanpa ikatan kedinasan atau apapun terhadap mahasiswa penerima maupun pihak kampus."
+  },
+  {
+    "id": "c99b47b65f00ba124c4d88a65f63a2bd",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Badan Amil Zakat Nasional (Baznas)",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Badan Amil Zakat Nasional (Baznas)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Badan Amil Zakat Nasional (Baznas)",
+    "alias_topik": [
+      "BAZNAS",
+      "Badan Amil Zakat Nasional"
+    ],
+    "search_text": "Judul: Beasiswa Badan Amil Zakat Nasional (Baznas)\nKonteks: Beasiswa Pascasarjana > Beasiswa Badan Amil Zakat Nasional (Baznas)\nAlias: BAZNAS, Badan Amil Zakat Nasional\nIntent: tanya_beasiswa\n\n### Beasiswa Badan Amil Zakat Nasional (Baznas)\n\nBeasiswa BAZNAS UIN Jakarta adalah program beasiswa yang diberikan kepada mahasiswa UIN Jakarta untuk membantu meringankan beban biaya pendidikan bagi mereka yang membutuhkan. Beasiswa ini bertujuan untuk mendukung mahasiswa yang memiliki potensi akademik, namun terkendala oleh kondisi ekonomi. Penerima beasiswa mendapatkan bantuan biaya kuliah, biaya hidup, serta kesempatan untuk mengikuti pelatihan dan program pengembangan diri. Selain itu, beasiswa ini juga memberikan dukungan moral dan motivasi, membuka akses ke jaringan yang luas, serta kesempatan untuk mengembangkan karier melalui interaksi dengan alumni, dosen, dan lembaga terkait. Beasiswa ini memberi mahasiswa kesempatan untuk fokus pada studi tanpa khawatir soal biaya, sehingga mereka dapat mencapai potensi terbaik mereka. Hingga saat ini jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 20 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Beasiswa Badan Amil Zakat Nasional (Baznas)\n\nBeasiswa BAZNAS UIN Jakarta adalah program beasiswa yang diberikan kepada mahasiswa UIN Jakarta untuk membantu meringankan beban biaya pendidikan bagi mereka yang membutuhkan. Beasiswa ini bertujuan untuk mendukung mahasiswa yang memiliki potensi akademik, namun terkendala oleh kondisi ekonomi. Penerima beasiswa mendapatkan bantuan biaya kuliah, biaya hidup, serta kesempatan untuk mengikuti pelatihan dan program pengembangan diri. Selain itu, beasiswa ini juga memberikan dukungan moral dan motivasi, membuka akses ke jaringan yang luas, serta kesempatan untuk mengembangkan karier melalui interaksi dengan alumni, dosen, dan lembaga terkait. Beasiswa ini memberi mahasiswa kesempatan untuk fokus pada studi tanpa khawatir soal biaya, sehingga mereka dapat mencapai potensi terbaik mereka. Hingga saat ini jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 20 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "637dbb58660a22643f68332a271d75b3",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Badan Amil Zakat Nasional (Baznas)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Badan Amil Zakat Nasional (Baznas)",
+    "alias_topik": [
+      "syarat Beasiswa Badan Amil Zakat Nasional (Baznas)",
+      "persyaratan Beasiswa Badan Amil Zakat Nasional (Baznas)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Badan Amil Zakat Nasional (Baznas)\nKonteks: Beasiswa Pascasarjana > Beasiswa Badan Amil Zakat Nasional (Baznas)\nAlias: syarat Beasiswa Badan Amil Zakat Nasional (Baznas), persyaratan Beasiswa Badan Amil Zakat Nasional (Baznas)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Mahasiswa S1/D4 semester 5 program reguler\n- IPK minimal 3,00 (skala 4,00)\n- Tidak sedang mendapat beasiswa serupa dari instansi lain\nMelengkapi dokumen pendaftaran\nMemenuhi salah satu kategori beasiswa, yaitu:\n- Jurusan prioritas: komputer, profesi (kedokteran, psikologi, keperawatan, farmasi), teknik, akuntansi, statistika, manajemen zakat dan wakaf, komunikasi, ekonomi, dan pendidikan\n- Prestasi: Memiliki prestasi nasional dan/atau internasional (lebih direkomendasikan yang telah tercatat di Pusat Prestasi Nasional (Puspresnas) Kemdikbudristek\n- Wirausaha: Memiliki usaha pribadi yang sudah berjalan minimal 6 bulan\nAktivis: Menjadi pengurus organisasi kemahasiswaan minimal tingkat jurusan atau organisasi kepemudaan/masyarakat.",
+    "content": "#### B. Persyaratan Khusus\n\n- Mahasiswa S1/D4 semester 5 program reguler\n- IPK minimal 3,00 (skala 4,00)\n- Tidak sedang mendapat beasiswa serupa dari instansi lain\nMelengkapi dokumen pendaftaran\nMemenuhi salah satu kategori beasiswa, yaitu:\n- Jurusan prioritas: komputer, profesi (kedokteran, psikologi, keperawatan, farmasi), teknik, akuntansi, statistika, manajemen zakat dan wakaf, komunikasi, ekonomi, dan pendidikan\n- Prestasi: Memiliki prestasi nasional dan/atau internasional (lebih direkomendasikan yang telah tercatat di Pusat Prestasi Nasional (Puspresnas) Kemdikbudristek\n- Wirausaha: Memiliki usaha pribadi yang sudah berjalan minimal 6 bulan\nAktivis: Menjadi pengurus organisasi kemahasiswaan minimal tingkat jurusan atau organisasi kepemudaan/masyarakat."
+  },
+  {
+    "id": "ffa0584368985006d8d7ccccd3a37302",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Djarum Plus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Djarum Plus",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Djarum Plus",
+    "alias_topik": [],
+    "search_text": "Judul: Beasiswa Djarum Plus\nKonteks: Beasiswa Pascasarjana > Beasiswa Djarum Plus\n\nIntent: tanya_beasiswa\n\n### Beasiswa Djarum Plus\n\nBeasiswa Djarum Plus UIN Jakarta adalah program beasiswa yang diselenggarakan oleh Yayasan Djarum untuk membantu mahasiswa berprestasi di UIN Jakarta yang membutuhkan dukungan finansial. Program ini ditujukan bagi mahasiswa yang memiliki prestasi akademik yang tinggi, aktif dalam kegiatan non-akademik, dan terlibat dalam kegiatan sosial atau organisasi. Beasiswa ini memberikan bantuan biaya pendidikan, biaya hidup, serta kesempatan untuk mengikuti berbagai program pelatihan dan pengembangan diri yang diselenggarakan oleh Yayasan Djarum. Selain itu, penerima beasiswa juga mendapatkan akses ke jaringan profesional yang luas, membuka peluang untuk pengembangan karier di masa depan, serta mendapatkan penghargaan atas prestasi mereka, baik di bidang akademik maupun non-akademik. Beasiswa ini tidak hanya meringankan beban finansial, tetapi juga memotivasi mahasiswa untuk terus berprestasi dan mengembangkan diri dalam berbagai aspek kehidupan. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Beasiswa Djarum Plus\n\nBeasiswa Djarum Plus UIN Jakarta adalah program beasiswa yang diselenggarakan oleh Yayasan Djarum untuk membantu mahasiswa berprestasi di UIN Jakarta yang membutuhkan dukungan finansial. Program ini ditujukan bagi mahasiswa yang memiliki prestasi akademik yang tinggi, aktif dalam kegiatan non-akademik, dan terlibat dalam kegiatan sosial atau organisasi. Beasiswa ini memberikan bantuan biaya pendidikan, biaya hidup, serta kesempatan untuk mengikuti berbagai program pelatihan dan pengembangan diri yang diselenggarakan oleh Yayasan Djarum. Selain itu, penerima beasiswa juga mendapatkan akses ke jaringan profesional yang luas, membuka peluang untuk pengembangan karier di masa depan, serta mendapatkan penghargaan atas prestasi mereka, baik di bidang akademik maupun non-akademik. Beasiswa ini tidak hanya meringankan beban finansial, tetapi juga memotivasi mahasiswa untuk terus berprestasi dan mengembangkan diri dalam berbagai aspek kehidupan. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "ebeadda016ead6d3432e970c9935fd52",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Djarum Plus",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Djarum Plus",
+    "alias_topik": [
+      "syarat Beasiswa Djarum Plus",
+      "persyaratan Beasiswa Djarum Plus"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Djarum Plus\nKonteks: Beasiswa Pascasarjana > Beasiswa Djarum Plus\nAlias: syarat Beasiswa Djarum Plus, persyaratan Beasiswa Djarum Plus\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Sedang menempuh pendidikan Strata 1/Diploma 4 di semester IV, dari semua disiplin ilmu\n- IPK minimum 3.00 pada semester III, serta dapat mempertahankan IPK minimum 3.00 hingga akhir semester IV\n- Aktif mengikuti kegiatan organisasi, baik di dalam maupun luar kampus\nTidak sedang menerima beasiswa dari pihak lain.",
+    "content": "#### B. Persyaratan Khusus\n\n- Sedang menempuh pendidikan Strata 1/Diploma 4 di semester IV, dari semua disiplin ilmu\n- IPK minimum 3.00 pada semester III, serta dapat mempertahankan IPK minimum 3.00 hingga akhir semester IV\n- Aktif mengikuti kegiatan organisasi, baik di dalam maupun luar kampus\nTidak sedang menerima beasiswa dari pihak lain."
+  },
+  {
+    "id": "a8ae2e5484b8ac4844369cc4449326cd",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+    "alias_topik": [
+      "BRIN"
+    ],
+    "search_text": "Judul: Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nKonteks: Beasiswa Pascasarjana > Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nAlias: BRIN\nIntent: tanya_beasiswa\n\n### Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\n\nBeasiswa Badan Riset dan Inovasi Nasional (BRIN) UIN Jakarta adalah program yang bertujuan mendukung penelitian dan pengembangan inovasi di lingkungan akademik, khususnya di UIN Jakarta. Beasiswa ini diberikan kepada mahasiswa dan peneliti yang memiliki potensi untuk menghasilkan karya ilmiah yang dapat berkontribusi pada kemajuan ilmu pengetahuan dan teknologi. Manfaat utama dari beasiswa ini meliputi pendanaan untuk riset, pelatihan pengembangan keterampilan, serta kesempatan untuk berkolaborasi dengan institusi riset ternama. Selain itu, penerima beasiswa juga akan mendapatkan akses ke jaringan riset BRIN yang luas, yang dapat membuka peluang untuk pengembangan karir di bidang riset dan inovasi. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\n\nBeasiswa Badan Riset dan Inovasi Nasional (BRIN) UIN Jakarta adalah program yang bertujuan mendukung penelitian dan pengembangan inovasi di lingkungan akademik, khususnya di UIN Jakarta. Beasiswa ini diberikan kepada mahasiswa dan peneliti yang memiliki potensi untuk menghasilkan karya ilmiah yang dapat berkontribusi pada kemajuan ilmu pengetahuan dan teknologi. Manfaat utama dari beasiswa ini meliputi pendanaan untuk riset, pelatihan pengembangan keterampilan, serta kesempatan untuk berkolaborasi dengan institusi riset ternama. Selain itu, penerima beasiswa juga akan mendapatkan akses ke jaringan riset BRIN yang luas, yang dapat membuka peluang untuk pengembangan karir di bidang riset dan inovasi. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "576e997103e96468b6ff6dd3c3f9acdb",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+    "alias_topik": [
+      "syarat Beasiswa Badan Riset dan Inovasi Nasional (BRIN)",
+      "persyaratan Beasiswa Badan Riset dan Inovasi Nasional (BRIN)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nKonteks: Beasiswa Pascasarjana > Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nAlias: syarat Beasiswa Badan Riset dan Inovasi Nasional (BRIN), persyaratan Beasiswa Badan Riset dan Inovasi Nasional (BRIN)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\nMahasiswa aktif yang sedang menyelesaikan tugas akhir (skripsi).\nIPK minimal 3,35 dari skala 4,00.\nWarga Negara Indonesia (WNI).\nBersedia melakukan riset dengan tema yang ditetapkan.",
+    "content": "#### B. Persyaratan Khusus\n\nMahasiswa aktif yang sedang menyelesaikan tugas akhir (skripsi).\nIPK minimal 3,35 dari skala 4,00.\nWarga Negara Indonesia (WNI).\nBersedia melakukan riset dengan tema yang ditetapkan."
+  },
+  {
+    "id": "7c1b024fb909b984e6413a0eceff3d3b",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+    "alias_topik": [
+      "Inotek"
+    ],
+    "search_text": "Judul: Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nKonteks: Beasiswa Pascasarjana > Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nAlias: Inotek\nIntent: tanya_beasiswa\n\n### Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\n\nBeasiswa Yayasan Inovasi Teknologi Indonesia (Inotek) UIN Jakarta adalah program yang dirancang untuk mendukung mahasiswa yang memiliki minat dan bakat dalam bidang teknologi dan inovasi. Beasiswa ini bertujuan untuk mendorong pengembangan riset serta aplikasi teknologi yang dapat memberikan dampak positif bagi masyarakat. Penerima beasiswa akan mendapatkan bantuan dana pendidikan, peluang untuk mengikuti pelatihan dan seminar terkait teknologi, serta bimbingan dari para ahli di bidang inovasi. Selain itu, mereka juga memiliki kesempatan untuk berkolaborasi dengan industri dan lembaga riset dalam mengembangkan proyek teknologi yang dapat meningkatkan kemampuan dan kompetensi di dunia profesional. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\n\nBeasiswa Yayasan Inovasi Teknologi Indonesia (Inotek) UIN Jakarta adalah program yang dirancang untuk mendukung mahasiswa yang memiliki minat dan bakat dalam bidang teknologi dan inovasi. Beasiswa ini bertujuan untuk mendorong pengembangan riset serta aplikasi teknologi yang dapat memberikan dampak positif bagi masyarakat. Penerima beasiswa akan mendapatkan bantuan dana pendidikan, peluang untuk mengikuti pelatihan dan seminar terkait teknologi, serta bimbingan dari para ahli di bidang inovasi. Selain itu, mereka juga memiliki kesempatan untuk berkolaborasi dengan industri dan lembaga riset dalam mengembangkan proyek teknologi yang dapat meningkatkan kemampuan dan kompetensi di dunia profesional. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "371752eaf8a591570714ee286a89d41e",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+    "alias_topik": [
+      "syarat Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)",
+      "persyaratan Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nKonteks: Beasiswa Pascasarjana > Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nAlias: syarat Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek), persyaratan Beasiswa Yayasan Inovasi Teknologi Indonesia (Inotek)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\nKelayakan Akademik: Pelamar dari jenjang SMA/SMK sederajat (kelas 12) atau mahasiswa minimal semester 2 dari semua jurusan.\nKomitmen tidak menikah selama mengikuti program dan bersedia mengikuti program hingga selesai.\nDokumen Pendukung: Pas foto 4x6, salinan kartu pelajar/mahasiswa, rapor semester 1-5, surat pernyataan bermaterai, surat izin orang tua bermaterai, slip gaji orang tua, dan sertifikat pendukung.",
+    "content": "#### B. Persyaratan Khusus\n\nKelayakan Akademik: Pelamar dari jenjang SMA/SMK sederajat (kelas 12) atau mahasiswa minimal semester 2 dari semua jurusan.\nKomitmen tidak menikah selama mengikuti program dan bersedia mengikuti program hingga selesai.\nDokumen Pendukung: Pas foto 4x6, salinan kartu pelajar/mahasiswa, rapor semester 1-5, surat pernyataan bermaterai, surat izin orang tua bermaterai, slip gaji orang tua, dan sertifikat pendukung."
+  },
+  {
+    "id": "2b5dcda647b7bb3e6fe87f660039fff0",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+    "alias_topik": [
+      "BIB",
+      "Beasiswa Indonesia Bangkit",
+      "LPDP"
+    ],
+    "search_text": "Judul: Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nKonteks: Beasiswa Pascasarjana > Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nAlias: BIB, Beasiswa Indonesia Bangkit, LPDP\nIntent: tanya_beasiswa\n\n### Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\n\nBeasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) adalah program beasiswa yang merupakan kerja sama antara Kementerian Agama (Kemenag) dan Lembaga Pengelola Dana Pendidikan (LPDP) Kementerian Keuangan (Kemenkeu). Program ini ditujukan untuk mendukung pendidikan tinggi bagi mahasiswa Indonesia, khususnya yang ingin melanjutkan studi di dalam negeri maupun luar negeri dalam berbagai bidang. LPDP BIB memberikan kesempatan kepada penerimanya untuk mengakses pendanaan penuh untuk biaya pendidikan, tunjangan hidup, serta kesempatan untuk mengembangkan kemampuan akademik dan profesional. Beasiswa ini bertujuan untuk mencetak generasi yang dapat memberikan kontribusi signifikan terhadap pembangunan bangsa dan memperkuat sektor agama, sosial, dan ekonomi di Indonesia. Hingga saat ini jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 109 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\n\nBeasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) adalah program beasiswa yang merupakan kerja sama antara Kementerian Agama (Kemenag) dan Lembaga Pengelola Dana Pendidikan (LPDP) Kementerian Keuangan (Kemenkeu). Program ini ditujukan untuk mendukung pendidikan tinggi bagi mahasiswa Indonesia, khususnya yang ingin melanjutkan studi di dalam negeri maupun luar negeri dalam berbagai bidang. LPDP BIB memberikan kesempatan kepada penerimanya untuk mengakses pendanaan penuh untuk biaya pendidikan, tunjangan hidup, serta kesempatan untuk mengembangkan kemampuan akademik dan profesional. Beasiswa ini bertujuan untuk mencetak generasi yang dapat memberikan kontribusi signifikan terhadap pembangunan bangsa dan memperkuat sektor agama, sosial, dan ekonomi di Indonesia. Hingga saat ini jumlah penerima beasiswa ini di UIN Jakarta yaitu sebanyak 109 mahasiswa. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "197d5c58c0d5ff6ef7964d35e3096b16",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+    "alias_topik": [
+      "syarat Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)",
+      "persyaratan Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nKonteks: Beasiswa Pascasarjana > Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nAlias: syarat Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu), persyaratan Beasiswa Lembaga Pengelola Dana Pendidikan Beasiswa Indonesia Bangkit (LPDP BIB) kerja sama antara Kementerian Agama (Kemenag) dan LPDP Kementerian Keuangan (Kemenkeu)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\n- Warga Negara Indonesia (WNI)\n- Bagi pendaftar jenjang Sarjana (S1) harus memiliki ijazah pada jenjang pendidikan menengah keagamaan, seperti MA, MAK, Pendidikan Diniyah Formal, Pendidikan Mu'adalah, Pendidikan Kesetaraan pada Pesantren Salafiyah, dan SMA/SMK pada pondok pesantren\n- Pendaftar jenjang Magister (S2) harus memiliki Ijazah S1 atau D4 beserta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri, wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.00\n- Pendaftar jenjang Doktor (S3) harus memiliki ijazah S2 serta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.25\n- Pendaftar jenjang Doktor (S3) harus berstatus sebagai Dosen Perguruan Tinggi Keagamaan (PTK), Dosen PAI pada Perguruan Tinggi Umum, guru atau pegawai di lingkungan Kementerian Agama yang dibuktikan dengan Kartu NUPTK/NPK\n- Tidak sedang menerima beasiswa lainnya\n- Beasiswa diperuntukkan untuk mahasiswa kelas reguler\n- Melampirkan Surat Pernyataan Pendaftar Beasiswa di atas materai Rp 10.000 yang telah ditandatangani\n- Tidak sedang menempuh pendidikan atau sudah lulus dari program S1/S2/S3\n- Membuat essai yang menjelaskan profil, motivasi, dan rencana kontribusi terhadap masyarakat dengan ketentuan 1000-1500 kata dalam bahasa Indonesia bagi jenjang S1\n- Membuat essai yang menjelaskan pemilihan program studi, topik yang akan ditulis dalam tesis, rencana studi dari awal hingga selesai dan aktivitas yang dilakukan di luar akademik. Dituliskan dalam bahasa Indonesia dengan kriteria 1500-2000 kata untuk jenjang S2\nMembuat essai yang berisi tentang rencana penelitian disertasi minimal 3 halaman dan maksimal 5 halaman bagi jenjang S3. Ditulis dalam bahasa Indonesia/Inggris/Arab bagi pendaftar S3 luar negeri.",
+    "content": "#### B. Persyaratan Khusus\n\n- Warga Negara Indonesia (WNI)\n- Bagi pendaftar jenjang Sarjana (S1) harus memiliki ijazah pada jenjang pendidikan menengah keagamaan, seperti MA, MAK, Pendidikan Diniyah Formal, Pendidikan Mu'adalah, Pendidikan Kesetaraan pada Pesantren Salafiyah, dan SMA/SMK pada pondok pesantren\n- Pendaftar jenjang Magister (S2) harus memiliki Ijazah S1 atau D4 beserta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri, wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.00\n- Pendaftar jenjang Doktor (S3) harus memiliki ijazah S2 serta transkrip nilai dari perguruan tinggi terakreditasi. Bila lulus dari kampus luar negeri wajib melampirkan hasil penyetaraan ijazah dengan minimal IPK 3.25\n- Pendaftar jenjang Doktor (S3) harus berstatus sebagai Dosen Perguruan Tinggi Keagamaan (PTK), Dosen PAI pada Perguruan Tinggi Umum, guru atau pegawai di lingkungan Kementerian Agama yang dibuktikan dengan Kartu NUPTK/NPK\n- Tidak sedang menerima beasiswa lainnya\n- Beasiswa diperuntukkan untuk mahasiswa kelas reguler\n- Melampirkan Surat Pernyataan Pendaftar Beasiswa di atas materai Rp 10.000 yang telah ditandatangani\n- Tidak sedang menempuh pendidikan atau sudah lulus dari program S1/S2/S3\n- Membuat essai yang menjelaskan profil, motivasi, dan rencana kontribusi terhadap masyarakat dengan ketentuan 1000-1500 kata dalam bahasa Indonesia bagi jenjang S1\n- Membuat essai yang menjelaskan pemilihan program studi, topik yang akan ditulis dalam tesis, rencana studi dari awal hingga selesai dan aktivitas yang dilakukan di luar akademik. Dituliskan dalam bahasa Indonesia dengan kriteria 1500-2000 kata untuk jenjang S2\nMembuat essai yang berisi tentang rencana penelitian disertasi minimal 3 halaman dan maksimal 5 halaman bagi jenjang S3. Ditulis dalam bahasa Indonesia/Inggris/Arab bagi pendaftar S3 luar negeri."
+  },
+  {
+    "id": "d29fa3d3dc0ad7e1f3923f45dccd01c2",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Beasiswa Pendidikan Indonesia (BPI)",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Pendidikan Indonesia (BPI)",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa Pendidikan Indonesia (BPI)",
+    "alias_topik": [
+      "BPI",
+      "Beasiswa Pendidikan Indonesia"
+    ],
+    "search_text": "Judul: Beasiswa Pendidikan Indonesia (BPI)\nKonteks: Beasiswa Pascasarjana > Beasiswa Pendidikan Indonesia (BPI)\nAlias: BPI, Beasiswa Pendidikan Indonesia\nIntent: tanya_beasiswa\n\n### Beasiswa Pendidikan Indonesia (BPI)\n\nBeasiswa Pendidikan Indonesia (BPI) UIN Jakarta adalah program beasiswa yang diberikan untuk mendukung mahasiswa berprestasi dalam melanjutkan studi di jenjang pendidikan tinggi di UIN Jakarta. Program ini bertujuan untuk meringankan beban biaya pendidikan bagi mahasiswa yang memiliki potensi akademik tinggi, namun terbatas secara finansial. Beasiswa ini mencakup bantuan biaya kuliah, tunjangan hidup, dan fasilitas pendukung lainnya yang dapat membantu penerima fokus pada studi mereka. Selain itu, BPI juga memberikan kesempatan untuk mengembangkan kemampuan di luar akademik melalui berbagai kegiatan pengembangan diri dan pelatihan, guna mempersiapkan mereka menjadi pemimpin yang berkualitas dan bermanfaat bagi masyarakat. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:",
+    "content": "### Beasiswa Pendidikan Indonesia (BPI)\n\nBeasiswa Pendidikan Indonesia (BPI) UIN Jakarta adalah program beasiswa yang diberikan untuk mendukung mahasiswa berprestasi dalam melanjutkan studi di jenjang pendidikan tinggi di UIN Jakarta. Program ini bertujuan untuk meringankan beban biaya pendidikan bagi mahasiswa yang memiliki potensi akademik tinggi, namun terbatas secara finansial. Beasiswa ini mencakup bantuan biaya kuliah, tunjangan hidup, dan fasilitas pendukung lainnya yang dapat membantu penerima fokus pada studi mereka. Selain itu, BPI juga memberikan kesempatan untuk mengembangkan kemampuan di luar akademik melalui berbagai kegiatan pengembangan diri dan pelatihan, guna mempersiapkan mereka menjadi pemimpin yang berkualitas dan bermanfaat bagi masyarakat. Adapun persyaratan yang harus dilengkapi pendaftar yaitu sebagai berikut:"
+  },
+  {
+    "id": "19618205a676d4fea599ac988d15cca4",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "#### B. Persyaratan Khusus",
+    "parent_context": "Beasiswa Pascasarjana > Beasiswa Pendidikan Indonesia (BPI)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "B. Persyaratan Khusus Beasiswa Pendidikan Indonesia (BPI)",
+    "alias_topik": [
+      "syarat Beasiswa Pendidikan Indonesia (BPI)",
+      "persyaratan Beasiswa Pendidikan Indonesia (BPI)"
+    ],
+    "search_text": "Judul: B. Persyaratan Khusus Beasiswa Pendidikan Indonesia (BPI)\nKonteks: Beasiswa Pascasarjana > Beasiswa Pendidikan Indonesia (BPI)\nAlias: syarat Beasiswa Pendidikan Indonesia (BPI), persyaratan Beasiswa Pendidikan Indonesia (BPI)\nIntent: tanya_persyaratan, tanya_beasiswa\n\n#### B. Persyaratan Khusus\n\nWarga Negara Indonesia (WNI).\nJenjang Pendidikan:\nS1/D4, S2, dan S3.\nMemiliki ijazah dan transkrip nilai dari jenjang pendidikan sebelumnya.\nIjazah luar negeri harus disetarakan di Indonesia.\nKemampuan Bahasa:\nTOEFL iBT minimal 80, TOEFL PBT minimal 550, IELTS minimal 6.5, atau setara.\nKemampuan bahasa negara tujuan (jika diperlukan).\nDokumen Kesehatan:\nSurat keterangan sehat dan bebas narkoba, berlaku maksimal 6 bulan sejak diterbitkan.\nTidak Sedang Menerima Beasiswa Lain yang menyebabkan pendanaan ganda.\nLoA (Letter of Acceptance):\nLoA bersyarat atau tidak bersyarat dari perguruan tinggi yang diakui (jika berlaku).\nPersyaratan Tambahan untuk S1: IPK Minimal pelamar S1/D4: Rata-rata nilai akademik minimal sesuai standar program.",
+    "content": "#### B. Persyaratan Khusus\n\nWarga Negara Indonesia (WNI).\nJenjang Pendidikan:\nS1/D4, S2, dan S3.\nMemiliki ijazah dan transkrip nilai dari jenjang pendidikan sebelumnya.\nIjazah luar negeri harus disetarakan di Indonesia.\nKemampuan Bahasa:\nTOEFL iBT minimal 80, TOEFL PBT minimal 550, IELTS minimal 6.5, atau setara.\nKemampuan bahasa negara tujuan (jika diperlukan).\nDokumen Kesehatan:\nSurat keterangan sehat dan bebas narkoba, berlaku maksimal 6 bulan sejak diterbitkan.\nTidak Sedang Menerima Beasiswa Lain yang menyebabkan pendanaan ganda.\nLoA (Letter of Acceptance):\nLoA bersyarat atau tidak bersyarat dari perguruan tinggi yang diakui (jika berlaku).\nPersyaratan Tambahan untuk S1: IPK Minimal pelamar S1/D4: Rata-rata nilai akademik minimal sesuai standar program."
+  },
+  {
+    "id": "6bd521dd6efd26b65d5e41f42f94ef6f",
+    "source_file": "beasiswa_tagged.md",
+    "heading": "### Link Pendaftaran Beasiswa Eksternal",
+    "parent_context": "D. Pendaftaran Beasiswa > Link Pendaftaran Beasiswa Eksternal",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_beasiswa",
+      "tanya_link"
+    ],
+    "topik": "Link Pendaftaran Beasiswa Eksternal",
+    "alias_topik": [
+      "link beasiswa eksternal",
+      "pendaftaran beasiswa eksternal",
+      "daftar KJMU",
+      "daftar KSE",
+      "daftar Djarum Plus",
+      "daftar BAZNAS"
+    ],
+    "search_text": "Judul: Link Pendaftaran Beasiswa Eksternal\nKonteks: D. Pendaftaran Beasiswa > Link Pendaftaran Beasiswa Eksternal\nAlias: link beasiswa eksternal, pendaftaran beasiswa eksternal, daftar KJMU, daftar KSE, daftar Djarum Plus, daftar BAZNAS\nIntent: tanya_prosedur_pendaftaran, tanya_beasiswa, tanya_link\n\n### Link Pendaftaran Beasiswa Eksternal\n\nKartu Jakarta Mahasiswa Unggul (KJMU): https://p4op.jakarta.go.id/kjmu/beranda;\nKarya Salemba Empat (KSE): https://kse.or.id/home\nDjarum Plus: https://djarumbeasiswaplus.org/\nBadan Amil Zakat Nasional (BAZNAS): https://beasiswa.baznas.go.id/\nUntuk beasiswa eksternal lainnya, dapat dilihat di website pemberi beasiswa tersebut.",
+    "content": "### Link Pendaftaran Beasiswa Eksternal\n\nKartu Jakarta Mahasiswa Unggul (KJMU): https://p4op.jakarta.go.id/kjmu/beranda;\nKarya Salemba Empat (KSE): https://kse.or.id/home\nDjarum Plus: https://djarumbeasiswaplus.org/\nBadan Amil Zakat Nasional (BAZNAS): https://beasiswa.baznas.go.id/\nUntuk beasiswa eksternal lainnya, dapat dilihat di website pemberi beasiswa tersebut."
+  },
+  {
+    "id": "0e69ff6afe0b271cb0a79b008173ba05",
+    "source_file": "blu_tagged.md",
+    "heading": "## Ketentuan Peserta",
+    "parent_context": "Ketentuan Peserta",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Peserta SPMB Mandiri Non-Reguler BLU",
+    "alias_topik": [
+      "ketentuan BLU",
+      "syarat BLU",
+      "Beasiswa BLU",
+      "Jalur BLU"
+    ],
+    "search_text": "Judul: Ketentuan Peserta SPMB Mandiri Non-Reguler BLU\nKonteks: Ketentuan Peserta\nAlias: ketentuan BLU, syarat BLU, Beasiswa BLU, Jalur BLU\nIntent: tanya_persyaratan, tanya_beasiswa, tanya_jalur\n\n## Ketentuan Peserta\n\nSeleksi Beasiswa BLU merupakan seleksi bagi calon mahasiswa penerima beasiswa pada fakultas dan program studi tertentu di lingkungan UIN Syarif Hidayatullah Jakarta. Kriteria penerima beasiswa ditentukan oleh program studi masing-masing.",
+    "content": "## Ketentuan Peserta\n\nSeleksi Beasiswa BLU merupakan seleksi bagi calon mahasiswa penerima beasiswa pada fakultas dan program studi tertentu di lingkungan UIN Syarif Hidayatullah Jakarta. Kriteria penerima beasiswa ditentukan oleh program studi masing-masing."
+  },
+  {
+    "id": "bfac9f45748331983757dfbcd8fe7590",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link Informasi Beasiswa",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link Informasi Beasiswa",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_link"
+    ],
+    "topik": "Beasiswa UIN Jakarta",
+    "alias_topik": [
+      "Link Informasi beasiswa UIN Jakarta",
+      "info beasiswa UIN Jakarta",
+      "bantuan biaya kuliah UIN Jakarta",
+      "scholarship UIN Jakarta"
+    ],
+    "search_text": "Judul: Beasiswa UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link Informasi Beasiswa\nAlias: Link Informasi beasiswa UIN Jakarta, info beasiswa UIN Jakarta, bantuan biaya kuliah UIN Jakarta, scholarship UIN Jakarta\nIntent: tanya_beasiswa, tanya_link\n\n## Link Informasi Beasiswa\n\nUntuk mengetahui Beasiswa UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://www.uinjkt.ac.id/id/beasiswa/",
+    "content": "## Link Informasi Beasiswa\n\nUntuk mengetahui Beasiswa UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://www.uinjkt.ac.id/id/beasiswa/"
+  },
+  {
+    "id": "ab92c8c3e129f256d0ee9ea9032e0d51",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "## Beasiswa",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Beasiswa",
+    "intents": [
+      "tanya_beasiswa"
+    ],
+    "topik": "Beasiswa UIN Jakarta",
+    "alias_topik": [
+      "beasiswa UIN Jakarta",
+      "KIP-K",
+      "KJMU",
+      "Beasiswa BLU"
+    ],
+    "search_text": "Judul: Beasiswa UIN Jakarta\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Beasiswa\nAlias: beasiswa UIN Jakarta, KIP-K, KJMU, Beasiswa BLU\nIntent: tanya_beasiswa\n\n## Beasiswa\n\nMahasiswa UIN Jakarta dapat memperoleh beasiswa melalui berbagai program, baik internal maupun eksternal. Program internal seperti Beasiswa BLU dan Beasiswa Rektor untuk mahasiswa asing ditawarkan langsung oleh universitas. Sementara itu, program beasiswa eksternal populer meliputi KIP-K (Kartu Indonesia Pintar Kuliah) dari pemerintah pusat, dan KJMU (Kartu Jakarta Mahasiswa Unggul) bagi penduduk DKI Jakarta.\n- Beasiswa BLU: Beasiswa internal UIN Jakarta untuk mahasiswa dari fakultas tertentu (Fakultas Ushuluddin, Dirasat Islamiyah, Syariah dan Hukum, dan Adab dan Humaniora).\n- Beasiswa Rektor (BLU Mahasiswa Asing): Beasiswa dari Badan Layanan Umum (BLU) UIN Jakarta yang ditujukan untuk mahasiswa asing.\n- KIP-K (Kartu Indonesia Pintar Kuliah): Bantuan biaya pendidikan dari pemerintah untuk siswa berprestasi dari keluarga kurang mampu secara ekonomi.\n- KJMU (Kartu Jakarta Mahasiswa Unggul): Program dari Pemerintah Provinsi DKI Jakarta yang ditujukan untuk mahasiswa yang kurang mampu dari keluarga di Jakarta.\n- Beasiswa Indonesia Bangkit (BIB): Kerja sama antara Kemenag dan LPDP Kemenkeu untuk program gelar (S1, S2, S3).\n- Student Achievement Awards (SAA): Apresiasi untuk mahasiswa berprestasi dalam berbagai bidang, seperti akademik, riset, seni, olahraga, dan pengabdian masyarakat.\n- Beasiswa lainnya: Terdapat juga beasiswa dari mitra kerja sama lain seperti Karya Salemba Empat (KSE), Baznas, Djarum Plus, dan lainnya.",
+    "content": "## Beasiswa\n\nMahasiswa UIN Jakarta dapat memperoleh beasiswa melalui berbagai program, baik internal maupun eksternal. Program internal seperti Beasiswa BLU dan Beasiswa Rektor untuk mahasiswa asing ditawarkan langsung oleh universitas. Sementara itu, program beasiswa eksternal populer meliputi KIP-K (Kartu Indonesia Pintar Kuliah) dari pemerintah pusat, dan KJMU (Kartu Jakarta Mahasiswa Unggul) bagi penduduk DKI Jakarta.\n- Beasiswa BLU: Beasiswa internal UIN Jakarta untuk mahasiswa dari fakultas tertentu (Fakultas Ushuluddin, Dirasat Islamiyah, Syariah dan Hukum, dan Adab dan Humaniora).\n- Beasiswa Rektor (BLU Mahasiswa Asing): Beasiswa dari Badan Layanan Umum (BLU) UIN Jakarta yang ditujukan untuk mahasiswa asing.\n- KIP-K (Kartu Indonesia Pintar Kuliah): Bantuan biaya pendidikan dari pemerintah untuk siswa berprestasi dari keluarga kurang mampu secara ekonomi.\n- KJMU (Kartu Jakarta Mahasiswa Unggul): Program dari Pemerintah Provinsi DKI Jakarta yang ditujukan untuk mahasiswa yang kurang mampu dari keluarga di Jakarta.\n- Beasiswa Indonesia Bangkit (BIB): Kerja sama antara Kemenag dan LPDP Kemenkeu untuk program gelar (S1, S2, S3).\n- Student Achievement Awards (SAA): Apresiasi untuk mahasiswa berprestasi dalam berbagai bidang, seperti akademik, riset, seni, olahraga, dan pengabdian masyarakat.\n- Beasiswa lainnya: Terdapat juga beasiswa dari mitra kerja sama lain seperti Karya Salemba Empat (KSE), Baznas, Djarum Plus, dan lainnya."
+  },
+  {
+    "id": "8fabd69c9af368cf605d127e2d5397df",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_persyaratan",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Rector Scholarship for International Students UIN Jakarta",
+    "alias_topik": [
+      "Rector Scholarship",
+      "beasiswa rektor",
+      "international students scholarship",
+      "beasiswa mahasiswa asing"
+    ],
+    "search_text": "Judul: Rector Scholarship for International Students UIN Jakarta\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\nAlias: Rector Scholarship, beasiswa rektor, international students scholarship, beasiswa mahasiswa asing\nIntent: tanya_beasiswa, tanya_persyaratan, tanya_prosedur_pendaftaran\n\n# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\n\nUIN SYARIF HIDAYATULLAH JAKARTA\n\nUIN Syarif Hidayatullah Jakarta is calling prospective students from around the globe to join our academic community!\n\nApplication Deadline : 23 February 2026\nApply                : https://bit.ly/ADFORMUIN\nInstagram            : @internationalofficeuinjkt\nWhatsApp             : +62 813-9942-664",
+    "content": "# RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS\n\nUIN SYARIF HIDAYATULLAH JAKARTA\n\nUIN Syarif Hidayatullah Jakarta is calling prospective students from around the globe to join our academic community!\n\nApplication Deadline : 23 February 2026\nApply                : https://bit.ly/ADFORMUIN\nInstagram            : @internationalofficeuinjkt\nWhatsApp             : +62 813-9942-664"
+  },
+  {
+    "id": "6872c221f4a2dd87ef1b77abd9f715a2",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## UNDERGRADUATE PROGRAM (S1)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > UNDERGRADUATE PROGRAM (S1)",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Undergraduate Program S1 Rector Scholarship",
+    "alias_topik": [
+      "S1 Rector Scholarship",
+      "undergraduate international students"
+    ],
+    "search_text": "Judul: Undergraduate Program S1 Rector Scholarship\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > UNDERGRADUATE PROGRAM (S1)\nAlias: S1 Rector Scholarship, undergraduate international students\nIntent: tanya_beasiswa, tanya_prodi_fakultas\n\n## UNDERGRADUATE PROGRAM (S1)\n\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Mathematics Education\n- Biology Education\n- Chemistry Education\n- Physics Education\n- Educational Management\n- Indonesian Language and Literature Education\n- Social Sciences Education\n- Islamic Primary School Teacher Education\n- Islamic Early Childhood Education\n\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\n- Social Welfare\n- Islamic Guidance and Communication Development\n- Islamic Community Development\n- Journalism\n\nFaculty of Science and Technology\n- Information System\n- Informatics Engineering\n- Mathematics\n- Agribusiness\n- Biology\n- Physics\n- Chemistry\n- Mining Engineering\n\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\n- English and Literature\n- Library Sciences\n- Translation\n\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\n- Prophetic Tradition Sciences\n- Islamic Mysticism\n\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Political and Administrative Law\n- Islamic Criminal Law\n- Islamic Economics Law\n- Legal Studies\n\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies\n\nFaculty of Psychology\n- Psychology\n\nFaculty of Economics and Business\n- Management\n- Accounting\n- Economics and Development Studies\n- Islamic Banking\n- Islamic Economics",
+    "content": "## UNDERGRADUATE PROGRAM (S1)\n\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Mathematics Education\n- Biology Education\n- Chemistry Education\n- Physics Education\n- Educational Management\n- Indonesian Language and Literature Education\n- Social Sciences Education\n- Islamic Primary School Teacher Education\n- Islamic Early Childhood Education\n\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\n- Social Welfare\n- Islamic Guidance and Communication Development\n- Islamic Community Development\n- Journalism\n\nFaculty of Science and Technology\n- Information System\n- Informatics Engineering\n- Mathematics\n- Agribusiness\n- Biology\n- Physics\n- Chemistry\n- Mining Engineering\n\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\n- English and Literature\n- Library Sciences\n- Translation\n\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\n- Prophetic Tradition Sciences\n- Islamic Mysticism\n\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Political and Administrative Law\n- Islamic Criminal Law\n- Islamic Economics Law\n- Legal Studies\n\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies\n\nFaculty of Psychology\n- Psychology\n\nFaculty of Economics and Business\n- Management\n- Accounting\n- Economics and Development Studies\n- Islamic Banking\n- Islamic Economics"
+  },
+  {
+    "id": "1b8608cfc2b152567cf7f55a8e5aa1d1",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## MASTER PROGRAM (M.A.)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > MASTER PROGRAM (M.A.)",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_pascasarjana",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Master Program Rector Scholarship",
+    "alias_topik": [
+      "master scholarship",
+      "M.A. Rector Scholarship",
+      "S2 beasiswa rektor"
+    ],
+    "search_text": "Judul: Master Program Rector Scholarship\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > MASTER PROGRAM (M.A.)\nAlias: master scholarship, M.A. Rector Scholarship, S2 beasiswa rektor\nIntent: tanya_beasiswa, tanya_pascasarjana, tanya_prodi_fakultas\n\n## MASTER PROGRAM (M.A.)\n\nGraduate School\n- Interdisciplinary Islamic Studies\nFaculty of Tarbiya and Educational Sciences\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Islamic Educational Management\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\nFaculty of Science and Technology\n- Agribusiness\nFaculty of Psychology\n- Psychology\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Economics Law\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies (Arabic language and Quran Memorisation based)\nFaculty of Economics and Business\n- Islamic Banking\n- Islamic Economics",
+    "content": "## MASTER PROGRAM (M.A.)\n\nGraduate School\n- Interdisciplinary Islamic Studies\nFaculty of Tarbiya and Educational Sciences\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Islamic Educational Management\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\nFaculty of Science and Technology\n- Agribusiness\nFaculty of Psychology\n- Psychology\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Economics Law\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies (Arabic language and Quran Memorisation based)\nFaculty of Economics and Business\n- Islamic Banking\n- Islamic Economics"
+  },
+  {
+    "id": "03d6e0ff71f4d9c0e53385a9709112a5",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## DOCTOR PROGRAMS (Ph.D.)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > DOCTOR PROGRAMS (Ph.D.)",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_pascasarjana",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Doctor Programs Rector Scholarship",
+    "alias_topik": [
+      "PhD scholarship",
+      "S3 beasiswa rektor",
+      "doctor program rector scholarship"
+    ],
+    "search_text": "Judul: Doctor Programs Rector Scholarship\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > DOCTOR PROGRAMS (Ph.D.)\nAlias: PhD scholarship, S3 beasiswa rektor, doctor program rector scholarship\nIntent: tanya_beasiswa, tanya_pascasarjana, tanya_prodi_fakultas\n\n## DOCTOR PROGRAMS (Ph.D.)\n\nGraduate School\n- Islamic Studies\nFaculty of Economics and Business\n- Islamic Banking\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education",
+    "content": "## DOCTOR PROGRAMS (Ph.D.)\n\nGraduate School\n- Islamic Studies\nFaculty of Economics and Business\n- Islamic Banking\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education"
+  },
+  {
+    "id": "82a123e1e468d1b18ffc86a0d15c0717",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## PROCESS STUDY AT UIN JAKARTA",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > PROCESS STUDY AT UIN JAKARTA",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_beasiswa"
+    ],
+    "topik": "Process Study at UIN Jakarta for International Students",
+    "alias_topik": [
+      "alur studi international students",
+      "cara daftar rector scholarship",
+      "student visa UIN Jakarta"
+    ],
+    "search_text": "Judul: Process Study at UIN Jakarta for International Students\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > PROCESS STUDY AT UIN JAKARTA\nAlias: alur studi international students, cara daftar rector scholarship, student visa UIN Jakarta\nIntent: tanya_prosedur_pendaftaran, tanya_beasiswa\n\n## PROCESS STUDY AT UIN JAKARTA\n\n1. Contact Center for International Cooperation UIN Jakarta\n2. Decide on degree and program & faculties/department\n3. Upload the required documents at: https://bit.ly/ADFORMUIN\n4. Announcement of Acceptance\n5. Apply for a study permit and student visa\n6. Join in a language program (BIPA)\n7. Travel and study at UIN Jakarta",
+    "content": "## PROCESS STUDY AT UIN JAKARTA\n\n1. Contact Center for International Cooperation UIN Jakarta\n2. Decide on degree and program & faculties/department\n3. Upload the required documents at: https://bit.ly/ADFORMUIN\n4. Announcement of Acceptance\n5. Apply for a study permit and student visa\n6. Join in a language program (BIPA)\n7. Travel and study at UIN Jakarta"
+  },
+  {
+    "id": "0b916b1818ed6ed03591e141e9f1a95d",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "### Undergraduate Program (S1)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Undergraduate Program (S1)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa"
+    ],
+    "topik": "Admission Requirements Undergraduate Program S1",
+    "alias_topik": [
+      "syarat S1 international students",
+      "undergraduate requirements"
+    ],
+    "search_text": "Judul: Admission Requirements Undergraduate Program S1\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Undergraduate Program (S1)\nAlias: syarat S1 international students, undergraduate requirements\nIntent: tanya_persyaratan, tanya_beasiswa\n\n### Undergraduate Program (S1)\n\n1. Current Curriculum Vitae (CV)\n2. Colored Photo 4 x 6 (with red background)\n3. High School Certificate (Max 3 years after graduation)\n4. High School Transcript\n5. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n6. Health Certificate (Medical Check-Up)\n7. Evidence of sufficient funds, such as personal bank statements min USD 2000\n8. Cover Passport (min 18 months before expired)",
+    "content": "### Undergraduate Program (S1)\n\n1. Current Curriculum Vitae (CV)\n2. Colored Photo 4 x 6 (with red background)\n3. High School Certificate (Max 3 years after graduation)\n4. High School Transcript\n5. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n6. Health Certificate (Medical Check-Up)\n7. Evidence of sufficient funds, such as personal bank statements min USD 2000\n8. Cover Passport (min 18 months before expired)"
+  },
+  {
+    "id": "7dbeee4b5f8213d3cbb2fffd75b230e1",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "### Graduate Program (M.A. and Ph.D.)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Graduate Program (M.A. and Ph.D.)",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_beasiswa",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Admission Requirements Graduate Program M.A. and Ph.D.",
+    "alias_topik": [
+      "syarat S2 international students",
+      "syarat S3 international students",
+      "graduate requirements"
+    ],
+    "search_text": "Judul: Admission Requirements Graduate Program M.A. and Ph.D.\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > Admission Requirements for International Students > Graduate Program (M.A. and Ph.D.)\nAlias: syarat S2 international students, syarat S3 international students, graduate requirements\nIntent: tanya_persyaratan, tanya_beasiswa, tanya_pascasarjana\n\n### Graduate Program (M.A. and Ph.D.)\n\n1. Colored photo 4 x 6 (with red background)\n2. Undergraduate/Bachelor certificate and master certificate for doctorate applicants\n3. Undergraduate/Bachelor certificate and master transcripts for doctorate applicants\n4. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n5. Recommendation Letter from at least two previous teachers/Professor(s)\n6. Health Certificate (Medical Check Up)\n7. Permit Letter from the institution you work (if applicable)\n8. Research Proposal (4-8 pages consist of background, literature review & methods)\n9. Evidence of sufficient funds, such as personal bank statements minimum last 3 months min USD 2000\n10. Cover Passport (min 18 months before expired)",
+    "content": "### Graduate Program (M.A. and Ph.D.)\n\n1. Colored photo 4 x 6 (with red background)\n2. Undergraduate/Bachelor certificate and master certificate for doctorate applicants\n3. Undergraduate/Bachelor certificate and master transcripts for doctorate applicants\n4. Institutional TOEFL score of at least 500 or TOAFL score of at least 450 or IELTS 6.0 or BIPA certificate\n5. Recommendation Letter from at least two previous teachers/Professor(s)\n6. Health Certificate (Medical Check Up)\n7. Permit Letter from the institution you work (if applicable)\n8. Research Proposal (4-8 pages consist of background, literature review & methods)\n9. Evidence of sufficient funds, such as personal bank statements minimum last 3 months min USD 2000\n10. Cover Passport (min 18 months before expired)"
+  },
+  {
+    "id": "f0e92086178c63452568c76dd1c200a8",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## CONTACT",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > CONTACT",
+    "intents": [
+      "tanya_kontak",
+      "tanya_beasiswa"
+    ],
+    "topik": "Contact Rector Scholarship International Office UIN Jakarta",
+    "alias_topik": [
+      "kontak rector scholarship",
+      "international office UIN Jakarta",
+      "WhatsApp international office"
+    ],
+    "search_text": "Judul: Contact Rector Scholarship International Office UIN Jakarta\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > CONTACT\nAlias: kontak rector scholarship, international office UIN Jakarta, WhatsApp international office\nIntent: tanya_kontak, tanya_beasiswa\n\n## CONTACT\n\nInstagram : @internationalofficeuinjkt\nWhatsApp  : +62 813-9942-664\nApply     : https://bit.ly/ADFORMUIN",
+    "content": "## CONTACT\n\nInstagram : @internationalofficeuinjkt\nWhatsApp  : +62 813-9942-664\nApply     : https://bit.ly/ADFORMUIN"
+  }
+]

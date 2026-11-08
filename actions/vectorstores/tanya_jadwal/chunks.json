@@ -1,0 +1,562 @@
+[
+  {
+    "id": "8b2149405a3a31874226799848566ade",
+    "source_file": "brosur_magister_ekonomi_syariah_tagged_v2.md",
+    "heading": "## JADWAL SELEKSI",
+    "parent_context": "BROSUR MAGISTER EKONOMI SYARIAH > JADWAL SELEKSI",
+    "intents": [
+      "tanya_jadwal"
+    ],
+    "topik": "Jadwal Seleksi Magister Ekonomi Syariah",
+    "alias_topik": [
+      "jadwal S2 Ekonomi Syariah",
+      "jadwal seleksi pascasarjana ekonomi syariah"
+    ],
+    "search_text": "Judul: Jadwal Seleksi Magister Ekonomi Syariah\nKonteks: BROSUR MAGISTER EKONOMI SYARIAH > JADWAL SELEKSI\nAlias: jadwal S2 Ekonomi Syariah, jadwal seleksi pascasarjana ekonomi syariah\nIntent: tanya_jadwal\n\n## JADWAL SELEKSI\n\nKegiatan                         Tanggal\nPendaftaran                      09 FEB - 25 JUN 2026\nTes Masuk ETIC & TOAFL           02 - 03 JUL 2026\nTes TPA                          06 - 07 JUL 2026\nWawancara                        08 - 09 JUL 2026\nPengumuman Hasil Seleksi         22 JUL 2026\nDaftar Ulang                     23 JUL - 13 AGUST 2026\nAwal Masuk                       02 MAR 2026",
+    "content": "## JADWAL SELEKSI\n\nKegiatan                         Tanggal\nPendaftaran                      09 FEB - 25 JUN 2026\nTes Masuk ETIC & TOAFL           02 - 03 JUL 2026\nTes TPA                          06 - 07 JUL 2026\nWawancara                        08 - 09 JUL 2026\nPengumuman Hasil Seleksi         22 JUL 2026\nDaftar Ulang                     23 JUL - 13 AGUST 2026\nAwal Masuk                       02 MAR 2026"
+  },
+  {
+    "id": "9ab7dc4b6341f101ac25e414eda492e3",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 1. SNBP",
+    "parent_context": "1. SNBP",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Seleksi dan Daftar Ulang SNBP",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SNBP",
+      "jadwal SNBP",
+      "pendaftaran SNBP",
+      "pengumuman SNBP",
+      "jadwal SNBP Jenjang S1 Sarjana",
+      "Jadwal Daftar Ulang SNBP",
+      "Daftar Ulang Seleksi Nasional Berdasarkan Prestasi"
+    ],
+    "search_text": "Judul: Jadwal Seleksi dan Daftar Ulang SNBP\nKonteks: 1. SNBP\nAlias: Jadwal Daftar Ulang SNBP, jadwal SNBP, pendaftaran SNBP, pengumuman SNBP, jadwal SNBP Jenjang S1 Sarjana, Jadwal Daftar Ulang SNBP, Daftar Ulang Seleksi Nasional Berdasarkan Prestasi\nIntent: tanya_jadwal, tanya_jalur\n\n## 1. SNBP\n\nKegiatan                              Tanggal\nPengumuman Kuota Sekolah             29 Desember 2025\nMasa Sanggah                         29 Desember 2025 - 15 Januari 2026\nRegistrasi Akun SNPMB Sekolah        05 - 26 Januari 2026\nPengisian PDSS oleh Sekolah          05 Januari - 02 Februari 2026\nRegistrasi Akun SNPMB Siswa          12 Januari - 18 Februari 2026\nPendaftaran SNBP                     03 - 18 Februari 2026\nPengumuman Hasil SNBP                31 Maret 2026\nMasa Unduh Kartu Peserta SNBP        03 Februari - 30 April 2026\nDaftar Ulang: 01-07 April 2026\nProses Penentuan UKT: 08-09 April 2026\nPengumuman Kelompok UKT: 10 April 2026\nKlarifikasi UKT: 11-14 April 2026\nRapat Penentuan Klarifikasi UKT: 15-16 April 2026\nPengumuman Klarifikasi UKT: 17 April 2026\nPembayaran UKT: 10-23 April 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 24 April 2026\nNIM dan KTM: 27-28 April 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 1. SNBP\n\nKegiatan                              Tanggal\nPengumuman Kuota Sekolah             29 Desember 2025\nMasa Sanggah                         29 Desember 2025 - 15 Januari 2026\nRegistrasi Akun SNPMB Sekolah        05 - 26 Januari 2026\nPengisian PDSS oleh Sekolah          05 Januari - 02 Februari 2026\nRegistrasi Akun SNPMB Siswa          12 Januari - 18 Februari 2026\nPendaftaran SNBP                     03 - 18 Februari 2026\nPengumuman Hasil SNBP                31 Maret 2026\nMasa Unduh Kartu Peserta SNBP        03 Februari - 30 April 2026\nDaftar Ulang: 01-07 April 2026\nProses Penentuan UKT: 08-09 April 2026\nPengumuman Kelompok UKT: 10 April 2026\nKlarifikasi UKT: 11-14 April 2026\nRapat Penentuan Klarifikasi UKT: 15-16 April 2026\nPengumuman Klarifikasi UKT: 17 April 2026\nPembayaran UKT: 10-23 April 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 24 April 2026\nNIM dan KTM: 27-28 April 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "53ffff173ac4ca220720ef499e4d03fb",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 2. SPAN PTKIN",
+    "parent_context": "2. SPAN PTKIN",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran atau Seleksi dan Daftar Ulang SPAN PTKIN",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SPAN PTKIN",
+      "jadwal SPAN PTKIN",
+      "pendaftaran SPAN PTKIN",
+      "pengumuman SPAN PTKIN",
+      "daftar ulang SPAN PTKIN",
+      "jadwal SPAN PTKIN jenjang S1 Sarjana"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran atau Seleksi dan Daftar Ulang SPAN PTKIN\nKonteks: 2. SPAN PTKIN\nAlias: Jadwal Daftar Ulang SPAN PTKIN, jadwal SPAN PTKIN, pendaftaran SPAN PTKIN, pengumuman SPAN PTKIN, daftar ulang SPAN PTKIN, jadwal SPAN PTKIN jenjang S1 Sarjana\nIntent: tanya_jadwal, tanya_jalur\n\n## 2. SPAN PTKIN\n\nKegiatan                                      Tanggal\nPendaftaran PDSS                             05 Januari - 07 Februari 2026\nPengisian/Verifikasi/Finalisasi PDSS         05 Januari - 09 Februari 2026\nPendaftaran (siswa)                          11 Februari - 28 Februari 2026\nPengumuman Hasil Seleksi                     07 April 2026\nProses verifikasi/pendaftaran ulang          Ditetapkan di masing-masing PTKIN\nDaftar Ulang: 08-20 April 2026\nProses Penentuan UKT: 21-22 April 2026\nPengumuman Kelompok UKT: 23 April 2026\nKlarifikasi UKT: 24-27 April 2026\nRapat Penentuan Klarifikasi UKT: 28-29 April 2026\nPengumuman Klarifikasi UKT: 30 April 2026\nPembayaran UKT: 23 April-06 Mei 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Mei 2026\nNIM dan KTM: 08-11 Mei 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 2. SPAN PTKIN\n\nKegiatan                                      Tanggal\nPendaftaran PDSS                             05 Januari - 07 Februari 2026\nPengisian/Verifikasi/Finalisasi PDSS         05 Januari - 09 Februari 2026\nPendaftaran (siswa)                          11 Februari - 28 Februari 2026\nPengumuman Hasil Seleksi                     07 April 2026\nProses verifikasi/pendaftaran ulang          Ditetapkan di masing-masing PTKIN\nDaftar Ulang: 08-20 April 2026\nProses Penentuan UKT: 21-22 April 2026\nPengumuman Kelompok UKT: 23 April 2026\nKlarifikasi UKT: 24-27 April 2026\nRapat Penentuan Klarifikasi UKT: 28-29 April 2026\nPengumuman Klarifikasi UKT: 30 April 2026\nPembayaran UKT: 23 April-06 Mei 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Mei 2026\nNIM dan KTM: 08-11 Mei 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "3b46aee736be92f533a0605df4d693e4",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 3. SNBT",
+    "parent_context": "3. SNBT",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Seleksi dan Daftar Ulang SNBT",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SNBT",
+      "jadwal SNBT",
+      "jadwal UTBK",
+      "pembayaran UTBK",
+      "pengumuman SNBT",
+      "jadwal Seleksi dan Daftar Ulang SNBT",
+      "Seleksi Nasional Berdasarkan Tes Jenjang S1 Sarjana"
+    ],
+    "search_text": "Judul: Jadwal Seleksi dan Daftar Ulang SNBT\nKonteks: 3. SNBT\nAlias: Jadwal Daftar Ulang SNBT, jadwal SNBT, jadwal UTBK, pembayaran UTBK, pengumuman SNBT, jadwal Seleksi dan Daftar Ulang SNBT, Seleksi Nasional Berdasarkan Tes Jenjang S1 Sarjana\nIntent: tanya_jadwal, tanya_jalur\n\n## 3. SNBT\n\nKegiatan                              Tanggal\nRegistrasi Akun SNPMB Siswa          12 Januari - 07 April 2026\nPendaftaran UTBK-SNBT                25 Maret - 07 April 2026\nPembayaran Biaya UTBK                25 Maret - 08 April 2026\nPelaksanaan Ujian UTBK               21 - 30 April 2026\nPengumuman Hasil SNBT                25 Mei 2026\nMasa Unduh Sertifikat UTBK           02 Juni - 31 Juli 2026\nDaftar Ulang: 26 Mei-08 Juni 2026\nProses Penentuan UKT: 09-10 Juni 2026\nPengumuman Kelompok UKT: 11 Juni 2026\nKlarifikasi UKT: 12-15 Juni 2026\nRapat Penentuan Klarifikasi UKT: 17-18 Juni 2026\nPengumuman Klarifikasi UKT: 19 Juni 2026\nPembayaran UKT: 11 Juni-02 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 03 Juli 2026\nNIM dan KTM: 06-07 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 3. SNBT\n\nKegiatan                              Tanggal\nRegistrasi Akun SNPMB Siswa          12 Januari - 07 April 2026\nPendaftaran UTBK-SNBT                25 Maret - 07 April 2026\nPembayaran Biaya UTBK                25 Maret - 08 April 2026\nPelaksanaan Ujian UTBK               21 - 30 April 2026\nPengumuman Hasil SNBT                25 Mei 2026\nMasa Unduh Sertifikat UTBK           02 Juni - 31 Juli 2026\nDaftar Ulang: 26 Mei-08 Juni 2026\nProses Penentuan UKT: 09-10 Juni 2026\nPengumuman Kelompok UKT: 11 Juni 2026\nKlarifikasi UKT: 12-15 Juni 2026\nRapat Penentuan Klarifikasi UKT: 17-18 Juni 2026\nPengumuman Klarifikasi UKT: 19 Juni 2026\nPembayaran UKT: 11 Juni-02 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 03 Juli 2026\nNIM dan KTM: 06-07 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "ee0295a3c6dc26090e4a1f1a6c1fe225",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 4. UM PTKIN",
+    "parent_context": "4. UM PTKIN",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang UM PTKIN",
+    "alias_topik": [
+      "Jadwak Daftar ULang UM PTKIN",
+      "jadwal UM PTKIN",
+      "pendaftaran UM PTKIN",
+      "pembayaran UM PTKIN",
+      "ujian SSE UM PTKIN",
+      "pengumuman UM PTKIN",
+      "jadwal Daftar Ulang UM PTKIN S1 Sarjana"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang UM PTKIN\nKonteks: 4. UM PTKIN\nAlias: Jadwak Daftar ULang UM PTKIN, jadwal UM PTKIN, pendaftaran UM PTKIN, pembayaran UM PTKIN, ujian SSE UM PTKIN, pengumuman UM PTKIN, jadwal Daftar Ulang UM PTKIN S1 Sarjana\nIntent: tanya_jadwal, tanya_jalur\n\n## 4. UM PTKIN\n\nKegiatan                                      Tanggal / Waktu\nPendaftaran                                  13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 15.00 WIB\nPembayaran                                   13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 23.59 WIB\nFinalisasi Pendaftaran                       13 April 2026 pukul 08.00 WIB - 03 Juni 2026 pukul 15.00 WIB\nCetak Kartu Peserta Ujian SSE UM-PTKIN       Dimulai pada 14 April 2026 pukul 08.00 WIB\nPelaksanaan Ujian SSE UM-PTKIN               08 Juni - 14 Juni 2026\nPengumuman                                   30 Juni 2026\nMulai Pendaftaran: 13 April-30 Mei 2026\nAkhir Pembayaran Pendaftaran: 13 April–30 Mei 2026\nAwal Pengisian Borang: 14 April 2026\nUjian Seleksi: 08-14 Juni 2026\nPengumuman Kelulusan: 30 Juni 2026\nDaftar Ulang: 01-06 Juli 2026\nProses Penentuan UKT: 07-08 Juli 2026\nPengumuman Kelompok UKT: 09 Juli 2026\nKlarifikasi UKT: 10-13 Juli 2026\nRapat Penentuan Klarifikasi UKT: 14-15 Juli 2026\nPengumuman Klarifikasi UKT: 16 Juli 2026\nPembayaran UKT: 09-21 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 22 Juli 2026\nNIM dan KTM: 23-24 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 4. UM PTKIN\n\nKegiatan                                      Tanggal / Waktu\nPendaftaran                                  13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 15.00 WIB\nPembayaran                                   13 April 2026 pukul 08.00 WIB - 30 Mei 2026 pukul 23.59 WIB\nFinalisasi Pendaftaran                       13 April 2026 pukul 08.00 WIB - 03 Juni 2026 pukul 15.00 WIB\nCetak Kartu Peserta Ujian SSE UM-PTKIN       Dimulai pada 14 April 2026 pukul 08.00 WIB\nPelaksanaan Ujian SSE UM-PTKIN               08 Juni - 14 Juni 2026\nPengumuman                                   30 Juni 2026\nMulai Pendaftaran: 13 April-30 Mei 2026\nAkhir Pembayaran Pendaftaran: 13 April–30 Mei 2026\nAwal Pengisian Borang: 14 April 2026\nUjian Seleksi: 08-14 Juni 2026\nPengumuman Kelulusan: 30 Juni 2026\nDaftar Ulang: 01-06 Juli 2026\nProses Penentuan UKT: 07-08 Juli 2026\nPengumuman Kelompok UKT: 09 Juli 2026\nKlarifikasi UKT: 10-13 Juli 2026\nRapat Penentuan Klarifikasi UKT: 14-15 Juli 2026\nPengumuman Klarifikasi UKT: 16 Juli 2026\nPembayaran UKT: 09-21 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 22 Juli 2026\nNIM dan KTM: 23-24 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "39b7cae957360de9f038db040a4f6feb",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 5. SPMB Mandiri Non Reguler - Prestasi",
+    "parent_context": "5. SPMB Mandiri Non Reguler - Prestasi",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - Prestasi jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang dan Seleksi SPMB Mandiri Prestasi",
+      "Non Reguler Prestasi",
+      "jadwal jalur prestasi",
+      "Jadwal Jalur Tahfidz"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - Prestasi jenjang S1 Sarjana\nKonteks: 5. SPMB Mandiri Non Reguler - Prestasi\nAlias: Jadwal Daftar Ulang dan Seleksi SPMB Mandiri Prestasi, Non Reguler Prestasi, jadwal jalur prestasi, Jadwal Jalur Tahfidz\nIntent: tanya_jadwal, tanya_jalur\n\n## 5. SPMB Mandiri Non Reguler - Prestasi\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 5. SPMB Mandiri Non Reguler - Prestasi\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "51bd30e475f6cc8434e9286b55cbbaf9",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 6. SPMB Mandiri Non Reguler - BLU",
+    "parent_context": "6. SPMB Mandiri Non Reguler - BLU",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - BLU Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwak Daftar Ulang dan Seleksi BLU",
+      "Beasiswa BLU",
+      "Jalur BLU",
+      "SPMB BLU",
+      "jadwal BLU"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang Jalur SPMB Mandiri Non Reguler - BLU Jenjang S1 Sarjana\nKonteks: 6. SPMB Mandiri Non Reguler - BLU\nAlias: Jadwak Daftar Ulang dan Seleksi BLU, Beasiswa BLU, Jalur BLU, SPMB BLU, jadwal BLU\nIntent: tanya_jadwal, tanya_jalur\n\n## 6. SPMB Mandiri Non Reguler - BLU\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 6. SPMB Mandiri Non Reguler - BLU\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "bacce7f72d34dd95d1d165481f797812",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar",
+    "parent_context": "7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang Pemerataan Kesempatan Belajar",
+      "SPMB Mandiri Pemerataan Kesempatan Belajar"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar Jenjang S1 Sarjana\nKonteks: 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar\nAlias: Jadwal Daftar Ulang Pemerataan Kesempatan Belajar, SPMB Mandiri Pemerataan Kesempatan Belajar\nIntent: tanya_jadwal, tanya_jalur\n\n## 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 7. SPMB Mandiri Non Reguler - Pemerataan Kesempatan Belajar\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "14092739c39d137b9521f5335660d681",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 8. SPMB Mandiri Non Reguler - Talent Scouting",
+    "parent_context": "8. SPMB Mandiri Non Reguler - Talent Scouting",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Talent Scouting TS Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang Talent Scouting",
+      "Jadwal Seleksi SPMB Mandiri Talent Scouting"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler - Talent Scouting TS Jenjang S1 Sarjana\nKonteks: 8. SPMB Mandiri Non Reguler - Talent Scouting\nAlias: Jadwal Daftar Ulang Talent Scouting, Jadwal Seleksi SPMB Mandiri Talent Scouting\nIntent: tanya_jadwal, tanya_jalur\n\n## 8. SPMB Mandiri Non Reguler - Talent Scouting\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 8. SPMB Mandiri Non Reguler - Talent Scouting\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 03 Juni 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 04 Juni 2026\nCetak Kartu Ujian: 08 April-05 Juni 2026\nUji Coba SSE: 08-09 Juni 2026\nUjian Seleksi: 11 Juni 2026\nEksport DKA: 12 Juni 2026\nRapat Penetapan Kelulusan: 15 Juni 2026\nPengumuman Kelulusan: 17-22 Juni 2026\nDaftar Ulang: 23 Juni 2026\nPengumuman Kelompok UKT: 24 Juni 2026\nKlarifikasi UKT: 25-26 Juni 2026\nRapat Penentuan Klarifikasi UKT: 29 Juni 2026\nPengumuman Klarifikasi UKT: 30 Juni 2026\nPembayaran UKT: 24 Juni - 24 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 27 Juli 2026\nNIM dan KTM: 28-29 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "7fcd471ae70fe45caca621d4f2d2de21",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 9. SPMB Mandiri - Reguler",
+    "parent_context": "9. SPMB Mandiri - Reguler",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri - Reguler Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang SPMB Mandiri Reguler",
+      "Jalur Mandiri Reguler",
+      "jadwal mandiri reguler SSE"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri - Reguler Jenjang S1 Sarjana\nKonteks: 9. SPMB Mandiri - Reguler\nAlias: Jadwal Daftar Ulang SPMB Mandiri Reguler, Jalur Mandiri Reguler, jadwal mandiri reguler SSE\nIntent: tanya_jadwal, tanya_jalur\n\n## 9. SPMB Mandiri - Reguler\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 05 Juli 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 06 Juli 2026\nCetak Kartu Ujian: 08 April-07 Juli 2026\nUji Coba SSE: 11 Juli 2026\nUjian Seleksi: 13-20 Juli 2026\nEksport DKA: 22 Juli 2026\nRapat Penetapan Kelulusan: 23-24 Juli 2026\nPengumuman Kelulusan: 27 Juli 2026\nDaftar Ulang: 28 Juli-03 Agustus 2026\nProses Penentuan UKT: 04-05 Agustus 2026\nPengumuman Kelompok UKT: 06 Agustus 2026\nKlarifikasi UKT: 07-10 Agustus 2026\nRapat Penentuan Klarifikasi UKT: 11-12 Agustus 2026\nPengumuman Klarifikasi UKT: 13 Agustus 2026\nPembayaran UKT: 06-19 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 20 Agustus 2026\nNIM dan KTM: 21-24 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 9. SPMB Mandiri - Reguler\n\nMulai Pendaftaran: 08 April 2026\nAkhir Pembayaran Pendaftaran: 05 Juli 2026\nAwal Pengisian Borang: 08 April 2026\nBatas Akhir Pengisian Borang: 06 Juli 2026\nCetak Kartu Ujian: 08 April-07 Juli 2026\nUji Coba SSE: 11 Juli 2026\nUjian Seleksi: 13-20 Juli 2026\nEksport DKA: 22 Juli 2026\nRapat Penetapan Kelulusan: 23-24 Juli 2026\nPengumuman Kelulusan: 27 Juli 2026\nDaftar Ulang: 28 Juli-03 Agustus 2026\nProses Penentuan UKT: 04-05 Agustus 2026\nPengumuman Kelompok UKT: 06 Agustus 2026\nKlarifikasi UKT: 07-10 Agustus 2026\nRapat Penentuan Klarifikasi UKT: 11-12 Agustus 2026\nPengumuman Klarifikasi UKT: 13 Agustus 2026\nPembayaran UKT: 06-19 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 20 Agustus 2026\nNIM dan KTM: 21-24 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "16a855aef850dac86328d56c6ba24c79",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 11. SPMB Mandiri Non Reguler - Nilai SNBT",
+    "parent_context": "11. SPMB Mandiri Non Reguler - Nilai SNBT",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler Menggunakan Nilai SNBT Jenjang S1 Sarjana",
+    "alias_topik": [
+      "Jadwal Daftar Ulang Nilai SNBT",
+      "SPMB Mandiri Nilai SNBT",
+      "jalur mandiri menggunakan nilai SNBT"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Seleksi dan Daftar Ulang SPMB Mandiri Non Reguler Menggunakan Nilai SNBT Jenjang S1 Sarjana\nKonteks: 11. SPMB Mandiri Non Reguler - Nilai SNBT\nAlias: Jadwal Daftar Ulang Nilai SNBT, SPMB Mandiri Nilai SNBT, jalur mandiri menggunakan nilai SNBT\nIntent: tanya_jadwal, tanya_jalur\n\n## 11. SPMB Mandiri Non Reguler - Nilai SNBT\n\nMulai Pendaftaran: 04 Juni 2026\nAkhir Pembayaran Pendaftaran: 11 Juni 2026\nAwal Pengisian Borang: 04 Juni 2026\nBatas Akhir Pengisian Borang: 12 Juni 2026\nCetak Kartu Ujian: 04-15 Juni 2026\nUji Coba SSE: 17 Juni 2026\nUjian Seleksi: 18 Juni 2026\nPengumuman Kelulusan: 19 Juni-24 Juni 2026\nDaftar Ulang: 25 Juni 2026\nPengumuman Kelompok UKT: 26 Juni 2026\nKlarifikasi UKT: 29-30 Juni 2026\nRapat Penentuan Klarifikasi UKT: 01 Juli 2026\nPengumuman Klarifikasi UKT: 02 Juli 2026\nPembayaran UKT: 26 Juni-06 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Juli 2026\nNIM dan KTM: 08-09 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 11. SPMB Mandiri Non Reguler - Nilai SNBT\n\nMulai Pendaftaran: 04 Juni 2026\nAkhir Pembayaran Pendaftaran: 11 Juni 2026\nAwal Pengisian Borang: 04 Juni 2026\nBatas Akhir Pengisian Borang: 12 Juni 2026\nCetak Kartu Ujian: 04-15 Juni 2026\nUji Coba SSE: 17 Juni 2026\nUjian Seleksi: 18 Juni 2026\nPengumuman Kelulusan: 19 Juni-24 Juni 2026\nDaftar Ulang: 25 Juni 2026\nPengumuman Kelompok UKT: 26 Juni 2026\nKlarifikasi UKT: 29-30 Juni 2026\nRapat Penentuan Klarifikasi UKT: 01 Juli 2026\nPengumuman Klarifikasi UKT: 02 Juli 2026\nPembayaran UKT: 26 Juni-06 Juli 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 07 Juli 2026\nNIM dan KTM: 08-09 Juli 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "d334fa7e4a6f93b412a0c3aa3c6b6aef",
+    "source_file": "jadwal_pmb_s1_revisi_tagged.md",
+    "heading": "## 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN",
+    "parent_context": "12. SPMB Mandiri Non Reguler - NIlai UM PTKIN",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_jalur"
+    ],
+    "topik": "Jadwal Pendaftaran Daftar Ulang dan Seleksi SPMB Mandiri Non Reguler Menggunakan NIlai UM PTKIN Jenjang S1 Sarjana",
+    "alias_topik": [
+      "UM PTKIN",
+      "SPMB Mandiri UM PTKIN",
+      "jalur Mandiri menggunakan nilai UM PTKIN"
+    ],
+    "search_text": "Judul: Jadwal Pendaftaran Daftar Ulang dan Seleksi SPMB Mandiri Non Reguler Menggunakan NIlai UM PTKIN Jenjang S1 Sarjana\nKonteks: 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN\nAlias: UM PTKIN, SPMB Mandiri UM PTKIN, jalur Mandiri menggunakan nilai UM PTKIN\nIntent: tanya_jadwal, tanya_jalur\n\n## 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN\n\nMulai Pendaftaran: 01 Juli 2026\nAkhir Pembayaran Pendaftaran: 08 Juli 2026\nAwal Pengisian Borang: 01 Juli 2026\nBatas Akhir Pengisian Borang: 09 Juli 2026\nCetak Kartu Ujian: 01-10 Juli 2026\nUji Coba SSE: 13 Juli 2026\nUjian Seleksi: 15 Juli 2026\nPengumuman Kelulusan: 17-22 Juli 2026\nDaftar Ulang: 23 Juli 2026\nPengumuman Kelompok UKT: 24 Juli 2026\nKlarifikasi UKT: 27-28 Juli 2026\nRapat Penentuan Klarifikasi UKT: 29 Juli 2026\nPengumuman Klarifikasi UKT: 30 Juli 2026\nPembayaran UKT: 24 Juli-04 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 05 Agustus 2026\nNIM dan KTM: 06-07 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026",
+    "content": "## 12. SPMB Mandiri Non Reguler - NIlai UM PTKIN\n\nMulai Pendaftaran: 01 Juli 2026\nAkhir Pembayaran Pendaftaran: 08 Juli 2026\nAwal Pengisian Borang: 01 Juli 2026\nBatas Akhir Pengisian Borang: 09 Juli 2026\nCetak Kartu Ujian: 01-10 Juli 2026\nUji Coba SSE: 13 Juli 2026\nUjian Seleksi: 15 Juli 2026\nPengumuman Kelulusan: 17-22 Juli 2026\nDaftar Ulang: 23 Juli 2026\nPengumuman Kelompok UKT: 24 Juli 2026\nKlarifikasi UKT: 27-28 Juli 2026\nRapat Penentuan Klarifikasi UKT: 29 Juli 2026\nPengumuman Klarifikasi UKT: 30 Juli 2026\nPembayaran UKT: 24 Juli-04 Agustus 2026\nVerifikasi & Validasi Data Wajib PDDIKTI (Internal Akademik): 05 Agustus 2026\nNIM dan KTM: 06-07 Agustus 2026\nTes ETIC dan TOAFL: 26-29 Agustus 2026\nPBAK: 26-29 Agustus 2026\nPerkuliahan: 01 September 2026"
+  },
+  {
+    "id": "6c3148ebf390ea97fe41a82717d26f84",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "### C. Jadwal Pelaksanaan UM-PTKIN",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > C. Jadwal Pelaksanaan UM-PTKIN",
+    "intents": [
+      "tanya_jadwal"
+    ],
+    "topik": "Jadwal Pelaksanaan UM-PTKIN",
+    "alias_topik": [
+      "jadwal UM-PTKIN",
+      "jadwal UM PTKIN 2026",
+      "Jadwal Seleksi UMPTKIN"
+    ],
+    "search_text": "Judul: Jadwal Pelaksanaan UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > C. Jadwal Pelaksanaan UM-PTKIN\nAlias: jadwal UM-PTKIN, jadwal UM PTKIN 2026, Jadwal Seleksi UMPTKIN\nIntent: tanya_jadwal\n\n### C. Jadwal Pelaksanaan UM-PTKIN\n\n| Kegiatan | Jadwal |\n|---|---|\n| Pendaftaran/Pembayaran | 13 April – 30 Mei 2026 |\n| Finalisasi Pendaftaran | 13 April – 03 Juni 2026 |\n| Mulai Cetak Kartu Peserta UM-PTKIN | 01 Mei 2026 |\n| Pelaksanaan Ujian SSE UM-PTKIN | 08–14 Juni 2026 |\n| Pengumuman | 30 Juni 2026 |\nCatatan :\nPelaksanaan Ujian SSE UM-PTKIN tercantum pada masing-masing Kartu Peserta Ujian dan dilaksanakan pada PTKIN/PTN Titik Lokasi Ujian yang dipilih oleh Peserta dengan ketentuan yang telah ditetapkan.",
+    "content": "### C. Jadwal Pelaksanaan UM-PTKIN\n\n| Kegiatan | Jadwal |\n|---|---|\n| Pendaftaran/Pembayaran | 13 April – 30 Mei 2026 |\n| Finalisasi Pendaftaran | 13 April – 03 Juni 2026 |\n| Mulai Cetak Kartu Peserta UM-PTKIN | 01 Mei 2026 |\n| Pelaksanaan Ujian SSE UM-PTKIN | 08–14 Juni 2026 |\n| Pengumuman | 30 Juni 2026 |\nCatatan :\nPelaksanaan Ujian SSE UM-PTKIN tercantum pada masing-masing Kartu Peserta Ujian dan dilaksanakan pada PTKIN/PTN Titik Lokasi Ujian yang dipilih oleh Peserta dengan ketentuan yang telah ditetapkan."
+  },
+  {
+    "id": "d1216f27f460367fc11da09e8d9c1cbe",
+    "source_file": "Juknis_Pendaftaran_UM_PTKIN_2026_tagged.md",
+    "heading": "#### 24. Kapan Pembayaran Biaya Pendaftaran UM-PTKIN?",
+    "parent_context": "JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami",
+    "intents": [
+      "tanya_jadwal"
+    ],
+    "topik": "Jadwal Pembayaran Biaya Pendaftaran UM-PTKIN",
+    "alias_topik": [
+      "pembayaran UM-PTKIN",
+      "jadwal bayar UM-PTKIN",
+      "biaya pendaftaran UM-PTKIN"
+    ],
+    "search_text": "Judul: Jadwal Pembayaran Biaya Pendaftaran UM-PTKIN\nKonteks: JUKNIS PENDAFTARAN UM-PTKIN 2026 > J. Kontak Kami\nAlias: pembayaran UM-PTKIN, jadwal bayar UM-PTKIN, biaya pendaftaran UM-PTKIN\nIntent: tanya_jadwal\n\n#### 24. Kapan Pembayaran Biaya Pendaftaran UM-PTKIN?\n\nJadwal pembayaran UM-PTKIN 2026 adalah 13 April 2026 pukul 08.00 WIB – 30 Mei 2026 pukul 23.59 WIB.",
+    "content": "#### 24. Kapan Pembayaran Biaya Pendaftaran UM-PTKIN?\n\nJadwal pembayaran UM-PTKIN 2026 adalah 13 April 2026 pukul 08.00 WIB – 30 Mei 2026 pukul 23.59 WIB."
+  },
+  {
+    "id": "3d573a67feac77cb60e69527105de315",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "# SELEKSI MASUK PASCASARJANA",
+    "parent_context": "SELEKSI MASUK PASCASARJANA",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_ujian",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Alur Pendaftaran Seleksi Masuk Pascasarjana S2 S3 Magister Doktor UIN Jakarta",
+    "alias_topik": [
+      "Prosedur pendaftaran pascasarjana",
+      "biaya pascasarjana",
+      "tes pascasarjana",
+      "ETIC TOAFL",
+      "TPA pascasarjana"
+    ],
+    "search_text": "Judul: Alur Pendaftaran Seleksi Masuk Pascasarjana S2 S3 Magister Doktor UIN Jakarta\nKonteks: SELEKSI MASUK PASCASARJANA\nAlias: Prosedur pendaftaran pascasarjana, biaya pascasarjana, tes pascasarjana, ETIC TOAFL, TPA pascasarjana\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_ujian, tanya_pascasarjana\n\n# SELEKSI MASUK PASCASARJANA\n\n1. Pendaftaran\nPembayaran Pendaftaran melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia. Panduan pembayaran dapat dilihat pada Tata Cara Pembayaran.\nBiaya Pendaftaran Warga Negara Indonesia dan Warga Negara Asing:\n- Magister: Rp. 750.000\n- Doktor: Rp. 1.500.000\nPendaftaran:\n- Ganjil: 9 Februari - 25 Juni 2026\n- Genap: -\n2. Tes Masuk (Online)\nETIC & TOAFL\n- Ganjil: 2 - 3 Juli 2026\n- Genap: -\nTPA\n- Ganjil: 6 - 7 Juli 2026\n- Genap: -\nWawancara\n- Ganjil: 8 - 9 Juli 2026\n- Genap: -\n3. Pengumuman Hasil Tes\nPengumuman Hasil Seleksi:\n- Ganjil: 22 Juli 2026 Pukul 18.00 WIB\n- Genap: -",
+    "content": "# SELEKSI MASUK PASCASARJANA\n\n1. Pendaftaran\nPembayaran Pendaftaran melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia. Panduan pembayaran dapat dilihat pada Tata Cara Pembayaran.\nBiaya Pendaftaran Warga Negara Indonesia dan Warga Negara Asing:\n- Magister: Rp. 750.000\n- Doktor: Rp. 1.500.000\nPendaftaran:\n- Ganjil: 9 Februari - 25 Juni 2026\n- Genap: -\n2. Tes Masuk (Online)\nETIC & TOAFL\n- Ganjil: 2 - 3 Juli 2026\n- Genap: -\nTPA\n- Ganjil: 6 - 7 Juli 2026\n- Genap: -\nWawancara\n- Ganjil: 8 - 9 Juli 2026\n- Genap: -\n3. Pengumuman Hasil Tes\nPengumuman Hasil Seleksi:\n- Ganjil: 22 Juli 2026 Pukul 18.00 WIB\n- Genap: -"
+  },
+  {
+    "id": "4a7040676d829fe53f770ceb404d9525",
+    "source_file": "pendaftaran_pascasarjana_tagged.md",
+    "heading": "# REGISTRASI DAN PERKULIAHAN PASCASARJANA",
+    "parent_context": "REGISTRASI DAN PERKULIAHAN PASCASARJANA",
+    "intents": [
+      "daftar_ulang",
+      "tanya_jadwal",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Registrasi Daftar Ulang S2 S3 Magister Doktor dan Perkuliahan Pascasarjana UIN Jakarta",
+    "alias_topik": [
+      "daftar ulang pascasarjana",
+      "registrasi ulang S2",
+      "registrasi ulang S3",
+      "NIM S2 S3",
+      "matrikulasi pascasarjana"
+    ],
+    "search_text": "Judul: Registrasi Daftar Ulang S2 S3 Magister Doktor dan Perkuliahan Pascasarjana UIN Jakarta\nKonteks: REGISTRASI DAN PERKULIAHAN PASCASARJANA\nAlias: daftar ulang pascasarjana, registrasi ulang S2, registrasi ulang S3, NIM S2 S3, matrikulasi pascasarjana\nIntent: daftar_ulang, tanya_jadwal, tanya_pascasarjana\n\n# REGISTRASI DAN PERKULIAHAN PASCASARJANA\n\n4. Pendaftaran Ulang\nLogin Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Pembayaran biaya kuliah melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia.\nPendaftaran Ulang:\n- Ganjil: 23 Juli - 13 Agustus 2026\n- Genap: -\n\n5. Nomor Induk Mahasiswa\nCetak Nomor Induk Mahasiswa (NIM) akan dapat dilakukan pada tanggal:\n- Ganjil: 14 Agustus 2026\n- Genap: -\nSilakan cek secara berkala.\n\n6. Matrikulasi\nMatrikulasi:\n- Ganjil: 18 - 31 Agustus 2026\n- Genap: -\n\n7. Awal Perkuliahan\nAwal Perkuliahan:\n- Ganjil: 1 September 2026\n- Genap: -",
+    "content": "# REGISTRASI DAN PERKULIAHAN PASCASARJANA\n\n4. Pendaftaran Ulang\nLogin Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Pembayaran biaya kuliah melalui BTN (Teller dan ATM) dan Bank Mega Syariah (Teller, ATM, dan M-Syariah Mobile) di Seluruh Indonesia.\nPendaftaran Ulang:\n- Ganjil: 23 Juli - 13 Agustus 2026\n- Genap: -\n\n5. Nomor Induk Mahasiswa\nCetak Nomor Induk Mahasiswa (NIM) akan dapat dilakukan pada tanggal:\n- Ganjil: 14 Agustus 2026\n- Genap: -\nSilakan cek secara berkala.\n\n6. Matrikulasi\nMatrikulasi:\n- Ganjil: 18 - 31 Agustus 2026\n- Genap: -\n\n7. Awal Perkuliahan\nAwal Perkuliahan:\n- Ganjil: 1 September 2026\n- Genap: -"
+  },
+  {
+    "id": "1e41a6bd160f448b925b80d67cbbb371",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Daftar Ulang",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Daftar Ulang",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang",
+      "tanya_jadwal"
+    ],
+    "topik": "Daftar Ulang Program Profesi Dokter",
+    "alias_topik": [
+      "daftar ulang profesi dokter",
+      "registrasi ulang profesi dokter"
+    ],
+    "search_text": "Judul: Daftar Ulang Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Daftar Ulang\nAlias: daftar ulang profesi dokter, registrasi ulang profesi dokter\nIntent: tanya_profesi, daftar_ulang, tanya_jadwal\n\n## Daftar Ulang\n\nLogin untuk Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah.\nJadwal Daftar Ulang akan diinformasikan lebih lanjut.",
+    "content": "## Daftar Ulang\n\nLogin untuk Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah.\nJadwal Daftar Ulang akan diinformasikan lebih lanjut."
+  },
+  {
+    "id": "60afce04b4295b4eccd16d8557063e5a",
+    "source_file": "sk_rektor_kalender_akademik_2026_2027_tagged.md",
+    "heading": "## KALENDER AKADEMIK",
+    "parent_context": "KALENDER AKADEMIK",
+    "intents": [
+      "tanya_jadwal"
+    ],
+    "topik": "Kalender Akademik UIN Jakarta Tahun Akademik 2026/2027",
+    "alias_topik": [
+      "kalender akademik",
+      "jadwal akademik"
+    ],
+    "search_text": "Judul: Kalender Akademik UIN Jakarta Tahun Akademik 2026/2027\nKonteks: KALENDER AKADEMIK\nAlias: kalender akademik, jadwal akademik\nIntent: tanya_jadwal\n\n## KALENDER AKADEMIK\n\nPROGRAM SARJANA, PROGRAM MAGISTER, DAN PROGRAM DOKTOR\nUIN SYARIF HIDAYATULLAH JAKARTA\nTAHUN AKADEMIK 2026/2027",
+    "content": "## KALENDER AKADEMIK\n\nPROGRAM SARJANA, PROGRAM MAGISTER, DAN PROGRAM DOKTOR\nUIN SYARIF HIDAYATULLAH JAKARTA\nTAHUN AKADEMIK 2026/2027"
+  },
+  {
+    "id": "8fe277cf9ea2098876b5050be00fc630",
+    "source_file": "sk_rektor_kalender_akademik_2026_2027_tagged.md",
+    "heading": "## A. PERKULIAHAN",
+    "parent_context": "A. PERKULIAHAN",
+    "intents": [
+      "tanya_jadwal"
+    ],
+    "topik": "Perkuliahan Kalender Akademik 2026/2027",
+    "alias_topik": [
+      "jadwal perkuliahan"
+    ],
+    "search_text": "Judul: Perkuliahan Kalender Akademik 2026/2027\nKonteks: A. PERKULIAHAN\nAlias: jadwal perkuliahan\nIntent: tanya_jadwal\n\n## A. PERKULIAHAN\n\n| No. | Uraian Kegiatan | Semester Ganjil | Semester Genap |\n|---:|---|---|---|\n| 1 | Penawaran Mata Kuliah dan Jadwal | 15—30 Juni 2026 | 28 Desember 2026—08 Januari 2027 |\n| 2 | Pembayaran Uang Kuliah/UKT (Mahasiswa Lama) | 20 Juli—19 Agustus 2026 | 18 Januari—19 Februari 2027 |\n| 3 | Pengajuan Cuti Kuliah | 20 Juli—19 Agustus 2026 | 18 Januari—19 Februari 2027 |\n| 4 | Pengisian e-RS (Konsultasi Mahasiswa dengan Dosen PA) | 20 Juli—20 Agustus 2026 | 18 Januari—21 Februari 2027 |\n| 5 | Validasi e-RS oleh Dosen Pembimbing Akademik | 20 Juli—21 Agustus 2026 | 18 Januari—22 Februari 2027 |\n| 6 | Perkuliahan (termasuk UTS dan UAS) | 01 September 2026—08 Januari 2027 | 01 Maret—27 Juli 2027 |\n| 7 | Pengisian Nilai oleh Dosen | 28 Desember 2026—15 Januari 2027 | 11 Juli—30 Juli 2027 |\n| 8 | Pelaporan PDDikti | 18—31 Januari 2027 | 02—13 Agustus 2027 |\n| 9 | KKN | Diatur oleh PPM | Diatur oleh PPM |",
+    "content": "## A. PERKULIAHAN\n\n| No. | Uraian Kegiatan | Semester Ganjil | Semester Genap |\n|---:|---|---|---|\n| 1 | Penawaran Mata Kuliah dan Jadwal | 15—30 Juni 2026 | 28 Desember 2026—08 Januari 2027 |\n| 2 | Pembayaran Uang Kuliah/UKT (Mahasiswa Lama) | 20 Juli—19 Agustus 2026 | 18 Januari—19 Februari 2027 |\n| 3 | Pengajuan Cuti Kuliah | 20 Juli—19 Agustus 2026 | 18 Januari—19 Februari 2027 |\n| 4 | Pengisian e-RS (Konsultasi Mahasiswa dengan Dosen PA) | 20 Juli—20 Agustus 2026 | 18 Januari—21 Februari 2027 |\n| 5 | Validasi e-RS oleh Dosen Pembimbing Akademik | 20 Juli—21 Agustus 2026 | 18 Januari—22 Februari 2027 |\n| 6 | Perkuliahan (termasuk UTS dan UAS) | 01 September 2026—08 Januari 2027 | 01 Maret—27 Juli 2027 |\n| 7 | Pengisian Nilai oleh Dosen | 28 Desember 2026—15 Januari 2027 | 11 Juli—30 Juli 2027 |\n| 8 | Pelaporan PDDikti | 18—31 Januari 2027 | 02—13 Agustus 2027 |\n| 9 | KKN | Diatur oleh PPM | Diatur oleh PPM |"
+  },
+  {
+    "id": "a07e07bf30f729602852ee055d7399e8",
+    "source_file": "sk_rektor_kalender_akademik_2026_2027_tagged.md",
+    "heading": "## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)",
+    "parent_context": "JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)",
+    "intents": [
+      "tanya_jadwal",
+      "daftar_ulang",
+      "tanya_ujian"
+    ],
+    "topik": "Jadwal Pendafataran dan Daftar Ulang Program Magister S2 dan Doktor S3 Kalender PMB 2026/2027",
+    "alias_topik": [
+      "jadwal S2",
+      "jadwal S3",
+      "jadwal pascasarjana",
+      "ETIC TOAFL TPA wawancara"
+    ],
+    "search_text": "Judul: Jadwal Pendafataran dan Daftar Ulang Program Magister S2 dan Doktor S3 Kalender PMB 2026/2027\nKonteks: JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\nAlias: jadwal S2, jadwal S3, jadwal pascasarjana, ETIC TOAFL TPA wawancara\nIntent: tanya_jadwal, daftar_ulang, tanya_ujian\n\n## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\n\n| No. | Uraian Kegiatan | Ganjil | Genap |\n|---:|---|---|---|\n| 1 | Pendaftaran Online | 9 februari —25 Juni 2026 | 01 Maret—31 Desember 2026 |\n| 2a | Tes Masuk: ETIC dan TOAFL | 02—03 Juli 2026 | 07—08 Januari 2027 |\n| 2b | Tes Masuk: TPA | 06—07 Juli 2026 | 11—12 Januari 2027 |\n| 2c | Tes Masuk: Wawancara | 08—09 Juli 2026 | 13—14 Januari 2027 |\n| 3 | Pengumuman Kelulusan | 22 Juli 2026 | 27 Januari 2027 |\n| 4 | Daftar Ulang | 23 Juli—13 Agustus 2026 | 28 Januari—11 Februari 2027 |\n| 5 | Matrikulasi | 18—31 Agustus 2026 | 15—26 Februari 2027 |\n| 6 | Awal Perkuliahan | 01 September 2026 | 22 Maret 2027 |\n\nREKTOR,\nASEP SAEPUDIN JAHAR",
+    "content": "## JADWAL PROGRAM MAGISTER (S2) DAN DOKTOR (S3)\n\n| No. | Uraian Kegiatan | Ganjil | Genap |\n|---:|---|---|---|\n| 1 | Pendaftaran Online | 9 februari —25 Juni 2026 | 01 Maret—31 Desember 2026 |\n| 2a | Tes Masuk: ETIC dan TOAFL | 02—03 Juli 2026 | 07—08 Januari 2027 |\n| 2b | Tes Masuk: TPA | 06—07 Juli 2026 | 11—12 Januari 2027 |\n| 2c | Tes Masuk: Wawancara | 08—09 Juli 2026 | 13—14 Januari 2027 |\n| 3 | Pengumuman Kelulusan | 22 Juli 2026 | 27 Januari 2027 |\n| 4 | Daftar Ulang | 23 Juli—13 Agustus 2026 | 28 Januari—11 Februari 2027 |\n| 5 | Matrikulasi | 18—31 Agustus 2026 | 15—26 Februari 2027 |\n| 6 | Awal Perkuliahan | 01 September 2026 | 22 Maret 2027 |\n\nREKTOR,\nASEP SAEPUDIN JAHAR"
+  },
+  {
+    "id": "ccb45562939108cd4aa34cdb17775c1f",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 3. Pendaftaran",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 3. Pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Tata Cara Pendaftaran Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "daftar Obgin",
+      "jadwal pendaftaran Obgin",
+      "cara daftar spesialis Obgin"
+    ],
+    "search_text": "Judul: Tata Cara Pendaftaran Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 3. Pendaftaran\nAlias: daftar Obgin, jadwal pendaftaran Obgin, cara daftar spesialis Obgin\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_profesi\n\n## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Obstetri dan Ginekologi (Obgin) UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Obstetri dan Ginekologi (Obgin), klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “Obstetri dan Ginekologi (Obgin)”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”.",
+    "content": "## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Obstetri dan Ginekologi (Obgin) UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Obstetri dan Ginekologi (Obgin), klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “Obstetri dan Ginekologi (Obgin)”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”."
+  },
+  {
+    "id": "5e50af893729ca965f95282914766532",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 4. Pengumuman Kelulusan Tahap Administrasi",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 4. Pengumuman Kelulusan Tahap Administrasi",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Tahap Administrasi Obgin",
+    "alias_topik": [
+      "pengumuman administrasi Obgin",
+      "hasil administrasi Obgin"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Tahap Administrasi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 4. Pengumuman Kelulusan Tahap Administrasi\nAlias: pengumuman administrasi Obgin, hasil administrasi Obgin\nIntent: tanya_jadwal, tanya_profesi\n\n## 4. Pengumuman Kelulusan Tahap Administrasi\n\nHasil kelulusan tahap Administrasi telah diumumkan pada tanggal: 28 April 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman.",
+    "content": "## 4. Pengumuman Kelulusan Tahap Administrasi\n\nHasil kelulusan tahap Administrasi telah diumumkan pada tanggal: 28 April 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman."
+  },
+  {
+    "id": "b1bb5ad1129518ddd902a9133c0cf276",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 6. Ujian Seleksi",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 6. Ujian Seleksi",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Ujian Seleksi Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "ujian Obgin",
+      "jadwal ujian Obgin",
+      "TPA Obgin",
+      "CBT Obgin",
+      "OSCE Obgin"
+    ],
+    "search_text": "Judul: Ujian Seleksi Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 6. Ujian Seleksi\nAlias: ujian Obgin, jadwal ujian Obgin, TPA Obgin, CBT Obgin, OSCE Obgin\nIntent: tanya_ujian, tanya_jadwal, tanya_profesi\n\n## 6. Ujian Seleksi\n\n1. Tes Kesehatan: 18 Mei 2026\n2. Tes Potensi Akademik (TPA): 19 Mei 2026\n3. Ujian CBT: 20 Mei 2026\n4. MMPI dan Wawancara Psikiater: 21 Mei 2026\n5. Wawancara Umum: 25 Mei 2026\n6. OSCE: 26 Mei 2026",
+    "content": "## 6. Ujian Seleksi\n\n1. Tes Kesehatan: 18 Mei 2026\n2. Tes Potensi Akademik (TPA): 19 Mei 2026\n3. Ujian CBT: 20 Mei 2026\n4. MMPI dan Wawancara Psikiater: 21 Mei 2026\n5. Wawancara Umum: 25 Mei 2026\n6. OSCE: 26 Mei 2026"
+  },
+  {
+    "id": "4c0971f35263b54696d9e9db84a99c5d",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 7. Pengumuman Kelulusan Akhir",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 7. Pengumuman Kelulusan Akhir",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Akhir Obgin",
+    "alias_topik": [
+      "pengumuman akhir Obgin",
+      "kelulusan Obgin"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Akhir Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 7. Pengumuman Kelulusan Akhir\nAlias: pengumuman akhir Obgin, kelulusan Obgin\nIntent: tanya_jadwal, tanya_profesi\n\n## 7. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir.",
+    "content": "## 7. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir."
+  },
+  {
+    "id": "1a748094efac46596ead18e68fe58258",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 8. Daftar Ulang",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_profesi",
+      "tanya_jadwal",
+      "tanya_link"
+    ],
+    "topik": "Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "daftar ulang Obgin",
+      "registrasi ulang spesialis",
+      "link daftar ulang Obgin"
+    ],
+    "search_text": "Judul: Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang\nAlias: daftar ulang Obgin, registrasi ulang spesialis, link daftar ulang Obgin\nIntent: daftar_ulang, tanya_profesi, tanya_jadwal, tanya_link\n\n## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul",
+    "content": "## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul"
+  },
+  {
+    "id": "3c3b7a9f73ba70d00412118cb483c3b8",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 3. Pendaftaran",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 3. Pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Tata cara Pendaftaran Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "daftar pulmonologi",
+      "pendaftaran spesialis pulmonologi",
+      "jadwal pulmonologi"
+    ],
+    "search_text": "Judul: Tata cara Pendaftaran Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 3. Pendaftaran\nAlias: daftar pulmonologi, pendaftaran spesialis pulmonologi, jadwal pulmonologi\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_profesi\n\n## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Pulmonologi dan Kedokteran Respirasi UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Pulmonologi dan Kedokteran Respirasi, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “ Pulmonologi dan Kedokteran Respirasi”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”.",
+    "content": "## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Pulmonologi dan Kedokteran Respirasi UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Pulmonologi dan Kedokteran Respirasi, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “ Pulmonologi dan Kedokteran Respirasi”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”."
+  },
+  {
+    "id": "3974533faed5a531f60c57b7ea145e34",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 4. Pengumuman Kelulusan Tahap I",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 4. Pengumuman Kelulusan Tahap I",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Tahap I Spesialis Pulmonologi",
+    "alias_topik": [
+      "pengumuman tahap I pulmonologi",
+      "kelulusan tahap I pulmonologi"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Tahap I Spesialis Pulmonologi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 4. Pengumuman Kelulusan Tahap I\nAlias: pengumuman tahap I pulmonologi, kelulusan tahap I pulmonologi\nIntent: tanya_jadwal, tanya_profesi\n\n## 4. Pengumuman Kelulusan Tahap I\n\nHasil kelulusan tahap I telah diumumkan pada tanggal: 28 April 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman.",
+    "content": "## 4. Pengumuman Kelulusan Tahap I\n\nHasil kelulusan tahap I telah diumumkan pada tanggal: 28 April 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman."
+  },
+  {
+    "id": "0dc639676860013316d13e9137d790e7",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 6. Ujian Seleksi",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 6. Ujian Seleksi",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Ujian Seleksi Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "ujian pulmonologi",
+      "SSE pulmonologi",
+      "TPA pulmonologi",
+      "CBT pulmonologi"
+    ],
+    "search_text": "Judul: Ujian Seleksi Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 6. Ujian Seleksi\nAlias: ujian pulmonologi, SSE pulmonologi, TPA pulmonologi, CBT pulmonologi\nIntent: tanya_ujian, tanya_jadwal, tanya_profesi\n\n## 6. Ujian Seleksi\n\n1. Uji Coba SSE (Sistem Seleksi Elektronik) Online: 18 Mei 2026\n2. Ujian SSE Online - TPA: 19 Mei 2026\n3. Ujian CBT Pulmonologi Dasar: 20 Mei 2026",
+    "content": "## 6. Ujian Seleksi\n\n1. Uji Coba SSE (Sistem Seleksi Elektronik) Online: 18 Mei 2026\n2. Ujian SSE Online - TPA: 19 Mei 2026\n3. Ujian CBT Pulmonologi Dasar: 20 Mei 2026"
+  },
+  {
+    "id": "70376ea9b3a9caededdf8253c5771911",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 7. Pengumuman Kelulusan Tahap II",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 7. Pengumuman Kelulusan Tahap II",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Tahap II Spesialis Pulmonologi",
+    "alias_topik": [
+      "pengumuman tahap II pulmonologi",
+      "kelulusan tahap II pulmonologi"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Tahap II Spesialis Pulmonologi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 7. Pengumuman Kelulusan Tahap II\nAlias: pengumuman tahap II pulmonologi, kelulusan tahap II pulmonologi\nIntent: tanya_jadwal, tanya_profesi\n\n## 7. Pengumuman Kelulusan Tahap II\n\nHasil kelulusan tahap II telah diumumkan pada tanggal: 29 Mei 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman.",
+    "content": "## 7. Pengumuman Kelulusan Tahap II\n\nHasil kelulusan tahap II telah diumumkan pada tanggal: 29 Mei 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman."
+  },
+  {
+    "id": "26575edcc70baa5e7bf4801df67f5cd5",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 8. Pengumuman Kelulusan Akhir",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 8. Pengumuman Kelulusan Akhir",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Akhir Spesialis Pulmonologi",
+    "alias_topik": [
+      "pengumuman akhir pulmonologi",
+      "kelulusan akhir pulmonologi"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Akhir Spesialis Pulmonologi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 8. Pengumuman Kelulusan Akhir\nAlias: pengumuman akhir pulmonologi, kelulusan akhir pulmonologi\nIntent: tanya_jadwal, tanya_profesi\n\n## 8. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir.",
+    "content": "## 8. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir."
+  }
+]

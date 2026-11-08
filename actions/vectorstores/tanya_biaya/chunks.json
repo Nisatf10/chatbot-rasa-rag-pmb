@@ -1,0 +1,1747 @@
+[
+  {
+    "id": "3a97f95046fdf83ea8d93aa88b80c969",
+    "source_file": "brosur_magister_ekonomi_syariah_tagged_v2.md",
+    "heading": "## BIAYA",
+    "parent_context": "BROSUR MAGISTER EKONOMI SYARIAH > BIAYA",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Biaya Magister Ekonomi Syariah",
+    "alias_topik": [
+      "biaya S2 Ekonomi Syariah",
+      "UKT Magister Ekonomi Syariah",
+      "biaya pascasarjana ekonomi syariah"
+    ],
+    "search_text": "Judul: Biaya Magister Ekonomi Syariah\nKonteks: BROSUR MAGISTER EKONOMI SYARIAH > BIAYA\nAlias: biaya S2 Ekonomi Syariah, UKT Magister Ekonomi Syariah, biaya pascasarjana ekonomi syariah\nIntent: tanya_biaya\n\n## BIAYA\n\nKomponen                                      Keterangan\nBiaya Seleksi Masuk                           Rp 750.000\nBiaya Kuliah (UKT) - WNI                      Rp 8.500.000\nBiaya Kuliah (UKT) - WNA                      Rp 9.500.000\nMartikulasi untuk Camaba Non-Linier - WNI     Rp 1.500.000/mhs/paket\nMartikulasi untuk Camaba Non-Linier - WNA     Rp 2.165.000/mhs/paket",
+    "content": "## BIAYA\n\nKomponen                                      Keterangan\nBiaya Seleksi Masuk                           Rp 750.000\nBiaya Kuliah (UKT) - WNI                      Rp 8.500.000\nBiaya Kuliah (UKT) - WNA                      Rp 9.500.000\nMartikulasi untuk Camaba Non-Linier - WNI     Rp 1.500.000/mhs/paket\nMartikulasi untuk Camaba Non-Linier - WNA     Rp 2.165.000/mhs/paket"
+  },
+  {
+    "id": "4ef491553d585efe066236b1f357b48a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## Tabel UKT Program Studi UIN Jakarta",
+    "parent_context": "Tabel UKT Program Studi UIN Jakarta",
+    "intents": [
+      "tanya_biaya",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Tabel UKT Seluruh Program Studi UIN Jakarta",
+    "alias_topik": [
+      "daftar UKT per prodi",
+      "UKT program studi UIN Jakarta",
+      "biaya per prodi UIN Jakarta"
+    ],
+    "search_text": "Judul: Tabel UKT Seluruh Program Studi UIN Jakarta\nKonteks: Tabel UKT Program Studi UIN Jakarta\nAlias: daftar UKT per prodi, UKT program studi UIN Jakarta, biaya per prodi UIN Jakarta\nIntent: tanya_biaya, tanya_prodi_fakultas\n\n## Tabel UKT Program Studi UIN Jakarta\n\nHalaman | No | Perguruan Tinggi                | Fakultas/Jurusan             | Jurusan/Program Studi                    | Kelompok I  | Kelompok II | Kelompok III | Kelompok IV | Kelompok V | Kelompok VI | Kelompok VII | Kelompok VIII (KIP)\n--------+----+---------------------------------+------------------------------+------------------------------------------+-------------+-------------+--------------+-------------+------------+-------------+--------------+--------------------\n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Agama Islam                   | 0 - 400.000 | 2.640.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Arab                   | 0 - 400.000 | 2.756.000   | 3.500.000    | 4.000.000   | 4.500.000  | 5.000.000   | 5.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Inggris                | 0 - 400.000 | 2.760.000   | 3.120.000    | 3.600.000   | 4.450.000  | 5.540.000   | 6.650.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Biologi                       | 0 - 400.000 | 3.360.000   | 4.200.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Kimia                         | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Fisika                        | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 6.750.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Matematika                    | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Manajemen Pendidikan                     | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Guru Madrasah Ibtidaiyah      | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa dan Sastra Indonesia   | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Ilmu Pengetahuan Sosial       | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Islam Anak Usia Dini          | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Arab                   | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Sejarah dan Peradaban Islam              | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Tarjamah                                 | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Ilmu Perpustakaan                        | 0 - 400.000 | 3.025.000   | 3.465.000    | 4.500.000   | 5.000.000  | 6.000.000   | 6.840.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Inggris                | 0 - 400.000 | 3.498.000   | 4.500.000    | 5.200.000   | 5.900.000  | 6.700.000   | 7.680.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Studi Agama-Agama                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Al-Quran dan Tafsir                 | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Hadis                               | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Aqidah dan Filsafat Islam                | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Tasawuf                             | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Keluarga (Ahwal Syakhsiyyah)       | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Perbandingan Mazhab                      | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 5.400.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Tata Negara (Siyasah)              | 0 - 400.000 | 3.250.000   | 3.600.000    | 4.150.000   | 4.550.000  | 5.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Pidana Islam (Jinayah)             | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Ekonomi Syari'ah (Muamalat)        | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Ilmu Hukum                               | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Komunikasi dan Penyiaran Islam           | 0 - 400.000 | 3.945.000   | 4.530.000    | 5.220.000   | 6.000.000  | 6.900.000   | 7.950.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Bimbingan dan Penyuluhan Islam           | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Manajemen Dakwah                         | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.000.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Pengembangan Masyarakat Islam            | 0 - 400.000 | 2.500.000   | 2.800.000    | 3.500.000   | 4.000.000  | 4.500.000   | 5.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Kesejahteraan Sosial                     | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Jurnalistik                              | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dirasat Islamiyah            | Dirasat Islamiyah                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 5.964.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Psikologi                    | Psikologi                                | 0 - 400.000 | 3.850.000   | 4.450.000    | 6.200.000   | 7.200.000  | 8.200.000   | 9.300.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Manajemen                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Akuntansi                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ilmu Ekonomi dan Studi Pembangunan       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ekonomi Syariah                          | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Perbankan Syariah                        | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.000.000  | 7.310.000   | 8.500.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Agribisnis                               | 0 - 400.000 | 3.500.000   | 4.000.000    | 4.500.000   | 5.000.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Informatika                       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Sistem Informasi                         | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Matematika                               | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Biologi                                  | 0 - 400.000 | 3.500.000   | 4.300.000    | 4.800.000   | 5.800.000  | 6.800.000   | 7.800.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Kimia                                    | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Fisika                                   | 0 - 400.000 | 3.000.000   | 4.000.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Pertambangan                      | 0 - 400.000 | 10.800.000  | 12.640.000   | 14.000.000  | 14.250.000 | 14.500.000  | 16.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Kesehatan Masyarakat                     | 0 - 400.000 | 4.818.000   | 5.000.000    | 5.500.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Farmasi                                  | 0 - 400.000 | 6.500.000   | 7.500.000    | 9.000.000   | 10.000.000 | 11.500.000  | 14.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Ilmu Keperawatan                         | 0 - 400.000 | 5.000.000   | 5.500.000    | 7.000.000   | 8.000.000  | 9.000.000   | 10.000.000   | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Sosiologi                                | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Politik                             | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Hubungan Internasional              | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Kedokteran                   | Kedokteran dan Pendidikan Profesi Dokter | 0 - 400.000 | 16.000.000  | 23.000.000   | 30.000.000  | 38.000.000 | 42.000.000  | 50.000.000   | 2.400.000",
+    "content": "## Tabel UKT Program Studi UIN Jakarta\n\nHalaman | No | Perguruan Tinggi                | Fakultas/Jurusan             | Jurusan/Program Studi                    | Kelompok I  | Kelompok II | Kelompok III | Kelompok IV | Kelompok V | Kelompok VI | Kelompok VII | Kelompok VIII (KIP)\n--------+----+---------------------------------+------------------------------+------------------------------------------+-------------+-------------+--------------+-------------+------------+-------------+--------------+--------------------\n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Agama Islam                   | 0 - 400.000 | 2.640.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Arab                   | 0 - 400.000 | 2.756.000   | 3.500.000    | 4.000.000   | 4.500.000  | 5.000.000   | 5.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Inggris                | 0 - 400.000 | 2.760.000   | 3.120.000    | 3.600.000   | 4.450.000  | 5.540.000   | 6.650.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Biologi                       | 0 - 400.000 | 3.360.000   | 4.200.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Kimia                         | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Fisika                        | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 6.750.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Matematika                    | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Manajemen Pendidikan                     | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Guru Madrasah Ibtidaiyah      | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa dan Sastra Indonesia   | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Ilmu Pengetahuan Sosial       | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Islam Anak Usia Dini          | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Arab                   | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Sejarah dan Peradaban Islam              | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Tarjamah                                 | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Ilmu Perpustakaan                        | 0 - 400.000 | 3.025.000   | 3.465.000    | 4.500.000   | 5.000.000  | 6.000.000   | 6.840.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Inggris                | 0 - 400.000 | 3.498.000   | 4.500.000    | 5.200.000   | 5.900.000  | 6.700.000   | 7.680.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Studi Agama-Agama                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Al-Quran dan Tafsir                 | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Hadis                               | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Aqidah dan Filsafat Islam                | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Tasawuf                             | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Keluarga (Ahwal Syakhsiyyah)       | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Perbandingan Mazhab                      | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 5.400.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Tata Negara (Siyasah)              | 0 - 400.000 | 3.250.000   | 3.600.000    | 4.150.000   | 4.550.000  | 5.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Pidana Islam (Jinayah)             | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Ekonomi Syari'ah (Muamalat)        | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Ilmu Hukum                               | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Komunikasi dan Penyiaran Islam           | 0 - 400.000 | 3.945.000   | 4.530.000    | 5.220.000   | 6.000.000  | 6.900.000   | 7.950.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Bimbingan dan Penyuluhan Islam           | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Manajemen Dakwah                         | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.000.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Pengembangan Masyarakat Islam            | 0 - 400.000 | 2.500.000   | 2.800.000    | 3.500.000   | 4.000.000  | 4.500.000   | 5.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Kesejahteraan Sosial                     | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Jurnalistik                              | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dirasat Islamiyah            | Dirasat Islamiyah                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 5.964.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Psikologi                    | Psikologi                                | 0 - 400.000 | 3.850.000   | 4.450.000    | 6.200.000   | 7.200.000  | 8.200.000   | 9.300.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Manajemen                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Akuntansi                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ilmu Ekonomi dan Studi Pembangunan       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ekonomi Syariah                          | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Perbankan Syariah                        | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.000.000  | 7.310.000   | 8.500.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Agribisnis                               | 0 - 400.000 | 3.500.000   | 4.000.000    | 4.500.000   | 5.000.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Informatika                       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Sistem Informasi                         | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Matematika                               | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Biologi                                  | 0 - 400.000 | 3.500.000   | 4.300.000    | 4.800.000   | 5.800.000  | 6.800.000   | 7.800.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Kimia                                    | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Fisika                                   | 0 - 400.000 | 3.000.000   | 4.000.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Pertambangan                      | 0 - 400.000 | 10.800.000  | 12.640.000   | 14.000.000  | 14.250.000 | 14.500.000  | 16.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Kesehatan Masyarakat                     | 0 - 400.000 | 4.818.000   | 5.000.000    | 5.500.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Farmasi                                  | 0 - 400.000 | 6.500.000   | 7.500.000    | 9.000.000   | 10.000.000 | 11.500.000  | 14.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Ilmu Keperawatan                         | 0 - 400.000 | 5.000.000   | 5.500.000    | 7.000.000   | 8.000.000  | 9.000.000   | 10.000.000   | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Sosiologi                                | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Politik                             | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Hubungan Internasional              | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Kedokteran                   | Kedokteran dan Pendidikan Profesi Dokter | 0 - 400.000 | 16.000.000  | 23.000.000   | 30.000.000  | 38.000.000 | 42.000.000  | 50.000.000   | 2.400.000"
+  },
+  {
+    "id": "3923eee1984962ec61b7e213e03118eb",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 1. UKT Pendidikan Agama Islam",
+    "parent_context": "1. UKT Pendidikan Agama Islam",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Agama Islam UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Agama Islam",
+      "UKT Pendidikan Agama Islam",
+      "uang kuliah Pendidikan Agama Islam",
+      "biaya kuliah Pendidikan Agama Islam UIN Jakarta",
+      "PAI",
+      "UKT PAI",
+      "biaya PAI",
+      "biaya kuliah PAI",
+      "PAI UIN Jakarta",
+      "Pend Agama Islam",
+      "UKT Pend Agama Islam",
+      "biaya Pend Agama Islam",
+      "biaya kuliah Pend Agama Islam",
+      "Pend Agama Islam UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Agama Islam UIN Jakarta\nKonteks: 1. UKT Pendidikan Agama Islam\nAlias: biaya Pendidikan Agama Islam, UKT Pendidikan Agama Islam, uang kuliah Pendidikan Agama Islam, biaya kuliah Pendidikan Agama Islam UIN Jakarta, PAI, UKT PAI, biaya PAI, biaya kuliah PAI, PAI UIN Jakarta, Pend Agama Islam, UKT Pend Agama Islam, biaya Pend Agama Islam, biaya kuliah Pend Agama Islam, Pend Agama Islam UIN Jakarta\nIntent: tanya_biaya\n\n## 1. UKT Pendidikan Agama Islam\n\nProgram Studi: Pendidikan Agama Islam\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.640.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 1. UKT Pendidikan Agama Islam\n\nProgram Studi: Pendidikan Agama Islam\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.640.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "982ec56358dbddf4bdb5848ee15d869a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 2. UKT Pendidikan Bahasa Arab",
+    "parent_context": "2. UKT Pendidikan Bahasa Arab",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Bahasa Arab UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Bahasa Arab",
+      "UKT Pendidikan Bahasa Arab",
+      "uang kuliah Pendidikan Bahasa Arab",
+      "biaya kuliah Pendidikan Bahasa Arab UIN Jakarta",
+      "PBA",
+      "UKT PBA",
+      "biaya PBA",
+      "biaya kuliah PBA",
+      "PBA UIN Jakarta",
+      "Pend Bahasa Arab",
+      "UKT Pend Bahasa Arab",
+      "biaya Pend Bahasa Arab",
+      "biaya kuliah Pend Bahasa Arab",
+      "Pend Bahasa Arab UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Bahasa Arab UIN Jakarta\nKonteks: 2. UKT Pendidikan Bahasa Arab\nAlias: biaya Pendidikan Bahasa Arab, UKT Pendidikan Bahasa Arab, uang kuliah Pendidikan Bahasa Arab, biaya kuliah Pendidikan Bahasa Arab UIN Jakarta, PBA, UKT PBA, biaya PBA, biaya kuliah PBA, PBA UIN Jakarta, Pend Bahasa Arab, UKT Pend Bahasa Arab, biaya Pend Bahasa Arab, biaya kuliah Pend Bahasa Arab, Pend Bahasa Arab UIN Jakarta\nIntent: tanya_biaya\n\n## 2. UKT Pendidikan Bahasa Arab\n\nProgram Studi: Pendidikan Bahasa Arab\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.756.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.000.000\n- Kelompok V: 4.500.000\n- Kelompok VI: 5.000.000\n- Kelompok VII: 5.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 2. UKT Pendidikan Bahasa Arab\n\nProgram Studi: Pendidikan Bahasa Arab\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.756.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.000.000\n- Kelompok V: 4.500.000\n- Kelompok VI: 5.000.000\n- Kelompok VII: 5.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "497edda4c1443a74b332e4cef06a357f",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 3. UKT Pendidikan Bahasa Inggris",
+    "parent_context": "3. UKT Pendidikan Bahasa Inggris",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Bahasa Inggris UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Bahasa Inggris",
+      "UKT Pendidikan Bahasa Inggris",
+      "uang kuliah Pendidikan Bahasa Inggris",
+      "biaya kuliah Pendidikan Bahasa Inggris UIN Jakarta",
+      "PBI",
+      "UKT PBI",
+      "biaya PBI",
+      "biaya kuliah PBI",
+      "PBI UIN Jakarta",
+      "Pend Bahasa Inggris",
+      "UKT Pend Bahasa Inggris",
+      "biaya Pend Bahasa Inggris",
+      "biaya kuliah Pend Bahasa Inggris",
+      "Pend Bahasa Inggris UIN Jakarta",
+      "Pendidikan B Inggris",
+      "UKT Pendidikan B Inggris",
+      "biaya Pendidikan B Inggris",
+      "biaya kuliah Pendidikan B Inggris",
+      "Pendidikan B Inggris UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Bahasa Inggris UIN Jakarta\nKonteks: 3. UKT Pendidikan Bahasa Inggris\nAlias: biaya Pendidikan Bahasa Inggris, UKT Pendidikan Bahasa Inggris, uang kuliah Pendidikan Bahasa Inggris, biaya kuliah Pendidikan Bahasa Inggris UIN Jakarta, PBI, UKT PBI, biaya PBI, biaya kuliah PBI, PBI UIN Jakarta, Pend Bahasa Inggris, UKT Pend Bahasa Inggris, biaya Pend Bahasa Inggris, biaya kuliah Pend Bahasa Inggris, Pend Bahasa Inggris UIN Jakarta, Pendidikan B Inggris, UKT Pendidikan B Inggris, biaya Pendidikan B Inggris, biaya kuliah Pendidikan B Inggris, Pendidikan B Inggris UIN Jakarta\nIntent: tanya_biaya\n\n## 3. UKT Pendidikan Bahasa Inggris\n\nProgram Studi: Pendidikan Bahasa Inggris\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.760.000\n- Kelompok III: 3.120.000\n- Kelompok IV: 3.600.000\n- Kelompok V: 4.450.000\n- Kelompok VI: 5.540.000\n- Kelompok VII: 6.650.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 3. UKT Pendidikan Bahasa Inggris\n\nProgram Studi: Pendidikan Bahasa Inggris\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.760.000\n- Kelompok III: 3.120.000\n- Kelompok IV: 3.600.000\n- Kelompok V: 4.450.000\n- Kelompok VI: 5.540.000\n- Kelompok VII: 6.650.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "e5d114b95c59f00b179c9f29f17767d4",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 4. UKT Pendidikan Biologi",
+    "parent_context": "4. UKT Pendidikan Biologi",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Biologi UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Biologi",
+      "UKT Pendidikan Biologi",
+      "uang kuliah Pendidikan Biologi",
+      "biaya kuliah Pendidikan Biologi UIN Jakarta",
+      "PBIO",
+      "UKT PBIO",
+      "biaya PBIO",
+      "biaya kuliah PBIO",
+      "PBIO UIN Jakarta",
+      "Pend Biologi",
+      "UKT Pend Biologi",
+      "biaya Pend Biologi",
+      "biaya kuliah Pend Biologi",
+      "Pend Biologi UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Biologi UIN Jakarta\nKonteks: 4. UKT Pendidikan Biologi\nAlias: biaya Pendidikan Biologi, UKT Pendidikan Biologi, uang kuliah Pendidikan Biologi, biaya kuliah Pendidikan Biologi UIN Jakarta, PBIO, UKT PBIO, biaya PBIO, biaya kuliah PBIO, PBIO UIN Jakarta, Pend Biologi, UKT Pend Biologi, biaya Pend Biologi, biaya kuliah Pend Biologi, Pend Biologi UIN Jakarta\nIntent: tanya_biaya\n\n## 4. UKT Pendidikan Biologi\n\nProgram Studi: Pendidikan Biologi\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.360.000\n- Kelompok III: 4.200.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 4. UKT Pendidikan Biologi\n\nProgram Studi: Pendidikan Biologi\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.360.000\n- Kelompok III: 4.200.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "0cb220d581d12af609b9c8d3f31a092a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 5. UKT Pendidikan Kimia",
+    "parent_context": "5. UKT Pendidikan Kimia",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Kimia UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Kimia",
+      "UKT Pendidikan Kimia",
+      "uang kuliah Pendidikan Kimia",
+      "biaya kuliah Pendidikan Kimia UIN Jakarta",
+      "Pend Kimia",
+      "UKT Pend Kimia",
+      "biaya Pend Kimia",
+      "biaya kuliah Pend Kimia",
+      "Pend Kimia UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Kimia UIN Jakarta\nKonteks: 5. UKT Pendidikan Kimia\nAlias: biaya Pendidikan Kimia, UKT Pendidikan Kimia, uang kuliah Pendidikan Kimia, biaya kuliah Pendidikan Kimia UIN Jakarta, Pend Kimia, UKT Pend Kimia, biaya Pend Kimia, biaya kuliah Pend Kimia, Pend Kimia UIN Jakarta\nIntent: tanya_biaya\n\n## 5. UKT Pendidikan Kimia\n\nProgram Studi: Pendidikan Kimia\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.360.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 5. UKT Pendidikan Kimia\n\nProgram Studi: Pendidikan Kimia\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.360.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "eea28a44e84abb3d8fe30f2c35cbd8b9",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 6. UKT Pendidikan Fisika",
+    "parent_context": "6. UKT Pendidikan Fisika",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Fisika UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Fisika",
+      "UKT Pendidikan Fisika",
+      "uang kuliah Pendidikan Fisika",
+      "biaya kuliah Pendidikan Fisika UIN Jakarta",
+      "PFIS",
+      "UKT PFIS",
+      "biaya PFIS",
+      "biaya kuliah PFIS",
+      "PFIS UIN Jakarta",
+      "Pend Fisika",
+      "UKT Pend Fisika",
+      "biaya Pend Fisika",
+      "biaya kuliah Pend Fisika",
+      "Pend Fisika UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Fisika UIN Jakarta\nKonteks: 6. UKT Pendidikan Fisika\nAlias: biaya Pendidikan Fisika, UKT Pendidikan Fisika, uang kuliah Pendidikan Fisika, biaya kuliah Pendidikan Fisika UIN Jakarta, PFIS, UKT PFIS, biaya PFIS, biaya kuliah PFIS, PFIS UIN Jakarta, Pend Fisika, UKT Pend Fisika, biaya Pend Fisika, biaya kuliah Pend Fisika, Pend Fisika UIN Jakarta\nIntent: tanya_biaya\n\n## 6. UKT Pendidikan Fisika\n\nProgram Studi: Pendidikan Fisika\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.360.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 6.750.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 6. UKT Pendidikan Fisika\n\nProgram Studi: Pendidikan Fisika\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.360.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 6.750.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "0a503c12c786039c9e02bff9951c20d3",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 7. UKT Pendidikan Matematika",
+    "parent_context": "7. UKT Pendidikan Matematika",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Matematika UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Matematika",
+      "UKT Pendidikan Matematika",
+      "uang kuliah Pendidikan Matematika",
+      "biaya kuliah Pendidikan Matematika UIN Jakarta",
+      "UKT Pend Matematika",
+      "biaya Pend Matematika",
+      "biaya kuliah Pend Matematika",
+      "Pend Matematika UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Matematika UIN Jakarta\nKonteks: 7. UKT Pendidikan Matematika\nAlias: biaya Pendidikan Matematika, UKT Pendidikan Matematika, uang kuliah Pendidikan Matematika, biaya kuliah Pendidikan Matematika UIN Jakarta, UKT Pend Matematika, biaya Pend Matematika, biaya kuliah Pend Matematika, Pend Matematika UIN Jakarta\nIntent: tanya_biaya\n\n## 7. UKT Pendidikan Matematika\n\nProgram Studi: Pendidikan Matematika\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 7. UKT Pendidikan Matematika\n\nProgram Studi: Pendidikan Matematika\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "5abe598df167734d4bbf04b5901028e4",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 8. UKT Manajemen Pendidikan",
+    "parent_context": "8. UKT Manajemen Pendidikan",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Manajemen Pendidikan UIN Jakarta",
+    "alias_topik": [
+      "biaya Manajemen Pendidikan",
+      "UKT Manajemen Pendidikan",
+      "uang kuliah Manajemen Pendidikan",
+      "biaya kuliah Manajemen Pendidikan UIN Jakarta",
+      "MP",
+      "UKT MP",
+      "biaya MP",
+      "biaya kuliah MP",
+      "MP UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Manajemen Pendidikan UIN Jakarta\nKonteks: 8. UKT Manajemen Pendidikan\nAlias: biaya Manajemen Pendidikan, UKT Manajemen Pendidikan, uang kuliah Manajemen Pendidikan, biaya kuliah Manajemen Pendidikan UIN Jakarta, MP, UKT MP, biaya MP, biaya kuliah MP, MP UIN Jakarta\nIntent: tanya_biaya\n\n## 8. UKT Manajemen Pendidikan\n\nProgram Studi: Manajemen Pendidikan\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 8. UKT Manajemen Pendidikan\n\nProgram Studi: Manajemen Pendidikan\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "14c5435204e769b5dd861a53f7a6fa81",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 9. UKT Pendidikan Guru Madrasah Ibtidaiyah",
+    "parent_context": "9. UKT Pendidikan Guru Madrasah Ibtidaiyah",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Guru Madrasah Ibtidaiyah UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Guru Madrasah Ibtidaiyah",
+      "UKT Pendidikan Guru Madrasah Ibtidaiyah",
+      "uang kuliah Pendidikan Guru Madrasah Ibtidaiyah",
+      "biaya kuliah Pendidikan Guru Madrasah Ibtidaiyah UIN Jakarta",
+      "PGMI",
+      "UKT PGMI",
+      "biaya PGMI",
+      "biaya kuliah PGMI",
+      "PGMI UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Guru Madrasah Ibtidaiyah UIN Jakarta\nKonteks: 9. UKT Pendidikan Guru Madrasah Ibtidaiyah\nAlias: biaya Pendidikan Guru Madrasah Ibtidaiyah, UKT Pendidikan Guru Madrasah Ibtidaiyah, uang kuliah Pendidikan Guru Madrasah Ibtidaiyah, biaya kuliah Pendidikan Guru Madrasah Ibtidaiyah UIN Jakarta, PGMI, UKT PGMI, biaya PGMI, biaya kuliah PGMI, PGMI UIN Jakarta\nIntent: tanya_biaya\n\n## 9. UKT Pendidikan Guru Madrasah Ibtidaiyah\n\nProgram Studi: Pendidikan Guru Madrasah Ibtidaiyah\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 9. UKT Pendidikan Guru Madrasah Ibtidaiyah\n\nProgram Studi: Pendidikan Guru Madrasah Ibtidaiyah\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "2ffc24a2c3c86383b8cc9c57d0f144e8",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 10. UKT Pendidikan Bahasa dan Sastra Indonesia",
+    "parent_context": "10. UKT Pendidikan Bahasa dan Sastra Indonesia",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Bahasa dan Sastra Indonesia UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Bahasa dan Sastra Indonesia",
+      "UKT Pendidikan Bahasa dan Sastra Indonesia",
+      "uang kuliah Pendidikan Bahasa dan Sastra Indonesia",
+      "biaya kuliah Pendidikan Bahasa dan Sastra Indonesia UIN Jakarta",
+      "PBSI",
+      "UKT PBSI",
+      "biaya PBSI",
+      "biaya kuliah PBSI",
+      "PBSI UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Bahasa dan Sastra Indonesia UIN Jakarta\nKonteks: 10. UKT Pendidikan Bahasa dan Sastra Indonesia\nAlias: biaya Pendidikan Bahasa dan Sastra Indonesia, UKT Pendidikan Bahasa dan Sastra Indonesia, uang kuliah Pendidikan Bahasa dan Sastra Indonesia, biaya kuliah Pendidikan Bahasa dan Sastra Indonesia UIN Jakarta, PBSI, UKT PBSI, biaya PBSI, biaya kuliah PBSI, PBSI UIN Jakarta\nIntent: tanya_biaya\n\n## 10. UKT Pendidikan Bahasa dan Sastra Indonesia\n\nProgram Studi: Pendidikan Bahasa dan Sastra Indonesia\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 10. UKT Pendidikan Bahasa dan Sastra Indonesia\n\nProgram Studi: Pendidikan Bahasa dan Sastra Indonesia\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "89ee96e106b4177a7f1a3a0c3f41bde0",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 11. UKT Pendidikan Ilmu Pengetahuan Sosial",
+    "parent_context": "11. UKT Pendidikan Ilmu Pengetahuan Sosial",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Ilmu Pengetahuan Sosial UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Ilmu Pengetahuan Sosial",
+      "UKT Pendidikan Ilmu Pengetahuan Sosial",
+      "uang kuliah Pendidikan Ilmu Pengetahuan Sosial",
+      "biaya kuliah Pendidikan Ilmu Pengetahuan Sosial UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Ilmu Pengetahuan Sosial UIN Jakarta\nKonteks: 11. UKT Pendidikan Ilmu Pengetahuan Sosial\nAlias: biaya Pendidikan Ilmu Pengetahuan Sosial, UKT Pendidikan Ilmu Pengetahuan Sosial, uang kuliah Pendidikan Ilmu Pengetahuan Sosial, biaya kuliah Pendidikan Ilmu Pengetahuan Sosial UIN Jakarta\nIntent: tanya_biaya\n\n## 11. UKT Pendidikan Ilmu Pengetahuan Sosial\n\nProgram Studi: Pendidikan Ilmu Pengetahuan Sosial\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 11. UKT Pendidikan Ilmu Pengetahuan Sosial\n\nProgram Studi: Pendidikan Ilmu Pengetahuan Sosial\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "f0c2610745abbb1019031aaba6495674",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 12. UKT Pendidikan Islam Anak Usia Dini",
+    "parent_context": "12. UKT Pendidikan Islam Anak Usia Dini",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pendidikan Islam Anak Usia Dini UIN Jakarta",
+    "alias_topik": [
+      "biaya Pendidikan Islam Anak Usia Dini",
+      "UKT Pendidikan Islam Anak Usia Dini",
+      "uang kuliah Pendidikan Islam Anak Usia Dini",
+      "biaya kuliah Pendidikan Islam Anak Usia Dini UIN Jakarta",
+      "PIAUD",
+      "UKT PIAUD",
+      "biaya PIAUD",
+      "biaya kuliah PIAUD",
+      "PIAUD UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pendidikan Islam Anak Usia Dini UIN Jakarta\nKonteks: 12. UKT Pendidikan Islam Anak Usia Dini\nAlias: biaya Pendidikan Islam Anak Usia Dini, UKT Pendidikan Islam Anak Usia Dini, uang kuliah Pendidikan Islam Anak Usia Dini, biaya kuliah Pendidikan Islam Anak Usia Dini UIN Jakarta, PIAUD, UKT PIAUD, biaya PIAUD, biaya kuliah PIAUD, PIAUD UIN Jakarta\nIntent: tanya_biaya\n\n## 12. UKT Pendidikan Islam Anak Usia Dini\n\nProgram Studi: Pendidikan Islam Anak Usia Dini\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 12. UKT Pendidikan Islam Anak Usia Dini\n\nProgram Studi: Pendidikan Islam Anak Usia Dini\nFakultas/Jurusan: Ilmu Tarbiyah dan Keguruan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.650.000\n- Kelompok III: 3.500.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "70fd51e01440cae4e9825c9f9a55d72c",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 13. UKT Bahasa dan Sastra Arab",
+    "parent_context": "13. UKT Bahasa dan Sastra Arab",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Bahasa dan Sastra Arab UIN Jakarta",
+    "alias_topik": [
+      "biaya Bahasa dan Sastra Arab",
+      "UKT Bahasa dan Sastra Arab",
+      "uang kuliah Bahasa dan Sastra Arab",
+      "biaya kuliah Bahasa dan Sastra Arab UIN Jakarta",
+      "BSA",
+      "UKT BSA",
+      "biaya BSA",
+      "biaya kuliah BSA",
+      "BSA UIN Jakarta",
+      "Sastra Arab",
+      "UKT Sastra Arab",
+      "biaya Sastra Arab",
+      "biaya kuliah Sastra Arab",
+      "Sastra Arab UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Bahasa dan Sastra Arab UIN Jakarta\nKonteks: 13. UKT Bahasa dan Sastra Arab\nAlias: biaya Bahasa dan Sastra Arab, UKT Bahasa dan Sastra Arab, uang kuliah Bahasa dan Sastra Arab, biaya kuliah Bahasa dan Sastra Arab UIN Jakarta, BSA, UKT BSA, biaya BSA, biaya kuliah BSA, BSA UIN Jakarta, Sastra Arab, UKT Sastra Arab, biaya Sastra Arab, biaya kuliah Sastra Arab, Sastra Arab UIN Jakarta\nIntent: tanya_biaya\n\n## 13. UKT Bahasa dan Sastra Arab\n\nProgram Studi: Bahasa dan Sastra Arab\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.300.000\n- Kelompok III: 2.600.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 13. UKT Bahasa dan Sastra Arab\n\nProgram Studi: Bahasa dan Sastra Arab\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.300.000\n- Kelompok III: 2.600.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "9338392b9f048e21013f32b8279c5c78",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 14. UKT Sejarah dan Peradaban Islam",
+    "parent_context": "14. UKT Sejarah dan Peradaban Islam",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Sejarah dan Peradaban Islam UIN Jakarta",
+    "alias_topik": [
+      "biaya Sejarah dan Peradaban Islam",
+      "UKT Sejarah dan Peradaban Islam",
+      "uang kuliah Sejarah dan Peradaban Islam",
+      "biaya kuliah Sejarah dan Peradaban Islam UIN Jakarta",
+      "SPI",
+      "UKT SPI",
+      "biaya SPI",
+      "biaya kuliah SPI",
+      "SPI UIN Jakarta",
+      "Sejarah Islam",
+      "UKT Sejarah Islam",
+      "biaya Sejarah Islam",
+      "biaya kuliah Sejarah Islam",
+      "Sejarah Islam UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Sejarah dan Peradaban Islam UIN Jakarta\nKonteks: 14. UKT Sejarah dan Peradaban Islam\nAlias: biaya Sejarah dan Peradaban Islam, UKT Sejarah dan Peradaban Islam, uang kuliah Sejarah dan Peradaban Islam, biaya kuliah Sejarah dan Peradaban Islam UIN Jakarta, SPI, UKT SPI, biaya SPI, biaya kuliah SPI, SPI UIN Jakarta, Sejarah Islam, UKT Sejarah Islam, biaya Sejarah Islam, biaya kuliah Sejarah Islam, Sejarah Islam UIN Jakarta\nIntent: tanya_biaya\n\n## 14. UKT Sejarah dan Peradaban Islam\n\nProgram Studi: Sejarah dan Peradaban Islam\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.300.000\n- Kelompok III: 2.600.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 14. UKT Sejarah dan Peradaban Islam\n\nProgram Studi: Sejarah dan Peradaban Islam\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.300.000\n- Kelompok III: 2.600.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "72d08aa3bcd26c3d99654a8bd5297e4f",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 15. UKT Tarjamah",
+    "parent_context": "15. UKT Tarjamah",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Tarjamah UIN Jakarta",
+    "alias_topik": [
+      "biaya Tarjamah",
+      "UKT Tarjamah",
+      "uang kuliah Tarjamah",
+      "biaya kuliah Tarjamah UIN Jakarta",
+      "TRJ",
+      "UKT TRJ",
+      "biaya TRJ",
+      "biaya kuliah TRJ",
+      "TRJ UIN Jakarta",
+      "Tarjamah Arab",
+      "UKT Tarjamah Arab",
+      "biaya Tarjamah Arab",
+      "biaya kuliah Tarjamah Arab",
+      "Tarjamah Arab UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Tarjamah UIN Jakarta\nKonteks: 15. UKT Tarjamah\nAlias: biaya Tarjamah, UKT Tarjamah, uang kuliah Tarjamah, biaya kuliah Tarjamah UIN Jakarta, TRJ, UKT TRJ, biaya TRJ, biaya kuliah TRJ, TRJ UIN Jakarta, Tarjamah Arab, UKT Tarjamah Arab, biaya Tarjamah Arab, biaya kuliah Tarjamah Arab, Tarjamah Arab UIN Jakarta\nIntent: tanya_biaya\n\n## 15. UKT Tarjamah\n\nProgram Studi: Tarjamah\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.300.000\n- Kelompok III: 2.600.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 15. UKT Tarjamah\n\nProgram Studi: Tarjamah\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.300.000\n- Kelompok III: 2.600.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "e069b436c6bd0dd22bfe518efea700b6",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 16. UKT Ilmu Perpustakaan",
+    "parent_context": "16. UKT Ilmu Perpustakaan",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Perpustakaan UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Perpustakaan",
+      "UKT Ilmu Perpustakaan",
+      "uang kuliah Ilmu Perpustakaan",
+      "biaya kuliah Ilmu Perpustakaan UIN Jakarta",
+      "Ilpus",
+      "UKT Ilpus",
+      "biaya Ilpus",
+      "biaya kuliah Ilpus",
+      "Ilpus UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Perpustakaan UIN Jakarta\nKonteks: 16. UKT Ilmu Perpustakaan\nAlias: biaya Ilmu Perpustakaan, UKT Ilmu Perpustakaan, uang kuliah Ilmu Perpustakaan, biaya kuliah Ilmu Perpustakaan UIN Jakarta, Ilpus, UKT Ilpus, biaya Ilpus, biaya kuliah Ilpus, Ilpus UIN Jakarta\nIntent: tanya_biaya\n\n## 16. UKT Ilmu Perpustakaan\n\nProgram Studi: Ilmu Perpustakaan\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.025.000\n- Kelompok III: 3.465.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.840.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 16. UKT Ilmu Perpustakaan\n\nProgram Studi: Ilmu Perpustakaan\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.025.000\n- Kelompok III: 3.465.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 6.840.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "6fe2ac22860e49caf372cca124d80ae2",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 17. UKT Bahasa dan Sastra Inggris",
+    "parent_context": "17. UKT Bahasa dan Sastra Inggris",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Bahasa dan Sastra Inggris UIN Jakarta",
+    "alias_topik": [
+      "biaya Bahasa dan Sastra Inggris",
+      "UKT Bahasa dan Sastra Inggris",
+      "uang kuliah Bahasa dan Sastra Inggris",
+      "biaya kuliah Bahasa dan Sastra Inggris UIN Jakarta",
+      "Sastra Inggris",
+      "UKT Sastra Inggris",
+      "biaya Sastra Inggris",
+      "biaya kuliah Sastra Inggris",
+      "Sastra Inggris UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Bahasa dan Sastra Inggris UIN Jakarta\nKonteks: 17. UKT Bahasa dan Sastra Inggris\nAlias: biaya Bahasa dan Sastra Inggris, UKT Bahasa dan Sastra Inggris, uang kuliah Bahasa dan Sastra Inggris, biaya kuliah Bahasa dan Sastra Inggris UIN Jakarta, Sastra Inggris, UKT Sastra Inggris, biaya Sastra Inggris, biaya kuliah Sastra Inggris, Sastra Inggris UIN Jakarta\nIntent: tanya_biaya\n\n## 17. UKT Bahasa dan Sastra Inggris\n\nProgram Studi: Bahasa dan Sastra Inggris\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.498.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 5.200.000\n- Kelompok V: 5.900.000\n- Kelompok VI: 6.700.000\n- Kelompok VII: 7.680.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 17. UKT Bahasa dan Sastra Inggris\n\nProgram Studi: Bahasa dan Sastra Inggris\nFakultas/Jurusan: Adab dan Humaniora\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.498.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 5.200.000\n- Kelompok V: 5.900.000\n- Kelompok VI: 6.700.000\n- Kelompok VII: 7.680.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "899441755037de37b5b7467f10e28b11",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 18. UKT Studi Agama-Agama",
+    "parent_context": "18. UKT Studi Agama-Agama",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Studi Agama-Agama UIN Jakarta",
+    "alias_topik": [
+      "biaya Studi Agama-Agama",
+      "UKT Studi Agama-Agama",
+      "uang kuliah Studi Agama-Agama",
+      "biaya kuliah Studi Agama-Agama UIN Jakarta",
+      "Studi Agama",
+      "UKT Studi Agama",
+      "biaya Studi Agama",
+      "biaya kuliah Studi Agama",
+      "Studi Agama UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Studi Agama-Agama UIN Jakarta\nKonteks: 18. UKT Studi Agama-Agama\nAlias: biaya Studi Agama-Agama, UKT Studi Agama-Agama, uang kuliah Studi Agama-Agama, biaya kuliah Studi Agama-Agama UIN Jakarta, Studi Agama, UKT Studi Agama, biaya Studi Agama, biaya kuliah Studi Agama, Studi Agama UIN Jakarta\nIntent: tanya_biaya\n\n## 18. UKT Studi Agama-Agama\n\nProgram Studi: Studi Agama-Agama\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 18. UKT Studi Agama-Agama\n\nProgram Studi: Studi Agama-Agama\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "d1ba72d3e072da0daf1140d070f2561a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 19. UKT Ilmu Al-Quran dan Tafsir",
+    "parent_context": "19. UKT Ilmu Al-Quran dan Tafsir",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Al-Quran dan Tafsir UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Al-Quran dan Tafsir",
+      "UKT Ilmu Al-Quran dan Tafsir",
+      "uang kuliah Ilmu Al-Quran dan Tafsir",
+      "biaya kuliah Ilmu Al-Quran dan Tafsir UIN Jakarta",
+      "IAT",
+      "UKT IAT",
+      "biaya IAT",
+      "biaya kuliah IAT",
+      "IAT UIN Jakarta",
+      "Ilmu Al Quran Tafsir",
+      "UKT Ilmu Al Quran Tafsir",
+      "biaya Ilmu Al Quran Tafsir",
+      "biaya kuliah Ilmu Al Quran Tafsir",
+      "Ilmu Al Quran Tafsir UIN Jakarta",
+      "Tafsir",
+      "UKT Tafsir",
+      "biaya Tafsir",
+      "biaya kuliah Tafsir",
+      "Tafsir UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Al-Quran dan Tafsir UIN Jakarta\nKonteks: 19. UKT Ilmu Al-Quran dan Tafsir\nAlias: biaya Ilmu Al-Quran dan Tafsir, UKT Ilmu Al-Quran dan Tafsir, uang kuliah Ilmu Al-Quran dan Tafsir, biaya kuliah Ilmu Al-Quran dan Tafsir UIN Jakarta, IAT, UKT IAT, biaya IAT, biaya kuliah IAT, IAT UIN Jakarta, Ilmu Al Quran Tafsir, UKT Ilmu Al Quran Tafsir, biaya Ilmu Al Quran Tafsir, biaya kuliah Ilmu Al Quran Tafsir, Ilmu Al Quran Tafsir UIN Jakarta, Tafsir, UKT Tafsir, biaya Tafsir, biaya kuliah Tafsir, Tafsir UIN Jakarta\nIntent: tanya_biaya\n\n## 19. UKT Ilmu Al-Quran dan Tafsir\n\nProgram Studi: Ilmu Al-Quran dan Tafsir\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 19. UKT Ilmu Al-Quran dan Tafsir\n\nProgram Studi: Ilmu Al-Quran dan Tafsir\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "6ce7067fd7953a7a021ea030cddf7bcf",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 20. UKT Ilmu Hadis",
+    "parent_context": "20. UKT Ilmu Hadis",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Hadis UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Hadis",
+      "UKT Ilmu Hadis",
+      "uang kuliah Ilmu Hadis",
+      "biaya kuliah Ilmu Hadis UIN Jakarta",
+      "Hadis",
+      "UKT Hadis",
+      "biaya Hadis",
+      "biaya kuliah Hadis",
+      "Hadis UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Hadis UIN Jakarta\nKonteks: 20. UKT Ilmu Hadis\nAlias: biaya Ilmu Hadis, UKT Ilmu Hadis, uang kuliah Ilmu Hadis, biaya kuliah Ilmu Hadis UIN Jakarta, Hadis, UKT Hadis, biaya Hadis, biaya kuliah Hadis, Hadis UIN Jakarta\nIntent: tanya_biaya\n\n## 20. UKT Ilmu Hadis\n\nProgram Studi: Ilmu Hadis\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 20. UKT Ilmu Hadis\n\nProgram Studi: Ilmu Hadis\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "6401d8cab1dab3e52010fb6c56c58271",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 21. UKT Aqidah dan Filsafat Islam",
+    "parent_context": "21. UKT Aqidah dan Filsafat Islam",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Aqidah dan Filsafat Islam UIN Jakarta",
+    "alias_topik": [
+      "biaya Aqidah dan Filsafat Islam",
+      "UKT Aqidah dan Filsafat Islam",
+      "uang kuliah Aqidah dan Filsafat Islam",
+      "biaya kuliah Aqidah dan Filsafat Islam UIN Jakarta",
+      "AFI",
+      "UKT AFI",
+      "biaya AFI",
+      "biaya kuliah AFI",
+      "AFI UIN Jakarta",
+      "Aqidah Filsafat",
+      "UKT Aqidah Filsafat",
+      "biaya Aqidah Filsafat",
+      "biaya kuliah Aqidah Filsafat",
+      "Aqidah Filsafat UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Aqidah dan Filsafat Islam UIN Jakarta\nKonteks: 21. UKT Aqidah dan Filsafat Islam\nAlias: biaya Aqidah dan Filsafat Islam, UKT Aqidah dan Filsafat Islam, uang kuliah Aqidah dan Filsafat Islam, biaya kuliah Aqidah dan Filsafat Islam UIN Jakarta, AFI, UKT AFI, biaya AFI, biaya kuliah AFI, AFI UIN Jakarta, Aqidah Filsafat, UKT Aqidah Filsafat, biaya Aqidah Filsafat, biaya kuliah Aqidah Filsafat, Aqidah Filsafat UIN Jakarta\nIntent: tanya_biaya\n\n## 21. UKT Aqidah dan Filsafat Islam\n\nProgram Studi: Aqidah dan Filsafat Islam\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 21. UKT Aqidah dan Filsafat Islam\n\nProgram Studi: Aqidah dan Filsafat Islam\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "c0971b2dafdecf94439077cc2f687ee2",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 22. UKT Ilmu Tasawuf",
+    "parent_context": "22. UKT Ilmu Tasawuf",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Tasawuf UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Tasawuf",
+      "UKT Ilmu Tasawuf",
+      "uang kuliah Ilmu Tasawuf",
+      "biaya kuliah Ilmu Tasawuf UIN Jakarta",
+      "UKT Tasawuf",
+      "biaya Tasawuf",
+      "biaya kuliah Tasawuf",
+      "Tasawuf UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Tasawuf UIN Jakarta\nKonteks: 22. UKT Ilmu Tasawuf\nAlias: biaya Ilmu Tasawuf, UKT Ilmu Tasawuf, uang kuliah Ilmu Tasawuf, biaya kuliah Ilmu Tasawuf UIN Jakarta, UKT Tasawuf, biaya Tasawuf, biaya kuliah Tasawuf, Tasawuf UIN Jakarta\nIntent: tanya_biaya\n\n## 22. UKT Ilmu Tasawuf\n\nProgram Studi: Ilmu Tasawuf\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 22. UKT Ilmu Tasawuf\n\nProgram Studi: Ilmu Tasawuf\nFakultas/Jurusan: Ushuluddin\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "2581ee84c997fb1f910d49fc25054cce",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 23. UKT Hukum Keluarga (Ahwal Syakhsiyyah)",
+    "parent_context": "23. UKT Hukum Keluarga (Ahwal Syakhsiyyah)",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Hukum Keluarga (Ahwal Syakhsiyyah) UIN Jakarta",
+    "alias_topik": [
+      "biaya Hukum Keluarga (Ahwal Syakhsiyyah)",
+      "UKT Hukum Keluarga (Ahwal Syakhsiyyah)",
+      "uang kuliah Hukum Keluarga (Ahwal Syakhsiyyah)",
+      "biaya kuliah Hukum Keluarga (Ahwal Syakhsiyyah) UIN Jakarta",
+      "Ahwal Syakhsiyyah",
+      "UKT Ahwal Syakhsiyyah",
+      "biaya Ahwal Syakhsiyyah",
+      "biaya kuliah Ahwal Syakhsiyyah",
+      "Ahwal Syakhsiyyah UIN Jakarta",
+      "Hukum Keluarga Islam",
+      "UKT Hukum Keluarga Islam",
+      "biaya Hukum Keluarga Islam",
+      "biaya kuliah Hukum Keluarga Islam",
+      "Hukum Keluarga Islam UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Hukum Keluarga (Ahwal Syakhsiyyah) UIN Jakarta\nKonteks: 23. UKT Hukum Keluarga (Ahwal Syakhsiyyah)\nAlias: biaya Hukum Keluarga (Ahwal Syakhsiyyah), UKT Hukum Keluarga (Ahwal Syakhsiyyah), uang kuliah Hukum Keluarga (Ahwal Syakhsiyyah), biaya kuliah Hukum Keluarga (Ahwal Syakhsiyyah) UIN Jakarta, Ahwal Syakhsiyyah, UKT Ahwal Syakhsiyyah, biaya Ahwal Syakhsiyyah, biaya kuliah Ahwal Syakhsiyyah, Ahwal Syakhsiyyah UIN Jakarta, Hukum Keluarga Islam, UKT Hukum Keluarga Islam, biaya Hukum Keluarga Islam, biaya kuliah Hukum Keluarga Islam, Hukum Keluarga Islam UIN Jakarta\nIntent: tanya_biaya\n\n## 23. UKT Hukum Keluarga (Ahwal Syakhsiyyah)\n\nProgram Studi: Hukum Keluarga (Ahwal Syakhsiyyah)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 23. UKT Hukum Keluarga (Ahwal Syakhsiyyah)\n\nProgram Studi: Hukum Keluarga (Ahwal Syakhsiyyah)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "893884738482cd107645e67684e7f83e",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 24. UKT Perbandingan Mazhab",
+    "parent_context": "24. UKT Perbandingan Mazhab",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Perbandingan Mazhab UIN Jakarta",
+    "alias_topik": [
+      "biaya Perbandingan Mazhab",
+      "UKT Perbandingan Mazhab",
+      "uang kuliah Perbandingan Mazhab",
+      "biaya kuliah Perbandingan Mazhab UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Perbandingan Mazhab UIN Jakarta\nKonteks: 24. UKT Perbandingan Mazhab\nAlias: biaya Perbandingan Mazhab, UKT Perbandingan Mazhab, uang kuliah Perbandingan Mazhab, biaya kuliah Perbandingan Mazhab UIN Jakarta\nIntent: tanya_biaya\n\n## 24. UKT Perbandingan Mazhab\n\nProgram Studi: Perbandingan Mazhab\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.586.000\n- Kelompok III: 2.880.000\n- Kelompok IV: 3.306.000\n- Kelompok V: 3.636.000\n- Kelompok VI: 4.140.000\n- Kelompok VII: 5.400.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 24. UKT Perbandingan Mazhab\n\nProgram Studi: Perbandingan Mazhab\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.586.000\n- Kelompok III: 2.880.000\n- Kelompok IV: 3.306.000\n- Kelompok V: 3.636.000\n- Kelompok VI: 4.140.000\n- Kelompok VII: 5.400.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "f3f2757dcbc55ff9b4bddd424aba8653",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 25. UKT Hukum Tata Negara (Siyasah)",
+    "parent_context": "25. UKT Hukum Tata Negara (Siyasah)",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Hukum Tata Negara (Siyasah) UIN Jakarta",
+    "alias_topik": [
+      "biaya Hukum Tata Negara (Siyasah)",
+      "UKT Hukum Tata Negara (Siyasah)",
+      "uang kuliah Hukum Tata Negara (Siyasah)",
+      "biaya kuliah Hukum Tata Negara (Siyasah) UIN Jakarta",
+      "HTN",
+      "UKT HTN",
+      "biaya HTN",
+      "biaya kuliah HTN",
+      "HTN UIN Jakarta",
+      "Siyasah",
+      "UKT Siyasah",
+      "biaya Siyasah",
+      "biaya kuliah Siyasah",
+      "Siyasah UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Hukum Tata Negara (Siyasah) UIN Jakarta\nKonteks: 25. UKT Hukum Tata Negara (Siyasah)\nAlias: biaya Hukum Tata Negara (Siyasah), UKT Hukum Tata Negara (Siyasah), uang kuliah Hukum Tata Negara (Siyasah), biaya kuliah Hukum Tata Negara (Siyasah) UIN Jakarta, HTN, UKT HTN, biaya HTN, biaya kuliah HTN, HTN UIN Jakarta, Siyasah, UKT Siyasah, biaya Siyasah, biaya kuliah Siyasah, Siyasah UIN Jakarta\nIntent: tanya_biaya\n\n## 25. UKT Hukum Tata Negara (Siyasah)\n\nProgram Studi: Hukum Tata Negara (Siyasah)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.250.000\n- Kelompok III: 3.600.000\n- Kelompok IV: 4.150.000\n- Kelompok V: 4.550.000\n- Kelompok VI: 5.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000",
+    "content": "## 25. UKT Hukum Tata Negara (Siyasah)\n\nProgram Studi: Hukum Tata Negara (Siyasah)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.250.000\n- Kelompok III: 3.600.000\n- Kelompok IV: 4.150.000\n- Kelompok V: 4.550.000\n- Kelompok VI: 5.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000"
+  },
+  {
+    "id": "b198f4e7df0676f02a548d46beef7b19",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 26. UKT Hukum Pidana Islam (Jinayah)",
+    "parent_context": "26. UKT Hukum Pidana Islam (Jinayah)",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Hukum Pidana Islam (Jinayah) UIN Jakarta",
+    "alias_topik": [
+      "biaya Hukum Pidana Islam (Jinayah)",
+      "UKT Hukum Pidana Islam (Jinayah)",
+      "uang kuliah Hukum Pidana Islam (Jinayah)",
+      "biaya kuliah Hukum Pidana Islam (Jinayah) UIN Jakarta",
+      "HPI",
+      "UKT HPI",
+      "biaya HPI",
+      "biaya kuliah HPI",
+      "HPI UIN Jakarta",
+      "Jinayah",
+      "UKT Jinayah",
+      "biaya Jinayah",
+      "biaya kuliah Jinayah",
+      "Jinayah UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Hukum Pidana Islam (Jinayah) UIN Jakarta\nKonteks: 26. UKT Hukum Pidana Islam (Jinayah)\nAlias: biaya Hukum Pidana Islam (Jinayah), UKT Hukum Pidana Islam (Jinayah), uang kuliah Hukum Pidana Islam (Jinayah), biaya kuliah Hukum Pidana Islam (Jinayah) UIN Jakarta, HPI, UKT HPI, biaya HPI, biaya kuliah HPI, HPI UIN Jakarta, Jinayah, UKT Jinayah, biaya Jinayah, biaya kuliah Jinayah, Jinayah UIN Jakarta\nIntent: tanya_biaya\n\n## 26. UKT Hukum Pidana Islam (Jinayah)\n\nProgram Studi: Hukum Pidana Islam (Jinayah)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.586.000\n- Kelompok III: 2.880.000\n- Kelompok IV: 3.306.000\n- Kelompok V: 3.636.000\n- Kelompok VI: 4.140.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 26. UKT Hukum Pidana Islam (Jinayah)\n\nProgram Studi: Hukum Pidana Islam (Jinayah)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.586.000\n- Kelompok III: 2.880.000\n- Kelompok IV: 3.306.000\n- Kelompok V: 3.636.000\n- Kelompok VI: 4.140.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "e3cf515262af2cb37693253c2938be10",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 27. UKT Hukum Ekonomi Syari'ah (Muamalat)",
+    "parent_context": "27. UKT Hukum Ekonomi Syari'ah (Muamalat)",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Hukum Ekonomi Syari'ah (Muamalat) UIN Jakarta",
+    "alias_topik": [
+      "biaya Hukum Ekonomi Syari'ah (Muamalat)",
+      "UKT Hukum Ekonomi Syari'ah (Muamalat)",
+      "uang kuliah Hukum Ekonomi Syari'ah (Muamalat)",
+      "biaya kuliah Hukum Ekonomi Syari'ah (Muamalat) UIN Jakarta",
+      "HES",
+      "UKT HES",
+      "biaya HES",
+      "biaya kuliah HES",
+      "HES UIN Jakarta",
+      "Muamalat",
+      "UKT Muamalat",
+      "biaya Muamalat",
+      "biaya kuliah Muamalat",
+      "Muamalat UIN Jakarta",
+      "Hukum Ekonomi Syariah",
+      "UKT Hukum Ekonomi Syariah",
+      "biaya Hukum Ekonomi Syariah",
+      "biaya kuliah Hukum Ekonomi Syariah",
+      "Hukum Ekonomi Syariah UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Hukum Ekonomi Syari'ah (Muamalat) UIN Jakarta\nKonteks: 27. UKT Hukum Ekonomi Syari'ah (Muamalat)\nAlias: biaya Hukum Ekonomi Syari'ah (Muamalat), UKT Hukum Ekonomi Syari'ah (Muamalat), uang kuliah Hukum Ekonomi Syari'ah (Muamalat), biaya kuliah Hukum Ekonomi Syari'ah (Muamalat) UIN Jakarta, HES, UKT HES, biaya HES, biaya kuliah HES, HES UIN Jakarta, Muamalat, UKT Muamalat, biaya Muamalat, biaya kuliah Muamalat, Muamalat UIN Jakarta, Hukum Ekonomi Syariah, UKT Hukum Ekonomi Syariah, biaya Hukum Ekonomi Syariah, biaya kuliah Hukum Ekonomi Syariah, Hukum Ekonomi Syariah UIN Jakarta\nIntent: tanya_biaya\n\n## 27. UKT Hukum Ekonomi Syari'ah (Muamalat)\n\nProgram Studi: Hukum Ekonomi Syari'ah (Muamalat)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 27. UKT Hukum Ekonomi Syari'ah (Muamalat)\n\nProgram Studi: Hukum Ekonomi Syari'ah (Muamalat)\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 5.000.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "95a020b9ba69df376c234863666db663",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 28. UKT Ilmu Hukum",
+    "parent_context": "28. UKT Ilmu Hukum",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Hukum UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Hukum",
+      "UKT Ilmu Hukum",
+      "uang kuliah Ilmu Hukum",
+      "biaya kuliah Ilmu Hukum UIN Jakarta",
+      "IH",
+      "UKT IH",
+      "biaya IH",
+      "biaya kuliah IH",
+      "IH UIN Jakarta",
+      "Hukum",
+      "UKT Hukum",
+      "biaya Hukum",
+      "biaya kuliah Hukum",
+      "Hukum UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Hukum UIN Jakarta\nKonteks: 28. UKT Ilmu Hukum\nAlias: biaya Ilmu Hukum, UKT Ilmu Hukum, uang kuliah Ilmu Hukum, biaya kuliah Ilmu Hukum UIN Jakarta, IH, UKT IH, biaya IH, biaya kuliah IH, IH UIN Jakarta, Hukum, UKT Hukum, biaya Hukum, biaya kuliah Hukum, Hukum UIN Jakarta\nIntent: tanya_biaya\n\n## 28. UKT Ilmu Hukum\n\nProgram Studi: Ilmu Hukum\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 5.000.000\n- Kelompok IV: 6.000.000\n- Kelompok V: 7.000.000\n- Kelompok VI: 7.500.000\n- Kelompok VII: 8.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 28. UKT Ilmu Hukum\n\nProgram Studi: Ilmu Hukum\nFakultas/Jurusan: Syariah dan Hukum\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 5.000.000\n- Kelompok IV: 6.000.000\n- Kelompok V: 7.000.000\n- Kelompok VI: 7.500.000\n- Kelompok VII: 8.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "e2a9bbd83e0d14844b296b5d8364e36a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 29. UKT Komunikasi dan Penyiaran Islam",
+    "parent_context": "29. UKT Komunikasi dan Penyiaran Islam",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Komunikasi dan Penyiaran Islam UIN Jakarta",
+    "alias_topik": [
+      "biaya Komunikasi dan Penyiaran Islam",
+      "UKT Komunikasi dan Penyiaran Islam",
+      "uang kuliah Komunikasi dan Penyiaran Islam",
+      "biaya kuliah Komunikasi dan Penyiaran Islam UIN Jakarta",
+      "KPI",
+      "UKT KPI",
+      "biaya KPI",
+      "biaya kuliah KPI",
+      "KPI UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Komunikasi dan Penyiaran Islam UIN Jakarta\nKonteks: 29. UKT Komunikasi dan Penyiaran Islam\nAlias: biaya Komunikasi dan Penyiaran Islam, UKT Komunikasi dan Penyiaran Islam, uang kuliah Komunikasi dan Penyiaran Islam, biaya kuliah Komunikasi dan Penyiaran Islam UIN Jakarta, KPI, UKT KPI, biaya KPI, biaya kuliah KPI, KPI UIN Jakarta\nIntent: tanya_biaya\n\n## 29. UKT Komunikasi dan Penyiaran Islam\n\nProgram Studi: Komunikasi dan Penyiaran Islam\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.945.000\n- Kelompok III: 4.530.000\n- Kelompok IV: 5.220.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.900.000\n- Kelompok VII: 7.950.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 29. UKT Komunikasi dan Penyiaran Islam\n\nProgram Studi: Komunikasi dan Penyiaran Islam\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.945.000\n- Kelompok III: 4.530.000\n- Kelompok IV: 5.220.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 6.900.000\n- Kelompok VII: 7.950.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "80f4f8f649766b6fc671f2d18e19c59b",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 30. UKT Bimbingan dan Penyuluhan Islam",
+    "parent_context": "30. UKT Bimbingan dan Penyuluhan Islam",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Bimbingan dan Penyuluhan Islam UIN Jakarta",
+    "alias_topik": [
+      "biaya Bimbingan dan Penyuluhan Islam",
+      "UKT Bimbingan dan Penyuluhan Islam",
+      "uang kuliah Bimbingan dan Penyuluhan Islam",
+      "biaya kuliah Bimbingan dan Penyuluhan Islam UIN Jakarta",
+      "BPI",
+      "UKT BPI",
+      "biaya BPI",
+      "biaya kuliah BPI",
+      "BPI UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Bimbingan dan Penyuluhan Islam UIN Jakarta\nKonteks: 30. UKT Bimbingan dan Penyuluhan Islam\nAlias: biaya Bimbingan dan Penyuluhan Islam, UKT Bimbingan dan Penyuluhan Islam, uang kuliah Bimbingan dan Penyuluhan Islam, biaya kuliah Bimbingan dan Penyuluhan Islam UIN Jakarta, BPI, UKT BPI, biaya BPI, biaya kuliah BPI, BPI UIN Jakarta\nIntent: tanya_biaya\n\n## 30. UKT Bimbingan dan Penyuluhan Islam\n\nProgram Studi: Bimbingan dan Penyuluhan Islam\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.500.000\n- Kelompok VI: 5.000.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 30. UKT Bimbingan dan Penyuluhan Islam\n\nProgram Studi: Bimbingan dan Penyuluhan Islam\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.500.000\n- Kelompok VI: 5.000.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "eb9bf2a8279cd6ccac1f23f6c0dc904a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 31. UKT Manajemen Dakwah",
+    "parent_context": "31. UKT Manajemen Dakwah",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Manajemen Dakwah UIN Jakarta",
+    "alias_topik": [
+      "biaya Manajemen Dakwah",
+      "UKT Manajemen Dakwah",
+      "uang kuliah Manajemen Dakwah",
+      "biaya kuliah Manajemen Dakwah UIN Jakarta",
+      "MD",
+      "UKT MD",
+      "biaya MD",
+      "biaya kuliah MD",
+      "MD UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Manajemen Dakwah UIN Jakarta\nKonteks: 31. UKT Manajemen Dakwah\nAlias: biaya Manajemen Dakwah, UKT Manajemen Dakwah, uang kuliah Manajemen Dakwah, biaya kuliah Manajemen Dakwah UIN Jakarta, MD, UKT MD, biaya MD, biaya kuliah MD, MD UIN Jakarta\nIntent: tanya_biaya\n\n## 31. UKT Manajemen Dakwah\n\nProgram Studi: Manajemen Dakwah\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.000.000\n- Kelompok V: 4.500.000\n- Kelompok VI: 5.000.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 31. UKT Manajemen Dakwah\n\nProgram Studi: Manajemen Dakwah\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.000.000\n- Kelompok V: 4.500.000\n- Kelompok VI: 5.000.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "984af9c70c15e6b4edf694c0e90e0aec",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 32. UKT Pengembangan Masyarakat Islam",
+    "parent_context": "32. UKT Pengembangan Masyarakat Islam",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Pengembangan Masyarakat Islam UIN Jakarta",
+    "alias_topik": [
+      "biaya Pengembangan Masyarakat Islam",
+      "UKT Pengembangan Masyarakat Islam",
+      "uang kuliah Pengembangan Masyarakat Islam",
+      "biaya kuliah Pengembangan Masyarakat Islam UIN Jakarta",
+      "PMI",
+      "UKT PMI",
+      "biaya PMI",
+      "biaya kuliah PMI",
+      "PMI UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Pengembangan Masyarakat Islam UIN Jakarta\nKonteks: 32. UKT Pengembangan Masyarakat Islam\nAlias: biaya Pengembangan Masyarakat Islam, UKT Pengembangan Masyarakat Islam, uang kuliah Pengembangan Masyarakat Islam, biaya kuliah Pengembangan Masyarakat Islam UIN Jakarta, PMI, UKT PMI, biaya PMI, biaya kuliah PMI, PMI UIN Jakarta\nIntent: tanya_biaya\n\n## 32. UKT Pengembangan Masyarakat Islam\n\nProgram Studi: Pengembangan Masyarakat Islam\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.500.000\n- Kelompok III: 2.800.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 4.000.000\n- Kelompok VI: 4.500.000\n- Kelompok VII: 5.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 32. UKT Pengembangan Masyarakat Islam\n\nProgram Studi: Pengembangan Masyarakat Islam\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.500.000\n- Kelompok III: 2.800.000\n- Kelompok IV: 3.500.000\n- Kelompok V: 4.000.000\n- Kelompok VI: 4.500.000\n- Kelompok VII: 5.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "f0d774a55bb8f8f6afa6440219d4b1e2",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 33. UKT Kesejahteraan Sosial",
+    "parent_context": "33. UKT Kesejahteraan Sosial",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Kesejahteraan Sosial UIN Jakarta",
+    "alias_topik": [
+      "biaya Kesejahteraan Sosial",
+      "UKT Kesejahteraan Sosial",
+      "uang kuliah Kesejahteraan Sosial",
+      "biaya kuliah Kesejahteraan Sosial UIN Jakarta",
+      "Kessos",
+      "UKT Kessos",
+      "biaya Kessos",
+      "biaya kuliah Kessos",
+      "Kessos UIN Jakarta",
+      "Kesos",
+      "UKT Kesos",
+      "biaya Kesos",
+      "biaya kuliah Kesos",
+      "Kesos UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Kesejahteraan Sosial UIN Jakarta\nKonteks: 33. UKT Kesejahteraan Sosial\nAlias: biaya Kesejahteraan Sosial, UKT Kesejahteraan Sosial, uang kuliah Kesejahteraan Sosial, biaya kuliah Kesejahteraan Sosial UIN Jakarta, Kessos, UKT Kessos, biaya Kessos, biaya kuliah Kessos, Kessos UIN Jakarta, Kesos, UKT Kesos, biaya Kesos, biaya kuliah Kesos, Kesos UIN Jakarta\nIntent: tanya_biaya\n\n## 33. UKT Kesejahteraan Sosial\n\nProgram Studi: Kesejahteraan Sosial\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 5.000.000\n- Kelompok IV: 6.000.000\n- Kelompok V: 7.000.000\n- Kelompok VI: 7.500.000\n- Kelompok VII: 8.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 33. UKT Kesejahteraan Sosial\n\nProgram Studi: Kesejahteraan Sosial\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 5.000.000\n- Kelompok IV: 6.000.000\n- Kelompok V: 7.000.000\n- Kelompok VI: 7.500.000\n- Kelompok VII: 8.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "7a09d00e08582209539a6642e668fb0b",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 34. UKT Jurnalistik",
+    "parent_context": "34. UKT Jurnalistik",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Jurnalistik UIN Jakarta",
+    "alias_topik": [
+      "biaya Jurnalistik",
+      "UKT Jurnalistik",
+      "uang kuliah Jurnalistik",
+      "biaya kuliah Jurnalistik UIN Jakarta",
+      "UKT Jurnal"
+    ],
+    "search_text": "Judul: UKT Jurnalistik UIN Jakarta\nKonteks: 34. UKT Jurnalistik\nAlias: biaya Jurnalistik, UKT Jurnalistik, uang kuliah Jurnalistik, biaya kuliah Jurnalistik UIN Jakarta, UKT Jurnal\nIntent: tanya_biaya\n\n## 34. UKT Jurnalistik\n\nProgram Studi: Jurnalistik\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 34. UKT Jurnalistik\n\nProgram Studi: Jurnalistik\nFakultas/Jurusan: Dakwah dan Komunikasi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 6.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "059c72dbf6ec21a2e769817a91fe9acb",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 35. UKT Dirasat Islamiyah",
+    "parent_context": "35. UKT Dirasat Islamiyah",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Dirasat Islamiyah UIN Jakarta",
+    "alias_topik": [
+      "biaya Dirasat Islamiyah",
+      "UKT Dirasat Islamiyah",
+      "uang kuliah Dirasat Islamiyah",
+      "biaya kuliah Dirasat Islamiyah UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Dirasat Islamiyah UIN Jakarta\nKonteks: 35. UKT Dirasat Islamiyah\nAlias: biaya Dirasat Islamiyah, UKT Dirasat Islamiyah, uang kuliah Dirasat Islamiyah, biaya kuliah Dirasat Islamiyah UIN Jakarta\nIntent: tanya_biaya\n\n## 35. UKT Dirasat Islamiyah\n\nProgram Studi: Dirasat Islamiyah\nFakultas/Jurusan: Dirasat Islamiyah\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 5.964.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 35. UKT Dirasat Islamiyah\n\nProgram Studi: Dirasat Islamiyah\nFakultas/Jurusan: Dirasat Islamiyah\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 2.950.000\n- Kelompok III: 3.540.000\n- Kelompok IV: 4.071.000\n- Kelompok V: 4.680.000\n- Kelompok VI: 5.290.000\n- Kelompok VII: 5.964.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "4f388f6c2f97c7b0dd19a36fdf11a06f",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 36. UKT Psikologi",
+    "parent_context": "36. UKT Psikologi",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Psikologi UIN Jakarta",
+    "alias_topik": [
+      "biaya Psikologi",
+      "UKT Psikologi",
+      "uang kuliah Psikologi",
+      "biaya kuliah Psikologi UIN Jakarta",
+      "Psi",
+      "UKT Psi",
+      "biaya Psi",
+      "biaya kuliah Psi",
+      "Psi UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Psikologi UIN Jakarta\nKonteks: 36. UKT Psikologi\nAlias: biaya Psikologi, UKT Psikologi, uang kuliah Psikologi, biaya kuliah Psikologi UIN Jakarta, Psi, UKT Psi, biaya Psi, biaya kuliah Psi, Psi UIN Jakarta\nIntent: tanya_biaya\n\n## 36. UKT Psikologi\n\nProgram Studi: Psikologi\nFakultas/Jurusan: Psikologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.850.000\n- Kelompok III: 4.450.000\n- Kelompok IV: 6.200.000\n- Kelompok V: 7.200.000\n- Kelompok VI: 8.200.000\n- Kelompok VII: 9.300.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 36. UKT Psikologi\n\nProgram Studi: Psikologi\nFakultas/Jurusan: Psikologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.850.000\n- Kelompok III: 4.450.000\n- Kelompok IV: 6.200.000\n- Kelompok V: 7.200.000\n- Kelompok VI: 8.200.000\n- Kelompok VII: 9.300.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "7802aeb4f7544faf5ae5b5e5bb0c9c4a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 37. UKT Manajemen",
+    "parent_context": "37. UKT Manajemen",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Manajemen UIN Jakarta",
+    "alias_topik": [
+      "biaya Manajemen",
+      "UKT Manajemen",
+      "uang kuliah Manajemen",
+      "biaya kuliah Manajemen UIN Jakarta",
+      "Manajemen FEB",
+      "UKT Manajemen FEB",
+      "biaya Manajemen FEB",
+      "biaya kuliah Manajemen FEB",
+      "Manajemen FEB UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Manajemen UIN Jakarta\nKonteks: 37. UKT Manajemen\nAlias: biaya Manajemen, UKT Manajemen, uang kuliah Manajemen, biaya kuliah Manajemen UIN Jakarta, Manajemen FEB, UKT Manajemen FEB, biaya Manajemen FEB, biaya kuliah Manajemen FEB, Manajemen FEB UIN Jakarta\nIntent: tanya_biaya\n\n## 37. UKT Manajemen\n\nProgram Studi: Manajemen\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.200.000\n- Kelompok VI: 7.510.000\n- Kelompok VII: 8.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 37. UKT Manajemen\n\nProgram Studi: Manajemen\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.200.000\n- Kelompok VI: 7.510.000\n- Kelompok VII: 8.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "7233633649730143e06a9396284ea4cc",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 38. UKT Akuntansi",
+    "parent_context": "38. UKT Akuntansi",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Akuntansi UIN Jakarta",
+    "alias_topik": [
+      "biaya Akuntansi",
+      "UKT Akuntansi",
+      "uang kuliah Akuntansi",
+      "biaya kuliah Akuntansi UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Akuntansi UIN Jakarta\nKonteks: 38. UKT Akuntansi\nAlias: biaya Akuntansi, UKT Akuntansi, uang kuliah Akuntansi, biaya kuliah Akuntansi UIN Jakarta\nIntent: tanya_biaya\n\n## 38. UKT Akuntansi\n\nProgram Studi: Akuntansi\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.200.000\n- Kelompok VI: 7.510.000\n- Kelompok VII: 8.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 38. UKT Akuntansi\n\nProgram Studi: Akuntansi\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.200.000\n- Kelompok VI: 7.510.000\n- Kelompok VII: 8.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "0abf10f9e50b15aa8773829c12308b1c",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 39. UKT Ilmu Ekonomi dan Studi Pembangunan",
+    "parent_context": "39. UKT Ilmu Ekonomi dan Studi Pembangunan",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Ekonomi dan Studi Pembangunan UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Ekonomi dan Studi Pembangunan",
+      "UKT Ilmu Ekonomi dan Studi Pembangunan",
+      "uang kuliah Ilmu Ekonomi dan Studi Pembangunan",
+      "biaya kuliah Ilmu Ekonomi dan Studi Pembangunan UIN Jakarta",
+      "IESP",
+      "UKT IESP",
+      "biaya IESP",
+      "biaya kuliah IESP",
+      "IESP UIN Jakarta",
+      "Ekonomi Pembangunan",
+      "UKT Ekonomi Pembangunan",
+      "biaya Ekonomi Pembangunan",
+      "biaya kuliah Ekonomi Pembangunan",
+      "Ekonomi Pembangunan UIN Jakarta",
+      "Ilmu Ekonomi",
+      "UKT Ilmu Ekonomi",
+      "biaya Ilmu Ekonomi",
+      "biaya kuliah Ilmu Ekonomi",
+      "Ilmu Ekonomi UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Ekonomi dan Studi Pembangunan UIN Jakarta\nKonteks: 39. UKT Ilmu Ekonomi dan Studi Pembangunan\nAlias: biaya Ilmu Ekonomi dan Studi Pembangunan, UKT Ilmu Ekonomi dan Studi Pembangunan, uang kuliah Ilmu Ekonomi dan Studi Pembangunan, biaya kuliah Ilmu Ekonomi dan Studi Pembangunan UIN Jakarta, IESP, UKT IESP, biaya IESP, biaya kuliah IESP, IESP UIN Jakarta, Ekonomi Pembangunan, UKT Ekonomi Pembangunan, biaya Ekonomi Pembangunan, biaya kuliah Ekonomi Pembangunan, Ekonomi Pembangunan UIN Jakarta, Ilmu Ekonomi, UKT Ilmu Ekonomi, biaya Ilmu Ekonomi, biaya kuliah Ilmu Ekonomi, Ilmu Ekonomi UIN Jakarta\nIntent: tanya_biaya\n\n## 39. UKT Ilmu Ekonomi dan Studi Pembangunan\n\nProgram Studi: Ilmu Ekonomi dan Studi Pembangunan\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 5.950.000\n- Kelompok VI: 7.110.000\n- Kelompok VII: 7.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 39. UKT Ilmu Ekonomi dan Studi Pembangunan\n\nProgram Studi: Ilmu Ekonomi dan Studi Pembangunan\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 5.950.000\n- Kelompok VI: 7.110.000\n- Kelompok VII: 7.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "dfa8473576821957723cba28fb3dff72",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 40. UKT Ekonomi Syariah",
+    "parent_context": "40. UKT Ekonomi Syariah",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ekonomi Syariah UIN Jakarta",
+    "alias_topik": [
+      "biaya Ekonomi Syariah",
+      "UKT Ekonomi Syariah",
+      "uang kuliah Ekonomi Syariah",
+      "biaya kuliah Ekonomi Syariah UIN Jakarta",
+      "Eksyar",
+      "UKT Eksyar",
+      "biaya Eksyar",
+      "biaya kuliah Eksyar",
+      "Eksyar UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ekonomi Syariah UIN Jakarta\nKonteks: 40. UKT Ekonomi Syariah\nAlias: biaya Ekonomi Syariah, UKT Ekonomi Syariah, uang kuliah Ekonomi Syariah, biaya kuliah Ekonomi Syariah UIN Jakarta, Eksyar, UKT Eksyar, biaya Eksyar, biaya kuliah Eksyar, Eksyar UIN Jakarta\nIntent: tanya_biaya\n\n## 40. UKT Ekonomi Syariah\n\nProgram Studi: Ekonomi Syariah\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 5.950.000\n- Kelompok VI: 7.110.000\n- Kelompok VII: 7.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 40. UKT Ekonomi Syariah\n\nProgram Studi: Ekonomi Syariah\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 5.950.000\n- Kelompok VI: 7.110.000\n- Kelompok VII: 7.700.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "7eb0a27f60fbecf3ebbbabbb7b50c101",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 41. UKT Perbankan Syariah",
+    "parent_context": "41. UKT Perbankan Syariah",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Perbankan Syariah UIN Jakarta",
+    "alias_topik": [
+      "biaya Perbankan Syariah",
+      "UKT Perbankan Syariah",
+      "uang kuliah Perbankan Syariah",
+      "biaya kuliah Perbankan Syariah UIN Jakarta",
+      "PBS",
+      "UKT PBS",
+      "biaya PBS",
+      "biaya kuliah PBS",
+      "PBS UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Perbankan Syariah UIN Jakarta\nKonteks: 41. UKT Perbankan Syariah\nAlias: biaya Perbankan Syariah, UKT Perbankan Syariah, uang kuliah Perbankan Syariah, biaya kuliah Perbankan Syariah UIN Jakarta, PBS, UKT PBS, biaya PBS, biaya kuliah PBS, PBS UIN Jakarta\nIntent: tanya_biaya\n\n## 41. UKT Perbankan Syariah\n\nProgram Studi: Perbankan Syariah\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 7.310.000\n- Kelompok VII: 8.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 41. UKT Perbankan Syariah\n\nProgram Studi: Perbankan Syariah\nFakultas/Jurusan: Ekonomi dan Bisnis\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.000.000\n- Kelompok VI: 7.310.000\n- Kelompok VII: 8.500.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "c177a73f8252f4e44624860dd17980d6",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 42. UKT Agribisnis",
+    "parent_context": "42. UKT Agribisnis",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Agribisnis UIN Jakarta",
+    "alias_topik": [
+      "biaya Agribisnis",
+      "UKT Agribisnis",
+      "uang kuliah Agribisnis",
+      "biaya kuliah Agribisnis UIN Jakarta",
+      "Agri",
+      "UKT Agri",
+      "biaya Agri",
+      "biaya kuliah Agri"
+    ],
+    "search_text": "Judul: UKT Agribisnis UIN Jakarta\nKonteks: 42. UKT Agribisnis\nAlias: biaya Agribisnis, UKT Agribisnis, uang kuliah Agribisnis, biaya kuliah Agribisnis UIN Jakarta, Agri, UKT Agri, biaya Agri, biaya kuliah Agri\nIntent: tanya_biaya\n\n## 42. UKT Agribisnis\n\nProgram Studi: Agribisnis\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.500.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 42. UKT Agribisnis\n\nProgram Studi: Agribisnis\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.500.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.000.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "5e5b4360c9412b7dff9a05935a6af311",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 43. UKT Teknik Informatika",
+    "parent_context": "43. UKT Teknik Informatika",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Teknik Informatika UIN Jakarta",
+    "alias_topik": [
+      "biaya Teknik Informatika",
+      "UKT Teknik Informatika",
+      "uang kuliah Teknik Informatika",
+      "biaya kuliah Teknik Informatika UIN Jakarta",
+      "TI",
+      "UKT TI",
+      "biaya TI",
+      "biaya kuliah TI",
+      "TI UIN Jakarta",
+      "Informatika",
+      "UKT Informatika",
+      "biaya Informatika",
+      "biaya kuliah Informatika",
+      "Informatika UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Teknik Informatika UIN Jakarta\nKonteks: 43. UKT Teknik Informatika\nAlias: biaya Teknik Informatika, UKT Teknik Informatika, uang kuliah Teknik Informatika, biaya kuliah Teknik Informatika UIN Jakarta, TI, UKT TI, biaya TI, biaya kuliah TI, TI UIN Jakarta, Informatika, UKT Informatika, biaya Informatika, biaya kuliah Informatika, Informatika UIN Jakarta\nIntent: tanya_biaya\n\n## 43. UKT Teknik Informatika\n\nProgram Studi: Teknik Informatika\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\n\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.500.000\n- Kelompok VI: 7.810.000\n- Kelompok VII: 9.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 43. UKT Teknik Informatika\n\nProgram Studi: Teknik Informatika\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\n\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.500.000\n- Kelompok VI: 7.810.000\n- Kelompok VII: 9.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "247778e5a9b3358d19355c1500914017",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 44. UKT Sistem Informasi",
+    "parent_context": "44. UKT Sistem Informasi",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Sistem Informasi UIN Jakarta",
+    "alias_topik": [
+      "biaya Sistem Informasi",
+      "UKT Sistem Informasi",
+      "uang kuliah Sistem Informasi",
+      "biaya kuliah Sistem Informasi UIN Jakarta",
+      "SI",
+      "UKT SI",
+      "biaya SI",
+      "biaya kuliah SI",
+      "SI UIN Jakarta",
+      "Sisfo",
+      "UKT Sisfo",
+      "biaya Sisfo",
+      "biaya kuliah Sisfo",
+      "Sisfo UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Sistem Informasi UIN Jakarta\nKonteks: 44. UKT Sistem Informasi\nAlias: biaya Sistem Informasi, UKT Sistem Informasi, uang kuliah Sistem Informasi, biaya kuliah Sistem Informasi UIN Jakarta, SI, UKT SI, biaya SI, biaya kuliah SI, SI UIN Jakarta, Sisfo, UKT Sisfo, biaya Sisfo, biaya kuliah Sisfo, Sisfo UIN Jakarta\nIntent: tanya_biaya\n\n## 44. UKT Sistem Informasi\n\nProgram Studi: Sistem Informasi\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.500.000\n- Kelompok VI: 7.810.000\n- Kelompok VII: 9.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 44. UKT Sistem Informasi\n\nProgram Studi: Sistem Informasi\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.270.000\n- Kelompok III: 4.895.000\n- Kelompok IV: 5.150.000\n- Kelompok V: 6.500.000\n- Kelompok VI: 7.810.000\n- Kelompok VII: 9.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "c75d1c371a22950493c56fbc9bba413d",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 45. UKT Matematika",
+    "parent_context": "45. UKT Matematika",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Matematika UIN Jakarta",
+    "alias_topik": [
+      "biaya Matematika",
+      "UKT Matematika",
+      "uang kuliah Matematika",
+      "biaya kuliah Matematika UIN Jakarta",
+      "biaya kuliah Mtk",
+      "Mtk UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Matematika UIN Jakarta\nKonteks: 45. UKT Matematika\nAlias: biaya Matematika, UKT Matematika, uang kuliah Matematika, biaya kuliah Matematika UIN Jakarta, biaya kuliah Mtk, Mtk UIN Jakarta\nIntent: tanya_biaya\n\n## 45. UKT Matematika\n\nProgram Studi: Matematika\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 3.700.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 45. UKT Matematika\n\nProgram Studi: Matematika\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 3.700.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "8689cf56473fbc46cb8c91b381d76da8",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 46. UKT Biologi",
+    "parent_context": "46. UKT Biologi",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Biologi UIN Jakarta",
+    "alias_topik": [
+      "biaya Biologi",
+      "UKT Biologi",
+      "uang kuliah Biologi",
+      "biaya kuliah Biologi UIN Jakarta",
+      "Bio",
+      "UKT Bio",
+      "biaya Bio",
+      "biaya kuliah Bio",
+      "Bio UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Biologi UIN Jakarta\nKonteks: 46. UKT Biologi\nAlias: biaya Biologi, UKT Biologi, uang kuliah Biologi, biaya kuliah Biologi UIN Jakarta, Bio, UKT Bio, biaya Bio, biaya kuliah Bio, Bio UIN Jakarta\nIntent: tanya_biaya\n\n## 46. UKT Biologi\n\nProgram Studi: Biologi\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.500.000\n- Kelompok III: 4.300.000\n- Kelompok IV: 4.800.000\n- Kelompok V: 5.800.000\n- Kelompok VI: 6.800.000\n- Kelompok VII: 7.800.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 46. UKT Biologi\n\nProgram Studi: Biologi\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.500.000\n- Kelompok III: 4.300.000\n- Kelompok IV: 4.800.000\n- Kelompok V: 5.800.000\n- Kelompok VI: 6.800.000\n- Kelompok VII: 7.800.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "b21c691ea9dd87ebf5a3947d3708fa62",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 47. UKT Kimia",
+    "parent_context": "47. UKT Kimia",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Kimia UIN Jakarta",
+    "alias_topik": [
+      "biaya Kimia",
+      "UKT Kimia",
+      "uang kuliah Kimia",
+      "biaya kuliah Kimia UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Kimia UIN Jakarta\nKonteks: 47. UKT Kimia\nAlias: biaya Kimia, UKT Kimia, uang kuliah Kimia, biaya kuliah Kimia UIN Jakarta\nIntent: tanya_biaya\n\n## 47. UKT Kimia\n\nProgram Studi: Kimia\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 3.700.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 47. UKT Kimia\n\nProgram Studi: Kimia\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 3.700.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "f22f0b743f261c3cfbe17b330226a6c0",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 48. UKT Fisika",
+    "parent_context": "48. UKT Fisika",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Fisika UIN Jakarta",
+    "alias_topik": [
+      "biaya Fisika",
+      "UKT Fisika",
+      "uang kuliah Fisika",
+      "biaya kuliah Fisika UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Fisika UIN Jakarta\nKonteks: 48. UKT Fisika\nAlias: biaya Fisika, UKT Fisika, uang kuliah Fisika, biaya kuliah Fisika UIN Jakarta\nIntent: tanya_biaya\n\n## 48. UKT Fisika\n\nProgram Studi: Fisika\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 48. UKT Fisika\n\nProgram Studi: Fisika\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 3.000.000\n- Kelompok III: 4.000.000\n- Kelompok IV: 4.500.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.500.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "9b00f5dbf9b684c265ce347ebeda33af",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 49. UKT Teknik Pertambangan",
+    "parent_context": "49. UKT Teknik Pertambangan",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Teknik Pertambangan UIN Jakarta",
+    "alias_topik": [
+      "biaya Teknik Pertambangan",
+      "UKT Teknik Pertambangan",
+      "uang kuliah Teknik Pertambangan",
+      "biaya kuliah Teknik Pertambangan UIN Jakarta",
+      "Tambang",
+      "UKT Tambang",
+      "biaya Tambang",
+      "biaya kuliah Tambang",
+      "Tambang UIN Jakarta",
+      "Teknik Tambang",
+      "UKT Teknik Tambang",
+      "biaya Teknik Tambang",
+      "biaya kuliah Teknik Tambang",
+      "Teknik Tambang UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Teknik Pertambangan UIN Jakarta\nKonteks: 49. UKT Teknik Pertambangan\nAlias: biaya Teknik Pertambangan, UKT Teknik Pertambangan, uang kuliah Teknik Pertambangan, biaya kuliah Teknik Pertambangan UIN Jakarta, Tambang, UKT Tambang, biaya Tambang, biaya kuliah Tambang, Tambang UIN Jakarta, Teknik Tambang, UKT Teknik Tambang, biaya Teknik Tambang, biaya kuliah Teknik Tambang, Teknik Tambang UIN Jakarta\nIntent: tanya_biaya\n\n## 49. UKT Teknik Pertambangan\n\nProgram Studi: Teknik Pertambangan\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 10.800.000\n- Kelompok III: 12.640.000\n- Kelompok IV: 14.000.000\n- Kelompok V: 14.250.000\n- Kelompok VI: 14.500.000\n- Kelompok VII: 16.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 49. UKT Teknik Pertambangan\n\nProgram Studi: Teknik Pertambangan\nFakultas/Jurusan: Sains dan Teknologi\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 10.800.000\n- Kelompok III: 12.640.000\n- Kelompok IV: 14.000.000\n- Kelompok V: 14.250.000\n- Kelompok VI: 14.500.000\n- Kelompok VII: 16.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "9c620f3a84d91b84382bb7b12770cc18",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 50. UKT Kesehatan Masyarakat",
+    "parent_context": "50. UKT Kesehatan Masyarakat",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Kesehatan Masyarakat UIN Jakarta",
+    "alias_topik": [
+      "biaya Kesehatan Masyarakat",
+      "UKT Kesehatan Masyarakat",
+      "uang kuliah Kesehatan Masyarakat",
+      "biaya kuliah Kesehatan Masyarakat UIN Jakarta",
+      "Kesmas",
+      "UKT Kesmas",
+      "biaya Kesmas",
+      "biaya kuliah Kesmas",
+      "Kesmas UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Kesehatan Masyarakat UIN Jakarta\nKonteks: 50. UKT Kesehatan Masyarakat\nAlias: biaya Kesehatan Masyarakat, UKT Kesehatan Masyarakat, uang kuliah Kesehatan Masyarakat, biaya kuliah Kesehatan Masyarakat UIN Jakarta, Kesmas, UKT Kesmas, biaya Kesmas, biaya kuliah Kesmas, Kesmas UIN Jakarta\nIntent: tanya_biaya\n\n## 50. UKT Kesehatan Masyarakat\n\nProgram Studi: Kesehatan Masyarakat\nFakultas/Jurusan: Ilmu Kesehatan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.818.000\n- Kelompok III: 5.000.000\n- Kelompok IV: 5.500.000\n- Kelompok V: 6.500.000\n- Kelompok VI: 7.810.000\n- Kelompok VII: 9.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 50. UKT Kesehatan Masyarakat\n\nProgram Studi: Kesehatan Masyarakat\nFakultas/Jurusan: Ilmu Kesehatan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.818.000\n- Kelompok III: 5.000.000\n- Kelompok IV: 5.500.000\n- Kelompok V: 6.500.000\n- Kelompok VI: 7.810.000\n- Kelompok VII: 9.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "0d789b1684fa266799a046460aca59e2",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 51. UKT Farmasi",
+    "parent_context": "51. UKT Farmasi",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Farmasi UIN Jakarta",
+    "alias_topik": [
+      "biaya Farmasi",
+      "UKT Farmasi",
+      "uang kuliah Farmasi",
+      "biaya kuliah Farmasi UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Farmasi UIN Jakarta\nKonteks: 51. UKT Farmasi\nAlias: biaya Farmasi, UKT Farmasi, uang kuliah Farmasi, biaya kuliah Farmasi UIN Jakarta\nIntent: tanya_biaya\n\n## 51. UKT Farmasi\n\nProgram Studi: Farmasi\nFakultas/Jurusan: Ilmu Kesehatan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 6.500.000\n- Kelompok III: 7.500.000\n- Kelompok IV: 9.000.000\n- Kelompok V: 10.000.000\n- Kelompok VI: 11.500.000\n- Kelompok VII: 14.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 51. UKT Farmasi\n\nProgram Studi: Farmasi\nFakultas/Jurusan: Ilmu Kesehatan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 6.500.000\n- Kelompok III: 7.500.000\n- Kelompok IV: 9.000.000\n- Kelompok V: 10.000.000\n- Kelompok VI: 11.500.000\n- Kelompok VII: 14.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "3e737edd0f07d38080ef9d35c98fb359",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 52. UKT Ilmu Keperawatan",
+    "parent_context": "52. UKT Ilmu Keperawatan",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Keperawatan UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Keperawatan",
+      "UKT Ilmu Keperawatan",
+      "uang kuliah Ilmu Keperawatan",
+      "biaya kuliah Ilmu Keperawatan UIN Jakarta",
+      "IK",
+      "UKT IK",
+      "biaya IK",
+      "biaya kuliah IK",
+      "IK UIN Jakarta",
+      "Keperawatan",
+      "UKT Keperawatan",
+      "biaya Keperawatan",
+      "biaya kuliah Keperawatan",
+      "Keperawatan UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Keperawatan UIN Jakarta\nKonteks: 52. UKT Ilmu Keperawatan\nAlias: biaya Ilmu Keperawatan, UKT Ilmu Keperawatan, uang kuliah Ilmu Keperawatan, biaya kuliah Ilmu Keperawatan UIN Jakarta, IK, UKT IK, biaya IK, biaya kuliah IK, IK UIN Jakarta, Keperawatan, UKT Keperawatan, biaya Keperawatan, biaya kuliah Keperawatan, Keperawatan UIN Jakarta\nIntent: tanya_biaya\n\n## 52. UKT Ilmu Keperawatan\n\nProgram Studi: Ilmu Keperawatan\nFakultas/Jurusan: Ilmu Kesehatan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 5.000.000\n- Kelompok III: 5.500.000\n- Kelompok IV: 7.000.000\n- Kelompok V: 8.000.000\n- Kelompok VI: 9.000.000\n- Kelompok VII: 10.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 52. UKT Ilmu Keperawatan\n\nProgram Studi: Ilmu Keperawatan\nFakultas/Jurusan: Ilmu Kesehatan\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 5.000.000\n- Kelompok III: 5.500.000\n- Kelompok IV: 7.000.000\n- Kelompok V: 8.000.000\n- Kelompok VI: 9.000.000\n- Kelompok VII: 10.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "c0cdac978ae49b4bb711db71009d2dab",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 53. UKT Sosiologi",
+    "parent_context": "53. UKT Sosiologi",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Sosiologi UIN Jakarta",
+    "alias_topik": [
+      "biaya Sosiologi",
+      "UKT Sosiologi",
+      "uang kuliah Sosiologi",
+      "biaya kuliah Sosiologi UIN Jakarta",
+      "Sosio",
+      "UKT Sosio",
+      "biaya Sosio",
+      "biaya kuliah Sosio",
+      "Sosio UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Sosiologi UIN Jakarta\nKonteks: 53. UKT Sosiologi\nAlias: biaya Sosiologi, UKT Sosiologi, uang kuliah Sosiologi, biaya kuliah Sosiologi UIN Jakarta, Sosio, UKT Sosio, biaya Sosio, biaya kuliah Sosio, Sosio UIN Jakarta\nIntent: tanya_biaya\n\n## 53. UKT Sosiologi\n\nProgram Studi: Sosiologi\nFakultas/Jurusan: Ilmu Sosial dan Ilmu Politik\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 4.700.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 53. UKT Sosiologi\n\nProgram Studi: Sosiologi\nFakultas/Jurusan: Ilmu Sosial dan Ilmu Politik\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 4.700.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "b2195c6fab8b7ff9c6b80da9aa2897b6",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 54. UKT Ilmu Politik",
+    "parent_context": "54. UKT Ilmu Politik",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Politik UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Politik",
+      "UKT Ilmu Politik",
+      "uang kuliah Ilmu Politik",
+      "biaya kuliah Ilmu Politik UIN Jakarta",
+      "Ilpol",
+      "UKT Ilpol",
+      "biaya Ilpol",
+      "biaya kuliah Ilpol",
+      "Ilpol UIN Jakarta",
+      "UKT Politik",
+      "biaya Politik",
+      "biaya kuliah Politik",
+      "Politik UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Politik UIN Jakarta\nKonteks: 54. UKT Ilmu Politik\nAlias: biaya Ilmu Politik, UKT Ilmu Politik, uang kuliah Ilmu Politik, biaya kuliah Ilmu Politik UIN Jakarta, Ilpol, UKT Ilpol, biaya Ilpol, biaya kuliah Ilpol, Ilpol UIN Jakarta, UKT Politik, biaya Politik, biaya kuliah Politik, Politik UIN Jakarta\nIntent: tanya_biaya\n\n## 54. UKT Ilmu Politik\n\nProgram Studi: Ilmu Politik\nFakultas/Jurusan: Ilmu Sosial dan Ilmu Politik\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 4.700.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 54. UKT Ilmu Politik\n\nProgram Studi: Ilmu Politik\nFakultas/Jurusan: Ilmu Sosial dan Ilmu Politik\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 4.700.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "073b2a84a2730b69010a8826174587a4",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 55. UKT Ilmu Hubungan Internasional",
+    "parent_context": "55. UKT Ilmu Hubungan Internasional",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Ilmu Hubungan Internasional UIN Jakarta",
+    "alias_topik": [
+      "biaya Ilmu Hubungan Internasional",
+      "UKT Ilmu Hubungan Internasional",
+      "uang kuliah Ilmu Hubungan Internasional",
+      "biaya kuliah Ilmu Hubungan Internasional UIN Jakarta",
+      "HI",
+      "UKT HI",
+      "biaya HI",
+      "biaya kuliah HI",
+      "HI UIN Jakarta",
+      "Hubungan Internasional",
+      "UKT Hubungan Internasional",
+      "biaya Hubungan Internasional",
+      "biaya kuliah Hubungan Internasional",
+      "Hubungan Internasional UIN Jakarta",
+      "Hubintern",
+      "UKT Hubintern",
+      "biaya Hubintern",
+      "biaya kuliah Hubintern",
+      "Hubintern UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Ilmu Hubungan Internasional UIN Jakarta\nKonteks: 55. UKT Ilmu Hubungan Internasional\nAlias: biaya Ilmu Hubungan Internasional, UKT Ilmu Hubungan Internasional, uang kuliah Ilmu Hubungan Internasional, biaya kuliah Ilmu Hubungan Internasional UIN Jakarta, HI, UKT HI, biaya HI, biaya kuliah HI, HI UIN Jakarta, Hubungan Internasional, UKT Hubungan Internasional, biaya Hubungan Internasional, biaya kuliah Hubungan Internasional, Hubungan Internasional UIN Jakarta, Hubintern, UKT Hubintern, biaya Hubintern, biaya kuliah Hubintern, Hubintern UIN Jakarta\nIntent: tanya_biaya\n\n## 55. UKT Ilmu Hubungan Internasional\n\nProgram Studi: Ilmu Hubungan Internasional\nFakultas/Jurusan: Ilmu Sosial dan Ilmu Politik\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 4.700.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---",
+    "content": "## 55. UKT Ilmu Hubungan Internasional\n\nProgram Studi: Ilmu Hubungan Internasional\nFakultas/Jurusan: Ilmu Sosial dan Ilmu Politik\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 4.000.000\n- Kelompok III: 4.500.000\n- Kelompok IV: 4.700.000\n- Kelompok V: 5.500.000\n- Kelompok VI: 6.000.000\n- Kelompok VII: 7.000.000\n- Kelompok VIII (KIP): 2.400.000\n\n---"
+  },
+  {
+    "id": "c81cf300ae79c68b0f65f4dfa39ee57e",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## 56. UKT Kedokteran dan Pendidikan Profesi Dokter",
+    "parent_context": "56. UKT Kedokteran dan Pendidikan Profesi Dokter",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "UKT Kedokteran dan Pendidikan Profesi Dokter UIN Jakarta",
+    "alias_topik": [
+      "biaya Kedokteran dan Pendidikan Profesi Dokter",
+      "UKT Kedokteran dan Pendidikan Profesi Dokter",
+      "uang kuliah Kedokteran dan Pendidikan Profesi Dokter",
+      "biaya kuliah Kedokteran dan Pendidikan Profesi Dokter UIN Jakarta",
+      "Kedokteran",
+      "UKT Kedokteran",
+      "biaya Kedokteran",
+      "biaya kuliah Kedokteran",
+      "Kedokteran UIN Jakarta",
+      "FK",
+      "UKT FK",
+      "biaya FK",
+      "biaya kuliah FK",
+      "FK UIN Jakarta",
+      "Dokter",
+      "UKT Dokter",
+      "biaya Dokter",
+      "biaya kuliah Dokter",
+      "Dokter UIN Jakarta",
+      "Pendidikan Dokter",
+      "UKT Pendidikan Dokter",
+      "biaya Pendidikan Dokter",
+      "biaya kuliah Pendidikan Dokter",
+      "Pendidikan Dokter UIN Jakarta",
+      "Profesi Dokter",
+      "UKT Profesi Dokter",
+      "biaya Profesi Dokter",
+      "biaya kuliah Profesi Dokter",
+      "Profesi Dokter UIN Jakarta"
+    ],
+    "search_text": "Judul: UKT Kedokteran dan Pendidikan Profesi Dokter UIN Jakarta\nKonteks: 56. UKT Kedokteran dan Pendidikan Profesi Dokter\nAlias: biaya Kedokteran dan Pendidikan Profesi Dokter, UKT Kedokteran dan Pendidikan Profesi Dokter, uang kuliah Kedokteran dan Pendidikan Profesi Dokter, biaya kuliah Kedokteran dan Pendidikan Profesi Dokter UIN Jakarta, Kedokteran, UKT Kedokteran, biaya Kedokteran, biaya kuliah Kedokteran, Kedokteran UIN Jakarta, FK, UKT FK, biaya FK, biaya kuliah FK, FK UIN Jakarta, Dokter, UKT Dokter, biaya Dokter, biaya kuliah Dokter, Dokter UIN Jakarta, Pendidikan Dokter, UKT Pendidikan Dokter, biaya Pendidikan Dokter, biaya kuliah Pendidikan Dokter, Pendidikan Dokter UIN Jakarta, Profesi Dokter, UKT Profesi Dokter, biaya Profesi Dokter, biaya kuliah Profesi Dokter, Profesi Dokter UIN Jakarta\nIntent: tanya_biaya\n\n## 56. UKT Kedokteran dan Pendidikan Profesi Dokter\n\nProgram Studi: Kedokteran dan Pendidikan Profesi Dokter\nFakultas/Jurusan: Kedokteran\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 16.000.000\n- Kelompok III: 23.000.000\n- Kelompok IV: 30.000.000\n- Kelompok V: 38.000.000\n- Kelompok VI: 42.000.000\n- Kelompok VII: 50.000.000\n- Kelompok VIII (KIP): 2.400.000",
+    "content": "## 56. UKT Kedokteran dan Pendidikan Profesi Dokter\n\nProgram Studi: Kedokteran dan Pendidikan Profesi Dokter\nFakultas/Jurusan: Kedokteran\nPerguruan Tinggi: UIN SYARIF HIDAYATULLAH JAKARTA\nUKT:\n- Kelompok I: 0 - 400.000\n- Kelompok II: 16.000.000\n- Kelompok III: 23.000.000\n- Kelompok IV: 30.000.000\n- Kelompok V: 38.000.000\n- Kelompok VI: 42.000.000\n- Kelompok VII: 50.000.000\n- Kelompok VIII (KIP): 2.400.000"
+  },
+  {
+    "id": "b79de76e773c5c44bfdd472681c1f484",
+    "source_file": "kontak_informasi_pmb_uin_jakarta_tagged.md",
+    "heading": "## Link Informasi biaya pascasarjana",
+    "parent_context": "Kontak Informasi PMB UIN Jakarta > Link Informasi biaya pascasarjana",
+    "intents": [
+      "tanya_biaya",
+      "tanya_link"
+    ],
+    "topik": "Biaya Kuliah Pascasarjana UIN Jakarta",
+    "alias_topik": [
+      "Link biaya pascasarjana UIN Jakarta",
+      "Link UKT pascasarjana UIN Jakarta",
+      "tarif S2 UIN Jakarta",
+      "tarif S3 UIN Jakarta",
+      "biaya magister UIN Jakarta",
+      "biaya doktor UIN Jakarta"
+    ],
+    "search_text": "Judul: Biaya Kuliah Pascasarjana UIN Jakarta\nKonteks: Kontak Informasi PMB UIN Jakarta > Link Informasi biaya pascasarjana\nAlias: Link biaya pascasarjana UIN Jakarta, Link UKT pascasarjana UIN Jakarta, tarif S2 UIN Jakarta, tarif S3 UIN Jakarta, biaya magister UIN Jakarta, biaya doktor UIN Jakarta\nIntent: tanya_biaya, tanya_link\n\n## Link Informasi biaya pascasarjana\n\nUntuk mengetahui biaya kuliah Pascasarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://asset.uinjkt.ac.id/uploads/fmXyXwZY/2025/03/tarif-layanan-akademik-program-magister-doktoral-profesi-dan-spesialis.pdf",
+    "content": "## Link Informasi biaya pascasarjana\n\nUntuk mengetahui biaya kuliah Pascasarjana UIN Syarif Hidayatullah Jakarta, silakan kunjungi tautan berikut:\nhttps://asset.uinjkt.ac.id/uploads/fmXyXwZY/2025/03/tarif-layanan-akademik-program-magister-doktoral-profesi-dan-spesialis.pdf"
+  },
+  {
+    "id": "50e52fe91eea86cca0106df6279bfdbe",
+    "source_file": "mandiri_reguler_sse_tagged.md",
+    "heading": "## 2. Biaya Pendaftaran SPMB Mandiri Reguler (SSE)",
+    "parent_context": "Tentang SPMB Mandiri Reguler (SSE) > 2. Biaya Pendaftaran SPMB Mandiri Reguler (SSE)",
+    "intents": [
+      "tanya_biaya",
+      "cara_bayar"
+    ],
+    "topik": "Biaya Pendaftaran SPMB Mandiri Reguler SSE",
+    "alias_topik": [
+      "biaya SSE",
+      "biaya mandiri reguler",
+      "biaya pendaftaran mandiri"
+    ],
+    "search_text": "Judul: Biaya Pendaftaran SPMB Mandiri Reguler SSE\nKonteks: Tentang SPMB Mandiri Reguler (SSE) > 2. Biaya Pendaftaran SPMB Mandiri Reguler (SSE)\nAlias: biaya SSE, biaya mandiri reguler, biaya pendaftaran mandiri\nIntent: tanya_biaya, cara_bayar\n\n## 2. Biaya Pendaftaran SPMB Mandiri Reguler (SSE)\n\n1. Pendaftar membayar biaya pendaftaran sebesar Rp. 345.000,- (tiga ratus empat puluh lima ribu rupiah);\n2. Biaya pendaftaran dapat dibayarkan dengan “Nomor Pendaftaran” yang diperoleh setelah mengisi data formulir pendaftaran;\n3. Biaya pendaftaran dibayarkan secara Host-to-Host melalui mitra Bank yang ditunjuk dan tidak melakukan pembayaran di luar tata cara pembayaran; dan\n4. Biaya pendaftaran yang telah dibayarkan dan/atau tidak sesuai tata cara pembayaran, tidak dapat dikembalikan.",
+    "content": "## 2. Biaya Pendaftaran SPMB Mandiri Reguler (SSE)\n\n1. Pendaftar membayar biaya pendaftaran sebesar Rp. 345.000,- (tiga ratus empat puluh lima ribu rupiah);\n2. Biaya pendaftaran dapat dibayarkan dengan “Nomor Pendaftaran” yang diperoleh setelah mengisi data formulir pendaftaran;\n3. Biaya pendaftaran dibayarkan secara Host-to-Host melalui mitra Bank yang ditunjuk dan tidak melakukan pembayaran di luar tata cara pembayaran; dan\n4. Biaya pendaftaran yang telah dibayarkan dan/atau tidak sesuai tata cara pembayaran, tidak dapat dikembalikan."
+  },
+  {
+    "id": "5a1e8587fb90cdbb27a7c8ecc2c2cb9c",
+    "source_file": "Panduan_Pendaftaran_UTBK_SNBT_2026_tagged.md",
+    "heading": "### Peserta UTBK-SNBT Pendaftar KIP Kuliah",
+    "parent_context": "Panduan Pendaftaran UTBK-SNBT > Konfirmasi Akhir Pendaftaran UTBK > Peserta UTBK-SNBT Pendaftar KIP Kuliah",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Peserta UTBK-SNBT Pendaftar KIP Kuliah",
+    "alias_topik": [
+      "KIP Kuliah UTBK",
+      "gratis biaya UTBK",
+      "KIP SNBT"
+    ],
+    "search_text": "Judul: Peserta UTBK-SNBT Pendaftar KIP Kuliah\nKonteks: Panduan Pendaftaran UTBK-SNBT > Konfirmasi Akhir Pendaftaran UTBK > Peserta UTBK-SNBT Pendaftar KIP Kuliah\nAlias: KIP Kuliah UTBK, gratis biaya UTBK, KIP SNBT\nIntent: tanya_biaya\n\n### Peserta UTBK-SNBT Pendaftar KIP Kuliah\n\nBagi peserta UTBK-SNBT pemegang KIP Kuliah nonbayar TIDAK perlu membayar biaya pendaftaran UTBK-SNBT, sehingga Anda dapat langsung melihat Bukti Pendaftaran Kota/Wilayah Pelaksanaan UTBK.",
+    "content": "### Peserta UTBK-SNBT Pendaftar KIP Kuliah\n\nBagi peserta UTBK-SNBT pemegang KIP Kuliah nonbayar TIDAK perlu membayar biaya pendaftaran UTBK-SNBT, sehingga Anda dapat langsung melihat Bukti Pendaftaran Kota/Wilayah Pelaksanaan UTBK."
+  },
+  {
+    "id": "00a7ea5d1987784eb32a06703ae191cc",
+    "source_file": "snbp_tagged.md",
+    "heading": "## 2. Biaya Pendaftaran SNBP",
+    "parent_context": "SNBP > 2. Biaya Pendaftaran SNBP",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Biaya Pendaftaran SNBP",
+    "alias_topik": [
+      "biaya SNBP",
+      "pendaftaran SNBP gratis"
+    ],
+    "search_text": "Judul: Biaya Pendaftaran SNBP\nKonteks: SNBP > 2. Biaya Pendaftaran SNBP\nAlias: biaya SNBP, pendaftaran SNBP gratis\nIntent: tanya_biaya\n\n## 2. Biaya Pendaftaran SNBP\n\nPendaftar tidak dipungut biaya apa pun. Biaya penyelenggaraan SNBP 2026 sepenuhnya ditanggung Pemerintah.",
+    "content": "## 2. Biaya Pendaftaran SNBP\n\nPendaftar tidak dipungut biaya apa pun. Biaya penyelenggaraan SNBP 2026 sepenuhnya ditanggung Pemerintah."
+  },
+  {
+    "id": "966f62232eaacee9e615d75eb2bbbac8",
+    "source_file": "snbt_tagged.md",
+    "heading": "## 2. Biaya Pendaftaran SNBT dan Tata Cara Pembayaran",
+    "parent_context": "SNBT > 2. Biaya Pendaftaran SNBT dan Tata Cara Pembayaran",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Biaya Pendaftaran SNBT",
+    "alias_topik": [
+      "biaya SNBT",
+      "biaya UTBK",
+      "pembayaran SNBT"
+    ],
+    "search_text": "Judul: Biaya Pendaftaran SNBT\nKonteks: SNBT > 2. Biaya Pendaftaran SNBT dan Tata Cara Pembayaran\nAlias: biaya SNBT, biaya UTBK, pembayaran SNBT\nIntent: tanya_biaya\n\n## 2. Biaya Pendaftaran SNBT dan Tata Cara Pembayaran\n\nPeserta membayar biaya UTBK sebagai syarat pendaftaran UTBK-SNBT 2026 sebesar Rp.200.000,00 (dua ratus ribu rupiah).",
+    "content": "## 2. Biaya Pendaftaran SNBT dan Tata Cara Pembayaran\n\nPeserta membayar biaya UTBK sebagai syarat pendaftaran UTBK-SNBT 2026 sebesar Rp.200.000,00 (dua ratus ribu rupiah)."
+  },
+  {
+    "id": "a716758f900d9162cb53f33a394c6bae",
+    "source_file": "span_ptkin_tagged.md",
+    "heading": "## 2. Biaya Pendaftaran SPAN-PTKIN",
+    "parent_context": "Tentang SPAN-PTKIN > 2. Biaya Pendaftaran SPAN-PTKIN",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Biaya Pendaftaran SPAN-PTKIN",
+    "alias_topik": [
+      "biaya SPAN PTKIN",
+      "pendaftaran SPAN PTKIN gratis"
+    ],
+    "search_text": "Judul: Biaya Pendaftaran SPAN-PTKIN\nKonteks: Tentang SPAN-PTKIN > 2. Biaya Pendaftaran SPAN-PTKIN\nAlias: biaya SPAN PTKIN, pendaftaran SPAN PTKIN gratis\nIntent: tanya_biaya\n\n## 2. Biaya Pendaftaran SPAN-PTKIN\n\nPendaftar tidak dipungut biaya apa pun. Biaya penyelenggaraan SPAN-PTKIN 2026 sepenuhnya ditanggung Pemerintah.",
+    "content": "## 2. Biaya Pendaftaran SPAN-PTKIN\n\nPendaftar tidak dipungut biaya apa pun. Biaya penyelenggaraan SPAN-PTKIN 2026 sepenuhnya ditanggung Pemerintah."
+  },
+  {
+    "id": "a2f01864f02efa2e757fc68e6c85b533",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## A biaya pendaftaran S2 S3 Magister Doktor Profesi Spesialis",
+    "parent_context": "A biaya pendaftaran S2 S3 Magister Doktor Profesi Spesialis",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Seleksi Ujian Masuk",
+    "alias_topik": [
+      "biaya seleksi",
+      "biaya ujian masuk",
+      "biaya pendaftaran S2 S3 Magister Doktor Profesi Spesialis"
+    ],
+    "search_text": "Judul: Tarif Seleksi Ujian Masuk\nKonteks: A biaya pendaftaran S2 S3 Magister Doktor Profesi Spesialis\nAlias: biaya seleksi, biaya ujian masuk, biaya pendaftaran S2 S3 Magister Doktor Profesi Spesialis\nIntent: tanya_biaya\n\n## A biaya pendaftaran S2 S3 Magister Doktor Profesi Spesialis\n\nBiaya Seleksi Ujian Masuk Per Calon Mahasiswa\n1 | Program Diploma dan Sarjana Jalur Mandiri | Per Calon Mahasiswa | 345.000 | 345.000\n2 | Program Sarjana Kelas Internasional | Per Calon Mahasiswa | 550.000 | 550.000\n3 | Program Rekognisi Pembelajaran Lampau | Per Calon Mahasiswa | 550.000 | 550.000\n4 | Program Studi Pendidikan Dokter | Per Calon Mahasiswa | 345.000 | 345.000\n5 | Program Magister | Per Calon Mahasiswa | 750.000 | 750.000\n6 | Doktoral | Per Calon Mahasiswa | 1.500.000 | 1.500.000\n7.a.1 | Program Profesi - FIKES - Ners | Per Calon Mahasiswa | 345.000 | \n7.a.2 | Program Profesi - FIKES - Apoteker | Per Calon Mahasiswa | 345.000 | \n8.a.1 | Spesialis - FK - Pulmonologi | Per Calon Mahasiswa | 1.500.000 | 1.500.000\n8.a.2 | Spesialis - FK - Obgyn | Per Calon Mahasiswa | 1.500.000 | 1.500.000",
+    "content": "## A biaya pendaftaran S2 S3 Magister Doktor Profesi Spesialis\n\nBiaya Seleksi Ujian Masuk Per Calon Mahasiswa\n1 | Program Diploma dan Sarjana Jalur Mandiri | Per Calon Mahasiswa | 345.000 | 345.000\n2 | Program Sarjana Kelas Internasional | Per Calon Mahasiswa | 550.000 | 550.000\n3 | Program Rekognisi Pembelajaran Lampau | Per Calon Mahasiswa | 550.000 | 550.000\n4 | Program Studi Pendidikan Dokter | Per Calon Mahasiswa | 345.000 | 345.000\n5 | Program Magister | Per Calon Mahasiswa | 750.000 | 750.000\n6 | Doktoral | Per Calon Mahasiswa | 1.500.000 | 1.500.000\n7.a.1 | Program Profesi - FIKES - Ners | Per Calon Mahasiswa | 345.000 | \n7.a.2 | Program Profesi - FIKES - Apoteker | Per Calon Mahasiswa | 345.000 | \n8.a.1 | Spesialis - FK - Pulmonologi | Per Calon Mahasiswa | 1.500.000 | 1.500.000\n8.a.2 | Spesialis - FK - Obgyn | Per Calon Mahasiswa | 1.500.000 | 1.500.000"
+  },
+  {
+    "id": "b496d55ef24f9063dd5e8c46944cbf9e",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## B | Sumbangan Pembinaan Pendidikan Tunggal Program Pascasarjana | Per Mahasiswa/Semester |  |",
+    "parent_context": "B | Sumbangan Pembinaan Pendidikan Tunggal Program Pascasarjana | Per Mahasiswa/Semester |  |",
+    "intents": [
+      "tanya_biaya",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Tarif Uang Kuliah Tunggal UKT Program Pascasarjana Magister Doktor",
+    "alias_topik": [
+      "biaya S2",
+      "biaya S3",
+      "UKT pascasarjana",
+      "SPP pascasarjana"
+    ],
+    "search_text": "Judul: Tarif Uang Kuliah Tunggal UKT Program Pascasarjana Magister Doktor\nKonteks: B | Sumbangan Pembinaan Pendidikan Tunggal Program Pascasarjana | Per Mahasiswa/Semester |  |\nAlias: biaya S2, biaya S3, UKT pascasarjana, SPP pascasarjana\nIntent: tanya_biaya, tanya_pascasarjana\n\n## B | Sumbangan Pembinaan Pendidikan Tunggal Program Pascasarjana | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Tunggal Program PascaSarjana Per Mahasiswa/Semester\n1.a.1 | Program Magister - FITK - Pendidikan Agama Islam | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.a.2 | Program Magister - FITK - Pendidikan Bahasa Arab | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.a.3 | Program Magister - FITK - Manajemen Pendidikan Islam | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.a.4 | Program Magister - FITK - Tadris Bahasa Inggris | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.b.1 | Program Magister - FAH - Sejarah Peradaban Islam / Sejarah dan Kebudayaan Islam | Per Mahasiswa/Semester | 7.600.000 | 9.350.000\n1.b.2 | Program Magister - FAH - Bahasa dan Sastra Arab | Per Mahasiswa/Semester | 7.600.000 | 9.350.000\n1.c.1 | Program Magister - FU - Ilmu Al-Qur'an dan Tafsir | Per Mahasiswa/Semester | 7.062.500 | 10.125.000\n1.c.2 | Program Magister - FU - Aqidah dan Filsafat Islam | Per Mahasiswa/Semester | 7.062.500 | 10.125.000\n1.c.3 | Program Magister - FU - Studi Agama Agama | Per Mahasiswa/Semester | 7.062.500 | 10.125.000\n1.d.1 | Program Magister - FSH - Hukum Keluarga Islam (Ahwal Syakhshiyya) | Per Mahasiswa/Semester | 8.850.000 | 10.350.000\n1.d.2 | Program Magister - FSH - Hukum Ekonomi Syariah (Mua'malah) | Per Mahasiswa/Semester | 8.850.000 | 10.350.000\n1.e.1 | Program Magister - FDIK - Manajemen Dakwah | Per Mahasiswa/Semester | 7.600.000 | 9.100.000\n1.e.2 | Program Magister - FDIK - Komunikasi dan Penyiaran Islam | Per Mahasiswa/Semester | 8.600.000 | 10.100.000\n1.f.1 | Program Magister - FDI - Dirasah Islamiyah | Per Mahasiswa/Semester | 7.600.000 | 9.360.000\n1.g.1 | Program Magister - F.Psi - Psikologi | Per Mahasiswa/Semester | 11.000.000 | 12.334.000\n1.h.1 | Program Magister - FEB - Ekonomi Syariah/Ekonomi dan Bisnis Islam | Per Mahasiswa/Semester | 8.500.000 | 9.500.000\n1.h.2 | Program Magister - FEB - Perbankan Syariah | Per Mahasiswa/Semester | 9.000.000 | 10.500.000\n1.i.1 | Program Magister - FST - Agribisnis | Per Mahasiswa/Semester | 9.500.000 | 11.000.000\n1.i.2 | Program Magister - FST - Teknologi Informasi | Per Mahasiswa/Semester | 10.955.000 | 10.955.000\n1.j.1.a | Program Magister - FK - Biomedik - Jalur Reguler | Per Mahasiswa/Semester | 12.500.000 | 12.500.000\n1.j.1.b | Program Magister - FK - Biomedik - Jalur Kerjasama | Per Mahasiswa/Semester | 17.500.000 | 17.500.000\n1.k.1 | Program Magister - FISIP - Ilmu Politik | Per Mahasiswa/Semester | 7.100.000 | 7.100.000\n1.k.2 | Program Magister - FISIP - Sosiologi | Per Mahasiswa/Semester | 7.100.000 | 7.100.000\n1.l | Program Magister - SPs - Pengkajian Islam (Pascasarjana) | Per Mahasiswa/Semester | 8.750.000 | 11.500.000\n2.a | Doktoral - FITK - Pendidikan Agama Islam | Per Mahasiswa/Semester | 12.100.000 | 14.000.000\n2.b | Doktoral - FEB - Perbankan Syariah | Per Mahasiswa/Semester | 13.500.000 | 14.875.000\n2.c | Doktoral - SPs - Pengkajian Islam (Pascasarjana) | Per Mahasiswa/Semester | 12.350.000 | 18.225.000",
+    "content": "## B | Sumbangan Pembinaan Pendidikan Tunggal Program Pascasarjana | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Tunggal Program PascaSarjana Per Mahasiswa/Semester\n1.a.1 | Program Magister - FITK - Pendidikan Agama Islam | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.a.2 | Program Magister - FITK - Pendidikan Bahasa Arab | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.a.3 | Program Magister - FITK - Manajemen Pendidikan Islam | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.a.4 | Program Magister - FITK - Tadris Bahasa Inggris | Per Mahasiswa/Semester | 8.037.500 | 9.515.000\n1.b.1 | Program Magister - FAH - Sejarah Peradaban Islam / Sejarah dan Kebudayaan Islam | Per Mahasiswa/Semester | 7.600.000 | 9.350.000\n1.b.2 | Program Magister - FAH - Bahasa dan Sastra Arab | Per Mahasiswa/Semester | 7.600.000 | 9.350.000\n1.c.1 | Program Magister - FU - Ilmu Al-Qur'an dan Tafsir | Per Mahasiswa/Semester | 7.062.500 | 10.125.000\n1.c.2 | Program Magister - FU - Aqidah dan Filsafat Islam | Per Mahasiswa/Semester | 7.062.500 | 10.125.000\n1.c.3 | Program Magister - FU - Studi Agama Agama | Per Mahasiswa/Semester | 7.062.500 | 10.125.000\n1.d.1 | Program Magister - FSH - Hukum Keluarga Islam (Ahwal Syakhshiyya) | Per Mahasiswa/Semester | 8.850.000 | 10.350.000\n1.d.2 | Program Magister - FSH - Hukum Ekonomi Syariah (Mua'malah) | Per Mahasiswa/Semester | 8.850.000 | 10.350.000\n1.e.1 | Program Magister - FDIK - Manajemen Dakwah | Per Mahasiswa/Semester | 7.600.000 | 9.100.000\n1.e.2 | Program Magister - FDIK - Komunikasi dan Penyiaran Islam | Per Mahasiswa/Semester | 8.600.000 | 10.100.000\n1.f.1 | Program Magister - FDI - Dirasah Islamiyah | Per Mahasiswa/Semester | 7.600.000 | 9.360.000\n1.g.1 | Program Magister - F.Psi - Psikologi | Per Mahasiswa/Semester | 11.000.000 | 12.334.000\n1.h.1 | Program Magister - FEB - Ekonomi Syariah/Ekonomi dan Bisnis Islam | Per Mahasiswa/Semester | 8.500.000 | 9.500.000\n1.h.2 | Program Magister - FEB - Perbankan Syariah | Per Mahasiswa/Semester | 9.000.000 | 10.500.000\n1.i.1 | Program Magister - FST - Agribisnis | Per Mahasiswa/Semester | 9.500.000 | 11.000.000\n1.i.2 | Program Magister - FST - Teknologi Informasi | Per Mahasiswa/Semester | 10.955.000 | 10.955.000\n1.j.1.a | Program Magister - FK - Biomedik - Jalur Reguler | Per Mahasiswa/Semester | 12.500.000 | 12.500.000\n1.j.1.b | Program Magister - FK - Biomedik - Jalur Kerjasama | Per Mahasiswa/Semester | 17.500.000 | 17.500.000\n1.k.1 | Program Magister - FISIP - Ilmu Politik | Per Mahasiswa/Semester | 7.100.000 | 7.100.000\n1.k.2 | Program Magister - FISIP - Sosiologi | Per Mahasiswa/Semester | 7.100.000 | 7.100.000\n1.l | Program Magister - SPs - Pengkajian Islam (Pascasarjana) | Per Mahasiswa/Semester | 8.750.000 | 11.500.000\n2.a | Doktoral - FITK - Pendidikan Agama Islam | Per Mahasiswa/Semester | 12.100.000 | 14.000.000\n2.b | Doktoral - FEB - Perbankan Syariah | Per Mahasiswa/Semester | 13.500.000 | 14.875.000\n2.c | Doktoral - SPs - Pengkajian Islam (Pascasarjana) | Per Mahasiswa/Semester | 12.350.000 | 18.225.000"
+  },
+  {
+    "id": "95dc29c72ba230f87bcce7757b9ac5c6",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |",
+    "parent_context": "C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |",
+    "intents": [
+      "tanya_biaya",
+      "tanya_profesi"
+    ],
+    "topik": "Tarif Uang Kuliah / UKT Program Profesi dan Spesialis",
+    "alias_topik": [
+      "biaya profesi",
+      "biaya spesialis",
+      "biaya ners",
+      "biaya apoteker",
+      "biaya pulmonologi",
+      "biaya obgyn"
+    ],
+    "search_text": "Judul: Tarif Uang Kuliah / UKT Program Profesi dan Spesialis\nKonteks: C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |\nAlias: biaya profesi, biaya spesialis, biaya ners, biaya apoteker, biaya pulmonologi, biaya obgyn\nIntent: tanya_biaya, tanya_profesi\n\n## C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis\n1.a.1 Kelompok I | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 400.000 | \n1.a.1 Kelompok II | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 16.000.000 | \n1.a.1 Kelompok III | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 23.000.000 | \n1.a.1 Kelompok IV | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 30.000.000 | \n1.a.1 Kelompok V | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 38.000.000 | \n1.a.1 Kelompok VI | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 42.000.000 | \n1.a.1 Kelompok VII | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 50.000.000 | \n1.a.1 KIP Kuliah | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 2.400.000 | \n1.a.1 Mahasiswa asing | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester |  | 65.000.000\n1.a.2 Modul Minor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 4.500.000 | 4.500.000\n1.a.2 Modul Mayor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 7.000.000 | 7.000.000\n1.b | Program Profesi - Ners | Per Mahasiswa/Semester | 13.000.000 | \n1.c.1 | Program Profesi - Apoteker - Lulusan S1 Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 15.000.000 | \n1.c.2 | Program Profesi - Apoteker - Lulusan S1 Non- Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 25.000.000 | \n1.c.3 | Program Profesi - Apoteker - Biaya mengulang mata kuliah Semester III s.d. VI | Per Mahasiswa/SKS | 1.920.000 | \n2.a | Program Spesialis - Pulmonologi | Per Mahasiswa/Semester | 25.000.000 | 25.000.000\n2.b | Program Spesialis - OBSGYN | Per Mahasiswa/Semester | 36.250.000 | 36.250.000",
+    "content": "## C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis\n1.a.1 Kelompok I | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 400.000 | \n1.a.1 Kelompok II | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 16.000.000 | \n1.a.1 Kelompok III | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 23.000.000 | \n1.a.1 Kelompok IV | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 30.000.000 | \n1.a.1 Kelompok V | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 38.000.000 | \n1.a.1 Kelompok VI | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 42.000.000 | \n1.a.1 Kelompok VII | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 50.000.000 | \n1.a.1 KIP Kuliah | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 2.400.000 | \n1.a.1 Mahasiswa asing | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester |  | 65.000.000\n1.a.2 Modul Minor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 4.500.000 | 4.500.000\n1.a.2 Modul Mayor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 7.000.000 | 7.000.000\n1.b | Program Profesi - Ners | Per Mahasiswa/Semester | 13.000.000 | \n1.c.1 | Program Profesi - Apoteker - Lulusan S1 Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 15.000.000 | \n1.c.2 | Program Profesi - Apoteker - Lulusan S1 Non- Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 25.000.000 | \n1.c.3 | Program Profesi - Apoteker - Biaya mengulang mata kuliah Semester III s.d. VI | Per Mahasiswa/SKS | 1.920.000 | \n2.a | Program Spesialis - Pulmonologi | Per Mahasiswa/Semester | 25.000.000 | 25.000.000\n2.b | Program Spesialis - OBSGYN | Per Mahasiswa/Semester | 36.250.000 | 36.250.000"
+  },
+  {
+    "id": "b52185116747bad326dfa0672785c3d7",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## D | Sumbangan Pembinaan Pendidikan Mahasiswa Mustami | Per Mahasiswa/Mata Kuliah |  |",
+    "parent_context": "D | Sumbangan Pembinaan Pendidikan Mahasiswa Mustami | Per Mahasiswa/Mata Kuliah |  |",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Mahasiswa Mustami",
+    "alias_topik": [
+      "biaya mustami",
+      "tarif mustami"
+    ],
+    "search_text": "Judul: Tarif Mahasiswa Mustami\nKonteks: D | Sumbangan Pembinaan Pendidikan Mahasiswa Mustami | Per Mahasiswa/Mata Kuliah |  |\nAlias: biaya mustami, tarif mustami\nIntent: tanya_biaya\n\n## D | Sumbangan Pembinaan Pendidikan Mahasiswa Mustami | Per Mahasiswa/Mata Kuliah |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Mahasiswa Mustami\n1 | Program Magister | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000\n2 | Program Doktoral | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000",
+    "content": "## D | Sumbangan Pembinaan Pendidikan Mahasiswa Mustami | Per Mahasiswa/Mata Kuliah |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Mahasiswa Mustami\n1 | Program Magister | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000\n2 | Program Doktoral | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000"
+  },
+  {
+    "id": "580c48a9087476bda61d5d0552d1fe24",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## E | Sumbangan Pembinaan Pendidikan Mahasiswa Sandwich | Per Mahasiswa/Mata Kuliah |  |",
+    "parent_context": "E | Sumbangan Pembinaan Pendidikan Mahasiswa Sandwich | Per Mahasiswa/Mata Kuliah |  |",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Mahasiswa Sandwich",
+    "alias_topik": [
+      "biaya sandwich",
+      "tarif sandwich"
+    ],
+    "search_text": "Judul: Tarif Mahasiswa Sandwich\nKonteks: E | Sumbangan Pembinaan Pendidikan Mahasiswa Sandwich | Per Mahasiswa/Mata Kuliah |  |\nAlias: biaya sandwich, tarif sandwich\nIntent: tanya_biaya\n\n## E | Sumbangan Pembinaan Pendidikan Mahasiswa Sandwich | Per Mahasiswa/Mata Kuliah |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Mahasiswa Sandwich\n1 | Program Magister | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000\n2 | Program Doktoral | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000",
+    "content": "## E | Sumbangan Pembinaan Pendidikan Mahasiswa Sandwich | Per Mahasiswa/Mata Kuliah |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Mahasiswa Sandwich\n1 | Program Magister | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000\n2 | Program Doktoral | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000"
+  },
+  {
+    "id": "fc7039a9907a2c05d618b10b9b28416d",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## F | Sumbangan Pembinaan Pendidikan Mahasiswa Double Degree | Per Mahasiswa/Mata Kuliah |  |",
+    "parent_context": "F | Sumbangan Pembinaan Pendidikan Mahasiswa Double Degree | Per Mahasiswa/Mata Kuliah |  |",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Mahasiswa Double Degree",
+    "alias_topik": [
+      "biaya double degree",
+      "tarif double degree"
+    ],
+    "search_text": "Judul: Tarif Mahasiswa Double Degree\nKonteks: F | Sumbangan Pembinaan Pendidikan Mahasiswa Double Degree | Per Mahasiswa/Mata Kuliah |  |\nAlias: biaya double degree, tarif double degree\nIntent: tanya_biaya\n\n## F | Sumbangan Pembinaan Pendidikan Mahasiswa Double Degree | Per Mahasiswa/Mata Kuliah |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Mahasiswa Double Degree\n1 | Program Magister | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000\n2 | Program Doktoral | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000",
+    "content": "## F | Sumbangan Pembinaan Pendidikan Mahasiswa Double Degree | Per Mahasiswa/Mata Kuliah |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Mahasiswa Double Degree\n1 | Program Magister | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000\n2 | Program Doktoral | Per Mahasiswa/Mata Kuliah | 3.000.000 | 3.000.000"
+  },
+  {
+    "id": "e40bdbd92c070f1bf19899d4f0b9f6b5",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## G | Sumbangan Pembinaan Pendidikan Rekognisi Pembelajaran Lampau (RPL) | Per Mahasiswa/Semester |  |",
+    "parent_context": "G | Sumbangan Pembinaan Pendidikan Rekognisi Pembelajaran Lampau (RPL) | Per Mahasiswa/Semester |  |",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Rekognisi Pembelajaran Lampau RPL",
+    "alias_topik": [
+      "biaya RPL",
+      "tarif RPL"
+    ],
+    "search_text": "Judul: Tarif Rekognisi Pembelajaran Lampau RPL\nKonteks: G | Sumbangan Pembinaan Pendidikan Rekognisi Pembelajaran Lampau (RPL) | Per Mahasiswa/Semester |  |\nAlias: biaya RPL, tarif RPL\nIntent: tanya_biaya\n\n## G | Sumbangan Pembinaan Pendidikan Rekognisi Pembelajaran Lampau (RPL) | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Rekognisi Pembelajaran Lampau (RPL)\n1 | Program Magister | Per Mahasiswa/Semester | 5.750.000 | 5.750.000",
+    "content": "## G | Sumbangan Pembinaan Pendidikan Rekognisi Pembelajaran Lampau (RPL) | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Rekognisi Pembelajaran Lampau (RPL)\n1 | Program Magister | Per Mahasiswa/Semester | 5.750.000 | 5.750.000"
+  },
+  {
+    "id": "70c0716e55ca3f7eea0a17f3d6f36e41",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## H | Semester Pendek | Per Mahasiswa/SKS |  |",
+    "parent_context": "H | Semester Pendek | Per Mahasiswa/SKS |  |",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Semester Pendek",
+    "alias_topik": [
+      "biaya semester pendek",
+      "tarif SP"
+    ],
+    "search_text": "Judul: Tarif Semester Pendek\nKonteks: H | Semester Pendek | Per Mahasiswa/SKS |  |\nAlias: biaya semester pendek, tarif SP\nIntent: tanya_biaya\n\n## H | Semester Pendek | Per Mahasiswa/SKS |  |\n\nBiaya Semester Pendek Per Mahasiswa/SKS \n1 | Program Sarjana | Per Mahasiswa/SKS | 220.000 | 220.000",
+    "content": "## H | Semester Pendek | Per Mahasiswa/SKS |  |\n\nBiaya Semester Pendek Per Mahasiswa/SKS \n1 | Program Sarjana | Per Mahasiswa/SKS | 220.000 | 220.000"
+  },
+  {
+    "id": "34c28b04a561ef87949ce89d69ef868d",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## I | Matrikulasi | Per Mahasiswa/Paket |  |",
+    "parent_context": "I | Matrikulasi | Per Mahasiswa/Paket |  |",
+    "intents": [
+      "tanya_biaya",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Tarif Matrikulasi",
+    "alias_topik": [
+      "biaya matrikulasi",
+      "tarif matrikulasi"
+    ],
+    "search_text": "Judul: Tarif Matrikulasi\nKonteks: I | Matrikulasi | Per Mahasiswa/Paket |  |\nAlias: biaya matrikulasi, tarif matrikulasi\nIntent: tanya_biaya, tanya_pascasarjana\n\n## I | Matrikulasi | Per Mahasiswa/Paket |  |\n\nBiaya Martikulasi per Mahasiswa/Paket\n1 | Program Magister | Per Mahasiswa/Paket | 1.500.000 | 2.165.000\n2 | Doktoral | Per Mahasiswa/Paket | 1.500.000 | 2.421.000",
+    "content": "## I | Matrikulasi | Per Mahasiswa/Paket |  |\n\nBiaya Martikulasi per Mahasiswa/Paket\n1 | Program Magister | Per Mahasiswa/Paket | 1.500.000 | 2.165.000\n2 | Doktoral | Per Mahasiswa/Paket | 1.500.000 | 2.421.000"
+  },
+  {
+    "id": "bb029901d35f7dfb4e6ff34ee656740a",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## J | Ujian Ulang Tugas Akhir | Per Mahasiswa/Kegiatan |  |",
+    "parent_context": "J | Ujian Ulang Tugas Akhir | Per Mahasiswa/Kegiatan |  |",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Ujian Ulang Tugas Akhir",
+    "alias_topik": [
+      "biaya ujian ulang",
+      "tarif tugas akhir",
+      "biaya retaker"
+    ],
+    "search_text": "Judul: Tarif Ujian Ulang Tugas Akhir\nKonteks: J | Ujian Ulang Tugas Akhir | Per Mahasiswa/Kegiatan |  |\nAlias: biaya ujian ulang, tarif tugas akhir, biaya retaker\nIntent: tanya_biaya\n\n## J | Ujian Ulang Tugas Akhir | Per Mahasiswa/Kegiatan |  |\n\nBiaya Ujian Ulang Tugas Akhir \n1.a | Program Magister - Ujian ulang pendahuluan | Per Mahasiswa/Kegiatan | 2.000.000 | 3.575.000\n1.b | Program Magister - Ujian ulang tugas akhir | Per Mahasiswa/Kegiatan | 2.000.000 | 3.575.000\n1.c | Program Magister - Ujian ulang proposal | Per Mahasiswa/Kegiatan | 1.000.000 | 3.575.000\n1.d | Program Magister - Ujian komprehensif ulang | Per Mahasiswa/Kegiatan | 1.500.000 | 3.575.000\n1.e | Program Magister - Ujian promosi ulang | Per Mahasiswa/Kegiatan | 3.500.000 | 3.575.000\n2.a | Doktoral - Ujian ulang pendahuluan | Per Mahasiswa/Kegiatan | 3.575.000 | 3.575.000\n2.b | Doktoral - Ujian ulang proposal | Per Mahasiswa/Kegiatan | 2.500.000 | 3.575.000\n2.c | Doktoral - Ujian komprehensif ulang | Per Mahasiswa/Kegiatan | 1.725.000 | 3.575.000\n2.d | Doktoral - Ujian promosi ulang | Per Mahasiswa/Kegiatan | 3.575.000 | 3.575.000\n3.a | Profesi - Dokter - Biaya retaker Ukom profesi Pendidikan dokter UKMPPD OSCE dan UKMPPD CBT | Per Mahasiswa/Kegiatan | 3.000.000 | 3.000.000\n3.b | Profesi - Apoteker - Biaya Retaker Semester III s.d Semester VI | Per Mahasiswa/Kegiatan | 3.000.000 | \n3.c | Profesi - Ners - Biaya retaker prodi profesi ners | Per Mahasiswa/Kegiatan | 3.000.000 | \n\nK | Kartu Mahasiswa/Penggantian | Per Mahasiswa/Kartu | 55.000 | 55.000\nL | Terjemahan Transkrip/Ijazah | Per Dokumen | 275.000 | 275.000\nM | Surat Keterangan Pengganti Sertifikat/Ijazah/ Transkrip | Per Dokumen | 65.000 | 65.000",
+    "content": "## J | Ujian Ulang Tugas Akhir | Per Mahasiswa/Kegiatan |  |\n\nBiaya Ujian Ulang Tugas Akhir \n1.a | Program Magister - Ujian ulang pendahuluan | Per Mahasiswa/Kegiatan | 2.000.000 | 3.575.000\n1.b | Program Magister - Ujian ulang tugas akhir | Per Mahasiswa/Kegiatan | 2.000.000 | 3.575.000\n1.c | Program Magister - Ujian ulang proposal | Per Mahasiswa/Kegiatan | 1.000.000 | 3.575.000\n1.d | Program Magister - Ujian komprehensif ulang | Per Mahasiswa/Kegiatan | 1.500.000 | 3.575.000\n1.e | Program Magister - Ujian promosi ulang | Per Mahasiswa/Kegiatan | 3.500.000 | 3.575.000\n2.a | Doktoral - Ujian ulang pendahuluan | Per Mahasiswa/Kegiatan | 3.575.000 | 3.575.000\n2.b | Doktoral - Ujian ulang proposal | Per Mahasiswa/Kegiatan | 2.500.000 | 3.575.000\n2.c | Doktoral - Ujian komprehensif ulang | Per Mahasiswa/Kegiatan | 1.725.000 | 3.575.000\n2.d | Doktoral - Ujian promosi ulang | Per Mahasiswa/Kegiatan | 3.575.000 | 3.575.000\n3.a | Profesi - Dokter - Biaya retaker Ukom profesi Pendidikan dokter UKMPPD OSCE dan UKMPPD CBT | Per Mahasiswa/Kegiatan | 3.000.000 | 3.000.000\n3.b | Profesi - Apoteker - Biaya Retaker Semester III s.d Semester VI | Per Mahasiswa/Kegiatan | 3.000.000 | \n3.c | Profesi - Ners - Biaya retaker prodi profesi ners | Per Mahasiswa/Kegiatan | 3.000.000 | \n\nK | Kartu Mahasiswa/Penggantian | Per Mahasiswa/Kartu | 55.000 | 55.000\nL | Terjemahan Transkrip/Ijazah | Per Dokumen | 275.000 | 275.000\nM | Surat Keterangan Pengganti Sertifikat/Ijazah/ Transkrip | Per Dokumen | 65.000 | 65.000"
+  },
+  {
+    "id": "8fac6ecab08fa92d5bf301326af40a46",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## N | Wisuda | Per Mahasiswa/Kegiatan |  |",
+    "parent_context": "N | Wisuda | Per Mahasiswa/Kegiatan |  |",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Tarif Wisuda",
+    "alias_topik": [
+      "biaya wisuda",
+      "tarif wisuda"
+    ],
+    "search_text": "Judul: Tarif Wisuda\nKonteks: N | Wisuda | Per Mahasiswa/Kegiatan |  |\nAlias: biaya wisuda, tarif wisuda\nIntent: tanya_biaya\n\n## N | Wisuda | Per Mahasiswa/Kegiatan |  |\n\nBiaya Wisuda PascaSarjana\n1 | Magister | Per Mahasiswa/Kegiatan | 1.000.000 | 1.000.000\n2 | Doktoral | Per Mahasiswa/Kegiatan | 1.000.000 | 1.000.000\n3 | Profesi | Per Mahasiswa/Kegiatan | 1.000.000 | 1.000.000\nO | Konversi Nilai Mata Kuliah | Per mahasiswa/semester |  | \n1 | Program Magister | per mahasiswa/semester | 2.500.000 | 2.500.000\n2 | Doktoral | per mahasiswa/semester | 2.500.000 | 2.500.000",
+    "content": "## N | Wisuda | Per Mahasiswa/Kegiatan |  |\n\nBiaya Wisuda PascaSarjana\n1 | Magister | Per Mahasiswa/Kegiatan | 1.000.000 | 1.000.000\n2 | Doktoral | Per Mahasiswa/Kegiatan | 1.000.000 | 1.000.000\n3 | Profesi | Per Mahasiswa/Kegiatan | 1.000.000 | 1.000.000\nO | Konversi Nilai Mata Kuliah | Per mahasiswa/semester |  | \n1 | Program Magister | per mahasiswa/semester | 2.500.000 | 2.500.000\n2 | Doktoral | per mahasiswa/semester | 2.500.000 | 2.500.000"
+  },
+  {
+    "id": "26f34e78756cca15d7ee32450188a796",
+    "source_file": "um_ptkin_tagged.md",
+    "heading": "## 2. Biaya Pendaftaran UM-PTKIN",
+    "parent_context": "Tentang UM-PTKIN > 2. Biaya Pendaftaran UM-PTKIN",
+    "intents": [
+      "tanya_biaya"
+    ],
+    "topik": "Biaya Pendaftaran UM-PTKIN",
+    "alias_topik": [
+      "biaya UM PTKIN",
+      "pembayaran UM PTKIN"
+    ],
+    "search_text": "Judul: Biaya Pendaftaran UM-PTKIN\nKonteks: Tentang UM-PTKIN > 2. Biaya Pendaftaran UM-PTKIN\nAlias: biaya UM PTKIN, pembayaran UM PTKIN\nIntent: tanya_biaya\n\n## 2. Biaya Pendaftaran UM-PTKIN \n\nBiaya pendaftaran sebesar Rp. 200.000 (Dua Ratus Ribu Rupiah), belum termasuk biaya tambahan jika transaksi menggunakan bank selain Bank Mandiri.",
+    "content": "## 2. Biaya Pendaftaran UM-PTKIN \n\nBiaya pendaftaran sebesar Rp. 200.000 (Dua Ratus Ribu Rupiah), belum termasuk biaya tambahan jika transaksi menggunakan bank selain Bank Mandiri."
+  }
+]

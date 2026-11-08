@@ -1,0 +1,875 @@
+[
+  {
+    "id": "54f9236129d4d2878cf1c740b5c1eef9",
+    "source_file": "brosur_magister_ekonomi_syariah_tagged_v2.md",
+    "heading": "## AKREDITASI",
+    "parent_context": "BROSUR MAGISTER EKONOMI SYARIAH > AKREDITASI",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Akreditasi Magister Ekonomi Syariah",
+    "alias_topik": [
+      "akreditasi S2 Ekonomi Syariah",
+      "akreditasi Magister Ekonomi Syariah"
+    ],
+    "search_text": "Judul: Akreditasi Magister Ekonomi Syariah\nKonteks: BROSUR MAGISTER EKONOMI SYARIAH > AKREDITASI\nAlias: akreditasi S2 Ekonomi Syariah, akreditasi Magister Ekonomi Syariah\nIntent: tanya_prodi_fakultas\n\n## AKREDITASI\n\nAKREDITASI BAIK SEKALI\nBerdasarkan Keputusan LAMEMBA\nNo. 878/DE/A.5/AR.10/XI/2023",
+    "content": "## AKREDITASI\n\nAKREDITASI BAIK SEKALI\nBerdasarkan Keputusan LAMEMBA\nNo. 878/DE/A.5/AR.10/XI/2023"
+  },
+  {
+    "id": "8badb1e7ceb65f600c8b74071c5dfaf3",
+    "source_file": "daftar_prodi_uin_jakarta.md",
+    "heading": "##  Program Sarjana (S1)",
+    "parent_context": "Program Sarjana (S1)",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Daftar Program Studi Jurusan S1 UIN Syarif Hidayatullah Jakarta",
+    "alias_topik": [
+      "Jurusan apa saja",
+      "prodi apa saja yang ada di UIN Jakarta",
+      "jurusan S1 UIN Jakarta",
+      "fakultas dan prodi UIN Jakarta",
+      "pilihan jurusan UIN Jakarta",
+      "ada jurusan apa saja di UIN Jakarta",
+      "prodi sarjana UIN Jakarta",
+      "list prodi UIN Syarif Hidayatullah",
+      "jurusan kuliah UIN Jakarta"
+    ],
+    "search_text": "Judul: Daftar Program Studi Jurusan S1 UIN Syarif Hidayatullah Jakarta\nKonteks: Program Sarjana (S1)\nAlias: Jurusan apa saja, prodi apa saja yang ada di UIN Jakarta, jurusan S1 UIN Jakarta, fakultas dan prodi UIN Jakarta, pilihan jurusan UIN Jakarta, ada jurusan apa saja di UIN Jakarta, prodi sarjana UIN Jakarta, list prodi UIN Syarif Hidayatullah, jurusan kuliah UIN Jakarta\nIntent: tanya_prodi_fakultas\n\n##  Program Sarjana (S1)\n\nBerikut adalah daftar jurusan, program studi, dan fakultas yang tersedia di UIN Syarif Hidayatullah Jakarta untuk jenjang Sarjana (S1).\nFakultas Ilmu Tarbiyah dan Keguruan\n1. Manajemen Pendidikan\n2. Pendidikan Agama Islam\n3. Pendidikan Bahasa Arab\n4. Pendidikan Guru Madrasah Ibtidaiyah\n5. Pendidikan Islam Anak Usia Dini\n6. Pendidikan Matematika\n7. Tadris Bahasa Indonesia\n8. Tadris Bahasa Inggris\n9. Tadris Biologi\n10. Tadris Fisika\n11. Tadris Ilmu Pengetahuan Sosial\n12. Tadris Kimia\n\nFakultas Adab dan Humaniora\n1. Bahasa dan Sastra Arab\n2. Ilmu Perpustakaan\n3. Sastra Inggris\n4. Sejarah dan Peradaban Islam\n5. Tarjamah\n\nFakultas Ushuluddin\n1. Aqidah dan Filsafat Islam\n2. Ilmu Al-Qur'an dan Tafsir\n3. Ilmu Hadis\n4. Ilmu Tasawuf\n5. Studi Agama Agama\n\nFakultas Syariah dan Hukum\n1. Hukum Ekonomi Syari'ah (Mu'amalah)\n2. Hukum Keluarga (Akhwal Syaksiyah)\n3. Hukum Pidana Islam\n4. Hukum Tata Negara (Siyasah)\n5. Ilmu Hukum\n6. Perbandingan Mazhab\n\nFakultas Dakwah dan Ilmu Komunikasi\n1. Bimbingan Penyuluhan Islam\n2. Jurnalistik\n3. Kesejahteraan Sosial\n4. Komunikasi Penyiaran Islam\n5. Manajemen Dakwah\n6. Pengembangan Masyarakat Islam\n\nFakultas Dirasat Islamiyah\n1. Dirasat Islamiyah\n\nFakultas Psikologi\n1. Psikologi\n\nFakultas Ekonomi dan Bisnis\n1. Akuntansi\n2. Ekonomi Pembangunan\n3. Ekonomi Syariah\n4. Manajemen\n5. Perbankan Syariah\n\nFakultas Sains dan Teknologi\n1. Agribisnis\n2. Biologi\n3. Fisika\n4. Kimia\n5. Matematika\n6. Sistem Informasi\n7. Teknik Informatika\n8. Teknik Pertambangan\n\nFakultas Ilmu Kesehatan\n1. Farmasi\n2. Keperawatan\n3. Kesehatan Masyarakat\n\nFakultas Ilmu Sosial dan Ilmu Politik\n1. Ilmu Hubungan Internasional\n2. Ilmu Politik\n3. Sosiologi\n\nFakultas Kedokteran\n1. Pendidikan Dokter\n\n---",
+    "content": "##  Program Sarjana (S1)\n\nBerikut adalah daftar jurusan, program studi, dan fakultas yang tersedia di UIN Syarif Hidayatullah Jakarta untuk jenjang Sarjana (S1).\nFakultas Ilmu Tarbiyah dan Keguruan\n1. Manajemen Pendidikan\n2. Pendidikan Agama Islam\n3. Pendidikan Bahasa Arab\n4. Pendidikan Guru Madrasah Ibtidaiyah\n5. Pendidikan Islam Anak Usia Dini\n6. Pendidikan Matematika\n7. Tadris Bahasa Indonesia\n8. Tadris Bahasa Inggris\n9. Tadris Biologi\n10. Tadris Fisika\n11. Tadris Ilmu Pengetahuan Sosial\n12. Tadris Kimia\n\nFakultas Adab dan Humaniora\n1. Bahasa dan Sastra Arab\n2. Ilmu Perpustakaan\n3. Sastra Inggris\n4. Sejarah dan Peradaban Islam\n5. Tarjamah\n\nFakultas Ushuluddin\n1. Aqidah dan Filsafat Islam\n2. Ilmu Al-Qur'an dan Tafsir\n3. Ilmu Hadis\n4. Ilmu Tasawuf\n5. Studi Agama Agama\n\nFakultas Syariah dan Hukum\n1. Hukum Ekonomi Syari'ah (Mu'amalah)\n2. Hukum Keluarga (Akhwal Syaksiyah)\n3. Hukum Pidana Islam\n4. Hukum Tata Negara (Siyasah)\n5. Ilmu Hukum\n6. Perbandingan Mazhab\n\nFakultas Dakwah dan Ilmu Komunikasi\n1. Bimbingan Penyuluhan Islam\n2. Jurnalistik\n3. Kesejahteraan Sosial\n4. Komunikasi Penyiaran Islam\n5. Manajemen Dakwah\n6. Pengembangan Masyarakat Islam\n\nFakultas Dirasat Islamiyah\n1. Dirasat Islamiyah\n\nFakultas Psikologi\n1. Psikologi\n\nFakultas Ekonomi dan Bisnis\n1. Akuntansi\n2. Ekonomi Pembangunan\n3. Ekonomi Syariah\n4. Manajemen\n5. Perbankan Syariah\n\nFakultas Sains dan Teknologi\n1. Agribisnis\n2. Biologi\n3. Fisika\n4. Kimia\n5. Matematika\n6. Sistem Informasi\n7. Teknik Informatika\n8. Teknik Pertambangan\n\nFakultas Ilmu Kesehatan\n1. Farmasi\n2. Keperawatan\n3. Kesehatan Masyarakat\n\nFakultas Ilmu Sosial dan Ilmu Politik\n1. Ilmu Hubungan Internasional\n2. Ilmu Politik\n3. Sosiologi\n\nFakultas Kedokteran\n1. Pendidikan Dokter\n\n---"
+  },
+  {
+    "id": "e44487a1a89bc543821f0b880835408d",
+    "source_file": "daftar_prodi_uin_jakarta.md",
+    "heading": "## Program Pascasarjana (S2 & S3)",
+    "parent_context": "Program Pascasarjana (S2 & S3)",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Daftar Program Studi Prodi Jurusan S2 S3 Pascasarjana UIN Syarif Hidayatullah Jakarta",
+    "alias_topik": [
+      "S2 apa saja yang tersedia di UIN jakarta",
+      "Magister apa saja yang tersedia di UIN Jakarta",
+      "S3 apa saja yang tersedia di UIN jakarta",
+      "Doktor apa saja yang tersedia di UIN Jakarta",
+      "Pascasarjana apa saja yg tersedia di UIN Jakarta",
+      "prodi S2 UIN Jakarta",
+      "prodi S3 UIN Jakarta",
+      "magister UIN Jakarta",
+      "doktor UIN Jakarta",
+      "program pascasarjana UIN Jakarta",
+      "daftar jurusan S2 UIN Jakarta",
+      "daftar jurusan S3 UIN Jakarta",
+      "program magister UIN Jakarta",
+      "program doktor UIN Jakarta"
+    ],
+    "search_text": "Judul: Daftar Program Studi Prodi Jurusan S2 S3 Pascasarjana UIN Syarif Hidayatullah Jakarta\nKonteks: Program Pascasarjana (S2 & S3)\nAlias: S2 apa saja yang tersedia di UIN jakarta, Magister apa saja yang tersedia di UIN Jakarta, S3 apa saja yang tersedia di UIN jakarta, Doktor apa saja yang tersedia di UIN Jakarta, Pascasarjana apa saja yg tersedia di UIN Jakarta, prodi S2 UIN Jakarta, prodi S3 UIN Jakarta, magister UIN Jakarta, doktor UIN Jakarta, program pascasarjana UIN Jakarta, daftar jurusan S2 UIN Jakarta, daftar jurusan S3 UIN Jakarta, program magister UIN Jakarta, program doktor UIN Jakarta\nIntent: tanya_prodi_fakultas\n\n## Program Pascasarjana (S2 & S3)\n\nBerikut adalah daftar jurusan, program studi di UIN Syarif Hidayatullah Jakarta untuk jenjang Magister Doktor S2 S3 Pascasarjana.\nDaftar Program Magister dan Doktor UIN Jakarta\nProgram Magister (S2)\n1. Magister Pendidikan Agama Islam\n2. Magister Pendidikan Bahasa Arab\n3. Magister Pendidikan Bahasa Inggris\n4. Magister Manajemen Pendidikan Islam\n5. Magister Bahasa dan Sastra Arab\n6. Magister Sejarah dan Kebudayaan Islam\n7. Magister Studi Agama-Agama\n8. Magister Aqidah dan Filsafat Islam\n9. Magister Ilmu Al-Qur'an dan Tafsir\n10. Magister Hukum Ekonomi Syariah\n11. Magister Hukum Keluarga / Ahwal Syakhsiyyah\n12. Magister Komunikasi dan Penyiaran Islam\n13. Magister Manajemen Dakwah\n14. Magister Dirasat Islamiyah\n15. Magister Agribisnis\n16. Magister Teknologi Informasi\n17. Magister Perbankan Syariah\n18. Magister Ekonomi Syariah\n19. Magister Psikologi\n20. Magister Ilmu Politik\n21. Magister Sosiologi\n22. Magister Pengkajian Islam\n23. Magister Ilmu Biomedis\n\nProgram Doktor (S3)\n1. Doktor Pendidikan Agama Islam\n2. Doktor Perbankan Syariah\n3. Doktor Pengkajian Islam\n4. Doktor Komunikasi dan Penyiaran Islam\n5. Doktor Ilmu Syariah\n6. Doktor Sejarah Peradaban Islam\n\n---",
+    "content": "## Program Pascasarjana (S2 & S3)\n\nBerikut adalah daftar jurusan, program studi di UIN Syarif Hidayatullah Jakarta untuk jenjang Magister Doktor S2 S3 Pascasarjana.\nDaftar Program Magister dan Doktor UIN Jakarta\nProgram Magister (S2)\n1. Magister Pendidikan Agama Islam\n2. Magister Pendidikan Bahasa Arab\n3. Magister Pendidikan Bahasa Inggris\n4. Magister Manajemen Pendidikan Islam\n5. Magister Bahasa dan Sastra Arab\n6. Magister Sejarah dan Kebudayaan Islam\n7. Magister Studi Agama-Agama\n8. Magister Aqidah dan Filsafat Islam\n9. Magister Ilmu Al-Qur'an dan Tafsir\n10. Magister Hukum Ekonomi Syariah\n11. Magister Hukum Keluarga / Ahwal Syakhsiyyah\n12. Magister Komunikasi dan Penyiaran Islam\n13. Magister Manajemen Dakwah\n14. Magister Dirasat Islamiyah\n15. Magister Agribisnis\n16. Magister Teknologi Informasi\n17. Magister Perbankan Syariah\n18. Magister Ekonomi Syariah\n19. Magister Psikologi\n20. Magister Ilmu Politik\n21. Magister Sosiologi\n22. Magister Pengkajian Islam\n23. Magister Ilmu Biomedis\n\nProgram Doktor (S3)\n1. Doktor Pendidikan Agama Islam\n2. Doktor Perbankan Syariah\n3. Doktor Pengkajian Islam\n4. Doktor Komunikasi dan Penyiaran Islam\n5. Doktor Ilmu Syariah\n6. Doktor Sejarah Peradaban Islam\n\n---"
+  },
+  {
+    "id": "0f76475599987123f422c30009942828",
+    "source_file": "daftar_prodi_uin_jakarta.md",
+    "heading": "## Program Profesi & Spesialis",
+    "parent_context": "Program Profesi & Spesialis",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Daftar Program Profesi dan Spesialis UIN Syarif Hidayatullah Jakarta",
+    "alias_topik": [
+      "Profesi apa saja yang ada di UIN Jakarta",
+      "jurusan program studi profesi UIN Jakarta",
+      "program spesialis UIN Jakarta",
+      "profesi dokter UIN Jakarta",
+      "profesi ners UIN Jakarta",
+      "profesi apoteker UIN Jakarta",
+      "profesi guru UIN Jakarta",
+      "spesialis Obgyn UIN Jakarta",
+      "spesialis pulmonologi UIN Jakarta"
+    ],
+    "search_text": "Judul: Daftar Program Profesi dan Spesialis UIN Syarif Hidayatullah Jakarta\nKonteks: Program Profesi & Spesialis\nAlias: Profesi apa saja yang ada di UIN Jakarta, jurusan program studi profesi UIN Jakarta, program spesialis UIN Jakarta, profesi dokter UIN Jakarta, profesi ners UIN Jakarta, profesi apoteker UIN Jakarta, profesi guru UIN Jakarta, spesialis Obgyn UIN Jakarta, spesialis pulmonologi UIN Jakarta\nIntent: tanya_prodi_fakultas\n\n## Program Profesi & Spesialis\n\nBerikut adalah daftar jurusan, program studi di UIN Syarif Hidayatullah Jakarta untuk jenjang Profesi.\nDaftar Profesi UIN Jakarta\n1. Profesi Dokter\n2. Pendidikan Profesi Dokter\n3. Profesi Ners\n4. Profesi Apoteker\n5. Profesi Guru\n6. Spesialis Obstetri dan Ginekologi (Obgyn)\n7. Spesialis Pulmonologi",
+    "content": "## Program Profesi & Spesialis\n\nBerikut adalah daftar jurusan, program studi di UIN Syarif Hidayatullah Jakarta untuk jenjang Profesi.\nDaftar Profesi UIN Jakarta\n1. Profesi Dokter\n2. Pendidikan Profesi Dokter\n3. Profesi Ners\n4. Profesi Apoteker\n5. Profesi Guru\n6. Spesialis Obstetri dan Ginekologi (Obgyn)\n7. Spesialis Pulmonologi"
+  },
+  {
+    "id": "96ccbdbb4723fbde8d2579321414b90a",
+    "source_file": "daftar_prodi_uin_jakarta.md",
+    "heading": "# Daftar Program Studi dan Jalur Seleksi",
+    "parent_context": "Daftar Program Studi dan Jalur Seleksi",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Daftar Program Studi atau Prodi dan Jalur Seleksi SNBT SNBP UTBK SPANPTKIN UMPTKIN SPMB MANDIRI REGULER NON REGULER UIN Syarif Hidayatullah Jakarta",
+    "alias_topik": [
+      "Daftar jurusan UIN Jakarta",
+      "program studi UIN Jakarta",
+      "prodi UIN Jakarta",
+      "fakultas UIN Jakarta",
+      "jalur seleksi UIN Jakarta",
+      "SNBP UIN Jakarta",
+      "SNBT UIN Jakarta",
+      "SPAN UM-PTKIN UIN Jakarta",
+      "SPMB Mandiri UIN Jakarta",
+      "SSE Luring UIN Jakarta",
+      "SSE Daring UIN Jakarta",
+      "jalur prestasi UIN Jakarta",
+      "talent scouting UIN Jakarta",
+      "PKB UIN Jakarta",
+      "BLU UIN Jakarta",
+      "jalur nilai SNBT UIN Jakarta",
+      "jalur nilai UM-PTKIN UIN Jakarta",
+      "daftar prodi S1 UIN Jakarta",
+      "jurusan S1 UIN Jakarta",
+      "fakultas dan prodi UIN Jakarta",
+      "pilihan jurusan UIN Jakarta",
+      "ada jurusan apa saja di UIN Jakarta",
+      "prodi sarjana UIN Jakarta",
+      "list prodi UIN Syarif Hidayatullah",
+      "jurusan kuliah UIN Jakarta"
+    ],
+    "search_text": "Judul: Daftar Program Studi atau Prodi dan Jalur Seleksi SNBT SNBP UTBK SPANPTKIN UMPTKIN SPMB MANDIRI REGULER NON REGULER UIN Syarif Hidayatullah Jakarta\nKonteks: Daftar Program Studi dan Jalur Seleksi\nAlias: Daftar jurusan UIN Jakarta, program studi UIN Jakarta, prodi UIN Jakarta, fakultas UIN Jakarta, jalur seleksi UIN Jakarta, SNBP UIN Jakarta, SNBT UIN Jakarta, SPAN UM-PTKIN UIN Jakarta, SPMB Mandiri UIN Jakarta, SSE Luring UIN Jakarta, SSE Daring UIN Jakarta, jalur prestasi UIN Jakarta, talent scouting UIN Jakarta, PKB UIN Jakarta, BLU UIN Jakarta, jalur nilai SNBT UIN Jakarta, jalur nilai UM-PTKIN UIN Jakarta, daftar prodi S1 UIN Jakarta, jurusan S1 UIN Jakarta, fakultas dan prodi UIN Jakarta, pilihan jurusan UIN Jakarta, ada jurusan apa saja di UIN Jakarta, prodi sarjana UIN Jakarta, list prodi UIN Syarif Hidayatullah, jurusan kuliah UIN Jakarta\nIntent: tanya_prodi_fakultas\n\n# Daftar Program Studi dan Jalur Seleksi\n\nBerikut adalah daftar jurusan, program studi jejang Sarjana berdasarkan jalur masuknya\njalur masuk terdiri dari SNBP & SNBT, SPAN & UM-PTKIN, SSE Luring, SSE Daring, Prestasi, Talent Scouting, PKB, BLU, Mandiri menggunakan Nilai SNBT, Mandiri menggunakan Nilai UM-PTKIN\n| No | Fakultas | Program Studi | Peringkat | SNBP & SNBT | SPAN & UM-PTKIN | SSE Luring | SSE Daring | Prestasi | Talent Scouting | PKB | BLU | Mandiri menggunakan Nilai SNBT | Mandiri menggunakan Nilai UM-PTKIN |\n|----|-----------|----------------|------------|--------------|------------------|-------------|-------------|-----------|-----------------|-----|-----|-------------|-----------------|\n| 1 | Ilmu Tarbiyah dan Keguruan | Manajemen Pendidikan | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 2 | Ilmu Tarbiyah dan Keguruan | Pendidikan Agama Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 3 | Ilmu Tarbiyah dan Keguruan | Pendidikan Bahasa Arab | A |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 4 | Ilmu Tarbiyah dan Keguruan | Pendidikan Guru Madrasah Ibtidaiyah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 5 | Ilmu Tarbiyah dan Keguruan | Pendidikan Islam Anak Usia Dini | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 6 | Ilmu Tarbiyah dan Keguruan | Pendidikan Matematika | Baik Sekali | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 7 | Ilmu Tarbiyah dan Keguruan | Tadris Bahasa Indonesia | B |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 8 | Ilmu Tarbiyah dan Keguruan | Tadris Bahasa Inggris | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 9 | Ilmu Tarbiyah dan Keguruan | Tadris Biologi | Baik Sekali |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 10 | Ilmu Tarbiyah dan Keguruan | Tadris Fisika | Baik Sekali |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 11 | Ilmu Tarbiyah dan Keguruan | Tadris Ilmu Pengetahuan Sosial | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 12 | Ilmu Tarbiyah dan Keguruan | Tadris Kimia | B | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 13 | Adab dan Humaniora | Bahasa dan Sastra Arab | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 14 | Adab dan Humaniora | Ilmu Perpustakaan | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 15 | Adab dan Humaniora | Sastra Inggris | B | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 16 | Adab dan Humaniora | Sejarah dan Peradaban Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 17 | Adab dan Humaniora | Tarjamah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 18 | Ushuluddin | Aqidah dan Filsafat Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 19 | Ushuluddin | Ilmu Al-Qur'an dan Tafsir | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 20 | Ushuluddin | Ilmu Hadis | Baik |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 21 | Ushuluddin | Ilmu Tasawuf | B |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 22 | Ushuluddin | Studi Agama Agama | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 23 | Syariah dan Hukum | Hukum Ekonomi Syari'ah (Mu'amalah) | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 24 | Syariah dan Hukum | Hukum Keluarga (Akhwal Syaksiyah) | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 25 | Syariah dan Hukum | Hukum Pidana Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 26 | Syariah dan Hukum | Hukum Tata Negara (Siyasah) | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 27 | Syariah dan Hukum | Ilmu Hukum | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 28 | Syariah dan Hukum | Perbandingan Mazhab | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 29 | Dakwah dan Ilmu Komunikasi | Bimbingan Penyuluhan Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 30 | Dakwah dan Ilmu Komunikasi | Jurnalistik | Baik | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 31 | Dakwah dan Ilmu Komunikasi | Kesejahteraan Sosial | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 32 | Dakwah dan Ilmu Komunikasi | Komunikasi Penyiaran Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 33 | Dakwah dan Ilmu Komunikasi | Manajemen Dakwah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 34 | Dakwah dan Ilmu Komunikasi | Pengembangan Masyarakat Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 35 | Dirasat Islamiyah | Dirasat Islamiyah | Unggul |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |  |\n| 36 | Psikologi | Psikologi | Unggul | ✔ |  | ✔ |  |  | ✔ |  |  | ✔ |  |\n| 37 | Ekonomi dan Bisnis | Akuntansi | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 38 | Ekonomi dan Bisnis | Ekonomi Pembangunan | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 39 | Ekonomi dan Bisnis | Ekonomi Syariah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 40 | Ekonomi dan Bisnis | Manajemen | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 41 | Ekonomi dan Bisnis | Perbankan Syariah | A |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 42 | Sains dan Teknologi | Agribisnis | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 43 | Sains dan Teknologi | Biologi | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 44 | Sains dan Teknologi | Fisika | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 45 | Sains dan Teknologi | Kimia | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 46 | Sains dan Teknologi | Matematika | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 47 | Sains dan Teknologi | Sistem Informasi | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 48 | Sains dan Teknologi | Teknik Informatika | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 49 | Sains dan Teknologi | Teknik Pertambangan | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 50 | Ilmu Kesehatan | Farmasi | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 51 | Ilmu Kesehatan | Keperawatan | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 52 | Ilmu Kesehatan | Kesehatan Masyarakat | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 53 | Ilmu Sosial dan Ilmu Politik | Ilmu Hubungan Internasional | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 54 | Ilmu Sosial dan Ilmu Politik | Ilmu Politik | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 55 | Ilmu Sosial dan Ilmu Politik | Sosiologi | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 56 | Kedokteran | Pendidikan Dokter | Unggul | ✔ |  | ✔ |  |  | ✔ |  |  |  |  |",
+    "content": "# Daftar Program Studi dan Jalur Seleksi\n\nBerikut adalah daftar jurusan, program studi jejang Sarjana berdasarkan jalur masuknya\njalur masuk terdiri dari SNBP & SNBT, SPAN & UM-PTKIN, SSE Luring, SSE Daring, Prestasi, Talent Scouting, PKB, BLU, Mandiri menggunakan Nilai SNBT, Mandiri menggunakan Nilai UM-PTKIN\n| No | Fakultas | Program Studi | Peringkat | SNBP & SNBT | SPAN & UM-PTKIN | SSE Luring | SSE Daring | Prestasi | Talent Scouting | PKB | BLU | Mandiri menggunakan Nilai SNBT | Mandiri menggunakan Nilai UM-PTKIN |\n|----|-----------|----------------|------------|--------------|------------------|-------------|-------------|-----------|-----------------|-----|-----|-------------|-----------------|\n| 1 | Ilmu Tarbiyah dan Keguruan | Manajemen Pendidikan | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 2 | Ilmu Tarbiyah dan Keguruan | Pendidikan Agama Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 3 | Ilmu Tarbiyah dan Keguruan | Pendidikan Bahasa Arab | A |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 4 | Ilmu Tarbiyah dan Keguruan | Pendidikan Guru Madrasah Ibtidaiyah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 5 | Ilmu Tarbiyah dan Keguruan | Pendidikan Islam Anak Usia Dini | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 6 | Ilmu Tarbiyah dan Keguruan | Pendidikan Matematika | Baik Sekali | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 7 | Ilmu Tarbiyah dan Keguruan | Tadris Bahasa Indonesia | B |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 8 | Ilmu Tarbiyah dan Keguruan | Tadris Bahasa Inggris | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 9 | Ilmu Tarbiyah dan Keguruan | Tadris Biologi | Baik Sekali |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 10 | Ilmu Tarbiyah dan Keguruan | Tadris Fisika | Baik Sekali |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 11 | Ilmu Tarbiyah dan Keguruan | Tadris Ilmu Pengetahuan Sosial | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 12 | Ilmu Tarbiyah dan Keguruan | Tadris Kimia | B | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 13 | Adab dan Humaniora | Bahasa dan Sastra Arab | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 14 | Adab dan Humaniora | Ilmu Perpustakaan | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 15 | Adab dan Humaniora | Sastra Inggris | B | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 16 | Adab dan Humaniora | Sejarah dan Peradaban Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 17 | Adab dan Humaniora | Tarjamah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 18 | Ushuluddin | Aqidah dan Filsafat Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 19 | Ushuluddin | Ilmu Al-Qur'an dan Tafsir | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 20 | Ushuluddin | Ilmu Hadis | Baik |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 21 | Ushuluddin | Ilmu Tasawuf | B |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 22 | Ushuluddin | Studi Agama Agama | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 23 | Syariah dan Hukum | Hukum Ekonomi Syari'ah (Mu'amalah) | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 24 | Syariah dan Hukum | Hukum Keluarga (Akhwal Syaksiyah) | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 25 | Syariah dan Hukum | Hukum Pidana Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 26 | Syariah dan Hukum | Hukum Tata Negara (Siyasah) | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 27 | Syariah dan Hukum | Ilmu Hukum | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 28 | Syariah dan Hukum | Perbandingan Mazhab | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ | ✔ |  | ✔ |\n| 29 | Dakwah dan Ilmu Komunikasi | Bimbingan Penyuluhan Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 30 | Dakwah dan Ilmu Komunikasi | Jurnalistik | Baik | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 31 | Dakwah dan Ilmu Komunikasi | Kesejahteraan Sosial | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 32 | Dakwah dan Ilmu Komunikasi | Komunikasi Penyiaran Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 33 | Dakwah dan Ilmu Komunikasi | Manajemen Dakwah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 34 | Dakwah dan Ilmu Komunikasi | Pengembangan Masyarakat Islam | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 35 | Dirasat Islamiyah | Dirasat Islamiyah | Unggul |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |  |\n| 36 | Psikologi | Psikologi | Unggul | ✔ |  | ✔ |  |  | ✔ |  |  | ✔ |  |\n| 37 | Ekonomi dan Bisnis | Akuntansi | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 38 | Ekonomi dan Bisnis | Ekonomi Pembangunan | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 39 | Ekonomi dan Bisnis | Ekonomi Syariah | Unggul |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 40 | Ekonomi dan Bisnis | Manajemen | A | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 41 | Ekonomi dan Bisnis | Perbankan Syariah | A |  | ✔ | ✔ | ✔ | ✔ |  | ✔ |  |  | ✔ |\n| 42 | Sains dan Teknologi | Agribisnis | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 43 | Sains dan Teknologi | Biologi | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 44 | Sains dan Teknologi | Fisika | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 45 | Sains dan Teknologi | Kimia | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 46 | Sains dan Teknologi | Matematika | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 47 | Sains dan Teknologi | Sistem Informasi | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 48 | Sains dan Teknologi | Teknik Informatika | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 49 | Sains dan Teknologi | Teknik Pertambangan | Baik Sekali | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 50 | Ilmu Kesehatan | Farmasi | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 51 | Ilmu Kesehatan | Keperawatan | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 52 | Ilmu Kesehatan | Kesehatan Masyarakat | Unggul | ✔ |  | ✔ |  |  |  |  |  |  |  |\n| 53 | Ilmu Sosial dan Ilmu Politik | Ilmu Hubungan Internasional | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 54 | Ilmu Sosial dan Ilmu Politik | Ilmu Politik | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 55 | Ilmu Sosial dan Ilmu Politik | Sosiologi | Unggul | ✔ |  | ✔ | ✔ | ✔ |  |  |  | ✔ |  |\n| 56 | Kedokteran | Pendidikan Dokter | Unggul | ✔ |  | ✔ |  |  | ✔ |  |  |  |  |"
+  },
+  {
+    "id": "4ef491553d585efe066236b1f357b48a",
+    "source_file": "kma_ukt_2026_uin_jakarta_saja_tagged.md",
+    "heading": "## Tabel UKT Program Studi UIN Jakarta",
+    "parent_context": "Tabel UKT Program Studi UIN Jakarta",
+    "intents": [
+      "tanya_biaya",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Tabel UKT Seluruh Program Studi UIN Jakarta",
+    "alias_topik": [
+      "daftar UKT per prodi",
+      "UKT program studi UIN Jakarta",
+      "biaya per prodi UIN Jakarta"
+    ],
+    "search_text": "Judul: Tabel UKT Seluruh Program Studi UIN Jakarta\nKonteks: Tabel UKT Program Studi UIN Jakarta\nAlias: daftar UKT per prodi, UKT program studi UIN Jakarta, biaya per prodi UIN Jakarta\nIntent: tanya_biaya, tanya_prodi_fakultas\n\n## Tabel UKT Program Studi UIN Jakarta\n\nHalaman | No | Perguruan Tinggi                | Fakultas/Jurusan             | Jurusan/Program Studi                    | Kelompok I  | Kelompok II | Kelompok III | Kelompok IV | Kelompok V | Kelompok VI | Kelompok VII | Kelompok VIII (KIP)\n--------+----+---------------------------------+------------------------------+------------------------------------------+-------------+-------------+--------------+-------------+------------+-------------+--------------+--------------------\n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Agama Islam                   | 0 - 400.000 | 2.640.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Arab                   | 0 - 400.000 | 2.756.000   | 3.500.000    | 4.000.000   | 4.500.000  | 5.000.000   | 5.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Inggris                | 0 - 400.000 | 2.760.000   | 3.120.000    | 3.600.000   | 4.450.000  | 5.540.000   | 6.650.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Biologi                       | 0 - 400.000 | 3.360.000   | 4.200.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Kimia                         | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Fisika                        | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 6.750.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Matematika                    | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Manajemen Pendidikan                     | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Guru Madrasah Ibtidaiyah      | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa dan Sastra Indonesia   | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Ilmu Pengetahuan Sosial       | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Islam Anak Usia Dini          | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Arab                   | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Sejarah dan Peradaban Islam              | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Tarjamah                                 | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Ilmu Perpustakaan                        | 0 - 400.000 | 3.025.000   | 3.465.000    | 4.500.000   | 5.000.000  | 6.000.000   | 6.840.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Inggris                | 0 - 400.000 | 3.498.000   | 4.500.000    | 5.200.000   | 5.900.000  | 6.700.000   | 7.680.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Studi Agama-Agama                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Al-Quran dan Tafsir                 | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Hadis                               | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Aqidah dan Filsafat Islam                | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Tasawuf                             | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Keluarga (Ahwal Syakhsiyyah)       | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Perbandingan Mazhab                      | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 5.400.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Tata Negara (Siyasah)              | 0 - 400.000 | 3.250.000   | 3.600.000    | 4.150.000   | 4.550.000  | 5.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Pidana Islam (Jinayah)             | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Ekonomi Syari'ah (Muamalat)        | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Ilmu Hukum                               | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Komunikasi dan Penyiaran Islam           | 0 - 400.000 | 3.945.000   | 4.530.000    | 5.220.000   | 6.000.000  | 6.900.000   | 7.950.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Bimbingan dan Penyuluhan Islam           | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Manajemen Dakwah                         | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.000.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Pengembangan Masyarakat Islam            | 0 - 400.000 | 2.500.000   | 2.800.000    | 3.500.000   | 4.000.000  | 4.500.000   | 5.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Kesejahteraan Sosial                     | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Jurnalistik                              | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dirasat Islamiyah            | Dirasat Islamiyah                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 5.964.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Psikologi                    | Psikologi                                | 0 - 400.000 | 3.850.000   | 4.450.000    | 6.200.000   | 7.200.000  | 8.200.000   | 9.300.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Manajemen                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Akuntansi                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ilmu Ekonomi dan Studi Pembangunan       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ekonomi Syariah                          | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Perbankan Syariah                        | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.000.000  | 7.310.000   | 8.500.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Agribisnis                               | 0 - 400.000 | 3.500.000   | 4.000.000    | 4.500.000   | 5.000.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Informatika                       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Sistem Informasi                         | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Matematika                               | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Biologi                                  | 0 - 400.000 | 3.500.000   | 4.300.000    | 4.800.000   | 5.800.000  | 6.800.000   | 7.800.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Kimia                                    | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Fisika                                   | 0 - 400.000 | 3.000.000   | 4.000.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Pertambangan                      | 0 - 400.000 | 10.800.000  | 12.640.000   | 14.000.000  | 14.250.000 | 14.500.000  | 16.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Kesehatan Masyarakat                     | 0 - 400.000 | 4.818.000   | 5.000.000    | 5.500.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Farmasi                                  | 0 - 400.000 | 6.500.000   | 7.500.000    | 9.000.000   | 10.000.000 | 11.500.000  | 14.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Ilmu Keperawatan                         | 0 - 400.000 | 5.000.000   | 5.500.000    | 7.000.000   | 8.000.000  | 9.000.000   | 10.000.000   | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Sosiologi                                | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Politik                             | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Hubungan Internasional              | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Kedokteran                   | Kedokteran dan Pendidikan Profesi Dokter | 0 - 400.000 | 16.000.000  | 23.000.000   | 30.000.000  | 38.000.000 | 42.000.000  | 50.000.000   | 2.400.000",
+    "content": "## Tabel UKT Program Studi UIN Jakarta\n\nHalaman | No | Perguruan Tinggi                | Fakultas/Jurusan             | Jurusan/Program Studi                    | Kelompok I  | Kelompok II | Kelompok III | Kelompok IV | Kelompok V | Kelompok VI | Kelompok VII | Kelompok VIII (KIP)\n--------+----+---------------------------------+------------------------------+------------------------------------------+-------------+-------------+--------------+-------------+------------+-------------+--------------+--------------------\n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Agama Islam                   | 0 - 400.000 | 2.640.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Arab                   | 0 - 400.000 | 2.756.000   | 3.500.000    | 4.000.000   | 4.500.000  | 5.000.000   | 5.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa Inggris                | 0 - 400.000 | 2.760.000   | 3.120.000    | 3.600.000   | 4.450.000  | 5.540.000   | 6.650.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Biologi                       | 0 - 400.000 | 3.360.000   | 4.200.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.500.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Kimia                         | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Fisika                        | 0 - 400.000 | 3.360.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 6.750.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Matematika                    | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Manajemen Pendidikan                     | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Guru Madrasah Ibtidaiyah      | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n4       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Bahasa dan Sastra Indonesia   | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Ilmu Pengetahuan Sosial       | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Tarbiyah dan Keguruan   | Pendidikan Islam Anak Usia Dini          | 0 - 400.000 | 2.650.000   | 3.500.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Arab                   | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Sejarah dan Peradaban Islam              | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Tarjamah                                 | 0 - 400.000 | 2.300.000   | 2.600.000    | 3.500.000   | 5.000.000  | 6.000.000   | 6.500.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Ilmu Perpustakaan                        | 0 - 400.000 | 3.025.000   | 3.465.000    | 4.500.000   | 5.000.000  | 6.000.000   | 6.840.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Adab dan Humaniora           | Bahasa dan Sastra Inggris                | 0 - 400.000 | 3.498.000   | 4.500.000    | 5.200.000   | 5.900.000  | 6.700.000   | 7.680.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Studi Agama-Agama                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Al-Quran dan Tafsir                 | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Hadis                               | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Aqidah dan Filsafat Islam                | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ushuluddin                   | Ilmu Tasawuf                             | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Keluarga (Ahwal Syakhsiyyah)       | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Perbandingan Mazhab                      | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 5.400.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Tata Negara (Siyasah)              | 0 - 400.000 | 3.250.000   | 3.600.000    | 4.150.000   | 4.550.000  | 5.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Pidana Islam (Jinayah)             | 0 - 400.000 | 2.586.000   | 2.880.000    | 3.306.000   | 3.636.000  | 4.140.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Hukum Ekonomi Syari'ah (Muamalat)        | 0 - 400.000 | 3.000.000   | 4.000.000    | 5.000.000   | 6.000.000  | 6.500.000   | 7.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Syariah dan Hukum            | Ilmu Hukum                               | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Komunikasi dan Penyiaran Islam           | 0 - 400.000 | 3.945.000   | 4.530.000    | 5.220.000   | 6.000.000  | 6.900.000   | 7.950.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Bimbingan dan Penyuluhan Islam           | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n5       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Manajemen Dakwah                         | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.000.000   | 4.500.000  | 5.000.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Pengembangan Masyarakat Islam            | 0 - 400.000 | 2.500.000   | 2.800.000    | 3.500.000   | 4.000.000  | 4.500.000   | 5.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Kesejahteraan Sosial                     | 0 - 400.000 | 4.000.000   | 5.000.000    | 6.000.000   | 7.000.000  | 7.500.000   | 8.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dakwah dan Komunikasi        | Jurnalistik                              | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 6.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Dirasat Islamiyah            | Dirasat Islamiyah                        | 0 - 400.000 | 2.950.000   | 3.540.000    | 4.071.000   | 4.680.000  | 5.290.000   | 5.964.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Psikologi                    | Psikologi                                | 0 - 400.000 | 3.850.000   | 4.450.000    | 6.200.000   | 7.200.000  | 8.200.000   | 9.300.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Manajemen                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Akuntansi                                | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.200.000  | 7.510.000   | 8.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ilmu Ekonomi dan Studi Pembangunan       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Ekonomi Syariah                          | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 5.950.000  | 7.110.000   | 7.700.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ekonomi dan Bisnis           | Perbankan Syariah                        | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.000.000  | 7.310.000   | 8.500.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Agribisnis                               | 0 - 400.000 | 3.500.000   | 4.000.000    | 4.500.000   | 5.000.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Informatika                       | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Sistem Informasi                         | 0 - 400.000 | 4.270.000   | 4.895.000    | 5.150.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Matematika                               | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Biologi                                  | 0 - 400.000 | 3.500.000   | 4.300.000    | 4.800.000   | 5.800.000  | 6.800.000   | 7.800.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Kimia                                    | 0 - 400.000 | 3.000.000   | 3.700.000    | 4.500.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Fisika                                   | 0 - 400.000 | 3.000.000   | 4.000.000    | 4.500.000   | 5.500.000  | 6.500.000   | 7.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Sains dan Teknologi          | Teknik Pertambangan                      | 0 - 400.000 | 10.800.000  | 12.640.000   | 14.000.000  | 14.250.000 | 14.500.000  | 16.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Kesehatan Masyarakat                     | 0 - 400.000 | 4.818.000   | 5.000.000    | 5.500.000   | 6.500.000  | 7.810.000   | 9.000.000    | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Farmasi                                  | 0 - 400.000 | 6.500.000   | 7.500.000    | 9.000.000   | 10.000.000 | 11.500.000  | 14.000.000   | 2.400.000          \n6       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Kesehatan               | Ilmu Keperawatan                         | 0 - 400.000 | 5.000.000   | 5.500.000    | 7.000.000   | 8.000.000  | 9.000.000   | 10.000.000   | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Sosiologi                                | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Politik                             | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Ilmu Sosial dan Ilmu Politik | Ilmu Hubungan Internasional              | 0 - 400.000 | 4.000.000   | 4.500.000    | 4.700.000   | 5.500.000  | 6.000.000   | 7.000.000    | 2.400.000          \n7       | 1  | UIN SYARIF HIDAYATULLAH JAKARTA | Kedokteran                   | Kedokteran dan Pendidikan Profesi Dokter | 0 - 400.000 | 16.000.000  | 23.000.000   | 30.000.000  | 38.000.000 | 42.000.000  | 50.000.000   | 2.400.000"
+  },
+  {
+    "id": "ca2f19a8daa1233cec1b6d1130b28ad1",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Ilmu Tarbiyah dan Keguruan",
+    "parent_context": "Fakultas Ilmu Tarbiyah dan Keguruan",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Ilmu Tarbiyah dan Keguruan",
+    "alias_topik": [
+      "Fakultas Ilmu Tarbiyah dan Keguruan",
+      "program studi Fakultas Ilmu Tarbiyah dan Keguruan",
+      "prodi Fakultas Ilmu Tarbiyah dan Keguruan"
+    ],
+    "search_text": "Judul: Fakultas Ilmu Tarbiyah dan Keguruan\nKonteks: Fakultas Ilmu Tarbiyah dan Keguruan\nAlias: Fakultas Ilmu Tarbiyah dan Keguruan, program studi Fakultas Ilmu Tarbiyah dan Keguruan, prodi Fakultas Ilmu Tarbiyah dan Keguruan\nIntent: tanya_prodi_fakultas\n\n### Fakultas Ilmu Tarbiyah dan Keguruan\n\n• Pendidikan Agama Islam\n• Pendidikan Bahasa Arab\n• Pendidikan Bahasa dan Sastra Indonesia\n• Pendidikan Bahasa Inggris\n• Pendidikan Ilmu Pengetahuan Sosial\n• Pendidikan Matematika\n• Pendidikan Biologi\n• Pendidikan Kimia\n• Pendidikan Fisika\n• Manajemen Pendidikan\n• Pendidikan Guru Madrasah Ibtidaiyah\n• Pendidikan Islam Anak Usia Dini\n• Pendidikan Profesi Guru\n• Magister Pendidikan Bahasa Arab\n• Magister Pendidikan Bahasa Inggris\n• Magister Pendidikan Agama Islam\n• Magister Manajemen Pendidikan Islam\n• Doktor Pendidikan Agama Islam",
+    "content": "### Fakultas Ilmu Tarbiyah dan Keguruan\n\n• Pendidikan Agama Islam\n• Pendidikan Bahasa Arab\n• Pendidikan Bahasa dan Sastra Indonesia\n• Pendidikan Bahasa Inggris\n• Pendidikan Ilmu Pengetahuan Sosial\n• Pendidikan Matematika\n• Pendidikan Biologi\n• Pendidikan Kimia\n• Pendidikan Fisika\n• Manajemen Pendidikan\n• Pendidikan Guru Madrasah Ibtidaiyah\n• Pendidikan Islam Anak Usia Dini\n• Pendidikan Profesi Guru\n• Magister Pendidikan Bahasa Arab\n• Magister Pendidikan Bahasa Inggris\n• Magister Pendidikan Agama Islam\n• Magister Manajemen Pendidikan Islam\n• Doktor Pendidikan Agama Islam"
+  },
+  {
+    "id": "2fa7568f6d9b9abb5ab6d7692c97e416",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Adab dan Humaniora",
+    "parent_context": "Fakultas Adab dan Humaniora",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Adab dan Humaniora",
+    "alias_topik": [
+      "Fakultas Adab dan Humaniora",
+      "program studi Fakultas Adab dan Humaniora",
+      "prodi Fakultas Adab dan Humaniora"
+    ],
+    "search_text": "Judul: Fakultas Adab dan Humaniora\nKonteks: Fakultas Adab dan Humaniora\nAlias: Fakultas Adab dan Humaniora, program studi Fakultas Adab dan Humaniora, prodi Fakultas Adab dan Humaniora\nIntent: tanya_prodi_fakultas\n\n### Fakultas Adab dan Humaniora\n\n• Bahasa dan Sastra Arab\n• Sejarah dan Peradaban Islam\n• Tarjamah\n• Sastra Inggris\n• Ilmu Pustakaan\n• Magister Sejarah dan Kebudayaan Islam\n• Magister Bahasa dan Sastra Arab\n• Doktor Sejarah Peradaban Islam",
+    "content": "### Fakultas Adab dan Humaniora\n\n• Bahasa dan Sastra Arab\n• Sejarah dan Peradaban Islam\n• Tarjamah\n• Sastra Inggris\n• Ilmu Pustakaan\n• Magister Sejarah dan Kebudayaan Islam\n• Magister Bahasa dan Sastra Arab\n• Doktor Sejarah Peradaban Islam"
+  },
+  {
+    "id": "3d72b16d044c8ac2cf4c2d82498d4f6d",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Ushuluddin",
+    "parent_context": "Fakultas Ushuluddin",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Ushuluddin",
+    "alias_topik": [
+      "Fakultas Ushuluddin",
+      "program studi Fakultas Ushuluddin",
+      "prodi Fakultas Ushuluddin"
+    ],
+    "search_text": "Judul: Fakultas Ushuluddin\nKonteks: Fakultas Ushuluddin\nAlias: Fakultas Ushuluddin, program studi Fakultas Ushuluddin, prodi Fakultas Ushuluddin\nIntent: tanya_prodi_fakultas\n\n### Fakultas Ushuluddin\n\n• Studi Agama–Agama\n• Aqidah dan Filsafat Islam\n• Ilmu Al–Quran dan Tafsir\n• Ilmu Hadis\n• Ilmu Tasawuf\n• Magister Studi Agama–Agama\n• Magister Aqidah dan Filsafat Islam\n• Magister Ilmu Al–Quran dan Tafsir",
+    "content": "### Fakultas Ushuluddin\n\n• Studi Agama–Agama\n• Aqidah dan Filsafat Islam\n• Ilmu Al–Quran dan Tafsir\n• Ilmu Hadis\n• Ilmu Tasawuf\n• Magister Studi Agama–Agama\n• Magister Aqidah dan Filsafat Islam\n• Magister Ilmu Al–Quran dan Tafsir"
+  },
+  {
+    "id": "bb98083f8e0ac697e5bbc6a87d07a868",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Syariah dan Hukum",
+    "parent_context": "Fakultas Syariah dan Hukum",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Syariah dan Hukum",
+    "alias_topik": [
+      "Fakultas Syariah dan Hukum",
+      "program studi Fakultas Syariah dan Hukum",
+      "prodi Fakultas Syariah dan Hukum"
+    ],
+    "search_text": "Judul: Fakultas Syariah dan Hukum\nKonteks: Fakultas Syariah dan Hukum\nAlias: Fakultas Syariah dan Hukum, program studi Fakultas Syariah dan Hukum, prodi Fakultas Syariah dan Hukum\nIntent: tanya_prodi_fakultas\n\n### Fakultas Syariah dan Hukum\n\n• Perbandingan Mazhab\n• Hukum Keluarga\n• Ilmu Hukum\n• Hukum Ekonomi Syariah\n• Hukum Tata Negara\n• Hukum Pidana Islam\n• Magister Hukum Ekonomi Syariah\n• Magister Hukum Keluarga\n• Doktor Ilmu Syariah",
+    "content": "### Fakultas Syariah dan Hukum\n\n• Perbandingan Mazhab\n• Hukum Keluarga\n• Ilmu Hukum\n• Hukum Ekonomi Syariah\n• Hukum Tata Negara\n• Hukum Pidana Islam\n• Magister Hukum Ekonomi Syariah\n• Magister Hukum Keluarga\n• Doktor Ilmu Syariah"
+  },
+  {
+    "id": "f662bc1cc4c6729b1f092b8d10c21650",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Dakwah dan Ilmu Komunikasi",
+    "parent_context": "Fakultas Dakwah dan Ilmu Komunikasi",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Dakwah dan Ilmu Komunikasi",
+    "alias_topik": [
+      "Fakultas Dakwah dan Ilmu Komunikasi",
+      "program studi Fakultas Dakwah dan Ilmu Komunikasi",
+      "prodi Fakultas Dakwah dan Ilmu Komunikasi"
+    ],
+    "search_text": "Judul: Fakultas Dakwah dan Ilmu Komunikasi\nKonteks: Fakultas Dakwah dan Ilmu Komunikasi\nAlias: Fakultas Dakwah dan Ilmu Komunikasi, program studi Fakultas Dakwah dan Ilmu Komunikasi, prodi Fakultas Dakwah dan Ilmu Komunikasi\nIntent: tanya_prodi_fakultas\n\n### Fakultas Dakwah dan Ilmu Komunikasi\n\n• Komunikasi dan Penyiaran Islam\n• Jurnalistik\n• Bimbingan dan Penyuluhan Islam\n• Manajemen Dakwah\n• Pengembangan Masyarakat Islam\n• Kesejahteraan Sosial\n• Magister Komunikasi dan Penyiaran Islam\n• Magister Manajemen Dakwah\n• Doktor Komunikasi dan Penyiaran Islam",
+    "content": "### Fakultas Dakwah dan Ilmu Komunikasi\n\n• Komunikasi dan Penyiaran Islam\n• Jurnalistik\n• Bimbingan dan Penyuluhan Islam\n• Manajemen Dakwah\n• Pengembangan Masyarakat Islam\n• Kesejahteraan Sosial\n• Magister Komunikasi dan Penyiaran Islam\n• Magister Manajemen Dakwah\n• Doktor Komunikasi dan Penyiaran Islam"
+  },
+  {
+    "id": "d6f96fbb626c5f2638b01114583f3e66",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Ekonomi dan Bisnis",
+    "parent_context": "Fakultas Ekonomi dan Bisnis",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Ekonomi dan Bisnis",
+    "alias_topik": [
+      "Fakultas Ekonomi dan Bisnis",
+      "program studi Fakultas Ekonomi dan Bisnis",
+      "prodi Fakultas Ekonomi dan Bisnis"
+    ],
+    "search_text": "Judul: Fakultas Ekonomi dan Bisnis\nKonteks: Fakultas Ekonomi dan Bisnis\nAlias: Fakultas Ekonomi dan Bisnis, program studi Fakultas Ekonomi dan Bisnis, prodi Fakultas Ekonomi dan Bisnis\nIntent: tanya_prodi_fakultas\n\n### Fakultas Ekonomi dan Bisnis\n\n• Manajemen\n• Akuntansi\n• Ekonomi Pembangunan\n• Perbankan Syariah\n• Ekonomi Syariah\n• Magister Perbankan Syariah\n• Magister Ekonomi Syariah\n• Doktor Perbankan Syariah",
+    "content": "### Fakultas Ekonomi dan Bisnis\n\n• Manajemen\n• Akuntansi\n• Ekonomi Pembangunan\n• Perbankan Syariah\n• Ekonomi Syariah\n• Magister Perbankan Syariah\n• Magister Ekonomi Syariah\n• Doktor Perbankan Syariah"
+  },
+  {
+    "id": "9dc9349cb29561d28d1012e55b9187b1",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Sains dan Teknologi",
+    "parent_context": "Fakultas Sains dan Teknologi",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Sains dan Teknologi",
+    "alias_topik": [
+      "Fakultas Sains dan Teknologi",
+      "program studi Fakultas Sains dan Teknologi",
+      "prodi Fakultas Sains dan Teknologi"
+    ],
+    "search_text": "Judul: Fakultas Sains dan Teknologi\nKonteks: Fakultas Sains dan Teknologi\nAlias: Fakultas Sains dan Teknologi, program studi Fakultas Sains dan Teknologi, prodi Fakultas Sains dan Teknologi\nIntent: tanya_prodi_fakultas\n\n### Fakultas Sains dan Teknologi\n\n• Agribisnis\n• Teknik Informatika\n• Sistem Informasi\n• Matematika\n• Biologi\n• Kimia\n• Fisika\n• Teknik Pertambangan\n• Magister Teknologi Informasi\n• Magister Agribisnis",
+    "content": "### Fakultas Sains dan Teknologi\n\n• Agribisnis\n• Teknik Informatika\n• Sistem Informasi\n• Matematika\n• Biologi\n• Kimia\n• Fisika\n• Teknik Pertambangan\n• Magister Teknologi Informasi\n• Magister Agribisnis"
+  },
+  {
+    "id": "d2270517a7020b12de62d19609eb8cfb",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Ilmu Kesehatan",
+    "parent_context": "Fakultas Ilmu Kesehatan",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Ilmu Kesehatan",
+    "alias_topik": [
+      "Fakultas Ilmu Kesehatan",
+      "program studi Fakultas Ilmu Kesehatan",
+      "prodi Fakultas Ilmu Kesehatan"
+    ],
+    "search_text": "Judul: Fakultas Ilmu Kesehatan\nKonteks: Fakultas Ilmu Kesehatan\nAlias: Fakultas Ilmu Kesehatan, program studi Fakultas Ilmu Kesehatan, prodi Fakultas Ilmu Kesehatan\nIntent: tanya_prodi_fakultas\n\n### Fakultas Ilmu Kesehatan\n\n• Kesehatan Masyarakat\n• Farmasi\n• Ilmu Keperawatan\n• Program Profesi Ners\n• Program Profesi Apoteker\n• Magister Ilmu Farmasi\n• Magister Ilmu Kesehatan",
+    "content": "### Fakultas Ilmu Kesehatan\n\n• Kesehatan Masyarakat\n• Farmasi\n• Ilmu Keperawatan\n• Program Profesi Ners\n• Program Profesi Apoteker\n• Magister Ilmu Farmasi\n• Magister Ilmu Kesehatan"
+  },
+  {
+    "id": "2608fee44c7cfea4eed430f88b4978b2",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Ilmu Sosial dan Ilmu Politik",
+    "parent_context": "Fakultas Ilmu Sosial dan Ilmu Politik",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Ilmu Sosial dan Ilmu Politik",
+    "alias_topik": [
+      "Fakultas Ilmu Sosial dan Ilmu Politik",
+      "program studi Fakultas Ilmu Sosial dan Ilmu Politik",
+      "prodi Fakultas Ilmu Sosial dan Ilmu Politik"
+    ],
+    "search_text": "Judul: Fakultas Ilmu Sosial dan Ilmu Politik\nKonteks: Fakultas Ilmu Sosial dan Ilmu Politik\nAlias: Fakultas Ilmu Sosial dan Ilmu Politik, program studi Fakultas Ilmu Sosial dan Ilmu Politik, prodi Fakultas Ilmu Sosial dan Ilmu Politik\nIntent: tanya_prodi_fakultas\n\n### Fakultas Ilmu Sosial dan Ilmu Politik\n\n• Sosiologi\n• Ilmu Politik\n• Ilmu Hubungan Internasional\n• Magister Ilmu Sosiologi\n• Magister Ilmu Politik",
+    "content": "### Fakultas Ilmu Sosial dan Ilmu Politik\n\n• Sosiologi\n• Ilmu Politik\n• Ilmu Hubungan Internasional\n• Magister Ilmu Sosiologi\n• Magister Ilmu Politik"
+  },
+  {
+    "id": "523929fbdf4c13b3f23de1f14a95b58a",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Fakultas Kedokteran",
+    "parent_context": "Fakultas Kedokteran",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Fakultas Kedokteran",
+    "alias_topik": [
+      "Fakultas Kedokteran",
+      "program studi Fakultas Kedokteran",
+      "prodi Fakultas Kedokteran"
+    ],
+    "search_text": "Judul: Fakultas Kedokteran\nKonteks: Fakultas Kedokteran\nAlias: Fakultas Kedokteran, program studi Fakultas Kedokteran, prodi Fakultas Kedokteran\nIntent: tanya_prodi_fakultas\n\n### Fakultas Kedokteran\n\n• Pendidikan Dokter\n• Program Profesi Dokter\n• Magister Ilmu Biomedis\n• Program Spesialis Pulmonologi & Kedokteran Respirasi\n• Program Spesialis Obstetri & Ginekologi",
+    "content": "### Fakultas Kedokteran\n\n• Pendidikan Dokter\n• Program Profesi Dokter\n• Magister Ilmu Biomedis\n• Program Spesialis Pulmonologi & Kedokteran Respirasi\n• Program Spesialis Obstetri & Ginekologi"
+  },
+  {
+    "id": "346f65a138ac34207fcf90659fd0a247",
+    "source_file": "pendaftaran-mahasiswa-baru_tagged.md",
+    "heading": "### Sekolah Pascasarjana",
+    "parent_context": "Sekolah Pascasarjana",
+    "intents": [
+      "tanya_prodi_fakultas",
+      "tanya_link"
+    ],
+    "topik": "Sekolah Pascasarjana",
+    "alias_topik": [
+      "Sekolah Pascasarjana",
+      "program studi Sekolah Pascasarjana",
+      "prodi Sekolah Pascasarjana"
+    ],
+    "search_text": "Judul: Sekolah Pascasarjana\nKonteks: Sekolah Pascasarjana\nAlias: Sekolah Pascasarjana, program studi Sekolah Pascasarjana, prodi Sekolah Pascasarjana\nIntent: tanya_prodi_fakultas, tanya_link\n\n### Sekolah Pascasarjana\n\n• Magister Pengkajian Islam\n• Doktor Pengkajian Islam\nInfo Prodi/Fakultas: https://www.uinjkt.ac.id/id/pendidikan\nWebsite: https://uinjkt.ac.id | Email: humas@apps.uinjkt.ac.id | Telp: +62 851-3690-8556",
+    "content": "### Sekolah Pascasarjana\n\n• Magister Pengkajian Islam\n• Doktor Pengkajian Islam\nInfo Prodi/Fakultas: https://www.uinjkt.ac.id/id/pendidikan\nWebsite: https://uinjkt.ac.id | Email: humas@apps.uinjkt.ac.id | Telp: +62 851-3690-8556"
+  },
+  {
+    "id": "3b86e1390a365ca093a819af3588a474",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ilmu Tarbiyah dan Keguruan:",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Tarbiyah dan Keguruan:",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak",
+    "alias_topik": [
+      "kontak FITK",
+      "kontak Fakultas Ilmu Tarbiyah dan Keguruan"
+    ],
+    "search_text": "Judul: Kontak\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Tarbiyah dan Keguruan:\nAlias: kontak FITK, kontak Fakultas Ilmu Tarbiyah dan Keguruan\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ilmu Tarbiyah dan Keguruan:\n\nKontak Fakultas Ilmu Tarbiyah dan Keguruan:\nPhone number: (021) 7401925 ext 1723\nEmail address: fitk[@]apps.uinjkt.ac.id\nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412\nCampus Address PPG: Jalan Raya Bojongsari No. 55, Bojongsari Baru, Kec. Bojongsari, Depok City, Wes 16516",
+    "content": "### Kontak Fakultas Ilmu Tarbiyah dan Keguruan:\n\nKontak Fakultas Ilmu Tarbiyah dan Keguruan:\nPhone number: (021) 7401925 ext 1723\nEmail address: fitk[@]apps.uinjkt.ac.id\nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412\nCampus Address PPG: Jalan Raya Bojongsari No. 55, Bojongsari Baru, Kec. Bojongsari, Depok City, Wes 16516"
+  },
+  {
+    "id": "86c066d008c33516d0b4ffbca05ae2fd",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Adab dan Humaniora",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Adab dan Humaniora",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Adab dan Humaniora",
+    "alias_topik": [
+      "kontak Fakultas Adab dan Humaniora",
+      "kontak FAH",
+      "nomor telepon Fakultas Adab dan Humaniora",
+      "email Fakultas Adab dan Humaniora",
+      "alamat Fakultas Adab dan Humaniora",
+      "kontak Fakultas Adab"
+    ],
+    "search_text": "Judul: Kontak Fakultas Adab dan Humaniora\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Adab dan Humaniora\nAlias: kontak Fakultas Adab dan Humaniora, kontak FAH, nomor telepon Fakultas Adab dan Humaniora, email Fakultas Adab dan Humaniora, alamat Fakultas Adab dan Humaniora, kontak Fakultas Adab\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Adab dan Humaniora\n\nKontak Fakultas Adab dan Humaniora\nPhone number: (021)22741771  \nEmail address: fah[@]apps.uinjkt.ac.id  \nCampus Address: Jl. Tarumanegara, Pisangan, Ciputat, South Tangerang, Banten 15419",
+    "content": "### Kontak Fakultas Adab dan Humaniora\n\nKontak Fakultas Adab dan Humaniora\nPhone number: (021)22741771  \nEmail address: fah[@]apps.uinjkt.ac.id  \nCampus Address: Jl. Tarumanegara, Pisangan, Ciputat, South Tangerang, Banten 15419"
+  },
+  {
+    "id": "825ef0d435916cd112fd17d6901f5450",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ushuluddin",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ushuluddin",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ushuluddin",
+    "alias_topik": [
+      "kontak Fakultas Ushuluddin",
+      "kontak FU",
+      "nomor telepon Fakultas Ushuluddin",
+      "email Fakultas Ushuluddin",
+      "alamat Fakultas Ushuluddin",
+      "fax Fakultas Ushuluddin"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ushuluddin\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ushuluddin\nAlias: kontak Fakultas Ushuluddin, kontak FU, nomor telepon Fakultas Ushuluddin, email Fakultas Ushuluddin, alamat Fakultas Ushuluddin, fax Fakultas Ushuluddin\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ushuluddin\n\nKontak Fakultas Ushuluddin\nPhone number: (021) 7493677, (021) 7401925  \nFax Number: (021) 7493579  \nEmail address: tu.fu[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Ushuluddin\n\nKontak Fakultas Ushuluddin\nPhone number: (021) 7493677, (021) 7401925  \nFax Number: (021) 7493579  \nEmail address: tu.fu[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "d4087ec6ac4e588006210e2900217615",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Syariah dan Hukum",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Syariah dan Hukum",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Syariah dan Hukum",
+    "alias_topik": [
+      "kontak Fakultas Syariah dan Hukum",
+      "kontak FSH",
+      "nomor telepon Fakultas Syariah dan Hukum",
+      "email Fakultas Syariah dan Hukum",
+      "alamat Fakultas Syariah dan Hukum"
+    ],
+    "search_text": "Judul: Kontak Fakultas Syariah dan Hukum\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Syariah dan Hukum\nAlias: kontak Fakultas Syariah dan Hukum, kontak FSH, nomor telepon Fakultas Syariah dan Hukum, email Fakultas Syariah dan Hukum, alamat Fakultas Syariah dan Hukum\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Syariah dan Hukum\n\nKontak Fakultas Syariah dan Hukum\nPhone number: (021) 747401925  \nEmail address: fsh[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Syariah dan Hukum\n\nKontak Fakultas Syariah dan Hukum\nPhone number: (021) 747401925  \nEmail address: fsh[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "0ff9323d598f1f5c8765a6498edffdbb",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Dakwah dan Ilmu Komunikasi",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dakwah dan Ilmu Komunikasi",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Dakwah dan Ilmu Komunikasi",
+    "alias_topik": [
+      "kontak Fakultas Dakwah dan Ilmu Komunikasi",
+      "kontak FDIKOM",
+      "nomor telepon Fakultas Dakwah dan Ilmu Komunikasi",
+      "email Fakultas Dakwah dan Ilmu Komunikasi",
+      "alamat Fakultas Dakwah dan Ilmu Komunikasi"
+    ],
+    "search_text": "Judul: Kontak Fakultas Dakwah dan Ilmu Komunikasi\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dakwah dan Ilmu Komunikasi\nAlias: kontak Fakultas Dakwah dan Ilmu Komunikasi, kontak FDIKOM, nomor telepon Fakultas Dakwah dan Ilmu Komunikasi, email Fakultas Dakwah dan Ilmu Komunikasi, alamat Fakultas Dakwah dan Ilmu Komunikasi\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Dakwah dan Ilmu Komunikasi\n\nKontak Fakultas Dakwah dan Ilmu Komunikasi\nPhone number: (021)74703580  \nEmail address: fdikom@apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Dakwah dan Ilmu Komunikasi\n\nKontak Fakultas Dakwah dan Ilmu Komunikasi\nPhone number: (021)74703580  \nEmail address: fdikom@apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "04317414058c5154095bc487079170a5",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Dirasat Islamiyah",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dirasat Islamiyah",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Dirasat Islamiyah",
+    "alias_topik": [
+      "kontak Fakultas Dirasat Islamiyah",
+      "kontak FDI",
+      "nomor telepon Fakultas Dirasat Islamiyah",
+      "WhatsApp Fakultas Dirasat Islamiyah",
+      "email Fakultas Dirasat Islamiyah",
+      "alamat Fakultas Dirasat Islamiyah"
+    ],
+    "search_text": "Judul: Kontak Fakultas Dirasat Islamiyah\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Dirasat Islamiyah\nAlias: kontak Fakultas Dirasat Islamiyah, kontak FDI, nomor telepon Fakultas Dirasat Islamiyah, WhatsApp Fakultas Dirasat Islamiyah, email Fakultas Dirasat Islamiyah, alamat Fakultas Dirasat Islamiyah\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Dirasat Islamiyah\n\nKontak Fakultas Dirasat Islamiyah\nPhone number: (021) 7491820; 0895414813423 (Whatsapp)  \nEmail address: fdi[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412",
+    "content": "### Kontak Fakultas Dirasat Islamiyah\n\nKontak Fakultas Dirasat Islamiyah\nPhone number: (021) 7491820; 0895414813423 (Whatsapp)  \nEmail address: fdi[@]apps.uinjkt.ac.id  \nCampus Address 1: Jalan Ir. H. Djuanda No. 95 Ciputat, South Tangerang City 15412"
+  },
+  {
+    "id": "5c53eaf4d6cf471d88c41f5e5b535579",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ekonomi dan Bisnis",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ekonomi dan Bisnis",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ekonomi dan Bisnis",
+    "alias_topik": [
+      "kontak Fakultas Ekonomi dan Bisnis",
+      "kontak FEB",
+      "nomor telepon Fakultas Ekonomi dan Bisnis",
+      "fax Fakultas Ekonomi dan Bisnis",
+      "email Fakultas Ekonomi dan Bisnis",
+      "alamat Fakultas Ekonomi dan Bisnis",
+      "alamat pascasarjana FEB"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ekonomi dan Bisnis\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ekonomi dan Bisnis\nAlias: kontak Fakultas Ekonomi dan Bisnis, kontak FEB, nomor telepon Fakultas Ekonomi dan Bisnis, fax Fakultas Ekonomi dan Bisnis, email Fakultas Ekonomi dan Bisnis, alamat Fakultas Ekonomi dan Bisnis, alamat pascasarjana FEB\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ekonomi dan Bisnis\n\nKontak Fakultas Ekonomi dan Bisnis\nNomor Telepon: (021) 7401925  \nNomor Fax: (021) 22744615  \nAlamat Email: feb[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ibnu Taimia IV, Komplek Rumah Dinas UIN Syarif Hidayatullah Jakarta, Tangerang Selatan, Banten 15419  \nAlamat Kampus Pasca Sarjana: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412",
+    "content": "### Kontak Fakultas Ekonomi dan Bisnis\n\nKontak Fakultas Ekonomi dan Bisnis\nNomor Telepon: (021) 7401925  \nNomor Fax: (021) 22744615  \nAlamat Email: feb[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ibnu Taimia IV, Komplek Rumah Dinas UIN Syarif Hidayatullah Jakarta, Tangerang Selatan, Banten 15419  \nAlamat Kampus Pasca Sarjana: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412"
+  },
+  {
+    "id": "349d63da635b79d9a9dc3655e54fb9fe",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Psikologi",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Psikologi",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Psikologi",
+    "alias_topik": [
+      "kontak Fakultas Psikologi",
+      "kontak F.Psi",
+      "nomor telepon Fakultas Psikologi",
+      "fax Fakultas Psikologi",
+      "email Fakultas Psikologi",
+      "alamat Fakultas Psikologi",
+      "link Fakultas Psikologi"
+    ],
+    "search_text": "Judul: Kontak Fakultas Psikologi\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Psikologi\nAlias: kontak Fakultas Psikologi, kontak F.Psi, nomor telepon Fakultas Psikologi, fax Fakultas Psikologi, email Fakultas Psikologi, alamat Fakultas Psikologi, link Fakultas Psikologi\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Psikologi\n\nKontak Fakultas Psikologi\nLink Fakultas Psikologi:\nhttps://fpsi.uinjkt.ac.id/\nNomor Telepon: (021)-7433060, Fax. (021)-74714714  \nAlamat Email: fpsi@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419",
+    "content": "### Kontak Fakultas Psikologi\n\nKontak Fakultas Psikologi\nLink Fakultas Psikologi:\nhttps://fpsi.uinjkt.ac.id/\nNomor Telepon: (021)-7433060, Fax. (021)-74714714  \nAlamat Email: fpsi@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419"
+  },
+  {
+    "id": "21183b6f2124835ab65526a9f3f21579",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Sains dan Teknologi",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Sains dan Teknologi",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Sains dan Teknologi",
+    "alias_topik": [
+      "kontak Fakultas Sains dan Teknologi",
+      "kontak FST",
+      "nomor telepon Fakultas Sains dan Teknologi",
+      "email Fakultas Sains dan Teknologi",
+      "alamat Fakultas Sains dan Teknologi",
+      "link Fakultas Sains dan Teknologi"
+    ],
+    "search_text": "Judul: Kontak Fakultas Sains dan Teknologi\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Sains dan Teknologi\nAlias: kontak Fakultas Sains dan Teknologi, kontak FST, nomor telepon Fakultas Sains dan Teknologi, email Fakultas Sains dan Teknologi, alamat Fakultas Sains dan Teknologi, link Fakultas Sains dan Teknologi\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Sains dan Teknologi\n\nKontak Fakultas Sains dan Teknologi\nNomor Telepon: (021)7493606  \nAlamat Email: fst[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412\nLink Fakultas Sains dan Teknologi:\nhttps://fst.uinjkt.ac.id/",
+    "content": "### Kontak Fakultas Sains dan Teknologi\n\nKontak Fakultas Sains dan Teknologi\nNomor Telepon: (021)7493606  \nAlamat Email: fst[@]apps.uinjkt.ac.id  \nAlamat Kampus 1: Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412\nLink Fakultas Sains dan Teknologi:\nhttps://fst.uinjkt.ac.id/"
+  },
+  {
+    "id": "4ae664eb8bc4c4101939161e7ebb327c",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Ilmu Kesehatan",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Kesehatan",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ilmu Kesehatan",
+    "alias_topik": [
+      "kontak Fakultas Ilmu Kesehatan",
+      "kontak FIKES",
+      "nomor telepon Fakultas Ilmu Kesehatan",
+      "email Fakultas Ilmu Kesehatan",
+      "alamat Fakultas Ilmu Kesehatan",
+      "link Fakultas Ilmu Kesehatan"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ilmu Kesehatan\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Ilmu Kesehatan\nAlias: kontak Fakultas Ilmu Kesehatan, kontak FIKES, nomor telepon Fakultas Ilmu Kesehatan, email Fakultas Ilmu Kesehatan, alamat Fakultas Ilmu Kesehatan, link Fakultas Ilmu Kesehatan\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Ilmu Kesehatan\n\nKontak Fakultas Ilmu Kesehatan\nNomor Telepon: (021) 74716718  \nAlamat Email: fikes[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Kesehatan:\nhttps://fikes.uinjkt.ac.id/",
+    "content": "### Kontak Fakultas Ilmu Kesehatan\n\nKontak Fakultas Ilmu Kesehatan\nNomor Telepon: (021) 74716718  \nAlamat Email: fikes[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Kesehatan:\nhttps://fikes.uinjkt.ac.id/"
+  },
+  {
+    "id": "49c0ef6978b805058d9c17949bd8eb1e",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Ilmu Sosial dan Ilmu Politik",
+    "alias_topik": [
+      "kontak Fakultas Ilmu Sosial dan Ilmu Politik",
+      "kontak FISIP",
+      "nomor telepon Fakultas Ilmu Sosial dan Ilmu Politik",
+      "fax Fakultas Ilmu Sosial dan Ilmu Politik",
+      "email Fakultas Ilmu Sosial dan Ilmu Politik",
+      "alamat Fakultas Ilmu Sosial dan Ilmu Politik",
+      "link Fakultas Ilmu Sosial dan Ilmu Politik"
+    ],
+    "search_text": "Judul: Kontak Fakultas Ilmu Sosial dan Ilmu Politik\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\nAlias: kontak Fakultas Ilmu Sosial dan Ilmu Politik, kontak FISIP, nomor telepon Fakultas Ilmu Sosial dan Ilmu Politik, fax Fakultas Ilmu Sosial dan Ilmu Politik, email Fakultas Ilmu Sosial dan Ilmu Politik, alamat Fakultas Ilmu Sosial dan Ilmu Politik, link Fakultas Ilmu Sosial dan Ilmu Politik\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\n\nKontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\nNomor Telepon: (021)-74705215  \nFax: (021)-74702013  \nAlamat Email: fisip[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Sosial dan Ilmu Politik:\nhttps://fisip.uinjkt.ac.id/",
+    "content": "### Kontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\n\nKontak FISIP Fakultas Ilmu Sosial dan Ilmu Politik\nNomor Telepon: (021)-74705215  \nFax: (021)-74702013  \nAlamat Email: fisip[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Cirendeu, Kota Tangerang Selatan 15419\nLink Fakultas Ilmu Sosial dan Ilmu Politik:\nhttps://fisip.uinjkt.ac.id/"
+  },
+  {
+    "id": "5d8f17c04d6012fca30be4893af82fbf",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Fakultas Kedokteran",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Kedokteran",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kontak Fakultas Kedokteran",
+    "alias_topik": [
+      "kontak Fakultas Kedokteran",
+      "kontak FK",
+      "nomor telepon Fakultas Kedokteran",
+      "email Fakultas Kedokteran",
+      "alamat Fakultas Kedokteran",
+      "link Fakultas Kedokteran"
+    ],
+    "search_text": "Judul: Kontak Fakultas Kedokteran\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Fakultas Kedokteran\nAlias: kontak Fakultas Kedokteran, kontak FK, nomor telepon Fakultas Kedokteran, email Fakultas Kedokteran, alamat Fakultas Kedokteran, link Fakultas Kedokteran\nIntent: tanya_kontak, tanya_prodi_fakultas\n\n### Kontak Fakultas Kedokteran\n\nNomor Telepon: (021) 7402116  \nAlamat Email: fk@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Kedokteran:\nhttps://fk.uinjkt.ac.id/",
+    "content": "### Kontak Fakultas Kedokteran\n\nNomor Telepon: (021) 7402116  \nAlamat Email: fk@apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No. 5 Pisangan Ciputat Kota Tangerang Selatan 15419\nLink Fakultas Kedokteran:\nhttps://fk.uinjkt.ac.id/"
+  },
+  {
+    "id": "c6d76fc5a69147f2e0aace565bdeb93f",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Kontak Sekolah Pascasarjana",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Sekolah Pascasarjana",
+    "intents": [
+      "tanya_kontak",
+      "tanya_prodi_fakultas",
+      "tanya_pascasarjana"
+    ],
+    "topik": "Kontak Sekolah Pascasarjana",
+    "alias_topik": [
+      "kontak Sekolah Pascasarjana",
+      "kontak SPs",
+      "kontak pascasarjana UIN Jakarta",
+      "nomor telepon Sekolah Pascasarjana",
+      "email Sekolah Pascasarjana",
+      "alamat Sekolah Pascasarjana",
+      "link Sekolah Pascasarjana"
+    ],
+    "search_text": "Judul: Kontak Sekolah Pascasarjana\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kontak Sekolah Pascasarjana\nAlias: kontak Sekolah Pascasarjana, kontak SPs, kontak pascasarjana UIN Jakarta, nomor telepon Sekolah Pascasarjana, email Sekolah Pascasarjana, alamat Sekolah Pascasarjana, link Sekolah Pascasarjana\nIntent: tanya_kontak, tanya_prodi_fakultas, tanya_pascasarjana\n\n### Kontak Sekolah Pascasarjana\n\nLink Sekolah Pascasarjana:\nhttps://graduate.uinjkt.ac.id/\nNomor Telepon: (021)7401472  \nAlamat Email: sps[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No.5 Pisangan Barat, Cireundeu, Ciputat Timur, Tangerang Selatan 15412",
+    "content": "### Kontak Sekolah Pascasarjana\n\nLink Sekolah Pascasarjana:\nhttps://graduate.uinjkt.ac.id/\nNomor Telepon: (021)7401472  \nAlamat Email: sps[@]apps.uinjkt.ac.id  \nAlamat Kampus: Jl. Kertamukti No.5 Pisangan Barat, Cireundeu, Ciputat Timur, Tangerang Selatan 15412"
+  },
+  {
+    "id": "2ed72ab44d9335da59ee0f5b3b5565a7",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Program Studi Jalur SNBP dan SNBT",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SNBP dan SNBT",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Studi Jalur SNBP dan SNBT",
+    "alias_topik": [
+      "prodi SNBP",
+      "prodi SNBT",
+      "jalur SNBP SNBT"
+    ],
+    "search_text": "Judul: Program Studi Jalur SNBP dan SNBT\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SNBP dan SNBT\nAlias: prodi SNBP, prodi SNBT, jalur SNBP SNBT\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n### Program Studi Jalur SNBP dan SNBT\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Matematika\n- Pendidikan Kimia\nFakultas Syariah dan Hukum:\n- Ilmu Hukum\nFakultas Adab dan Humaniora:\n- Ilmu Perpustakaan\n- Bahasa dan Sastra Inggris\nFakultas Dakwah dan Ilmu Komunikasi:\n- Jurnalistik\n- Kesejahteraan Sosial\nFakultas Psikologi:\n- Psikologi\nFakultas Ekonomi dan Bisnis:\n- Akuntansi\n- Ilmu Ekonomi dan Studi Pembangunan\n- Manajemen\nFakultas Ilmu Sosial dan Ilmu Poliitik:\n- Ilmu Hubungan Internasional\n- Sosiologik\n- Ilmu Politik\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Kedokteran:\n- Pendidikan Dokter\nInformasi Lengkap dan Pendaftaran:\nhttps://snpmb.id/\nhttps://uinjkt.ac.id/id/program-sarjana",
+    "content": "### Program Studi Jalur SNBP dan SNBT\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Matematika\n- Pendidikan Kimia\nFakultas Syariah dan Hukum:\n- Ilmu Hukum\nFakultas Adab dan Humaniora:\n- Ilmu Perpustakaan\n- Bahasa dan Sastra Inggris\nFakultas Dakwah dan Ilmu Komunikasi:\n- Jurnalistik\n- Kesejahteraan Sosial\nFakultas Psikologi:\n- Psikologi\nFakultas Ekonomi dan Bisnis:\n- Akuntansi\n- Ilmu Ekonomi dan Studi Pembangunan\n- Manajemen\nFakultas Ilmu Sosial dan Ilmu Poliitik:\n- Ilmu Hubungan Internasional\n- Sosiologik\n- Ilmu Politik\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Kedokteran:\n- Pendidikan Dokter\nInformasi Lengkap dan Pendaftaran:\nhttps://snpmb.id/\nhttps://uinjkt.ac.id/id/program-sarjana"
+  },
+  {
+    "id": "a8d789c36b406c041b189aeb69dde4b8",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Program Studi Jalur SPAN-PTKIN dan UM-PTKIN",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPAN-PTKIN dan UM-PTKIN",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Studi Prodi Jalur SPAN-PTKIN dan UM-PTKIN",
+    "alias_topik": [
+      "pilihan prodi SPAN PTKIN",
+      "pilihan prodi UM PTKIN"
+    ],
+    "search_text": "Judul: Program Studi Prodi Jalur SPAN-PTKIN dan UM-PTKIN\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPAN-PTKIN dan UM-PTKIN\nAlias: pilihan prodi SPAN PTKIN, pilihan prodi UM PTKIN\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n### Program Studi Jalur SPAN-PTKIN dan UM-PTKIN\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Biologi\n- Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra lndonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah Peradaban Islam\n- Tarjamah\nFakultas Ushuluddin:\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Ilmu Hadis\n- Aqidah dan Filsafat Islam\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Hukum Keluarga Islam (Ahwal Syakhshiyyah)\n- Perbandingan Mazhab\n- Hukum Tata Negara (Siyasah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Ekonomi Syariah (Mua`malah)\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\nFakultas Ekonomi dan Bisnis:\n- Perbankan Syariah\n- Ekonomi Syariah\nInformasi Lengkap dan Pendaftaran:\nhttps://ptkin.ac.id\nhttps://uinjkt.ac.id/id/program-sarjana",
+    "content": "### Program Studi Jalur SPAN-PTKIN dan UM-PTKIN\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Biologi\n- Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra lndonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah Peradaban Islam\n- Tarjamah\nFakultas Ushuluddin:\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Studi Agama Agama\n- Ilmu Al-Qur`an dan Tafsir\n- Ilmu Hadis\n- Aqidah dan Filsafat Islam\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Hukum Keluarga Islam (Ahwal Syakhshiyyah)\n- Perbandingan Mazhab\n- Hukum Tata Negara (Siyasah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Ekonomi Syariah (Mua`malah)\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\nFakultas Ekonomi dan Bisnis:\n- Perbankan Syariah\n- Ekonomi Syariah\nInformasi Lengkap dan Pendaftaran:\nhttps://ptkin.ac.id\nhttps://uinjkt.ac.id/id/program-sarjana"
+  },
+  {
+    "id": "42ba7f52fa6b1795b2ffd6f16f59d276",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "### Program Studi Jalur SPMB Mandiri",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPMB Mandiri",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Studi Jalur SPMB Mandiri",
+    "alias_topik": [
+      "prodi SPMB Mandiri",
+      "jalur mandiri UIN Jakarta"
+    ],
+    "search_text": "Judul: Program Studi Jalur SPMB Mandiri\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Program Studi Jalur SPMB Mandiri\nAlias: prodi SPMB Mandiri, jalur mandiri UIN Jakarta\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n### Program Studi Jalur SPMB Mandiri\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Matematika\n- Tadris/Pendidikan Biologi\n- Tadris/Pendidikan Kimia\n- Tadris/Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra Indonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah dan Peradaban Islam\n- Tarjamah\n- Sastra Inggris\n- Ilmu Perpustakaan\nFakultas Ushuluddin:\n- Studi Agama-Agama\n- Ilmu Al-Qur'an dan Tafsir\n- Aqidah dan Filsafat Islam\n- Ilmu Hadis\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Perbandingan Mazhab\n- Ilmu Hukum\n- Hukum Keluarga (Ahwal Syakhshiyyah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Tata Negara (Siyasah)\n- Hukum Ekonomi Syariah (Muamalat)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan dan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\n- Kesejahteraan Sosial\n- Jurnalistik\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Psikologi:\n- PsikologiFakultas Psikologi\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Ilmu Ekonomi dan Bisnis:\n- Manajemen\n- Akuntansi\n- Ekonomi Pembangunan\n- Perbankan Syariah\n- Ekonomi Syariah\nFakultas Ilmu Sosial dan Ilmu Politik:\n- Sosiologi\n- Ilmu Politik\n- Ilmu Hubungan Internasional\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Kedokteran:\n- Pendidikan Dokter",
+    "content": "### Program Studi Jalur SPMB Mandiri\n\nFakultas Ilmu Tarbiyah dan Keguruan:\n- Pendidikan Agama Islam\n- Pendidikan Bahasa Arab\n- Pendidikan Bahasa Inggris\n- Pendidikan Matematika\n- Tadris/Pendidikan Biologi\n- Tadris/Pendidikan Kimia\n- Tadris/Pendidikan Fisika\n- Manajemen Pendidikan\n- Pendidikan Bahasa dan Sastra Indonesia\n- Pendidikan Ilmu Pengetahuan Sosial\n- Pendidikan Guru Madrasah Ibtidaiyah\n- Pendidikan Islam Anak Usia Dini\nFakultas Adab dan Humaniora:\n- Bahasa dan Sastra Arab\n- Sejarah dan Peradaban Islam\n- Tarjamah\n- Sastra Inggris\n- Ilmu Perpustakaan\nFakultas Ushuluddin:\n- Studi Agama-Agama\n- Ilmu Al-Qur'an dan Tafsir\n- Aqidah dan Filsafat Islam\n- Ilmu Hadis\n- Ilmu Tasawuf\nFakultas Syariah dan Hukum:\n- Perbandingan Mazhab\n- Ilmu Hukum\n- Hukum Keluarga (Ahwal Syakhshiyyah)\n- Hukum Pidana Islam (Jinayah)\n- Hukum Tata Negara (Siyasah)\n- Hukum Ekonomi Syariah (Muamalat)\nFakultas Dakwah dan Ilmu Komunikasi:\n- Komunikasi dan Penyiaran Islam\n- Bimbingan dan Penyuluhan Islam\n- Manajemen Dakwah\n- Pengembangan Masyarakat Islam\n- Kesejahteraan Sosial\n- Jurnalistik\nFakultas Dirasat Islamiyah:\n- Dirasat Islamiyah (Berbahasa Arab)\nFakultas Psikologi:\n- PsikologiFakultas Psikologi\nFakultas Sains dan Teknologi:\n- Sosial Ekonomi Pertanian/Agribisnis\n- Teknik Informatika\n- Sistem Informasi\n- Matematika\n- Biologi\n- Fisika\n- Kimia\n- Teknik Pertambangan\nFakultas Ilmu Ekonomi dan Bisnis:\n- Manajemen\n- Akuntansi\n- Ekonomi Pembangunan\n- Perbankan Syariah\n- Ekonomi Syariah\nFakultas Ilmu Sosial dan Ilmu Politik:\n- Sosiologi\n- Ilmu Politik\n- Ilmu Hubungan Internasional\nFakultas Ilmu Kesehatan:\n- Kesehatan Masyarakat\n- Farmasi\n- Ilmu Keperawatan\nFakultas Kedokteran:\n- Pendidikan Dokter"
+  },
+  {
+    "id": "ff77e8b8b9eadfb2b523590db5f3e482",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "## Unit Kegiatan Mahasiswa (UKM) di UIN Syarif Hidayatullah Jakarta",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Unit Kegiatan Mahasiswa (UKM) di UIN Syarif Hidayatullah Jakarta",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Unit Kegiatan Mahasiswa UIN Jakarta",
+    "alias_topik": [
+      "UKM UIN Jakarta",
+      "organisasi mahasiswa UIN Jakarta"
+    ],
+    "search_text": "Judul: Unit Kegiatan Mahasiswa UIN Jakarta\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Unit Kegiatan Mahasiswa (UKM) di UIN Syarif Hidayatullah Jakarta\nAlias: UKM UIN Jakarta, organisasi mahasiswa UIN Jakarta\nIntent: tanya_prodi_fakultas\n\n## Unit Kegiatan Mahasiswa (UKM) di UIN Syarif Hidayatullah Jakarta\n\n- Resimen Mahasiswa (MENWA)\n- Lembaga Pers Mahasiswa (LPM Institut)\n- Koperasi Mahasiswa (KOPMA)\n- Kelompok Mahasiswa Lingkungan Hidup Kemahasiswaan – Kembara Insani Ibnu Battutah (KMPLHK – RANITA)\n- Himpunan Qari-Qari’ah Mahasiswa (HIQMA)\n- Teater Syahid\n- Pramuka\n- Kelompok Pencinta Alam – Arti Keagungan dan Keindahan Alam (KPA – ARKADIA)\n- Paduan Suara Mahasiswa (PSM)\n- Lembaga Dakwah Kampus (LDK Syahid)\n- Federasi Olahraga Mahasiswa (FORSA)\n- Komunitas Musik Mahasiswa – Ruang lnspirasi Atas Kegelisahan (KMM – RIAK)\n- Korps Suka Rela – Palang Merah Indonesia (KSR – PMI)\n- Bahasa Foreign Languages Association (Bahasa FLAT)\n- Komunitas Mahasiswa Fotografi (KMF KALACITRA)\n- Marching Band",
+    "content": "## Unit Kegiatan Mahasiswa (UKM) di UIN Syarif Hidayatullah Jakarta\n\n- Resimen Mahasiswa (MENWA)\n- Lembaga Pers Mahasiswa (LPM Institut)\n- Koperasi Mahasiswa (KOPMA)\n- Kelompok Mahasiswa Lingkungan Hidup Kemahasiswaan – Kembara Insani Ibnu Battutah (KMPLHK – RANITA)\n- Himpunan Qari-Qari’ah Mahasiswa (HIQMA)\n- Teater Syahid\n- Pramuka\n- Kelompok Pencinta Alam – Arti Keagungan dan Keindahan Alam (KPA – ARKADIA)\n- Paduan Suara Mahasiswa (PSM)\n- Lembaga Dakwah Kampus (LDK Syahid)\n- Federasi Olahraga Mahasiswa (FORSA)\n- Komunitas Musik Mahasiswa – Ruang lnspirasi Atas Kegelisahan (KMM – RIAK)\n- Korps Suka Rela – Palang Merah Indonesia (KSR – PMI)\n- Bahasa Foreign Languages Association (Bahasa FLAT)\n- Komunitas Mahasiswa Fotografi (KMF KALACITRA)\n- Marching Band"
+  },
+  {
+    "id": "a6648600690bcdbdacbf029faa8e6e75",
+    "source_file": "profil_akademik_2026_tagged.md",
+    "heading": "## Kehidupan di Lingkungan Kampus",
+    "parent_context": "Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kehidupan di Lingkungan Kampus",
+    "intents": [
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kehidupan di Lingkungan Kampus UIN Jakarta",
+    "alias_topik": [
+      "kehidupan kampus UIN Jakarta",
+      "fasilitas UIN Jakarta",
+      "green campus"
+    ],
+    "search_text": "Judul: Kehidupan di Lingkungan Kampus UIN Jakarta\nKonteks: Kampus Integrasi Ilmu, Religiusitas, dan Global Excellence > Kehidupan di Lingkungan Kampus\nAlias: kehidupan kampus UIN Jakarta, fasilitas UIN Jakarta, green campus\nIntent: tanya_prodi_fakultas\n\n## Kehidupan di Lingkungan Kampus\n\nKehidupan kampus di UIN Syarif Hidayatullah Jakarta mencerminkan perpaduan nilai keislaman, keilmuan, dan kebangsaan dalam lingkungan yang religius, inklusif, dan multikultural. Mahasiswa belajar di fasilitas modern seperti ruang kuliah berteknologi, laboratorium, perpustakaan digital, dan area hijau yang nyaman, serta aktif dalam berbagai organisasi, riset, dan kegiatan sosial. Berlokasi strategis di Ciputat, kampus ini terus mengembangkan konsep green campus dan berkomitmen mencetak generasi unggul, berakhlak, dan berdaya saing global.\n- Lingkungan Akademik Religius dan Inklusif. Mahasiswa belajar dalam suasana yang memadukan nilai keislaman, keilmuan, dan kebangsaan yang terbuka bagi semua.\n- Fasilitas Lengkap dan Modern. Tersedia ruang kuliah ber-AC, laboratorium, perpustakaan digital, masjid kampus, sport center, serta area hijau yang nyaman.\n- Kegiatan Kemahasiswaan yang Beragam: Mahasiswa dapat bergabung dalam Unit Kegiatan Mahasiswa (UKM), organisasi intra kampus, lembaga pers, dan komunitas minat bakat.\n- Budaya Akademik dan Literasi Tinggi: UIN Jakarta aktif menyelenggarakan seminar, diskusi ilmiah, riset kolaboratif, dan kegiatan publikasi mahasiswa.\n- Kehidupan Keagamaan yang Dinamis. Mahasiswa dapat berpartisipasi dalam kajian keislaman, kegiatan dakwah kampus, dan program pembinaan rohani.\n- Kampus Multikultural dan Internasional. UIN Jakarta menjadi pilihan mahasiswa dari berbagai daerah dan negara, menciptakan lingkungan yang beragam dan global.\n- Program Pengabdian dan Kepedulian Sosial. Mahasiswa aktif dalam KKN, kegiatan sosial, lingkungan, dan pemberdayaan masyarakat berbasis nilai Islam rahmatan lil ‘alamin.\n- Akses Transportasi dan Lokasi Strategis. Berada di Ciputat, Tangerang Selatan, kampus mudah dijangkau dari berbagai wilayah Jabodetabek dengan transportasi umum maupun online.\n- Komitmen Green Campus. UIN Jakarta menerapkan prinsip ramah lingkungan melalui pengelolaan sampah, ruang terbuka hijau, dan kampanye hemat energi.",
+    "content": "## Kehidupan di Lingkungan Kampus\n\nKehidupan kampus di UIN Syarif Hidayatullah Jakarta mencerminkan perpaduan nilai keislaman, keilmuan, dan kebangsaan dalam lingkungan yang religius, inklusif, dan multikultural. Mahasiswa belajar di fasilitas modern seperti ruang kuliah berteknologi, laboratorium, perpustakaan digital, dan area hijau yang nyaman, serta aktif dalam berbagai organisasi, riset, dan kegiatan sosial. Berlokasi strategis di Ciputat, kampus ini terus mengembangkan konsep green campus dan berkomitmen mencetak generasi unggul, berakhlak, dan berdaya saing global.\n- Lingkungan Akademik Religius dan Inklusif. Mahasiswa belajar dalam suasana yang memadukan nilai keislaman, keilmuan, dan kebangsaan yang terbuka bagi semua.\n- Fasilitas Lengkap dan Modern. Tersedia ruang kuliah ber-AC, laboratorium, perpustakaan digital, masjid kampus, sport center, serta area hijau yang nyaman.\n- Kegiatan Kemahasiswaan yang Beragam: Mahasiswa dapat bergabung dalam Unit Kegiatan Mahasiswa (UKM), organisasi intra kampus, lembaga pers, dan komunitas minat bakat.\n- Budaya Akademik dan Literasi Tinggi: UIN Jakarta aktif menyelenggarakan seminar, diskusi ilmiah, riset kolaboratif, dan kegiatan publikasi mahasiswa.\n- Kehidupan Keagamaan yang Dinamis. Mahasiswa dapat berpartisipasi dalam kajian keislaman, kegiatan dakwah kampus, dan program pembinaan rohani.\n- Kampus Multikultural dan Internasional. UIN Jakarta menjadi pilihan mahasiswa dari berbagai daerah dan negara, menciptakan lingkungan yang beragam dan global.\n- Program Pengabdian dan Kepedulian Sosial. Mahasiswa aktif dalam KKN, kegiatan sosial, lingkungan, dan pemberdayaan masyarakat berbasis nilai Islam rahmatan lil ‘alamin.\n- Akses Transportasi dan Lokasi Strategis. Berada di Ciputat, Tangerang Selatan, kampus mudah dijangkau dari berbagai wilayah Jabodetabek dengan transportasi umum maupun online.\n- Komitmen Green Campus. UIN Jakarta menerapkan prinsip ramah lingkungan melalui pengelolaan sampah, ruang terbuka hijau, dan kampanye hemat energi."
+  },
+  {
+    "id": "ab3595ac028f9560fd11ebecc06dcd22",
+    "source_file": "program_profesi_tagged.md",
+    "heading": "# Program Profesi",
+    "parent_context": "Program Profesi",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Profesi UIN Syarif Hidayatullah Jakarta",
+    "alias_topik": [
+      "program profesi",
+      "profesi UIN Jakarta",
+      "PPG",
+      "Profesi Apoteker",
+      "Profesi Ners",
+      "Profesi Dokter"
+    ],
+    "search_text": "Judul: Program Profesi UIN Syarif Hidayatullah Jakarta\nKonteks: Program Profesi\nAlias: program profesi, profesi UIN Jakarta, PPG, Profesi Apoteker, Profesi Ners, Profesi Dokter\nIntent: tanya_profesi, tanya_prodi_fakultas\n\n# Program Profesi\n\nProgram profesi oleh UIN Syarif Hidayatullah terdiri dari Program Studi Profesi Guru, Program Profesi Apoteker, Program Profesi Ners dan Program Profesi Dokter. Program profesi dari masing-masing fakultas telah menghadirkan inovasi terbaik untuk mewujudkan sistem pembelajaran yang dapat menunjang calon mahasiswa untuk mendapatkan hasil terbaik dari program studi profesi ini.",
+    "content": "# Program Profesi\n\nProgram profesi oleh UIN Syarif Hidayatullah terdiri dari Program Studi Profesi Guru, Program Profesi Apoteker, Program Profesi Ners dan Program Profesi Dokter. Program profesi dari masing-masing fakultas telah menghadirkan inovasi terbaik untuk mewujudkan sistem pembelajaran yang dapat menunjang calon mahasiswa untuk mendapatkan hasil terbaik dari program studi profesi ini."
+  },
+  {
+    "id": "6872c221f4a2dd87ef1b77abd9f715a2",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## UNDERGRADUATE PROGRAM (S1)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > UNDERGRADUATE PROGRAM (S1)",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Undergraduate Program S1 Rector Scholarship",
+    "alias_topik": [
+      "S1 Rector Scholarship",
+      "undergraduate international students"
+    ],
+    "search_text": "Judul: Undergraduate Program S1 Rector Scholarship\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > UNDERGRADUATE PROGRAM (S1)\nAlias: S1 Rector Scholarship, undergraduate international students\nIntent: tanya_beasiswa, tanya_prodi_fakultas\n\n## UNDERGRADUATE PROGRAM (S1)\n\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Mathematics Education\n- Biology Education\n- Chemistry Education\n- Physics Education\n- Educational Management\n- Indonesian Language and Literature Education\n- Social Sciences Education\n- Islamic Primary School Teacher Education\n- Islamic Early Childhood Education\n\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\n- Social Welfare\n- Islamic Guidance and Communication Development\n- Islamic Community Development\n- Journalism\n\nFaculty of Science and Technology\n- Information System\n- Informatics Engineering\n- Mathematics\n- Agribusiness\n- Biology\n- Physics\n- Chemistry\n- Mining Engineering\n\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\n- English and Literature\n- Library Sciences\n- Translation\n\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\n- Prophetic Tradition Sciences\n- Islamic Mysticism\n\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Political and Administrative Law\n- Islamic Criminal Law\n- Islamic Economics Law\n- Legal Studies\n\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies\n\nFaculty of Psychology\n- Psychology\n\nFaculty of Economics and Business\n- Management\n- Accounting\n- Economics and Development Studies\n- Islamic Banking\n- Islamic Economics",
+    "content": "## UNDERGRADUATE PROGRAM (S1)\n\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Mathematics Education\n- Biology Education\n- Chemistry Education\n- Physics Education\n- Educational Management\n- Indonesian Language and Literature Education\n- Social Sciences Education\n- Islamic Primary School Teacher Education\n- Islamic Early Childhood Education\n\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\n- Social Welfare\n- Islamic Guidance and Communication Development\n- Islamic Community Development\n- Journalism\n\nFaculty of Science and Technology\n- Information System\n- Informatics Engineering\n- Mathematics\n- Agribusiness\n- Biology\n- Physics\n- Chemistry\n- Mining Engineering\n\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\n- English and Literature\n- Library Sciences\n- Translation\n\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\n- Prophetic Tradition Sciences\n- Islamic Mysticism\n\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Political and Administrative Law\n- Islamic Criminal Law\n- Islamic Economics Law\n- Legal Studies\n\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies\n\nFaculty of Psychology\n- Psychology\n\nFaculty of Economics and Business\n- Management\n- Accounting\n- Economics and Development Studies\n- Islamic Banking\n- Islamic Economics"
+  },
+  {
+    "id": "1b8608cfc2b152567cf7f55a8e5aa1d1",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## MASTER PROGRAM (M.A.)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > MASTER PROGRAM (M.A.)",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_pascasarjana",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Master Program Rector Scholarship",
+    "alias_topik": [
+      "master scholarship",
+      "M.A. Rector Scholarship",
+      "S2 beasiswa rektor"
+    ],
+    "search_text": "Judul: Master Program Rector Scholarship\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > MASTER PROGRAM (M.A.)\nAlias: master scholarship, M.A. Rector Scholarship, S2 beasiswa rektor\nIntent: tanya_beasiswa, tanya_pascasarjana, tanya_prodi_fakultas\n\n## MASTER PROGRAM (M.A.)\n\nGraduate School\n- Interdisciplinary Islamic Studies\nFaculty of Tarbiya and Educational Sciences\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Islamic Educational Management\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\nFaculty of Science and Technology\n- Agribusiness\nFaculty of Psychology\n- Psychology\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Economics Law\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies (Arabic language and Quran Memorisation based)\nFaculty of Economics and Business\n- Islamic Banking\n- Islamic Economics",
+    "content": "## MASTER PROGRAM (M.A.)\n\nGraduate School\n- Interdisciplinary Islamic Studies\nFaculty of Tarbiya and Educational Sciences\n- Islamic Religious Education\n- Arabic Education\n- English Education\n- Islamic Educational Management\nFaculty of Da'wah and Communication Studies\n- Communication and Islamic Broadcasting\n- Da'wah Management\nFaculty of Science and Technology\n- Agribusiness\nFaculty of Psychology\n- Psychology\nFaculty of Literature and Humanities\n- Islamic History and Civilisation\n- Arabic Language and Literature\nFaculty of Ushuluddin/Theology\n- Religious Studies\n- Islamic Theology and Philosophy\n- Quranic Sciences and Exegesis\nFaculty of Sharia and Law\n- Islamic Family Law\n- Islamic Economics Law\nFaculty of Islamic Studies / Dirasat Islamiyyah\n- Islamic Studies (Arabic language and Quran Memorisation based)\nFaculty of Economics and Business\n- Islamic Banking\n- Islamic Economics"
+  },
+  {
+    "id": "03d6e0ff71f4d9c0e53385a9709112a5",
+    "source_file": "rector-scholarship-uin-jakarta_tagged.md",
+    "heading": "## DOCTOR PROGRAMS (Ph.D.)",
+    "parent_context": "RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > DOCTOR PROGRAMS (Ph.D.)",
+    "intents": [
+      "tanya_beasiswa",
+      "tanya_pascasarjana",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Doctor Programs Rector Scholarship",
+    "alias_topik": [
+      "PhD scholarship",
+      "S3 beasiswa rektor",
+      "doctor program rector scholarship"
+    ],
+    "search_text": "Judul: Doctor Programs Rector Scholarship\nKonteks: RECTOR SCHOLARSHIP FOR INTERNATIONAL STUDENTS > DOCTOR PROGRAMS (Ph.D.)\nAlias: PhD scholarship, S3 beasiswa rektor, doctor program rector scholarship\nIntent: tanya_beasiswa, tanya_pascasarjana, tanya_prodi_fakultas\n\n## DOCTOR PROGRAMS (Ph.D.)\n\nGraduate School\n- Islamic Studies\nFaculty of Economics and Business\n- Islamic Banking\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education",
+    "content": "## DOCTOR PROGRAMS (Ph.D.)\n\nGraduate School\n- Islamic Studies\nFaculty of Economics and Business\n- Islamic Banking\nFaculty of Tarbiya and Educational Studies\n- Islamic Religious Education"
+  },
+  {
+    "id": "fc2168e8f69271adccbf3e1374102276",
+    "source_file": "s2_s3_2_tagged.md",
+    "heading": "## Tentang Program Magister & Doktor",
+    "parent_context": "Tentang Program Magister & Doktor",
+    "intents": [
+      "tanya_pascasarjana",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Tentang Program Magister dan Doktor",
+    "alias_topik": [
+      "tentang S2 S3",
+      "informasi pascasarjana"
+    ],
+    "search_text": "Judul: Tentang Program Magister dan Doktor\nKonteks: Tentang Program Magister & Doktor\nAlias: tentang S2 S3, informasi pascasarjana\nIntent: tanya_pascasarjana, tanya_prodi_fakultas\n\n## Tentang Program Magister & Doktor\n\nUIN Syarif Hidayatullah Jakarta menawarkan pendidikan tinggi di jenjang magister dan doktor dalam berbagai bidang keilmuan mulai dari kajian Islam, pendidikan, bahasa, sejarah, hukum, ekonomi, politik, komunikasi, sains-teknologi, psikologi, kesehatan, kedokteran dan lainnya. Seluruhnya dirancang untuk mencetak lulusan magister dan doktor yang siap berkontribusi penting di ranah keilmuan, profesi, dan pengabdian di tengah-tengah masyarakat.\nPuluhan program magister dan doktor ini ditawarkan diberbagai Fakultas dan Sekolah Pascasarjana. Didukung kurikulum relevan, tenaga pengajar ahli, akreditasi unggul, hingga tradisi akademik yang kuat, para mahasiswa akan mendapatkan modal terbaik dalam menyelesaikan studi dan menggapai cita-citanya.",
+    "content": "## Tentang Program Magister & Doktor\n\nUIN Syarif Hidayatullah Jakarta menawarkan pendidikan tinggi di jenjang magister dan doktor dalam berbagai bidang keilmuan mulai dari kajian Islam, pendidikan, bahasa, sejarah, hukum, ekonomi, politik, komunikasi, sains-teknologi, psikologi, kesehatan, kedokteran dan lainnya. Seluruhnya dirancang untuk mencetak lulusan magister dan doktor yang siap berkontribusi penting di ranah keilmuan, profesi, dan pengabdian di tengah-tengah masyarakat.\nPuluhan program magister dan doktor ini ditawarkan diberbagai Fakultas dan Sekolah Pascasarjana. Didukung kurikulum relevan, tenaga pengajar ahli, akreditasi unggul, hingga tradisi akademik yang kuat, para mahasiswa akan mendapatkan modal terbaik dalam menyelesaikan studi dan menggapai cita-citanya."
+  },
+  {
+    "id": "b215ca3321b3fca3a03574daa4540761",
+    "source_file": "s2_s3_2_tagged.md",
+    "heading": "## Program Magister",
+    "parent_context": "Program Magister",
+    "intents": [
+      "tanya_pascasarjana",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Studi Prodi Magister UIN Jakarta",
+    "alias_topik": [
+      "Prodi Magister S2 UIN Jakarta",
+      "daftar program magister"
+    ],
+    "search_text": "Judul: Program Studi Prodi Magister UIN Jakarta\nKonteks: Program Magister\nAlias: Prodi Magister S2 UIN Jakarta, daftar program magister\nIntent: tanya_pascasarjana, tanya_prodi_fakultas\n\n## Program Magister\n\nFakultas Ilmu Sosial dan Ilmu Politik\n- Magister Sosiologi\n- Magister Ilmu Politik\nFakultas Psikologi\n- Magister Psikologi\nFakultas Ilmu Kesehatan\n- Magister Ilmu Farmasi\n- Magister Kesehatan Masyarakat\nFakultas Ilmu Kedokteran\n- Magister Ilmu Biomedis\nSekolah Pascasarjana\n- Magister Pengkajian Islam\nFakultas Sains dan Teknologi\n- Magister Agribisnis\n- Magister Teknologi Informasi\nFakultas Syariah dan Hukum\n- Magister Hukum Keluarga (Ahwal Syakhshiyyah)\n- Magister Hukum Ekonomi Syariah\nFakultas Dakwah dan Ilmu Komunikasi\n- Magister Manajemen Dakwah\n- Magister Komunikasi dan Penyiaran Islam\nFakultas Dirasat Islamiyah\n- Magister Dirasat Islamiyah (Berbahasa Arab)\nFakultas Adab dan Humaniora\n- Magister Sejarah dan Kebudayaan Islam\n- Magister Bahasa dan Sastra Arab\nFakultas Ilmu Tarbiyah dan Keguruan\n- Magister Pendidikan Bahasa Arab\n- Magister Pendidikan Bahasa Inggris\n- Magister Manajemen Pendidikan Islam\n- Magister Pendidikan Agama Islam\nFakultas Ekonomi dan Bisnis\n- Magister Perbankan Syariah\n- Magister Ekonomi Syariah",
+    "content": "## Program Magister\n\nFakultas Ilmu Sosial dan Ilmu Politik\n- Magister Sosiologi\n- Magister Ilmu Politik\nFakultas Psikologi\n- Magister Psikologi\nFakultas Ilmu Kesehatan\n- Magister Ilmu Farmasi\n- Magister Kesehatan Masyarakat\nFakultas Ilmu Kedokteran\n- Magister Ilmu Biomedis\nSekolah Pascasarjana\n- Magister Pengkajian Islam\nFakultas Sains dan Teknologi\n- Magister Agribisnis\n- Magister Teknologi Informasi\nFakultas Syariah dan Hukum\n- Magister Hukum Keluarga (Ahwal Syakhshiyyah)\n- Magister Hukum Ekonomi Syariah\nFakultas Dakwah dan Ilmu Komunikasi\n- Magister Manajemen Dakwah\n- Magister Komunikasi dan Penyiaran Islam\nFakultas Dirasat Islamiyah\n- Magister Dirasat Islamiyah (Berbahasa Arab)\nFakultas Adab dan Humaniora\n- Magister Sejarah dan Kebudayaan Islam\n- Magister Bahasa dan Sastra Arab\nFakultas Ilmu Tarbiyah dan Keguruan\n- Magister Pendidikan Bahasa Arab\n- Magister Pendidikan Bahasa Inggris\n- Magister Manajemen Pendidikan Islam\n- Magister Pendidikan Agama Islam\nFakultas Ekonomi dan Bisnis\n- Magister Perbankan Syariah\n- Magister Ekonomi Syariah"
+  },
+  {
+    "id": "ae4f6790983e98a4796c9430d99e2d39",
+    "source_file": "s2_s3_2_tagged.md",
+    "heading": "## Program Doktor",
+    "parent_context": "Program Doktor",
+    "intents": [
+      "tanya_pascasarjana",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program studi Prodi Doktor UIN Jakarta",
+    "alias_topik": [
+      "S3 UIN Jakarta",
+      "daftar program doktor"
+    ],
+    "search_text": "Judul: Program studi Prodi Doktor UIN Jakarta\nKonteks: Program Doktor\nAlias: S3 UIN Jakarta, daftar program doktor\nIntent: tanya_pascasarjana, tanya_prodi_fakultas\n\n## Program Doktor\n\nFakultas Ekonomi dan Bisnis\n- Doktor Perbankan Syariah\nFakultas Ilmu Tarbiyah dan Keguruan\n- Doktor Pendidikan Agama Islam\nSekolah Pascasarjana\n- Doktor Pengkajian Islam\nFakultas Syariah dan Hukum\n- Doktor Ilmu Syariah\nFakultas Adab dan Humaniora\n- Doktor Sejarah Peradaban Islam\nFakultas Dakwah dan Ilmu Komunikasi\n- Doktor Komunikasi dan Penyiaran Islam",
+    "content": "## Program Doktor\n\nFakultas Ekonomi dan Bisnis\n- Doktor Perbankan Syariah\nFakultas Ilmu Tarbiyah dan Keguruan\n- Doktor Pendidikan Agama Islam\nSekolah Pascasarjana\n- Doktor Pengkajian Islam\nFakultas Syariah dan Hukum\n- Doktor Ilmu Syariah\nFakultas Adab dan Humaniora\n- Doktor Sejarah Peradaban Islam\nFakultas Dakwah dan Ilmu Komunikasi\n- Doktor Komunikasi dan Penyiaran Islam"
+  },
+  {
+    "id": "22acaeebffa1d8364f5e7f143c10473d",
+    "source_file": "snbp_tagged.md",
+    "heading": "## Kriteria Seleksi",
+    "parent_context": "SNBP > Kriteria Seleksi",
+    "intents": [
+      "tanya_jalur",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Kriteria Seleksi SNBP",
+    "alias_topik": [
+      "kriteria SNBP",
+      "pilihan prodi SNBP"
+    ],
+    "search_text": "Judul: Kriteria Seleksi SNBP\nKonteks: SNBP > Kriteria Seleksi\nAlias: kriteria SNBP, pilihan prodi SNBP\nIntent: tanya_jalur, tanya_prodi_fakultas\n\n## Kriteria Seleksi\n\n1. Setiap siswa yang eligible diizinkan memilih Prodi di PTN Akademik, dan/atau PTN Vokasi.\n2. Setiap siswa dapat memilih dua program studi dari satu atau dua PTN.\n3. Jika memilih satu program studi, siswa dapat memilih PTN yang berada di provinsi mana pun.\n4. Jika memilih dua program studi, salah satu program studi harus berada di PTN pada provinsi yang sama dengan SMA/MA/SMK asalnya.\n5. Daftar program studi dan daya tampung SNBP dapat dilihat pada sub menu Daya Tampung PTN SNBP",
+    "content": "## Kriteria Seleksi\n\n1. Setiap siswa yang eligible diizinkan memilih Prodi di PTN Akademik, dan/atau PTN Vokasi.\n2. Setiap siswa dapat memilih dua program studi dari satu atau dua PTN.\n3. Jika memilih satu program studi, siswa dapat memilih PTN yang berada di provinsi mana pun.\n4. Jika memilih dua program studi, salah satu program studi harus berada di PTN pada provinsi yang sama dengan SMA/MA/SMK asalnya.\n5. Daftar program studi dan daya tampung SNBP dapat dilihat pada sub menu Daya Tampung PTN SNBP"
+  },
+  {
+    "id": "23192b1b9933b7dc36f3fbdbeaf85e6f",
+    "source_file": "snbt_tagged.md",
+    "heading": "## Ketentuan Pilihan Program Studi",
+    "parent_context": "SNBT > Ketentuan Pilihan Program Studi",
+    "intents": [
+      "tanya_prodi_fakultas",
+      "tanya_jalur"
+    ],
+    "topik": "Ketentuan Pilihan Program Studi SNBT",
+    "alias_topik": [
+      "pilihan prodi SNBT",
+      "maksimal 4 prodi",
+      "ketentuan pilihan SNBT"
+    ],
+    "search_text": "Judul: Ketentuan Pilihan Program Studi SNBT\nKonteks: SNBT > Ketentuan Pilihan Program Studi\nAlias: pilihan prodi SNBT, maksimal 4 prodi, ketentuan pilihan SNBT\nIntent: tanya_prodi_fakultas, tanya_jalur\n\n## Ketentuan Pilihan Program Studi\n\n1. Setiap peserta bebas memilih program studi di PTN Akademik dan/atau PTN Vokasi.\n2. Setiap peserta diperbolehkan memilih maksimal 4 (empat) program studi dengan ketentuan sebagaimana tabel terlampir.\n3. Urutan dalam pemilihan program studi menyatakan prioritas pilihan.\n\n| Jumlah Pilihan | Ketentuan Pilihan | Contoh Alternatif Pilihan Program Studi |\n|---|---|---|\n| 1 Pilihan Program Studi | Bebas memilih di program apa pun | - 1 Sarjana<br>- 1 Diploma Empat/Sarjana Terapan<br>- 1 Diploma Tiga |\n| 2 Pilihan Program Studi | Bebas memilih di program apa pun | - 2 Sarjana<br>- 1 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan<br>- 2 Diploma Tiga<br>- 1 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga |\n| 3 Pilihan Program Studi | - 2 program akademik dan 1 program vokasi<br>- 1 program akademik dan 2 program vokasi<br>- 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 2 Sarjana dan 1 Diploma Tiga<br>- 1 Sarjana dan 2 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga<br>- 3 Diploma Tiga |\n| 4 Pilihan Program Studi | - 2 program akademik dan 2 program vokasi (minimal 1 Diploma Tiga)<br>- 1 program akademik dan 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 2 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 2 Diploma Tiga<br>- 1 Sarjana dan 3 Diploma Tiga |",
+    "content": "## Ketentuan Pilihan Program Studi\n\n1. Setiap peserta bebas memilih program studi di PTN Akademik dan/atau PTN Vokasi.\n2. Setiap peserta diperbolehkan memilih maksimal 4 (empat) program studi dengan ketentuan sebagaimana tabel terlampir.\n3. Urutan dalam pemilihan program studi menyatakan prioritas pilihan.\n\n| Jumlah Pilihan | Ketentuan Pilihan | Contoh Alternatif Pilihan Program Studi |\n|---|---|---|\n| 1 Pilihan Program Studi | Bebas memilih di program apa pun | - 1 Sarjana<br>- 1 Diploma Empat/Sarjana Terapan<br>- 1 Diploma Tiga |\n| 2 Pilihan Program Studi | Bebas memilih di program apa pun | - 2 Sarjana<br>- 1 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan<br>- 2 Diploma Tiga<br>- 1 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga |\n| 3 Pilihan Program Studi | - 2 program akademik dan 1 program vokasi<br>- 1 program akademik dan 2 program vokasi<br>- 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana dan 1 Diploma Empat/Sarjana Terapan<br>- 2 Sarjana dan 1 Diploma Tiga<br>- 1 Sarjana dan 2 Diploma Empat/Sarjana Terapan<br>- 1 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Diploma Empat/Sarjana Terapan dan 1 Diploma Tiga<br>- 3 Diploma Tiga |\n| 4 Pilihan Program Studi | - 2 program akademik dan 2 program vokasi (minimal 1 Diploma Tiga)<br>- 1 program akademik dan 3 program vokasi (minimal 1 Diploma Tiga) | - 2 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 2 Sarjana dan 2 Diploma Tiga<br>- 1 Sarjana, 2 Diploma Empat/Sarjana Terapan, dan 1 Diploma Tiga<br>- 1 Sarjana, 1 Diploma Empat/Sarjana Terapan, dan 2 Diploma Tiga<br>- 1 Sarjana dan 3 Diploma Tiga |"
+  },
+  {
+    "id": "5c965eb8fce30b871eaf99aec2d91d9c",
+    "source_file": "talent_scouting_ts_tagged.md",
+    "heading": "## Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)",
+    "parent_context": "Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)",
+    "intents": [
+      "tanya_prodi_fakultas",
+      "tanya_jalur"
+    ],
+    "topik": "Pilihan Program Studi SPMB Mandiri Non-Reguler Talent Scouting TS",
+    "alias_topik": [
+      "prodi TS",
+      "sekolah Talent Scouting",
+      "NPSN Talent Scouting",
+      "program studi TS"
+    ],
+    "search_text": "Judul: Pilihan Program Studi SPMB Mandiri Non-Reguler Talent Scouting TS\nKonteks: Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS) > Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)\nAlias: prodi TS, sekolah Talent Scouting, NPSN Talent Scouting, program studi TS\nIntent: tanya_prodi_fakultas, tanya_jalur\n\n## Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)\n\nNo\nNo | Nama Sekolah | NPSN | Pilihan Program Studi\n1 | MAN INSAN CENDEKIA ACEH TIMUR | 69956310 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n2 | MAN INSAN CENDEKIA TAPANULI SELATAN | 69987117 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n3 | MAN INSAN CENDEKIA PADANG PARIAMAN | 69983368 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n4 | MAN INSAN CENDEKIA SIAK | 69941598 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n5 | MAN INSAN CENDEKIA OKI | 69941607 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n6 | MAN INSAN CENDEKIA BENGKULU TENGAH | 69978360 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n7 | MAN INSAN CENDEKIA BANGKA TENGAH | 69955659 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n8 | MAN INSAN CENDEKIA KOTA BATAM | 69975889 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n9 | MAN INSAN CENDEKIA PEKALONGAN | 69941723 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n10 | MAN INSAN CENDEKIA PASURUAN | 69978962 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n11 | MAN INSAN CENDEKIA SERPONG | 20623314 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n12 | MAN INSAN CENDEKIA LOMBOK TIMUR | 69978966 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n13 | MAN INSAN CENDEKIA SAMBAS | 69976449 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n14 | MAN INSAN CENDEKIA TANAH LAUT | 69976494 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n15 | MAN INSAN CENDEKIA PASER | 69941830 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n16 | MAN INSAN CENDEKIA KOTA PALU | 69980514 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n17 | MAN INSAN CENDEKIA GOWA | 69983967 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n18 | MAN INSAN CENDEKIA KOTA KENDARI | 69975824 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n19 | MAN INSAN CENDEKIA GORONTALO | 60728785 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n20 | MAN INSAN CENDEKIA HALMAHERA BARAT | 69975867 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n21 | MAN INSAN CENDEKIA SORONG | 69977564 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n22 | MAN INSAN CENDEKIA LAMPUNG TIMUR | 69994638 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n23 | MAN INSAN CENDEKIA KOTA PALANGKA RAYA | 70042022 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n24 | MAN INSAN CENDEKIA JAMBI | 10507942 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n25 | SMAN 6 KOTA TANGERANG SELATAN | 20613768 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n26 | MAS AL AMAN | 20277305 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n27 | MAS NURUL HUDA | 20280444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n28 | SMAS AL MASTHURIYAH | 20247144 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n29 | MAS AL-ATIQIYAH | 69983444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n30 | MAS ASSALAM | 20280403 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n31 | MAS SUNANUL HUDA | 20280452 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n32 | MAS TAHFIZHUL QUR`AN AL-MATIN | 70006495 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n33 | MAN 4 JOMBANG | 20579956 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi\n34 | SPM WUSTHA SHUFFAH AL JAMA'AH | 70060867 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n35 | MAN 11 JAKARTA | 20177926 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional\n36 | MAS SUMATERA THAWALIB PARABEK | 10300539 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n37 | PONDOK PESANTREN KAUMAN MUHAMMADIYAH PADANG PANJANG |  | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n38 | SMA QURAN AL BADAR 2 | 70052226 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n39 | SMAS DAAR EL QOLAM 2 | 20623133 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n40 | MAS AL AWWABIN | 20277148 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n41 | SMAN 8 KOTA TANGERANG SELATAN | 20613552 | Psikologi\n42 | SMAN 2 KOTA TANGERANG SELATAN | 20613477 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Kesehatan Masyarakat; Farmasi; Ilmu Keperawatan; Pendidikan Dokter\n43 | MAN 4 JAKARTA | 20177932 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Pendidikan Dokter; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional; Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n44 | MAS DARUL MURSYID | 10263672 | Psikologi\n45 | MAN 2 PADANGSIDIMPUAN | 10264758 | Psikologi\n46 | MAN 6 JAKARTA | 20177962 | Psikologi\n47 | MAS DAAR EL-QOLAM | 20623415 | Psikologi\n48 | SMAS DAAR EL QOLAM | 20603164 | Psikologi\n49 | MAS MATHLA`UL ANWAR PUSAT MENES | 20622340 | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n50 | PONDOK PESANTREN DAAR EL-QOLAM 3 KAMPUS DZA 'IZZA |  | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n51 | MAN 2 KOTA MALANG | 20580050 | Pendidikan Dokter\n52 | MAS PEMBANGUNAN UIN | 20177948 | Pendidikan Dokter\n53 | MAN 1 KOTA BENGKULU | 10703996 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n54 | MA AL-QUR`AN HARSALLAKUM | 69975971 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n55 | MAS ISLAMIYAH | 20623305 | Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah\n56 | MAN 1 SURAKARTA | 20363060 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n57 | MAN 1 YOGYAKARTA | 20403375 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n58 | MAN 1 JEMBER | 20580291 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n59 | MAN 2 KOTA PADANG PANJANG | 10263751 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n60 | MAN 2 MATARAM | 50105651 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n61 | MAN 3 KOTA MAKASSAR | 40320467 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n62 | MAN 1 ACEH TIMUR | 10113708 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n63 | MAS ASSALAM DARUL FAIZAH | 69983455 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n64 | MADRASAH ALIYAH AL-HAMIDIYAH DEPOK | 20277149 | Psikologi",
+    "content": "## Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)\n\nNo\nNo | Nama Sekolah | NPSN | Pilihan Program Studi\n1 | MAN INSAN CENDEKIA ACEH TIMUR | 69956310 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n2 | MAN INSAN CENDEKIA TAPANULI SELATAN | 69987117 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n3 | MAN INSAN CENDEKIA PADANG PARIAMAN | 69983368 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n4 | MAN INSAN CENDEKIA SIAK | 69941598 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n5 | MAN INSAN CENDEKIA OKI | 69941607 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n6 | MAN INSAN CENDEKIA BENGKULU TENGAH | 69978360 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n7 | MAN INSAN CENDEKIA BANGKA TENGAH | 69955659 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n8 | MAN INSAN CENDEKIA KOTA BATAM | 69975889 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n9 | MAN INSAN CENDEKIA PEKALONGAN | 69941723 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n10 | MAN INSAN CENDEKIA PASURUAN | 69978962 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n11 | MAN INSAN CENDEKIA SERPONG | 20623314 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter\n12 | MAN INSAN CENDEKIA LOMBOK TIMUR | 69978966 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n13 | MAN INSAN CENDEKIA SAMBAS | 69976449 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n14 | MAN INSAN CENDEKIA TANAH LAUT | 69976494 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n15 | MAN INSAN CENDEKIA PASER | 69941830 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n16 | MAN INSAN CENDEKIA KOTA PALU | 69980514 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n17 | MAN INSAN CENDEKIA GOWA | 69983967 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n18 | MAN INSAN CENDEKIA KOTA KENDARI | 69975824 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n19 | MAN INSAN CENDEKIA GORONTALO | 60728785 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n20 | MAN INSAN CENDEKIA HALMAHERA BARAT | 69975867 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n21 | MAN INSAN CENDEKIA SORONG | 69977564 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n22 | MAN INSAN CENDEKIA LAMPUNG TIMUR | 69994638 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n23 | MAN INSAN CENDEKIA KOTA PALANGKA RAYA | 70042022 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n24 | MAN INSAN CENDEKIA JAMBI | 10507942 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini\n25 | SMAN 6 KOTA TANGERANG SELATAN | 20613768 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi\n26 | MAS AL AMAN | 20277305 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n27 | MAS NURUL HUDA | 20280444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n28 | SMAS AL MASTHURIYAH | 20247144 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n29 | MAS AL-ATIQIYAH | 69983444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n30 | MAS ASSALAM | 20280403 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n31 | MAS SUNANUL HUDA | 20280452 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n32 | MAS TAHFIZHUL QUR`AN AL-MATIN | 70006495 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n33 | MAN 4 JOMBANG | 20579956 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi\n34 | SPM WUSTHA SHUFFAH AL JAMA'AH | 70060867 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n35 | MAN 11 JAKARTA | 20177926 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional\n36 | MAS SUMATERA THAWALIB PARABEK | 10300539 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n37 | PONDOK PESANTREN KAUMAN MUHAMMADIYAH PADANG PANJANG |  | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n38 | SMA QURAN AL BADAR 2 | 70052226 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n39 | SMAS DAAR EL QOLAM 2 | 20623133 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n40 | MAS AL AWWABIN | 20277148 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n41 | SMAN 8 KOTA TANGERANG SELATAN | 20613552 | Psikologi\n42 | SMAN 2 KOTA TANGERANG SELATAN | 20613477 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Kesehatan Masyarakat; Farmasi; Ilmu Keperawatan; Pendidikan Dokter\n43 | MAN 4 JAKARTA | 20177932 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Pendidikan Dokter; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional; Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n44 | MAS DARUL MURSYID | 10263672 | Psikologi\n45 | MAN 2 PADANGSIDIMPUAN | 10264758 | Psikologi\n46 | MAN 6 JAKARTA | 20177962 | Psikologi\n47 | MAS DAAR EL-QOLAM | 20623415 | Psikologi\n48 | SMAS DAAR EL QOLAM | 20603164 | Psikologi\n49 | MAS MATHLA`UL ANWAR PUSAT MENES | 20622340 | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n50 | PONDOK PESANTREN DAAR EL-QOLAM 3 KAMPUS DZA 'IZZA |  | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan\n51 | MAN 2 KOTA MALANG | 20580050 | Pendidikan Dokter\n52 | MAS PEMBANGUNAN UIN | 20177948 | Pendidikan Dokter\n53 | MAN 1 KOTA BENGKULU | 10703996 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n54 | MA AL-QUR`AN HARSALLAKUM | 69975971 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf\n55 | MAS ISLAMIYAH | 20623305 | Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah\n56 | MAN 1 SURAKARTA | 20363060 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n57 | MAN 1 YOGYAKARTA | 20403375 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n58 | MAN 1 JEMBER | 20580291 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n59 | MAN 2 KOTA PADANG PANJANG | 10263751 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n60 | MAN 2 MATARAM | 50105651 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n61 | MAN 3 KOTA MAKASSAR | 40320467 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n62 | MAN 1 ACEH TIMUR | 10113708 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum\n63 | MAS ASSALAM DARUL FAIZAH | 69983455 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris\n64 | MADRASAH ALIYAH AL-HAMIDIYAH DEPOK | 20277149 | Psikologi"
+  }
+]

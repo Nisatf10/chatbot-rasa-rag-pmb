@@ -1,0 +1,210 @@
+version: "3.1"
+
+rules:
+
+  # STATIC
+  - rule: Jawab sapaan
+    steps:
+      - intent: sapaan
+      - action: utter_sapaan
+
+  - rule: Jawab terima kasih
+    steps:
+      - intent: ucapan_terimakasih
+      - action: utter_terimakasih
+
+  - rule: Jawab kelas karyawan
+    steps:
+      - intent: kelas_karyawan
+      - action: utter_kelas_karyawan
+
+  - rule: Jawab uang pangkal
+    steps:
+      - intent: uang_pangkal
+      - action: utter_uang_pangkal
+
+  - rule: out of scope
+    steps:
+      - intent: out_of_scope
+      - action: utter_out_of_scope
+
+
+  # LANGSUNG RAG
+  - rule: Jawab jalur
+    steps:
+      - intent: tanya_jalur
+      - action: action_rag_search
+
+  - rule: Jawab pascasarjana
+    steps:
+      - intent: tanya_pascasarjana
+      - action: action_rag_search
+
+  - rule: Jawab prodi fakultas
+    steps:
+      - intent: tanya_prodi_fakultas
+      - action: action_rag_search
+
+  - rule: Jawab profesi
+    steps:
+      - intent: tanya_profesi
+      - action: action_rag_search
+
+  - rule: Jawab link
+    steps:
+      - intent: tanya_link
+      - action: action_rag_search
+
+
+  # FORM
+  - rule: aktifkan form jadwal
+    steps:
+      - intent: tanya_jadwal
+      - action: form_tanya_jadwal
+      - active_loop: form_tanya_jadwal
+
+  - rule: selesai form jadwal
+    condition:
+      - active_loop: form_tanya_jadwal
+    steps:
+      - action: form_tanya_jadwal
+      - active_loop: null
+      - action: action_rag_search
+
+  - rule: aktifkan form daftar ulang
+    steps:
+      - intent: daftar_ulang
+      - action: form_daftar_ulang
+      - active_loop: form_daftar_ulang
+
+  - rule: selesai form daftar_ulang
+    condition:
+      - active_loop: form_daftar_ulang
+    steps:
+      - action: form_daftar_ulang
+      - active_loop: null
+      - action: action_rag_search
+
+  - rule: aktifkan form prosedur
+    steps:
+      - intent: tanya_prosedur_pendaftaran
+      - action: form_tanya_prosedur
+      - active_loop: form_tanya_prosedur
+
+  - rule: selesai form prosedur
+    condition:
+      - active_loop: form_tanya_prosedur
+    steps:
+      - action: form_tanya_prosedur
+      - active_loop: null
+      - action: action_rag_search
+
+  - rule: aktifkan form ujian
+    steps:
+      - intent: tanya_ujian
+      - action: form_tanya_ujian
+      - active_loop: form_tanya_ujian
+
+  - rule: selesai form ujian
+    condition:
+      - active_loop: form_tanya_ujian
+    steps:
+      - action: form_tanya_ujian
+      - active_loop: null
+      - action: action_rag_search
+
+  - rule: aktifkan form beasiswa
+    steps:
+      - intent: tanya_beasiswa
+      - action: form_tanya_beasiswa
+      - active_loop: form_tanya_beasiswa
+
+  - rule: selesai form beasiswa
+    condition:
+      - active_loop: form_tanya_beasiswa
+    steps:
+      - action: form_tanya_beasiswa
+      - active_loop: null
+      - action: action_rag_search
+
+  - rule: aktifkan form kontak
+    steps:
+      - intent: tanya_kontak
+      - action: form_tanya_kontak
+      - active_loop: form_tanya_kontak
+
+  - rule: selesai form kontak
+    condition:
+      - active_loop: form_tanya_kontak
+    steps:
+      - action: form_tanya_kontak
+      - active_loop: null
+      - slot_was_set:
+          - requested_slot: null
+      - action: action_rag_search
+      
+
+  # BERCABANG
+  - rule: handle tanya biaya
+    steps:
+      - intent: tanya_biaya
+      - action: action_tanya_biaya
+
+  - rule: handle cara bayar
+    steps:
+      - intent: cara_bayar
+      - action: action_cara_bayar
+
+  - rule: handle tanya kuota
+    steps:
+      - intent: tanya_kuota
+      - action: action_tanya_kuota
+
+  - rule: handle tanya persyaratan
+    steps:
+      - intent: tanya_persyaratan
+      - action: action_tanya_persyaratan
+
+
+  # LANJUTAN INFORM SETELAH BOT MINTA KLARIFIKASI
+  - rule: lanjut setelah inform
+    steps:
+      - intent: inform
+      - action: action_handle_inform
+
+  # PENUTUP CUSTOM ACTION
+  # Setelah custom action selesai menjawab, paksa Rasa berhenti dan dengarkan input berikutnya.
+  - rule: listen after rag search
+    steps:
+      - action: action_rag_search
+      - action: action_listen
+
+  - rule: listen after tanya biaya
+    steps:
+      - action: action_tanya_biaya
+      - action: action_listen
+
+  - rule: listen after cara bayar
+    steps:
+      - action: action_cara_bayar
+      - action: action_listen
+
+  - rule: listen after tanya kuota
+    steps:
+      - action: action_tanya_kuota
+      - action: action_listen
+
+  - rule: listen after tanya persyaratan
+    steps:
+      - action: action_tanya_persyaratan
+      - action: action_listen
+
+  - rule: listen after handle inform
+    steps:
+      - action: action_handle_inform
+      - action: action_listen
+
+  - rule: Handle NLU fallback
+    steps:
+      - intent: nlu_fallback
+      - action: action_handle_fallback

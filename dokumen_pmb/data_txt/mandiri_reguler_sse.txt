@@ -1,0 +1,937 @@
+Tentang SPMB Mandiri Reguler (SSE)
+
+Pengantar
+
+SSE UIN Jakarta adalah aplikasi sistem seleksi elektronik berbasis komputer yang digunakan untuk SPMB Mandiri UIN Syarif Hidayatullah Jakarta.
+
+SPMB Mandiri Jalur Reguler adalah jalur seleksi mandiri UIN Syarif Hidayatullah Jakarta yang kelulusannya berdasarkan hasil tes yang dilaksanakan dengan menggunakan aplikasi SSE UIN Jakarta.
+
+Materi Ujian
+
+Penalaran Akademik, mengukur kemampuan potensi calon mahasiswa yang dapat menghantarkan penyelesaian dan keberhasilan studi di jenjang strata satu, yang meliputi:
+
+Penalaran Verbal berupa kemampuan pemahaman berbahasa secara tertulis dan ketrampilan bahasa yang berdasarkan struktur dan aturan bahasa baik dalam kata, kalimat, maupun narasi;
+
+Penalaran Kuantitatif berupa kemampuan menerapkan konsep hitungan, logika angka, simbol numerical dalam berpikir sistematis dan memecahkan masalah. Konteks dalam penalaran “verbal” dikaitkan dengan aspek-aspek dalam kehidupan sehari-hari yang meliputi masalah keindonesiaan, keislaman, sains dan teknologi, pendidikan, kesehatan, ekonomi dan bisnis, seni budaya, dan olah raga.
+
+Penalaran Matematika, mengukur kemampuan peserta dalam memahami dan menganalisis isi bacaan sederhana dengan menggunakan penalarannya guna memecahkan permasalahan kehidupan sehari-hari melalui penerapan konsep, prosedur dan fakta dalam matematika. Bacaan tersebut dielaborasi melalui beragam representasi (grafik/tabel/bagan atau representasi lainnya) untuk memprediksi dan/atau mengambil keputusan yang dibutuhkan mereka sebagai bekal dalam menghadapi tuntutan hidup abad ke-21.
+
+Literasi Bahasa, mengukur kemampuan untuk memahami, menggunakan, mengevaluasi, merefleksikan berbagai jenis teks Bahasa Indonesia dan Bahasa Inggris dalam konteks sosio- humaniora dan konteks sains serta jenis teks Bahasa Arab untuk menyelesaikan masalah dan mengembangkan kapasitas individu yang moderat dan unggul sebagai warga Indonesia dan warga dunia agar dapat berkontribusi secara produktif dan proporsional.
+
+Literasi Keislaman, mengukur kemampuan memahami, menerapkan dan menganalisis materi ajaran Islam meliputi Al-Quran, Hadits, Fikih, Aqidah Akhlak, dan Sejarah Kebudayaan Islam dalam konteks personal, masyarakat, global dan moderasi untuk mewujudkan masyarakat madani. Penguasaan literasi ajaran Islam ini sangat penting untuk menanamkan kepribadian yang baik dan memperkuat iman serta mengaplikasikan ajaran Islam dalam kehidupan individu sehari-hari maupun dalam kehidupan bermasyarakat dan berbangsa
+
+Mekanisme Seleksi
+
+Calon peserta melakukan pendaftaran melalui laman https://admisi.uinjkt.ac.id;
+
+Calon peserta mengisi form daftar dan memilih jalur seleksi PMB untuk mendapatkan Nomor Pendaftaran, ID, dan PIN;
+
+Calon peserta mendapatkan Nomor Pendaftaran dan melakukan pembayaran biaya pendaftaran melalui bank mitra;
+
+Calon peserta mengisi data borang melalui laman https://admisi.uinjkt.ac.id dengan menggunakan ID dan PIN yang telah didapatkan oleh calon mahasiswa saat pendaftaran;
+
+Calon peserta mengirimkan (submit) data borang dan mencetak kartu ujian;
+
+Peserta seleksi mengikuti proses seleksi ujian baik luring (offline) maupun daring (online).
+
+Persyaratan Umum Pendaftar
+
+Pendaftar merupakan siswa kelas 12 SMA/MA/SMK/MAK/Pesantren Pendidikan Diniyah Formal (PDF)/Satuan Pendidikan Mu’adalah/Pendidikan Kesetaraan Pondok Pesantren Salafiyah (PKPPS) atau sederajat yang memiliki Nomor Pokok Sekolah Nasional (NPSN) dan dinyatakan lulus pada tahun 2026, 2025, atau 2024 serta memiliki NISN;
+
+Memiliki ijazah bagi pendaftar yang dinyatakan lulus pada tahun 2025 atau 2024;
+
+Memiliki ijazah atau Surat Keterangan Lulus (SKL) yang memuat sekurang-kurangnya informasi jati diri, pas foto yang bersangkutan serta dibubuhi cap yang sah bagi pendaftar yang dinyatakan lulus pada tahun 2026;
+
+Batas maksimal usia peserta yang berasal dari Paket C atau PKPPS adalah 25 tahun per 1 Juli 2026;
+
+Pendaftar dalam kondisi bebas narkoba, sehat jasmani dan rohani, sehingga tidak mengganggu proses pembelajaran pada Program Studinya;
+
+Pendaftar melakukan pendaftaran SPMB Mandiri UIN Syarif Hidayatullah Jakarta melalui laman website https://admisi.uinjkt.ac.id; dan
+
+Pendaftar SPMB Mandiri jalur Reguler dapat memilih 2 (dua) Program Studi, dan peserta jalur non- reguler hanya bisa memilih 1 (satu) Program Studi.
+
+Ketentuan Pendaftaran
+
+Mengisi data borang (formulir) pendaftaran dengan benar;
+
+Mengunggah dokumen yang menjadi persyaratan dalam format .JPG, .JPEG ukuran maksimal 1 Mb per dokumen;
+
+Mengunggah pasfoto terbaru (3 bulan terakhir) dalam format file yang telah ditentukan (background merah, ukuran 4 x 6 cm, resolusi minimal 300 x 450 pixel, ukuran maksimal 200 Kb, format .JPG/JPEG);
+
+Khusus bagi calon peserta jalur seleksi Non-Reguler, pendaftar mengunggah scan rapor kelas 10 semester 1 s.d. kelas 12 semester 5, dan dokumen lain yang menjadi persyaratan sesuai poin 2 (dua);
+
+Pengisian data borang pendaftaran dan pembayaran biaya registrasi sesuai jadwal yang telah ditentukan; dan
+
+Jika terbukti data yang diisi, dan/atau dokumen yang diunggah tidak benar maka kelulusannya akan dibatalkan, dan seluruh biaya yang sudah dikeluarkan tidak dapat dikembalikan.
+
+https://penerimaan.uinjkt.ac.id/id/spmb-mandiri-reguler-sse#jadwalpendaftaran 
+
+1. Program Studi yang bisa dipilih dalam UJIAN LURING (OFFLINE)
+
+Ujian secara Luring (Offline) diperuntukan bagi seluruh program studi di UIN Syarif Hidayatullah Jakarta. Peserta yang dapat mengikuti ujian ini berasal dari seluruh provinsi di Indonesia. Program Studi yang dapat dipilih adalah:
+
+No
+
+Fakultas
+
+Program Studi
+
+Akreditasi
+
+1
+
+Ilmu Tarbiyah dan Keguruan
+
+Manajemen Pendidikan
+
+Unggul
+
+2
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Agama Islam
+
+Unggul
+
+3
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Bahasa Arab
+
+A
+
+4
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Guru Madrasah Ibtidaiyah
+
+Unggul
+
+5
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Islam Anak Usia Dini
+
+Unggul
+
+6
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Matematika
+
+Baik Sekali
+
+7
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Bahasa Indonesia
+
+B
+
+8
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Bahasa Inggris
+
+Unggul
+
+9
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Biologi
+
+Baik Sekali
+
+10
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Fisika
+
+Baik Sekali
+
+11
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Ilmu Pengetahuan Sosial
+
+Unggul
+
+12
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Kimia
+
+B
+
+13
+
+Adab dan Humaniora
+
+Bahasa dan Sastra Arab
+
+Unggul
+
+14
+
+Adab dan Humaniora
+
+Ilmu Perpustakaan
+
+A
+
+15
+
+Adab dan Humaniora
+
+Sastra Inggris
+
+B
+
+16
+
+Adab dan Humaniora
+
+Sejarah dan Peradaban Islam
+
+Unggul
+
+17
+
+Adab dan Humaniora
+
+Tarjamah
+
+Unggul
+
+18
+
+Ushuluddin
+
+Aqidah dan Filsafat Islam
+
+Unggul
+
+19
+
+Ushuluddin
+
+Ilmu Al-Qur'an dan Tafsir
+
+Unggul
+
+20
+
+Ushuluddin
+
+Ilmu Hadis
+
+Baik
+
+21
+
+Ushuluddin
+
+Ilmu Tasawuf
+
+B
+
+22
+
+Ushuluddin
+
+Studi Agama-Agama
+
+Unggul
+
+23
+
+Syariah dan Hukum
+
+Hukum Ekonomi Syari'ah (Mu'amalah)
+
+Unggul
+
+24
+
+Syariah dan Hukum
+
+Hukum Keluarga (Akhwal Syaksiyah)
+
+Unggul
+
+25
+
+Syariah dan Hukum
+
+Hukum Pidana Islam
+
+Unggul
+
+26
+
+Syariah dan Hukum
+
+Hukum Tata Negara (Siyasah)
+
+Unggul
+
+27
+
+Syariah dan Hukum
+
+Ilmu Hukum
+
+Unggul
+
+28
+
+Syariah dan Hukum
+
+Perbandingan Mazhab
+
+Unggul
+
+29
+
+Dakwah dan Ilmu Komunikasi
+
+Bimbingan Penyuluhan Islam
+
+Unggul
+
+30
+
+Dakwah dan Ilmu Komunikasi
+
+Jurnalistik
+
+Baik
+
+31
+
+Dakwah dan Ilmu Komunikasi
+
+Kesejahteraan Sosial
+
+Unggul
+
+32
+
+Dakwah dan Ilmu Komunikasi
+
+Komunikasi Penyiaran Islam
+
+Unggul
+
+33
+
+Dakwah dan Ilmu Komunikasi
+
+Manajemen Dakwah
+
+Unggul
+
+34
+
+Dakwah dan Ilmu Komunikasi
+
+Pengembangan Masyarakat Islam
+
+Unggul
+
+35
+
+Dirasat Islamiyah
+
+Dirasat Islamiyah
+
+Unggul
+
+36
+
+Psikologi
+
+Psikologi
+
+Unggul
+
+37
+
+Ekonomi dan Bisnis
+
+Akuntansi
+
+A
+
+38
+
+Ekonomi dan Bisnis
+
+Ekonomi Pembangunan
+
+A
+
+39
+
+Ekonomi dan Bisnis
+
+Ekonomi Syariah
+
+Unggul
+
+40
+
+Ekonomi dan Bisnis
+
+Manajemen
+
+A
+
+41
+
+Ekonomi dan Bisnis
+
+Perbankan Syariah
+
+A
+
+42
+
+Sains dan Teknologi
+
+Agribisnis
+
+Baik Sekali
+
+43
+
+Sains dan Teknologi
+
+Biologi
+
+Unggul
+
+44
+
+Sains dan Teknologi
+
+Fisika
+
+Baik Sekali
+
+45
+
+Sains dan Teknologi
+
+Kimia
+
+Unggul
+
+46
+
+Sains dan Teknologi
+
+Matematika
+
+Baik Sekali
+
+47
+
+Sains dan Teknologi
+
+Sistem Informasi
+
+Unggul
+
+48
+
+Sains dan Teknologi
+
+Teknik Informatika
+
+Unggul
+
+49
+
+Sains dan Teknologi
+
+Teknik Pertambangan
+
+Baik Sekali
+
+50
+
+Ilmu Kesehatan
+
+Farmasi
+
+Unggul
+
+51
+
+Ilmu Kesehatan
+
+Keperawatan
+
+Unggul
+
+52
+
+Ilmu Kesehatan
+
+Kesehatan Masyarakat
+
+Unggul
+
+53
+
+Ilmu Sosial dan Ilmu Politik
+
+Ilmu Hubungan Internasional
+
+Unggul
+
+54
+
+Ilmu Sosial dan Ilmu Politik
+
+Ilmu Politik
+
+Unggul
+
+55
+
+Ilmu Sosial dan Ilmu Politik
+
+Sosiologi
+
+Unggul
+
+56
+
+Kedokteran
+
+Pendidikan Dokter
+
+Unggul
+
+2. Program Studi yang bisa dipilih dalam UJIAN DARING (ONLINE)
+
+Ujian secara Daring (Online) diperuntukan bagi program studi tertentu, yang dapat diikuti oleh peserta dari luar provinsi DKI Jakarta, Banten atau Jawa Barat. Fakultas dan Program Studi yang dapat dipilih adalah:
+
+No
+
+Fakultas
+
+Program Studi
+
+Akreditasi
+
+1
+
+Ilmu Tarbiyah dan Keguruan
+
+Manajemen Pendidikan
+
+Unggul
+
+2
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Agama Islam
+
+Unggul
+
+3
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Bahasa Arab
+
+A
+
+4
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Guru Madrasah Ibtidaiyah
+
+Unggul
+
+5
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Islam Anak Usia Dini
+
+Unggul
+
+6
+
+Ilmu Tarbiyah dan Keguruan
+
+Pendidikan Matematika
+
+Baik Sekali
+
+7
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Bahasa Indonesia
+
+B
+
+8
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Bahasa Inggris
+
+Unggul
+
+9
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Biologi
+
+Baik Sekali
+
+10
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Fisika
+
+Baik Sekali
+
+11
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Ilmu Pengetahuan Sosial
+
+Unggul
+
+12
+
+Ilmu Tarbiyah dan Keguruan
+
+Tadris Kimia
+
+B
+
+13
+
+Adab dan Humaniora
+
+Bahasa dan Sastra Arab
+
+Unggul
+
+14
+
+Adab dan Humaniora
+
+Ilmu Perpustakaan
+
+A
+
+15
+
+Adab dan Humaniora
+
+Sastra Inggris
+
+B
+
+16
+
+Adab dan Humaniora
+
+Sejarah dan Peradaban Islam
+
+Unggul
+
+17
+
+Adab dan Humaniora
+
+Tarjamah
+
+Unggul
+
+18
+
+Ushuluddin
+
+Aqidah dan Filsafat Islam
+
+Unggul
+
+19
+
+Ushuluddin
+
+Ilmu Al-Qur'an dan Tafsir
+
+Unggul
+
+20
+
+Ushuluddin
+
+Ilmu Hadis
+
+Baik
+
+21
+
+Ushuluddin
+
+Ilmu Tasawuf
+
+B
+
+22
+
+Ushuluddin
+
+Studi Agama-Agama
+
+Unggul
+
+23
+
+Syariah dan Hukum
+
+Hukum Ekonomi Syari'ah (Mu'amalah)
+
+Unggul
+
+24
+
+Syariah dan Hukum
+
+Hukum Keluarga (Akhwal Syaksiyah)
+
+Unggul
+
+25
+
+Syariah dan Hukum
+
+Hukum Pidana Islam
+
+Unggul
+
+26
+
+Syariah dan Hukum
+
+Hukum Tata Negara (Siyasah)
+
+Unggul
+
+27
+
+Syariah dan Hukum
+
+Ilmu Hukum
+
+Unggul
+
+28
+
+Syariah dan Hukum
+
+Perbandingan Mazhab
+
+Unggul
+
+29
+
+Dakwah dan Ilmu Komunikasi
+
+Bimbingan Penyuluhan Islam
+
+Unggul
+
+30
+
+Dakwah dan Ilmu Komunikasi
+
+Jurnalistik
+
+Baik
+
+31
+
+Dakwah dan Ilmu Komunikasi
+
+Kesejahteraan Sosial
+
+Unggul
+
+32
+
+Dakwah dan Ilmu Komunikasi
+
+Komunikasi Penyiaran Islam
+
+Unggul
+
+33
+
+Dakwah dan Ilmu Komunikasi
+
+Manajemen Dakwah
+
+Unggul
+
+34
+
+Dakwah dan Ilmu Komunikasi
+
+Pengembangan Masyarakat Islam
+
+Unggul
+
+35
+
+Dirasat Islamiyah
+
+Dirasat Islamiyah
+
+Unggul
+
+36
+
+Ekonomi dan Bisnis
+
+Akuntansi
+
+A
+
+37
+
+Ekonomi dan Bisnis
+
+Ekonomi Pembangunan
+
+A
+
+38
+
+Ekonomi dan Bisnis
+
+Ekonomi Syariah
+
+Unggul
+
+39
+
+Ekonomi dan Bisnis
+
+Manajemen
+
+A
+
+40
+
+Ekonomi dan Bisnis
+
+Perbankan Syariah
+
+A
+
+41
+
+Ilmu Sosial dan Ilmu Politik
+
+Ilmu Hubungan Internasional
+
+Unggul
+
+42
+
+Ilmu Sosial dan Ilmu Politik
+
+Ilmu Politik
+
+Unggul
+
+43
+
+Ilmu Sosial dan Ilmu Politik
+
+Sosiologi
+
+Unggul
+
+1. Prosedur Pendaftaran SPMB Mandiri Reguler (SSE) 
+
+2. Biaya Pendaftaran SPMB Mandiri Reguler (SSE)
+
+Pendaftar membayar biaya pendaftaran sebesar Rp. 345.000,- (tiga ratus empat puluh lima ribu rupiah);
+
+Biaya pendaftaran dapat dibayarkan dengan “Nomor Pendaftaran” yang diperoleh setelah mengisi data formulir pendaftaran;
+
+Biaya pendaftaran dibayarkan secara Host-to-Host melalui mitra Bank yang ditunjuk dan tidak melakukan pembayaran di luar tata cara pembayaran; dan
+
+Biaya pendaftaran yang telah dibayarkan dan/atau tidak sesuai tata cara pembayaran, tidak dapat dikembalikan.
+
+3. Tata Cara Pembayaran Pendaftaran
+
+No
+
+Bank
+
+Panduan
+
+1
+
+✔ Mobile (Wondr by BNI)
+
+✔ Teller BNI
+
+✔ ATM BNI
+
+Lihat
+
+3
+
+✔ Mobile (bale by BTN)
+
+✔ Teller BTN
+
+✔ ATM BTN
+
+✔ Transfer dari Bank Lain
+
+Lihat
+
+2
+
+✔ Mobile (BYOND by BSI)
+
+✔ Internet (BSI NET)
+
+✔ Teller BSI
+
+✔ ATM BSI
+
+✔ Transfer dari Bank Lain

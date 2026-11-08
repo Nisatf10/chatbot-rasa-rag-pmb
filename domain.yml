@@ -1,0 +1,282 @@
+version: "3.1"
+
+intents:
+  - cara_bayar
+  - daftar_ulang
+  - kelas_karyawan
+  - sapaan
+  - tanya_beasiswa
+  - tanya_biaya
+  - tanya_jadwal
+  - tanya_jalur
+  - tanya_kontak
+  - tanya_kuota
+  - tanya_pascasarjana
+  - tanya_persyaratan
+  - tanya_prodi_fakultas
+  - tanya_profesi
+  - tanya_prosedur_pendaftaran
+  - tanya_ujian
+  - tanya_link
+  - uang_pangkal
+  - ucapan_terimakasih
+  - out_of_scope
+  - inform
+  - nlu_fallback
+
+entities:
+  - fakultas
+  - prodi
+  - jalur_seleksi_jenjang
+  - bank
+  - jenis_biaya
+  - jenis_beasiswa
+  - metode_pembayaran
+
+slots:
+  jenis_biaya:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: jenis_biaya
+
+  jenis_beasiswa:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: jenis_beasiswa
+
+  jalur_seleksi_jenjang:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: jalur_seleksi_jenjang
+
+  prodi:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: prodi
+
+  metode_pembayaran:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: metode_pembayaran
+
+  bank:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: bank
+
+  unit_kontak:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: fakultas
+        conditions:
+          - active_loop: form_tanya_kontak
+            requested_slot: unit_kontak
+
+      - type: from_entity
+        entity: prodi
+        conditions:
+          - active_loop: form_tanya_kontak
+            requested_slot: unit_kontak
+
+      - type: from_entity
+        entity: jalur_seleksi_jenjang
+        conditions:
+          - active_loop: form_tanya_kontak
+            requested_slot: unit_kontak
+
+  fakultas:
+      type: text
+      influence_conversation: false
+      mappings:
+        - type: from_entity
+          entity: fakultas
+
+  fallback_count:
+    type: float
+    initial_value: 0
+    influence_conversation: true
+    mappings:
+      - type: custom
+  
+  active_intent:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: custom
+
+  rag_search_mode:
+    type: text
+    mappings:
+      - type: custom
+
+forms:
+  form_tanya_jadwal:
+    required_slots:
+      - jalur_seleksi_jenjang
+
+  form_tanya_prosedur:
+    required_slots:
+      - jalur_seleksi_jenjang
+
+  form_tanya_ujian:
+    required_slots:
+      - jalur_seleksi_jenjang
+
+  form_tanya_beasiswa:
+    required_slots:
+      - jenis_beasiswa
+
+  form_tanya_kontak:
+    required_slots:
+      - unit_kontak
+  
+  form_daftar_ulang:
+    required_slots:
+      - jalur_seleksi_jenjang
+
+actions:
+  - action_rag_search
+  - action_tanya_biaya
+  - action_cara_bayar
+  - action_tanya_kuota
+  - action_tanya_persyaratan
+  - action_handle_inform
+  - action_handle_fallback
+
+responses:
+  utter_sapaan:
+    - text: "Halo! 👋 Selamat datang di chatbot layanan informasi PMB UIN Syarif Hidayatullah Jakarta. Saya siap membantu memberikan informasi seputar penerimaan mahasiswa baru dengan senang hati 😊 Ada yang bisa saya bantu?"
+
+  utter_terimakasih:
+    - text: "Sama-sama 😊 Semoga informasi yang diberikan membantu ya. Senang sekali bisa membantu Anda."
+
+  utter_kelas_karyawan:
+    - text: "Untuk program S1, UIN Syarif Hidayatullah Jakarta tidak menyediakan kelas karyawan 😊 Namun, untuk program Magister, Doktor, atau Pascasarjana, tersedia metode pembelajaran blended learning dan hybrid learning sesuai ketentuan program studi."
+
+  utter_uang_pangkal:
+    - text: "Di UIN Syarif Hidayatullah Jakarta tidak ada uang pangkal, uang gedung, maupun IPI 😊 Mahasiswa hanya membayar UKT setiap semester sesuai ketentuan yang berlaku."
+
+  utter_fallback:
+    - text: "Maaf, saya belum cukup memahami pertanyaan Anda 😊 Saya dapat membantu informasi seputar PMB UIN Jakarta, seperti jalur pendaftaran, jadwal seleksi, biaya, program studi, dan persyaratan. Bisa tuliskan pertanyaannya dengan lebih spesifik?"
+
+  utter_ask_jalur_seleksi_jenjang:
+    - text: |
+        Kak, jalur atau jenjang yang dimaksud apa ya?
+          - SNBP
+          - SNBT
+          - SPAN-PTKIN
+          - UM-PTKIN
+          - SPMB Mandiri Reguler
+          - SPMB Mandiri Non Reguler
+          - Pascasarjana S2/Magister
+          - Pascasarjana S3/Doktor
+          - Profesi
+          - Spesialis
+
+  utter_ask_jenis_beasiswa:
+    - text: |
+        UIN Jakarta menyediakan beberapa beasiswa, di antaranya:
+        Beasiswa internal:
+        - Badan Layanan Umum (BLU)
+        - BLU untuk Mahasiswa Asing / Beasiswa Rektor
+        - KIP Kuliah
+        Beasiswa eksternal:
+        - Kartu Jakarta Mahasiswa Unggul (KJMU)
+        - Karya Salemba Empat (KSE)
+        - Baznas
+        - Djarum Plus
+        - BRIN
+        - LPDP Beasiswa Indonesia Bangkit (BIB)
+        - YBM PLN
+        - Inotek
+        - Beasiswa Pendidikan Indonesia (BPI)
+
+        Jika Kakak ingin tahu detail salah satu beasiswa, silakan sebutkan nama beasiswanya ya 😊.
+
+  utter_ask_unit_kontak:
+    - text: |
+        Untuk tersambung dengan Customer Service (manusia), Anda bisa langsung chat via WhatsApp:
+        📱 WhatsApp: 0878-7765-7965
+        
+        ---
+        Kontak Pusat Lainnya:
+        📞 Telepon: (021)-7401925 (ext. 1829)
+        🌐 Website: www.uinjkt.ac.id
+        ✉️ Email: humas@uinjkt.ac.id
+        
+        Jika membutuhkan kontak langsung ke pihak fakultas? Silakan beri tahu saya fakultas apa yang Anda tuju.
+
+  utter_hubungi_cs:
+    - text: "Mohon maaf, saya masih belum bisa memahami pertanyaan Anda 🙏 Untuk bantuan lebih lanjut, silakan hubungi Customer Service kami di: 0878-7765-7965"
+
+  utter_fallback_biaya:
+    - text: |
+        Kak, yang ingin ditanyakan biaya apa ya?
+        - UKT/per semester
+        - biaya pendaftaran
+        - biaya martikulasi program magister/doktor
+
+  utter_minta_prodi_ukt:
+    - text: "Untuk info UKT, boleh sebutkan prodi atau jurusan yang dituju, Kak?"
+
+  utter_minta_jalur_pendaftaran:
+    - text: |
+        Untuk biaya pendaftaran, jalur seleksi atau program yang dimaksud apa ya Kak?
+          - SNBP
+          - SNBT
+          - SPAN-PTKIN
+          - UM-PTKIN
+          - SPMB Mandiri Reguler
+          - SPMB Mandiri Non Reguler
+          - Pascasarjana S2/Magister
+          - Pascasarjana S3/Doktor
+          - Profesi
+          - Spesialis
+
+  utter_klarifikasi_biaya_kuliah:
+    - text: |
+        Kak, maksud biaya kuliah yang ingin ditanyakan itu:
+        - UKT per semester
+        - biaya pendaftaran
+        - biaya martikulasi
+
+  utter_klarifikasi_cara_bayar:
+    - text: "Kak, pembayaran yang dimaksud untuk UKT, pendaftaran, atau biaya lainnya?"
+
+  utter_minta_jalur_cara_bayar:
+    - text: "Untuk biaya pendaftaran jalur atau program apa ya, Kak?"
+
+  utter_minta_jalur_dan_prodi_kuota:
+    - text: |
+        Kak, ingin mengetahui kuota untuk jalur dan prodi apa ya?
+        Misalnya: kuota Kedokteran jalur SNBP atau kuota Farmasi jalur Mandiri.
+
+  utter_minta_jalur_kuota:
+    - text: "Kak, kuota yang dimaksud untuk jalur apa ya? SNBP, SNBT, SPAN-PTKIN, UM-PTKIN, atau Mandiri?"
+
+  utter_minta_prodi_kuota:
+    - text: "Kak, boleh sebutkan prodi yang ingin dicek kuotanya?"
+
+  utter_minta_konteks_persyaratan:
+    - text: |
+        Kak, persyaratan yang dimaksud untuk apa ya?
+        Jalur pendaftaran, beasiswa, atau program S1/S2/S3?
+
+  utter_out_of_scope:
+  - text: "Maaf, saya hanya dapat membantu informasi terkait PMB UIN Jakarta. Silakan tanyakan seputar jalur pendaftaran, jadwal, biaya, program studi, atau persyaratan PMB."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,87 @@
+# Tentang SPMB Mandiri Non-Reguler (Talent Scouting / TS)
+<!-- intents: tanya_jalur -->
+<!-- topik: SPMB Mandiri Non-Reguler Talent Scouting TS -->
+<!-- alias_topik: Talent Scouting, TS, jalur TS, Mandiri Talent Scouting -->
+SPMB Mandiri Non Reguler Jalur Talent Scouting adalah seleksi yang diselenggarakan secara terbatas kepada sekolah yang memiliki Nota Kesepahaman (MoU) dengan UIN Syarif Hidayatullah Jakarta dan/atau memiliki Perjanjian Kerjasama (MoA) dengan Fakultas di lingkungan UIN Syarif Hidayatullah Jakarta.
+
+## Ketentuan Penilaian
+<!-- intents: tanya_persyaratan, tanya_ujian, tanya_jalur -->
+<!-- topik: Ketentuan Penilaian SPMB Mandiri Non-Reguler Talent Scouting -->
+<!-- alias_topik: penilaian TS, syarat TS, MoU MoA, rapor TS, wawancara TS -->
+Salinan MoU atau MoA antara sekolah dengan Fakultas/Universitas yang masih berlaku;
+1. Evaluasi nilai rapor kelas 10 semester 1 s.d. kelas 12 semester 5;
+2. Hasil wawancara oleh Tim Fakultas terkait pencapaian bidang akademik serta non akademik; dan
+3. Bukti prestasi (piagam atau sertifikat).
+
+
+
+## Pilihan Program Studi SPMB Mandiri Non-Reguler (Talent Scouting / TS)
+<!-- intents: tanya_prodi_fakultas, tanya_jalur -->
+<!-- topik: Pilihan Program Studi SPMB Mandiri Non-Reguler Talent Scouting TS -->
+<!-- alias_topik: prodi TS, sekolah Talent Scouting, NPSN Talent Scouting, program studi TS -->
+No
+No | Nama Sekolah | NPSN | Pilihan Program Studi
+1 | MAN INSAN CENDEKIA ACEH TIMUR | 69956310 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+2 | MAN INSAN CENDEKIA TAPANULI SELATAN | 69987117 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi
+3 | MAN INSAN CENDEKIA PADANG PARIAMAN | 69983368 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+4 | MAN INSAN CENDEKIA SIAK | 69941598 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+5 | MAN INSAN CENDEKIA OKI | 69941607 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+6 | MAN INSAN CENDEKIA BENGKULU TENGAH | 69978360 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+7 | MAN INSAN CENDEKIA BANGKA TENGAH | 69955659 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+8 | MAN INSAN CENDEKIA KOTA BATAM | 69975889 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+9 | MAN INSAN CENDEKIA PEKALONGAN | 69941723 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter
+10 | MAN INSAN CENDEKIA PASURUAN | 69978962 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+11 | MAN INSAN CENDEKIA SERPONG | 20623314 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi; Pendidikan Dokter
+12 | MAN INSAN CENDEKIA LOMBOK TIMUR | 69978966 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+13 | MAN INSAN CENDEKIA SAMBAS | 69976449 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+14 | MAN INSAN CENDEKIA TANAH LAUT | 69976494 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+15 | MAN INSAN CENDEKIA PASER | 69941830 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+16 | MAN INSAN CENDEKIA KOTA PALU | 69980514 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+17 | MAN INSAN CENDEKIA GOWA | 69983967 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+18 | MAN INSAN CENDEKIA KOTA KENDARI | 69975824 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+19 | MAN INSAN CENDEKIA GORONTALO | 60728785 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi
+20 | MAN INSAN CENDEKIA HALMAHERA BARAT | 69975867 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+21 | MAN INSAN CENDEKIA SORONG | 69977564 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+22 | MAN INSAN CENDEKIA LAMPUNG TIMUR | 69994638 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+23 | MAN INSAN CENDEKIA KOTA PALANGKA RAYA | 70042022 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+24 | MAN INSAN CENDEKIA JAMBI | 10507942 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini
+25 | SMAN 6 KOTA TANGERANG SELATAN | 20613768 | Pendidikan Agama Islam; Pendidikan Bahasa Arab; Tadris Bahasa Indonesia; Tadris Bahasa Inggris; Tadris Ilmu Pengetahuan Sosial (IPS); Tadris Biologi; Tadris Kimia; Tadris Fisika; Pendidikan Matematika; Manajemen Pendidikan; Pendidikan Guru Madrasah Ibtidaiyah; Pendidikan Islam Anak Usia Dini; Psikologi
+26 | MAS AL AMAN | 20277305 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+27 | MAS NURUL HUDA | 20280444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+28 | SMAS AL MASTHURIYAH | 20247144 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+29 | MAS AL-ATIQIYAH | 69983444 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+30 | MAS ASSALAM | 20280403 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+31 | MAS SUNANUL HUDA | 20280452 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+32 | MAS TAHFIZHUL QUR`AN AL-MATIN | 70006495 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+33 | MAN 4 JOMBANG | 20579956 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi
+34 | SPM WUSTHA SHUFFAH AL JAMA'AH | 70060867 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+35 | MAN 11 JAKARTA | 20177926 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional
+36 | MAS SUMATERA THAWALIB PARABEK | 10300539 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+37 | PONDOK PESANTREN KAUMAN MUHAMMADIYAH PADANG PANJANG |  | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+38 | SMA QURAN AL BADAR 2 | 70052226 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+39 | SMAS DAAR EL QOLAM 2 | 20623133 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan
+40 | MAS AL AWWABIN | 20277148 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+41 | SMAN 8 KOTA TANGERANG SELATAN | 20613552 | Psikologi
+42 | SMAN 2 KOTA TANGERANG SELATAN | 20613477 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Kesehatan Masyarakat; Farmasi; Ilmu Keperawatan; Pendidikan Dokter
+43 | MAN 4 JAKARTA | 20177932 | Psikologi; Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan; Pendidikan Dokter; Sosiologi; Ilmu Politik; Ilmu Hubungan Internasional; Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+44 | MAS DARUL MURSYID | 10263672 | Psikologi
+45 | MAN 2 PADANGSIDIMPUAN | 10264758 | Psikologi
+46 | MAN 6 JAKARTA | 20177962 | Psikologi
+47 | MAS DAAR EL-QOLAM | 20623415 | Psikologi
+48 | SMAS DAAR EL QOLAM | 20603164 | Psikologi
+49 | MAS MATHLA`UL ANWAR PUSAT MENES | 20622340 | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan
+50 | PONDOK PESANTREN DAAR EL-QOLAM 3 KAMPUS DZA 'IZZA |  | Teknik Informatika; Agribisnis; Sistem Informasi; Matematika; Biologi; Kimia; Fisika; Teknik Pertambangan
+51 | MAN 2 KOTA MALANG | 20580050 | Pendidikan Dokter
+52 | MAS PEMBANGUNAN UIN | 20177948 | Pendidikan Dokter
+53 | MAN 1 KOTA BENGKULU | 10703996 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf
+54 | MA AL-QUR`AN HARSALLAKUM | 69975971 | Studi Agama Agama; Ilmu Al-Quran dan Tafsir; Ilmu Hadis; Aqidah dan Filsafat Islam; Ilmu Tasawuf
+55 | MAS ISLAMIYAH | 20623305 | Manajemen; Akuntansi; Ekonomi Pembangunan; Perbankan Syariah; Ekonomi Syariah
+56 | MAN 1 SURAKARTA | 20363060 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+57 | MAN 1 YOGYAKARTA | 20403375 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+58 | MAN 1 JEMBER | 20580291 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+59 | MAN 2 KOTA PADANG PANJANG | 10263751 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+60 | MAN 2 MATARAM | 50105651 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+61 | MAN 3 KOTA MAKASSAR | 40320467 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+62 | MAN 1 ACEH TIMUR | 10113708 | Perbandingan Mazhab; Hukum Keluarga (Akhwal Syaksiyah); Hukum Tata Negara (Siyasah); Hukum Pidana Islam; Hukum Ekonomi Syariah (Muamalah); Ilmu Hukum
+63 | MAS ASSALAM DARUL FAIZAH | 69983455 | Bahasa dan Sastra Arab; Sejarah dan Peradaban Islam; Tarjamah; Ilmu Perpustakaan; Sastra Inggris
+64 | MADRASAH ALIYAH AL-HAMIDIYAH DEPOK | 20277149 | Psikologi

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "bb6f8ab6dcfedc6ba6a3cb727971e766",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## KUOTA UM-PTKIN 2026",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > KUOTA UM-PTKIN 2026",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Kuota UM-PTKIN 2026 UIN Jakarta",
+    "alias_topik": [
+      "kuota UM-PTKIN",
+      "daya tampung UM PTKIN",
+      "kuota UM PTKIN UIN Jakarta"
+    ],
+    "search_text": "Judul: Kuota UM-PTKIN 2026 UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > KUOTA UM-PTKIN 2026\nAlias: kuota UM-PTKIN, daya tampung UM PTKIN, kuota UM PTKIN UIN Jakarta\nIntent: tanya_kuota, tanya_jalur\n\n## KUOTA UM-PTKIN 2026\n\nProgram Studi | Daya Tampung\nPendidikan Agama Islam | 159\nPendidikan Bahasa Arab | 69\nTadris Bahasa Inggris | 114\nTadris Biologi | 64\nTadris Fisika | 55\nManajemen Pendidikan | 129\nTadris Bahasa lndonesia | 94\nTadris IPS | 94\nPendidikan Guru Madrasah Ibtidaiyah | 114\nPendidikan Islam Anak Usia Dini | 104\nBahasa dan Sastra Arab | 115\nSejarah Peradaban Islam | 117\nTarjamah | 54\nStudi Agama Agama | 47\nIlmu Al-Qur`an dan Tafsir | 115\nIlmu Hadis | 70\nAqidah dan Filsafat Islam | 70\nIlmu Tasawuf | 47\nHukum Keluarga Islam (Ahwal Syakhshiyyah) | 120\nPerbandingan Mazhab | 92\nHukum Tata Negara (Siyasah) | 95\nHukum Pidana Islam (Jinayah) | 95\nHukum Ekonomi Syariah (Mua`malah) | 121\nKomunikasi dan Penyiaran Islam | 160\nBimbingan Penyuluhan Islam | 100\nDirasat Islamiyah | 115\nManajemen Dakwah | 120\nPengembangan Masyarakat Islam | 92\nPerbankan Syariah | 143\nEkonomi Syariah | 150",
+    "content": "## KUOTA UM-PTKIN 2026\n\nProgram Studi | Daya Tampung\nPendidikan Agama Islam | 159\nPendidikan Bahasa Arab | 69\nTadris Bahasa Inggris | 114\nTadris Biologi | 64\nTadris Fisika | 55\nManajemen Pendidikan | 129\nTadris Bahasa lndonesia | 94\nTadris IPS | 94\nPendidikan Guru Madrasah Ibtidaiyah | 114\nPendidikan Islam Anak Usia Dini | 104\nBahasa dan Sastra Arab | 115\nSejarah Peradaban Islam | 117\nTarjamah | 54\nStudi Agama Agama | 47\nIlmu Al-Qur`an dan Tafsir | 115\nIlmu Hadis | 70\nAqidah dan Filsafat Islam | 70\nIlmu Tasawuf | 47\nHukum Keluarga Islam (Ahwal Syakhshiyyah) | 120\nPerbandingan Mazhab | 92\nHukum Tata Negara (Siyasah) | 95\nHukum Pidana Islam (Jinayah) | 95\nHukum Ekonomi Syariah (Mua`malah) | 121\nKomunikasi dan Penyiaran Islam | 160\nBimbingan Penyuluhan Islam | 100\nDirasat Islamiyah | 115\nManajemen Dakwah | 120\nPengembangan Masyarakat Islam | 92\nPerbankan Syariah | 143\nEkonomi Syariah | 150"
+  },
+  {
+    "id": "cff8f478dcfe96a177b265f7da833e93",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## SPAN PTKIN",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > SPAN PTKIN",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Kuota SPAN PTKIN UIN Jakarta",
+    "alias_topik": [
+      "kuota SPAN PTKIN",
+      "daya tampung SPAN PTKIN"
+    ],
+    "search_text": "Judul: Kuota SPAN PTKIN UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > SPAN PTKIN\nAlias: kuota SPAN PTKIN, daya tampung SPAN PTKIN\nIntent: tanya_kuota, tanya_jalur\n\n## SPAN PTKIN\n\nKode Prodi | Nama Prodi | Kuota\n182001 | Pendidikan Agama Islam | 75\n182002 | Pendidikan Bahasa Arab | 50\n182003 | Tadris Bahasa Inggris | 50\n182004 | Tadris Biologi | 50\n182005 | Tadris Fisika | 40\n182006 | Manajemen Pendidikan | 50\n182007 | Tadris Bahasa lndonesia | 50\n182008 | Tadris IPS | 50\n182011 | Pendidikan Guru Madrasah Ibtidaiyah | 75\n182014 | Pendidikan Islam Anak Usia Dini | 40\n182016 | Bahasa dan Sastra Arab | 46\n182019 | Sejarah Peradaban Islam | 47\n182021 | Tarjamah | 24\n182022 | Studi Agama Agama | 28\n182025 | Ilmu Al-Qur`an dan Tafsir | 46\n182026 | Ilmu Hadis | 28\n182027 | Aqidah dan Filsafat Islam | 28\n182029 | Ilmu Tasawuf | 28\n182030 | Hukum Keluarga Islam (Ahwal Syakhshiyyah) | 50\n182031 | Perbandingan Mazhab | 55\n182035 | Hukum Tata Negara (Siyasah) | 40\n182036 | Hukum Pidana Islam (Jinayah) | 40\n182037 | Hukum Ekonomi Syariah ( Mua`malah) | 46\n182038 | Komunikasi dan Penyiaran Islam | 64\n182039 | Bimbingan Penyuluhan Islam | 40\n182040 | Dirasat Islamiyah | 46\n182041 | Manajemen Dakwah | 48\n182042 | Pengembangan Masyarakat Islam | 38\n182043 | Perbankan Syariah | 56\n182044 | Ekonomi Syariah | 60",
+    "content": "## SPAN PTKIN\n\nKode Prodi | Nama Prodi | Kuota\n182001 | Pendidikan Agama Islam | 75\n182002 | Pendidikan Bahasa Arab | 50\n182003 | Tadris Bahasa Inggris | 50\n182004 | Tadris Biologi | 50\n182005 | Tadris Fisika | 40\n182006 | Manajemen Pendidikan | 50\n182007 | Tadris Bahasa lndonesia | 50\n182008 | Tadris IPS | 50\n182011 | Pendidikan Guru Madrasah Ibtidaiyah | 75\n182014 | Pendidikan Islam Anak Usia Dini | 40\n182016 | Bahasa dan Sastra Arab | 46\n182019 | Sejarah Peradaban Islam | 47\n182021 | Tarjamah | 24\n182022 | Studi Agama Agama | 28\n182025 | Ilmu Al-Qur`an dan Tafsir | 46\n182026 | Ilmu Hadis | 28\n182027 | Aqidah dan Filsafat Islam | 28\n182029 | Ilmu Tasawuf | 28\n182030 | Hukum Keluarga Islam (Ahwal Syakhshiyyah) | 50\n182031 | Perbandingan Mazhab | 55\n182035 | Hukum Tata Negara (Siyasah) | 40\n182036 | Hukum Pidana Islam (Jinayah) | 40\n182037 | Hukum Ekonomi Syariah ( Mua`malah) | 46\n182038 | Komunikasi dan Penyiaran Islam | 64\n182039 | Bimbingan Penyuluhan Islam | 40\n182040 | Dirasat Islamiyah | 46\n182041 | Manajemen Dakwah | 48\n182042 | Pengembangan Masyarakat Islam | 38\n182043 | Perbankan Syariah | 56\n182044 | Ekonomi Syariah | 60"
+  },
+  {
+    "id": "f4309d50c27ce00ad43859c2672da549",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## DAYA TAMPUNG SNBP TAHUN 2026",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBP TAHUN 2026",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Daya Tampung SNBP Tahun 2026 UIN Jakarta",
+    "alias_topik": [
+      "kuota SNBP",
+      "daya tampung SNBP",
+      "SNBP UIN Jakarta"
+    ],
+    "search_text": "Judul: Daya Tampung SNBP Tahun 2026 UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBP TAHUN 2026\nAlias: kuota SNBP, daya tampung SNBP, SNBP UIN Jakarta\nIntent: tanya_kuota, tanya_jalur\n\n## DAYA TAMPUNG SNBP TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 31 | 258 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 31 | 741 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 37 | 644 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 31 | 106 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 31 | 181 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 37 | 124 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 28 | 66 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 37 | 571 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 31 | 891 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 31 | 822 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 31 | 673 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 50 | 140 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 50 | 52 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 25 | 330 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 40 | 683 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 32 | 390 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 36 | 380 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 40 | 410 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 37 | 250 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 39 | 351 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 52 | 1053 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 40 | 225 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 36 | 278 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 73 | 991 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 40 | 326 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 37 | 393 | Tidak Ada",
+    "content": "## DAYA TAMPUNG SNBP TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 31 | 258 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 31 | 741 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 37 | 644 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 31 | 106 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 31 | 181 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 37 | 124 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 28 | 66 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 37 | 571 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 31 | 891 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 31 | 822 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 31 | 673 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 50 | 140 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 50 | 52 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 25 | 330 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 40 | 683 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 32 | 390 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 36 | 380 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 40 | 410 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 37 | 250 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 39 | 351 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 52 | 1053 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 40 | 225 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 36 | 278 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 73 | 991 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 40 | 326 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 37 | 393 | Tidak Ada"
+  },
+  {
+    "id": "4a5f63ae44799d42d378670c55488c45",
+    "source_file": "kuota_span_umptkin_snbp_snbt_tagged.md",
+    "heading": "## DAYA TAMPUNG SNBT TAHUN 2026",
+    "parent_context": "KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBT TAHUN 2026",
+    "intents": [
+      "tanya_kuota",
+      "tanya_jalur"
+    ],
+    "topik": "Daya Tampung SNBT Tahun 2026 UIN Jakarta",
+    "alias_topik": [
+      "kuota SNBT",
+      "daya tampung SNBT",
+      "SNBT UIN Jakarta"
+    ],
+    "search_text": "Judul: Daya Tampung SNBT Tahun 2026 UIN Jakarta\nKonteks: KUOTA PENERIMAAN MAHASISWA BARU UIN JAKARTA 2026 > DAYA TAMPUNG SNBT TAHUN 2026\nAlias: kuota SNBT, daya tampung SNBT, SNBT UIN Jakarta\nIntent: tanya_kuota, tanya_jalur\n\n## DAYA TAMPUNG SNBT TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 77 | 409 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 77 | 842 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 92 | 817 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 77 | 129 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 77 | 220 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 62 | 121 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 47 | 71 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 92 | 883 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 77 | 869 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 77 | 707 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 78 | 1080 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 80 | 110 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 60 | 67 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 62 | 596 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 100 | 746 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 80 | 501 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 90 | 527 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 100 | 592 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 92 | 353 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 97 | 494 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 130 | 969 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 100 | 330 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 90 | 503 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 182 | 1343 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 100 | 494 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 92 | 510 | Tidak Ada",
+    "content": "## DAYA TAMPUNG SNBT TAHUN 2026\n\nNo | Kode | Nama | Jenjang | Daya Tampung 2026 | Peminat 2025 | Jenis Portofolio\n1 | 13221001 | SOSIAL EKONOMI PERTANIAN / AGRIBISNIS | Sarjana | 77 | 409 | Tidak Ada\n2 | 13221002 | TEKNIK INFORMATIKA | Sarjana | 77 | 842 | Tidak Ada\n3 | 13221003 | SISTEM INFORMASI | Sarjana | 92 | 817 | Tidak Ada\n4 | 13221004 | MATEMATIKA | Sarjana | 77 | 129 | Tidak Ada\n5 | 13221005 | BIOLOGI | Sarjana | 77 | 220 | Tidak Ada\n6 | 13221006 | KIMIA | Sarjana | 62 | 121 | Tidak Ada\n7 | 13221007 | FISIKA | Sarjana | 47 | 71 | Tidak Ada\n8 | 13221008 | KESEHATAN MASYARAKAT | Sarjana | 92 | 883 | Tidak Ada\n9 | 13221009 | FARMASI | Sarjana | 77 | 869 | Tidak Ada\n10 | 13221010 | ILMU KEPERAWATAN | Sarjana | 77 | 707 | Tidak Ada\n11 | 13221011 | PENDIDIKAN DOKTER | Sarjana | 78 | 1080 | Tidak Ada\n12 | 13221012 | PENDIDIKAN MATEMATIKA | Sarjana | 80 | 110 | Tidak Ada\n13 | 13221014 | PENDIDIKAN KIMIA | Sarjana | 60 | 67 | Tidak Ada\n14 | 13221016 | TEKNIK PERTAMBANGAN | Sarjana | 62 | 596 | Tidak Ada\n15 | 13221017 | AKUNTANSI | Sarjana | 100 | 746 | Tidak Ada\n16 | 13221020 | ILMU EKONOMI DAN STUDI PEMBANGUNAN | Sarjana | 80 | 501 | Tidak Ada\n17 | 13221021 | ILMU HUBUNGAN INTERNASIONAL | Sarjana | 90 | 527 | Tidak Ada\n18 | 13221022 | ILMU HUKUM | Sarjana | 100 | 592 | Tidak Ada\n19 | 13221023 | ILMU PERPUSTAKAAN | Sarjana | 92 | 353 | Tidak Ada\n20 | 13221025 | JURNALISTIK | Sarjana | 97 | 494 | Tidak Ada\n21 | 13221026 | MANAJEMEN | Sarjana | 130 | 969 | Tidak Ada\n22 | 13221028 | ILMU POLITIK | Sarjana | 100 | 330 | Tidak Ada\n23 | 13221030 | KESEJAHTERAAN SOSIAL | Sarjana | 90 | 503 | Tidak Ada\n24 | 13221031 | PSIKOLOGI | Sarjana | 182 | 1343 | Tidak Ada\n25 | 13221044 | SOSIOLOGI | Sarjana | 100 | 494 | Tidak Ada\n26 | 13221045 | BAHASA DAN SASTRA INGGRIS | Sarjana | 92 | 510 | Tidak Ada"
+  }
+]

@@ -1,0 +1,67 @@
+# Cara Bayar Pendaftaran S2 & S3
+
+---
+
+## 🏦 Bank BTN
+
+### 1. Melalui Teller Bank BTN
+
+1. Datang ke kantor cabang Bank BTN terdekat.
+2. Isi slip setoran dengan mencantumkan salah satu nomor berikut:
+   - **Kode Bayar SPMB Mandiri** *(bagi Calon Mahasiswa Pasca Sarjana dan Profesi)* — tertera setelah klik **Generate Kode Bayar** di [spmb.uinjkt.ac.id](https://spmb.uinjkt.ac.id)
+   - **Nomor Ujian** *(bagi yang lulus seleksi)* — tertera pada kartu ujian seleksi
+3. Bawa slip setoran ke Teller.
+4. Bayar sesuai jumlah yang ditentukan.
+
+---
+
+### 2. Melalui ATM Bank BTN
+
+1. Masukkan **Kartu ATM Bank BTN**
+2. Pilih **Bahasa Indonesia** → **Lanjutkan**
+3. Ketik **Nomor PIN ATM**
+4. Pilih **Transaksi Lainnya** → **Pembayaran** → **Multipayment** → **Pendidikan**
+5. Masukkan **Kode UIN Syarif Hidayatullah Jakarta** diikuti **nomor Kode Bayar / Nomor Ujian / NIM**
+6. Tekan **BENAR**
+7. Cek identitas dan jumlah pembayaran di layar, tekan **BENAR** jika sudah sesuai
+8. Bukti pembayaran akan tercetak jika transaksi berhasil
+
+---
+
+
+## 🏦 Bank Mega Syariah
+
+> Untuk semua metode di bawah, siapkan **Nomor Virtual Account (VA)** berisi salah satu:
+> - **Kode Bayar SPMB Mandiri** — tertera setelah klik **Generate Kode Bayar** di [spmb.uinjkt.ac.id](https://spmb.uinjkt.ac.id)
+> - **Nomor Ujian** *(hanya bagi yang lulus seleksi)* — tertera pada kartu ujian seleksi
+
+### 1. Melalui Teller Bank Mega Syariah
+
+1. Datang ke Teller **Bank Mega Syariah**
+2. Tunjukkan **Nomor Virtual Account** kepada petugas
+3. Petugas akan menginput data Nomor Virtual Account
+4. Informasikan nominal transaksi pembayaran
+5. Terima struk **Bukti Pembayaran**
+
+---
+
+### 2. Melalui ATM Bank Mega Syariah
+
+1. Input **PIN ATM**
+2. Pilih **Menu E-Payment** → **Layar Berikutnya**
+3. Pilih **Menu Virtual Account**
+4. Input **Nomor Virtual Account** *(contoh: `820800000000`)*
+5. Input **Nominal Pembayaran**
+6. Konfirmasi transaksi → Pilih **Bayar**
+7. Struk bukti bayar akan keluar
+
+---
+
+### 3. Melalui Aplikasi M-Syariah (Android & iOS)
+
+1. **Login** ke aplikasi **M-Syariah**
+2. Pilih menu **Pembayaran**
+3. Pilih menu **MS VA**
+4. Masukkan **ID Virtual Account**, simpan dan lanjutkan
+5. Masukkan **PIN Transaksi**
+6. Transaksi selesai — bukti pembayaran akan muncul di layar

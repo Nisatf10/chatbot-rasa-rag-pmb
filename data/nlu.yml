@@ -1,0 +1,2275 @@
+version: "3.1"
+
+
+nlu:
+- lookup: fakultas
+  examples: |
+    - Ilmu Tarbiyah dan Keguruan
+    - FITK
+    - Fakultas Ilmu Tarbiyah dan Keguruan
+    - Adab dan Humaniora
+    - FAH
+    - Fakultas Adab dan Humaniora
+    - Ushuluddin
+    - FU
+    - Fakultas Ushuluddin
+    - Syariah dan Hukum
+    - FSH
+    - Fakultas Syariah dan Hukum
+    - Dakwah dan Ilmu Komunikasi
+    - FDIKOM
+    - Fakultas Dakwah dan Ilmu Komunikasi
+    - Dirasat Islamiyah
+    - FDI
+    - Fakultas Dirasat Islamiyah
+    - Psikologi
+    - FPsi
+    - Fakultas Psikologi
+    - Ekonomi dan Bisnis
+    - FEB
+    - Fakultas Ekonomi dan Bisnis
+    - Sains dan Teknologi
+    - FST
+    - Fakultas Sains dan Teknologi
+    - Ilmu Kesehatan
+    - FIKES
+    - Fakultas Ilmu Kesehatan
+    - Ilmu Sosial dan Ilmu Politik
+    - FISIP
+    - Fakultas Ilmu Sosial dan Ilmu Politik
+    - Kedokteran
+    - FK
+    - Fakultas Kedokteran
+
+- lookup: prodi
+  examples: |
+    - Manajemen Pendidikan
+    - MP
+    - Pendidikan Agama Islam
+    - PAI
+    - Pendidikan Bahasa Arab
+    - PBA
+    - Pendidikan Guru Madrasah Ibtidaiyah
+    - PGMI
+    - Pendidikan Islam Anak Usia Dini
+    - PIAUD
+    - Pendidikan Matematika
+    - Tadris Bahasa Indonesia
+    - Pendidikan Bahasa Indonesia
+    - PBAI
+    - Tadris Bahasa Inggris
+    - Pendidikan Bahasa Inggris
+    - PBI
+    - Pendidikan Biologi
+    - Tadris Biologi
+    - Pendidikan Fisika
+    - Tadris Fisika
+    - Tadris Ilmu Pengetahuan Sosial
+    - Pendidikan Ilmu Pengetahuan Sosial
+    - Pendidikan IPS
+    - Tadris Kimia
+    - Pendidikan Kimia
+    - Bahasa Dan Sastra Arab
+    - BSA
+    - Ilmu Perpustakaan
+    - Sastra Inggris
+    - Sasing
+    - Sejarah Dan Peradaban Islam
+    - SPI
+    - Tarjamah
+    - Aqidah Dan Filsafat Islam
+    - Ilmu Al-Qur'an Dan Tafsir
+    - IAT
+    - Ilmu Hadis
+    - Ilmu Tasawuf
+    - Studi Agama Agama
+    - Hukum Ekonomi Syari'ah
+    - HES
+    - Mu'amalah
+    - Hukum Keluarga
+    - HK
+    - Akhwal Syaksiyah
+    - Hukum Pidana Islam
+    - HPI
+    - Hukum Tata Negara
+    - HTN
+    - Siyasah
+    - Ilmu Hukum
+    - Perbandingan Mazhab
+    - Bimbingan Penyuluhan Islam
+    - BPI
+    - Jurnalistik
+    - Kesejahteraan Sosial
+    - Kesos
+    - Komunikasi Penyiaran Islam
+    - KPI
+    - Manajemen Dakwah
+    - MD
+    - Pengembangan Masyarakat Islam
+    - PMI
+    - Dirasat Islamiyah
+    - Dirasat
+    - Psikologi
+    - Akuntansi
+    - Ekonomi Pembangunan
+    - Ekonomi Syariah
+    - Manajemen
+    - Perbankan Syariah
+    - Perbankan
+    - Agribisnis
+    - Agri
+    - Biologi
+    - Bio
+    - Fisika
+    - Kimia
+    - Matematika
+    - MTK
+    - Sistem Informasi
+    - SI
+    - Teknik Informatika
+    - TI
+    - Teknik Pertambangan
+    - Tambang
+    - Farmasi
+    - Keperawatan
+    - Kesehatan Masyarakat
+    - Kesmas
+    - Ilmu Hubungan Internasional
+    - HI
+    - Ilmu Politik
+    - ILPOL
+    - Sosiologi
+    - Pendidikan Dokter
+    - Kedokteran
+    - Magister Pendidikan Agama Islam
+    - S2 PAI
+    - Magister Pendidikan Bahasa Arab
+    - S2 PBA
+    - Magister Pendidikan Bahasa Inggris
+    - S2 PBI
+    - Magister Manajemen Pendidikan Islam
+    - S2 MPI
+    - Magister Bahasa Dan Sastra Arab
+    - S2 BSA
+    - Magister Sejarah Dan Kebudayaan Islam
+    - S2 SKI
+    - Magister Studi Agama-Agama
+    - S2 SAA
+    - Magister Aqidah Dan Filsafat Islam
+    - S2 AFI
+    - Magister Ilmu Al-Qur'an Dan Tafsir
+    - S2 IAT
+    - Magister Hukum Ekonomi Syariah
+    - S2 HES
+    - Magister Hukum Keluarga
+    - S2 HK
+    - S2 Ahwal Syakhsiyyah
+    - Magister Komunikasi Dan Penyiaran Islam
+    - S2 KPI
+    - Magister Manajemen Dakwah
+    - S2 MD
+    - Magister Dirasat Islamiyah
+    - S2 Dirasat
+    - Magister Agribisnis
+    - S2 Agribisnis
+    - Magister Teknologi Informasi
+    - S2 TI
+    - Magister Perbankan Syariah
+    - S2 Perbankan Syariah
+    - Magister Ekonomi Syariah
+    - S2 Ekonomi Syariah
+    - Magister Psikologi
+    - S2 Psikologi
+    - Magister Ilmu Politik
+    - S2 Ilmu Politik
+    - Magister Sosiologi
+    - S2 Sosiologi
+    - Magister Pengkajian Islam
+    - S2 Pengkajian Islam
+    - Magister Ilmu Biomedis
+    - S2 Ilmu Biomedis
+    - Doktor Pendidikan Agama Islam
+    - S3 PAI
+    - Doktor Perbankan Syariah
+    - S3 Perbankan Syariah
+    - Doktor Pengkajian Islam
+    - S3 Pengkajian Islam
+    - Doktor Komunikasi Dan Penyiaran Islam
+    - S3 KPI
+    - Doktor Ilmu Syariah
+    - S3 Ilmu Syariah
+    - Doktor Sejarah Peradaban Islam
+    - S3 SPI
+    - Profesi Dokter
+    - Pendidikan Profesi Dokter
+    - Koas
+    - Co-Ass
+    - Profesi Ners
+    - Ners
+    - Profesi Apoteker
+    - Apoteker
+    - PSPA
+    - Profesi Guru
+    - PPG
+    - spesialis obgyn
+    - spesialis Pulmonologi
+    - obgyn
+    - pulmonologi
+
+
+
+- lookup: jalur_seleksi_jenjang
+  examples: |
+    - SNBP
+    - Seleksi Nasional Berdasarkan Prestasi
+    - SNBT
+    - Seleksi Nasional Berdasarkan Tes
+    - SPAN
+    - SPAN-PTKIN
+    - span ptkin
+    - Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri
+    - UM-PTKIN
+    - umptkin
+    - Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri
+    - SPMB Mandiri
+    - Mandiri
+    - Jalur Mandiri
+    - SSE Luring
+    - SSE Offline
+    - SSE Daring
+    - SSE Online
+    - Prestasi
+    - Jalur Prestasi
+    - Tahfidz
+    - Alquran
+    - Quran
+    - Talent Scouting
+    - PKB
+    - Pemerataan Kesempatan Belajar
+    - BLU
+    - Beasiswa BLU
+    - Mandiri Nilai SNBT
+    - Mandiri Nilai UTBK
+    - UTBK
+    - Mandiri nilai UM-PTKIN
+    - S1
+    - sarjana
+    - S2
+    - magister
+    - pascasarjana
+    - S3
+    - doktor
+    - profesi
+    - spesialis
+
+
+- lookup: bank
+  examples: |
+    - BNI
+    - Bank BNI
+    - BRI
+    - Bank BRI
+    - BSI
+    - Bank Syariah Indonesia
+    - BTN
+    - Bank BTN
+    - Bank Mandiri
+    - Livin
+    - Livin Mandiri
+
+- lookup: jenis_biaya
+  examples: |
+    - ukt
+    - biaya persemester
+    - biaya kuliah
+    - biaya utbk
+    - biaya pendaftaran
+    - pendaftaran
+    - biaya martikulasi
+    - martikulasi
+    - biaya semester
+
+- lookup: jenis_beasiswa
+  examples: |
+    - KIP
+    - KIP Kuliah
+    - KIP-K
+    - KJMU
+    - Kartu Jakarta Mahasiswa Unggul
+    - tahfidz
+    - quran
+    - hafidz 30 juz
+    - Bangkit
+    - KSE
+    - Karya Salemba Empat
+    - BIB
+    - Beasiswa Indonesia Bangkit
+    - PBSB
+    - BLU
+    - Badan Layanan Umum
+    - Beasiswa Rektor
+    - beasiswa mahasiswa asing
+    - Baznas
+    - Djarum Plus
+    - Djarum Foundation
+    - BRIN
+    - LPDP
+    - YBM PLN
+    - Inotek
+    - BPI
+    - Beasiswa Pendidikan Indonesia
+
+- lookup: metode_pembayaran
+  examples: |
+    - transfer
+    - transfer antar bank
+    - teller
+    - mobile banking
+    - m banking
+    - online
+    - allpayment
+    - VA
+
+- synonym: biaya pendaftaran
+  examples: |
+    - pendaftaran
+    - biaya daftar
+    - biaya pendaftarann
+    - biaya pendaftran
+    - formulir
+
+- synonym: ukt
+  examples: |
+    - UKT
+    - ukt nya
+    - uang kuliah tunggal
+    - biaya semester
+    - biaya per semester
+
+- synonym: KIP Kuliah
+  examples: |
+    - KIP
+    - KIP-K
+    - kartu indonesia pintar kuliah
+    - beasiswa kip
+    - kip kuliah
+    - kip
+
+- synonym: KJMU
+  examples: |
+    - kartu jakarta mahasiswa unggul
+    - beasiswa jakarta
+    - beasiswa pemda dki
+    - beasiswa pemprov dki
+    - kjmu
+
+- synonym: KSE
+  examples: |
+    - karya salemba empat
+    - beasiswa kse
+    - salemba empat
+    - kse
+
+- synonym: BIB
+  examples: |
+    - beasiswa indonesia bangkit
+    - lpdp bib
+    - lpdp beasiswa indonesia bangkit
+    - bangkit scholarship
+
+- synonym: BLU
+  examples: |
+    - badan layanan umum
+    - beasiswa blu
+    - beasiswa internal uin
+    - beasiswa rektorat
+
+- synonym: BPI
+  examples: |
+    - beasiswa pendidikan indonesia
+    - bpi kemdikbud
+    - beasiswa kemendikbud
+
+- synonym: LPDP
+  examples: |
+    - lembaga pengelola dana pendidikan
+    - beasiswa lpdp
+    - lpdp scholarship
+
+- synonym: beasiswa tahfidz
+  examples: |
+    - tahfidz
+    - quran
+    - hafidz 30 juz
+    - hafidz quran
+    - penghafal quran
+    - beasiswa hafidz
+    - beasiswa quran
+
+- synonym: YBM PLN
+  examples: |
+    - ybm pln
+    - yayasan baitul maal pln
+    - beasiswa pln
+
+- synonym: BRIN
+  examples: |
+    - badan riset dan inovasi nasional
+    - beasiswa brin
+
+- synonym: Djarum Plus
+  examples: |
+    - djarum
+    - djarum foundation
+    - beasiswa djarum
+    - beswan djarum
+
+- synonym: beasiswa rektor
+  examples: |
+    - beasiswa mahasiswa asing
+    - blu mahasiswa asing
+    - beasiswa internasional uin
+
+- synonym: SNBP
+  examples: |
+    - SNBP
+    - snbp
+    - Snbp
+    - Seleksi Nasional Berdasarkan Prestasi
+    - seleksi nasional berdasarkan prestasi
+    - Seleksi nasional berdasarkan prestasi
+
+- synonym: SNBT
+  examples: |
+    - SNBT
+    - snbt
+    - Snbt
+    - Seleksi Nasional Berdasarkan Tes
+    - seleksi nasional berdasarkan tes
+    - Seleksi nasional berdasarkan tes
+
+- synonym: SPAN-PTKIN
+  examples: |
+    - SPAN
+    - span
+    - SPAN-PTKIN
+    - span-ptkin
+    - SPAN PTKIN
+    - span ptkin
+    - Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri
+    - seleksi prestasi akademik nasional perguruan tinggi keagamaan islam negeri
+
+- synonym: UM-PTKIN
+  examples: |
+    - UM-PTKIN
+    - um-ptkin
+    - UM PTKIN
+    - um ptkin
+    - UMPTKIN
+    - umptkin
+    - Ujian Masuk Perguruan Tinggi Keagamaan Islam Negeri
+    - ujian masuk perguruan tinggi keagamaan islam negeri
+
+- synonym: SPMB Mandiri
+  examples: |
+    - SPMB Mandiri
+    - spmb mandiri
+    - SPMB MANDIRI
+    - Mandiri
+    - mandiri
+    - Jalur Mandiri
+    - jalur mandiri
+
+- synonym: SSE Luring
+  examples: |
+    - SSE Luring
+    - sse luring
+    - SSE LURING
+    - SSE Offline
+    - sse offline
+    - SSE OFFLINE
+
+- synonym: SSE Daring
+  examples: |
+    - SSE Daring
+    - sse daring
+    - SSE DARING
+    - SSE Online
+    - sse online
+    - SSE ONLINE
+
+- synonym: Prestasi
+  examples: |
+    - Prestasi
+    - prestasi
+    - PRESTASI
+    - Jalur Prestasi
+    - jalur prestasi
+
+- synonym: Tahfidz
+  examples: |
+    - Tahfidz
+    - tahfidz
+    - TAHFIDZ
+    - Alquran
+    - alquran
+    - Al-Quran
+    - al-quran
+    - Quran
+    - quran
+
+- synonym: Talent Scouting
+  examples: |
+    - Talent Scouting
+    - talent scouting
+    - TALENT SCOUTING
+
+- synonym: PKB
+  examples: |
+    - PKB
+    - pkb
+    - Pkb
+    - Pemerataan Kesempatan Belajar
+    - pemerataan kesempatan belajar
+
+- synonym: BLU
+  examples: |
+    - BLU
+    - blu
+    - Blu
+    - Beasiswa BLU
+    - beasiswa blu
+
+- synonym: Mandiri Nilai SNBT
+  examples: |
+    - Mandiri Nilai SNBT
+    - mandiri nilai snbt
+    - MANDIRI NILAI SNBT
+    - Mandiri Nilai UTBK
+    - mandiri nilai utbk
+    - Mandiri nilai UTBK
+    - UTBK
+    - utbk
+
+- synonym: Mandiri Nilai UM-PTKIN
+  examples: |
+    - Mandiri Nilai UM-PTKIN
+    - mandiri nilai um-ptkin
+    - Mandiri nilai UM-PTKIN
+    - mandiri nilai um ptkin
+    - Mandiri Nilai UM PTKIN
+    - mandiri nilai umptkin
+
+- synonym: S1
+  examples: |
+    - S1
+    - s1
+    - Sarjana
+    - sarjana
+    - SARJANA
+
+- synonym: S2
+  examples: |
+    - S2
+    - s2
+    - Magister
+    - magister
+    - MAGISTER
+    - Pascasarjana
+    - pascasarjana
+
+- synonym: S3
+  examples: |
+    - S3
+    - s3
+    - Doktor
+    - doktor
+    - DOKTOR
+
+- synonym: Profesi
+  examples: |
+    - Profesi
+    - profesi
+    - PROFESI
+
+- synonym: Spesialis
+  examples: |
+    - Spesialis
+    - spesialis
+    - SPESIALIS
+
+
+
+- intent: sapaan
+  examples: |
+    - assalamualaikum
+    - Assalamu'alaikum warahmatullah
+    - Assalamualaikum warahmatullah wabarakatuh
+    - Assalamu'alaikum
+    - Halo
+    - permisi ka
+    - Selamat malam min
+    - halo kak
+    - selamat pagi min
+    - Assalamualaikum warahmatullahi warahmatullahi bapak ibu
+    - assalamu'alaikum min
+    - Assalamualaikum Bapak/Ibu
+    - Halo ka
+    - Assalamualaikum kak
+    - Selamat pagi
+    - Selamat siang
+    - Selamat Sore
+    - Assalamu'alaikum,
+    - Permisi kak
+    - assalamualaikum ka
+    - Assalamualaikum wr wb
+    - Assalamu'alaikum kak
+    - Assalamualaikum pak
+    - assalamualaikum kak,
+    - Permisi
+    - Selamat malam
+    - Selamat pagi ka
+    - Assalamualaikum, min
+    - Assalamualaikum wrwb..
+    - halo min
+    - hai ka selamat siang
+    - assalamualaikum warahmatullahi wabarakatuh
+    - assalamualaikum minwin
+    - halo ka selamat siang
+    - Halo UIN
+    - Assalamu'alaikum uin
+    - Assalamualaikum warahmatullahi wa barokatu, selamat malam
+    - Assalamualaikum malam kak
+    - assalamualaikum min
+    - Assalamualaikum selamat siang
+    - selamat malam
+    - Assalamu'alaikum izin bertanya
+    - assalamu'alaikum kak, mau tanya
+    - Assalamualaikum warrahmatullahi wabarakatuh
+    - assalamualaikum kaa
+    - assalamualaikum permisi minn
+    - Assalamualaikum wr.wb
+    - Assalamualaikum bapak
+    - Assalamualaikum, selamat siang kak...
+    - Assalamualaikum warahmatullahi wabarokaatuh bapak ibu
+    - min izin bertanya
+    - halo minwin
+    - Assalamualaikum Selamat pagi..
+    - Assalamualaikum warahmatullahi k
+    - waalaikumsalam wr wb, selamat pagi kak
+    - Assalamualaikum kak selamat pagi
+    - Assalamualaikum siang kak
+    - halo kak selamat siang
+    - Assalamu'alaikum kak Maaf mau tanyaaa
+    - Iyaa halo kak
+    - selamat siangg
+    - halo selamat siang
+    - Assalamualaikum kak, mau tanya lagi
+    - halo kaa
+    - Assalamu'alaikum, selamat siang
+    - Permisi min
+    - Mohon izin bertanya
+    - Assalamualaikum warahmatullahi wabarakatuh kak
+    - Izin bertanya kak
+    - Ass
+    - halo kaa
+    - assalamualaikum pak/buk
+    - Assalamu'alaikum, Selamat pagi. Mohon maaf mengganggu waktunya. Saya ingin bertanya.
+    - haloo selamat siang
+    - Hai min
+    - Selamat pagi kak
+    - assalamu'alaikum minn, izin bertanyaa
+    - Assalamualaikum, selamat pagi
+    - Assalamualaikum, selamat siang
+    - Selamat pagi, Pak/Bu
+    - Assalamu'alaikum Bpk, Ibu
+    - Asslamualikum min, izin bertanya
+    - assalamualaikum maaf izin bertanya
+    - ka izin bertanya
+    - halo kak indra
+    - assalamu'alaikum min
+    - Asalamualaikum, selamat siang Bpk/Ibu
+    - hai
+    - halo min 
+    - Assalamualaikum permisi min maaf izin bertanya
+    - Assalamu'alaikum selamat siang mba
+    - Permisi
+    - pagi min, assalamu'alaikum
+    - permisi, assalamu'alaikum, izin bertanya boleh??
+    - Halo kak selamat pagi
+    - Assalamu'alaikum.. maaf ijin bertanya
+    - Assalamu'alaikum UIN Jakarta
+    - selamat malam, mau bertanya
+    - Assalammualikum... Selamat siang
+    - Assalamualaikum halo kak
+    - Selamat siang kak
+    - Halo?
+    - Assalamualaikum ka permisi aku mau tanya
+    - Assalamualaikum kak boleh bertanya
+    - hallo ka, izin bertanya tentang PMB uin
+    - Assalamualaikum min mau tanya tanya tentang PMB
+    - halo selamat pagi, saya mau tanya dongg
+    - Assalamualaikum adminn. bolehkah saya tanya tanya seputar UIN jakarta
+
+- intent: ucapan_terimakasih
+  examples: |
+    - Ouh iya kak terimakasih atas informasinya
+    - terimakasih kak
+    - Cukup. Terima kasih
+    - Mohon maaf yang seikhlas - ikhlas Nya. Maaf' intermezo. ok. Terima kasih
+    - Terimakasih atas infonya kak
+    - Oke baik terimakasih kak atas informasinya
+    - sudah terimakasih
+    - Baik kak, terima kasih
+    - terima kasih kak
+    - Makasih banyak kak
+    - oke, terima kasih min
+    - oke terima kasih
+    - Baik, terimakasih atas informasinya
+    - Oke baik ka, terimakasih
+    - Terima kasih
+    - Baik terima kasih infonya
+    - Baik terima kasih
+    - Oke deh ka terimakasih
+    - oke terima kasih ya infonya
+    - Oke deh ka makasih
+    - Baik bpk/ibu terima kasih
+    - Terima kasih bpk/ibu infonya
+    - Bismillah aamiin ya rabbal alamin kak terima kasih
+    - terimakasih ka informasinya
+    - Baik kak. Terimakasih ya
+    - Makasih ka
+    - Terimakasih atas informasi nya min
+    - Terimakasih kak, atas info nya
+    - Terimakasih ka
+    - Ok terimakasih ka
+    - terimakasih...
+    - Baik ka terima kasih
+    - Baik. Terimakasih
+    - Baik Terimakasih
+    - Terimakasih
+    - ya sama makasih juga infonya
+    - terimakasihh
+    - iya kak terimakasih banyak
+    - Terima kasih infonya kak
+    - okey min makasih informasinya
+    - Baik kak trimakasih
+    - baik min terimakasih banyak informasinya
+    - sudah cukup makasih
+    - Terimakasih sebelumnya
+    - Baik kak terimakasih infonya,saya coba baca dan pahami dlu
+    - baik terimakasih ka
+    - Owh gitu makasih yaa pak informasinya
+    - terimakasih ka infonya
+    - Baik kak terimakasih atas informasinya
+    - tidak ka terima kasih
+    - oala begitu ya ka, baik terimakasih informasinya ka
+    - Baik terimakasih infonya
+    - okee kak, terima kasih ya kak atas informasinyaaa
+    - Oke kak makasih
+    - Baik trimakasih
+    - Makasih bg
+    - Baik Pak Indra, terimakasih
+    - Alhamdulillah baik Pak Indra, saya coba kembali, terimakasih
+    - Baik terima kasih Pak
+    - Waalaikumsalam warrahmatullahi Tidak ada ya Pak, Terimakasih
+    - Tidak ada ka terima kasih
+    - baik kak, terima kasih banyak atas bantuannya 
+    - baik terimakasih informasinya
+    - Baik kak terimakasih
+    - baik kak, sudah bisa terima kasih banyak atas bantuannya ya kak
+    - Terimakasih
+    - Baik kak terima kasih banyak informasinya
+    - makasih bantuannya 
+    - Siap ka terimakasih
+    - Baik, terimakasih banyak ya kak
+    - Makasih banyak kaa
+    - Terimakasih solusinya
+    - Oh iya kak terimakasih kak.
+    - Siap kak, terimakasih atas bantuannya
+    - iyaa kak terima kasih kak
+    - Siap pak indra makasih
+    - Ok kak, akan kami coba. Terima kasih
+    - baik kak terima kasih kak yaa
+    - oiya,maaf ya ka... terima kasih bantuannya
+    - Makasih banyak ya kaa
+    - Sdh kak terimakasih banyak
+    - baik kak terima kasih banyak
+    - Baik kak, saya tunggu informasinya. Terima kasih banyak
+    - Baik terimakasih atas info nya
+    - Siap makasih informasinya pak Indra
+    - Baik terimakasih kak
+    - Baik kak. Terima kasih banyak
+    - Makasih kak
+    - Oke baik kak terimakasih atas informasinya
+    - Baik kak terima kasih informasinya
+    - owlaa oke deh ka, terimakasih ya
+    - oke ka makasih
+    - baik terima kasih kak 
+    - Oke ka makasih ya ka
+    - oke baik ka,terima kasih
+    - Terima kasih ya kaa
+    - Baik, terima kasih
+    - Baik terimakasih
+    - Baik, terimakasih atas informasinya
+    - Baik kak, terima kasih infonya
+    - baik terima kasih banyak
+    - oke ka terimakasih
+    - terimakasih ya ka sudah membantu
+    - terimakasih ya ka
+    - baik kak, terima kasih ya kak
+    - baik kak, akan di cek terlebih dahulu, terima kasih kak bantuannya
+    - oke kak, terimakasih
+    - iya kak terimakasih
+    - baik kaa terimakasih ya kaa
+    - Baik ka terimakasih
+    - Baik, terimakasih bantuannya
+    - baik, sudah kak, terimakasih banyak kak atas arahan yg di berikan
+    - oowwhh iya KA makasih
+    - iya kaa, terimakasih
+    - ohh baik kak kalau begitu, terima kasih banyak atas informasi nya
+    - terimakasih banyak mas
+    - Baik kak terima kasih
+    - oke baik terimakasih infonya ya kaa
+    - ok kaka terima kasih
+    - Terima kasih atas informasinya
+    - iya terima kasih
+    - Owh makasih
+    - Terima kasih banyak ya kakak
+    - baik, terimakasih informasinya kak
+    - Iyh terimakasih kak
+    - terimakasih min win
+    - Oke ka. Terimakasih infonya ya
+    - Oke kak makasihh
+    - baik kak, terimakasih banyak kak
+    - Baik terima kasih ya
+    - Terima kasih responnya kak indra
+    - Oke baik trimakasih
+    - Baik ka saya coba. Terima kasih info nya
+    - Okai ka terimakasih
+    - Waalaikumussalam Warahmatullahi Wabarakatuh.. baik min, terima kasih banyak
+    - terimakasih min
+    - baik kak terimakasih atas informasi dan waktunya
+    - aamiin kak terimakasih infonya
+    - Oke siap, makasih min
+    - Terimakasih kak atas informasi nya 
+    - Terimakasih yaa
+    - Baik Terimakasih banyak sudah membantu
+    - baik kak, terima kasih banyak
+    - Oke, terimakasih
+    - Baik .. terima kasih banyak sudah dibantu
+    - Baik kah terima kasih
+    - Terima kasih
+    - Baik terimakasih min
+    - baik min terimakasih
+    - oke baik. terimakasih
+    - okee kak makasih
+    - Baik Terimakasih
+    - Baik kak, terima kasih sebelumnya
+    - Baik ka, terimakasih 
+    - okeyy baik kak trimakasih sebelumbyaa
+    - Owalah baik kak terimakasih informasinya!
+    - Untuk saat ini cukup, terimakasih
+    - Oke kak terimakasih
+    - Terimakasih ya kak
+    - Baik terimakasih pak
+    - Baik terimakasih infonya pa
+    - Alhamdulillah tidak ka, smua sudah terjawab, terimakasih
+    - Baik, terima kasih
+
+- intent: tanya_biaya
+  examples: |
+    - maaf mau tanya teruntuk biaya [ukt](jenis_biaya) prodi [pendidikan bahasa Inggris](prodi)
+    - assalamualaikum saya ingin menanyakan mengenai kampus UIN tentang masalah biayaya
+    - Biayanya berapa kak
+    - mau tanya pembayaran [biaya utbk](jenis_biaya) nya brpa ya ka
+    - Assalamu'alaikum. Apakah benar ada [biaya kuliah](jenis_biaya), [ukt](jenis_biaya) nya 400000 per semester di UIN Jakarta
+    - waallaikumssallam wr wb Perkenalkan nama saya tuti calon peserta [umptkin](jalur_seleksi_jenjang) 2026 izin mau bertanya terkait [ukt](jenis_biaya) jika lulus tes [umptkin](jalur_seleksi_jenjang) di uin jkt dan mengambil jurusan [tadris ips](prodi) kira kira ukt nya brpa ya kak?
+    - Utk biaya [ukt](jenis_biaya) gmn yaa min
+    - untuk biaya [ukt](jenis_biaya) jurusan [keperawatan](prodi) di UIN per semester nya berapaa ya min ?
+    - untuk [ukt](jenis_biaya) [mandiri](jalur_seleksi_jenjang) [kedokteran](prodi) berapa ya biayanya?
+    - Mau info tentang jurusan [kedokteran](prodi) dan biaya nya
+    - Dan untuk biaya nya
+    - berapa biaya [mandiri](jalur_seleksi_jenjang) jurusan [farmasi](prodi) kak?
+    - Kak mau info jurusan [sastra Inggris](prodi) dan biaya dong, terimakasih
+    - Mau bertanya tentang [biaya kuliah](jenis_biaya)
+    - Kok ini biayanya ada kelompok 1, 2 itu gimna mksdnya
+    - [Biaya kuliah](jenis_biaya) dan maksud dari Paket D itu apa?
+    - Kalo biyaya [UKT](jenis_biaya) yang terbaru ada kah ka
+    - untuk biayanya kira kira berapa ya kak?
+    - kira kira itu biayanya berapa ya kak?
+    - gimna kak untuk biayanya
+    - kak, mau nanya [ukt](jenis_biaya) gol 4-6 prodi [hukum keuarga](prodi)
+    - Saya ingin sedikit bertanya terkait [biaya kuliah](jenis_biaya) di uin
+    - Apakah jurusan [keperawatan](prodi) UIN Jakarta ada [uang pangkal](jenis_biaya) selain [UKT](jenis_biaya)?
+    - Boleh rincian biaya untuk fakultas [keperawatan](prodi)
+    - Kl biaya masuk [mandiri](jalur_seleksi_jenjang) jurusan [agribisnis](prodi) berapa? Sama [ukt](jenis_biaya) nya berapa??
+    - maaf kq untuk jurusan [tarbiyah](prodi) biaya semesternya berap y ka?
+    - Untuk biaya [UKT](jenis_biaya) nya berpa ya ka setiap jurusan?
+    - Mau tanya perihal biaya per [ukt](jenis_biaya) nya
+    - Mau bertanya tentang [UKT](jenis_biaya) di UIN Syarif Hidayatullah
+    - Maaf untuk [biaya kuliah](jenis_biaya) berapa ya kak S1 [Pendidikan Bahasa Inggris](prodi)
+    - kak untuk [biaya kuliah](jenis_biaya) di uin syarif Hidayatullah itu berapa ya kak
+    - Apakah [UMPTKIN](jalur_seleksi_jenjang) itu berbayar? Berapa biayanya?
+    - Aku pingin tau [biaya kuliah](jenis_biaya) nya gimana gitu kak
+    - boleh minta rinciannya kak?, [uang sumbangan](jenis_biaya) dan [ukt](jenis_biaya) dll... utk fakultas [kedokteran](prodi)
+    - jadi hanya [ukt](jenis_biaya) saja ya dan [biaya pendaftaran](jenis_biaya)?
+    - Apakah harus bayar [formulir](jenis_biaya)?
+    - Yang jurusan [kedokteran](prodi) kak. kalau biaya lainya seperti [pendaftaran](jenis_biaya) berapa
+    - Apakah boleh diupayakan agar biaya [ukt](jenis_biaya) nya hanya 400000 persemester dan [pendaftaran](jenis_biaya) nya yang 200000. buat anak saya yang mau kuliah
+    - Baik kak, untuk [biaya pendaftaran](jenis_biaya) dan persemesternya berapa?
+    - Assalamu'alaikum, kakak izin bertanya maaf mengganggu waktu nya malam ini. Buat [biaya pendaftaran](jenis_biaya) lewat [Span-PTKIN](jalur_seleksi_jenjang) dari sekolah MAN itu berapa ya kak
+    - Kalau boleh tau [biaya pendaftaran](jenis_biaya) nya berapa ka
+    - Mau nanya, apakah untuk [UM PTKIN](jalur_seleksi_jenjang) ini ada [biaya pendaftaran](jenis_biaya)?
+    - Assalamu'alaikum min, mau tanya terkait [biaya pendaftaran](jenis_biaya) [SMPB MANDIRI](jalur_seleksi_jenjang) taun ini berapa ya min??
+    - biaya di UIN cuman bayar [ukt](jenis_biaya) sama [pendaftaran](jenis_biaya) aja kah kak? atau ada yang lain?
+    - untuk [biaya pendaftaran](jenis_biaya) [umptkin](jalur_seleksi_jenjang) brp ka?
+    - gimana cara mengetahui [ukt tunggal](jenis_biaya) di uin
+    - saya mau tanya mengenai biaya jalur [mandiri](jalur_seleksi_jenjang) uin jakarta
+    - saya mau tau mengenai biaya jalur [mandiri](jalur_seleksi_jenjang) uin jakarta untuk prodi [KPI](prodi)
+    - waalaikumsalam, makasi ya kak, aku mu nanya kan ada jalur [mandiri reguler](jalur_seleksi_jenjang) ya, itu [ukt](jenis_biaya) nya bakal lebi tinggi gaa kira kiraa dari jalur yang lain?
+    - ka indra saya mau tanya mengenai biaya [pendaftaran](jenis_biaya) jalur [mandiri reguler](jalur_seleksi_jenjang) kak
+    - berapa UKT [Sistem Informasi](prodi)
+    - UKT [Sistem Informasi](prodi)
+    - ukt prodi [Sistem Informasi](prodi)
+    - biaya UKT [Sistem Informasi](prodi)
+    - biaya kuliah [Sistem Informasi](prodi)
+    - UKT jurusan [Sistem Informasi](prodi)
+    - berapa UKT [Kedokteran](prodi)
+
+- intent: tanya_beasiswa
+  examples: |
+    - buat pengajuan beasiswa min
+    - assalamu'alaikum kak, izin bertanya perihal beasiswa yg di sediakan oleh UIN jakarta apa saja ya?
+    - apakah ada informasi mengenai beasiswa di UIN ini ya?
+    - Apakah ditahun ini masih ada beasiswa nya
+    - Tp ada beasiswa apa aja
+    - Ada beasiswa gk kak
+    - apakah ada beasiswa sampai [s1](jalur_seleksi_jenjang) kak?
+    - beasiswa
+    - mengenai beasiswa kak
+    - Apakah boleh bertanya tentang beasiswa?
+    - Apakah uin jakarta menyediaakan beasiswa?
+    - Oh ya kak makasih, kalau boleh tau apa saja ya beasiswa nya
+    - saya mau tanya terkait beasiswa untuk lulusan pondok pesantren kak, apakah bisa diarahkan?
+    - Beasiswa gaada?
+    - oya kalau untuk beasiswa bgmn ya pak
+    - info beasiswa
+    - Kk di UIN jakarta ada beasiswa gk kk, beasiswa ap aj
+    - Tentang besiswa
+    - ada beasiswa apa aja di uin
+    - info beasiswa dong
+    - daftar beasiswa di uin apa aja
+    - beasiswa apa saja yang tersedia
+    - jenis beasiswa di uin apa saja
+    - beasiswa yang ada di uin jakarta apa aja
+    - info beasiswa
+    - ada beasiswa apa aja
+    - beasiswa apa saja yang tersedia
+    - daftar beasiswa
+    - mengenai beasiswa
+    - tentang beasiswa
+    - apakah ada beasiswa
+    - saya mau tnya min apakah bnar uin nerima [kjmu](jenis_beasiswa)?
+    - saya mau tnya min apakah uin nerima [kjmu](jenis_beasiswa)?
+    - kalo untuk [kip](jenis_beasiswa) gimana yah ka prosesnya
+    - saya ini menanyakan tentang [KIP KULIAH](jenis_beasiswa)
+    - Kak, mau nanya dong, [Beasiswa Bangkit](jenis_beasiswa) itu ada di UIN Jakarta nggak ya?
+    - Maaf saya ingin bertanya apakah d uin ada beasiswa untuk mahasiswa yg [hafidz 30juz](jenis_beasiswa)
+    - Apakah ada beasiswa untuk lulusan [manpk](jenis_beasiswa)?
+    - Kak, kalau [KIP](jenis_beasiswa) itu daftarnya gimana ya?
+    - Permisi kak mau nanya tentang [beasiswa kse](jenis_beasiswa)?
+    - kak disana [beasiswa quran](jenis_beasiswa) minimal berapa juz?
+    - disana [beasiswa quran](jenis_beasiswa) minimal brapa juz ka
+    - Saya maunya [beasiswa full](jenis_beasiswa)
+    - Salam min.. Uin jkt ada penerimaan [beasiswa BIB](jenis_beasiswa) tidak ya?
+    - Saya mau nanya ad [beasiswa kip](jenis_beasiswa)?
+    - info beasiswa lewat [tahfidz](jenis_beasiswa) belum mengerti saya?
+    - Maaf mau tanya terkait [beasiswa tahfidz](jenis_beasiswa) gimna kak?
+    - Apakah ada [beasiswa tahfidz](jenis_beasiswa)
+    - Disini ada [beasiswa tahfidz](jenis_beasiswa)?
+    - Ada beasiswa untuk [tahfidz](jenis_beasiswa) nggk
+    - Klo [beasiswa program santri berprestasi PBSB](jenis_beasiswa) ada gak kak
+    - Mau sedikit bertanya tntng [beasiswa tahfidz](jenis_beasiswa) yg ada d uin syarief
+    - Maaf. Bagaimana caranya mengajukan [beasiswa KIP-K](jenis_beasiswa) untuk kuliah [S1](jalur_seleksi_jenjang)
+    - Malam min, maaf mengganggu izin bertanya, untuk daftar [spmb mandiri](jalur_seleksi_jenjang) menggunakan [kip](jenis_beasiswa) apakah bisa?
+    - Kalau buat daftar [KIP](jenis_beasiswa) itu gimna caranya yah KA?
+    - [Beasiswa BLU](jenis_beasiswa) itu untuk prodi apa kak?
+    - [beasiswa BLU](jenis_beasiswa) berlaku bagi jurusan [sejarah](prodi) kak?
+    - Selain [BLU](jenis_beasiswa) apakah ada lagi kak?
+    - Assalamualaikum min saya mau nanya ada informasi lengkap mengenai [BLU](jenis_beasiswa)
+    - apakah bisa beasfk [Tahfiz](jenis_beasiswa)?
+    - Dan [kse](jenis_beasiswa) tu apa?
+
+- intent: cara_bayar
+  examples: |
+    - kami sudah coba berkali untuk [mentransfer](metode_pembayaran) melalui lyvin [mandiri](bank) namun nomer rekening [bni](bank) tersebut tidak ada, jadi caranya bagaimana?
+    - Mau bayar [UKT](jenis_biaya) ke [teller](metode_pembayaran) gmn cara nya
+    - Assalamualaikum, saya dg Pak Nurjani, mhn infonya untuk informasi pembayaran [UKT](jenis_biaya) mahasiswa baru yg lolos [SNBP 2026](jalur_seleksi_jenjang) dapat dibayarkan ke rekening mana ya?
+    - untuk no rekening nya di bagian mana ya?
+    - iya seumpama saya bayar lewat keuangan bisa?
+    - Tpi mau bayar via [online](metode_pembayaran) kemana ya?
+    - Atau no [VA](metode_pembayaran) untuk saya bayar lewat bank lain
+    - cara pembayaran nya gimana ya
+    - Cara pembayaran [UKT](jenis_biaya) bagaimana ya kak?
+    - Mohon info utk pembayaran via [teller](metode_pembayaran) [bsi](bank) kak
+    - Saya mau tanya untuk pembayaran [ukt](jenis_biaya) maba pertama kali via [tfr antar bank](metode_pembayaran)
+    - Apakah lewat bank mana
+    - untuk [transfer](metode_pembayaran) [mandiri](bank) uin lewat bank [bni](bank) itu kode uin nya 8004 bener gak ya
+    - Saya mau tanya tentang cara pembayaran [UKT](jenis_biaya) yang lulus [snbp](jalur_seleksi_jenjang)?
+    - KAK UNTUK pembayaran mandiiri bisa dri [mmbanking](metode_pembayaran) [bca](bank) ga
+    - Lalu untuk selamnjutnya kami cara bayar bagaimana ya
+    - misi cara bayar jya gmna kak?
+    - tentang pembayaran [ukt](jenis_biaya) [SNBP 2026](jalur_seleksi_jenjang), izin bertanya untuk pembayaran nya dimana ya? Apakah di web atau langsung ke bank? Dan nomor rekening nya ada di mana?
+    - Kak apakah biyaya [pendaftaran](jenis_biaya) itu harus di kirim lewat bank [mandiri](bank)
+    - Apakah pembayaran [pendaftaran](jenis_biaya) bisa lewat bank [BRI](bank)
+    - kaloo untuk pembayaran [ukt](jenis_biaya) di bagian keuangan pusat bisa?
+    - Mohon informasi rekening atau virtual account untuk pembayaran [pendaftaran] (jenis_biaya).
+    - untuk pembayaran [ukt](jenis_biaya) bisa [allpayment](metode_pembayaran) ka?
+    - Pembayaran [UKT](jenis_biaya) mahasiswa baru kpn dan kemana y pak/bu?
+    - bisa [transfer](metode_pembayaran) tanpa hrs kesana lg gak?
+    - Cara membayar kak
+    - Untuk pembayaran [ukt](jenis_biaya) nya caranya gimna ya kak
+    - Cara untuk pembayaran [ukt](jenis_biaya) nya gimna ya kak
+    - untuk pembayan [ukt](jenis_biaya) maba itu pake NIM ya??
+    - Saya ingin bayar [ukt](jenis_biaya) ke kampus bgmn ya info di lt 3
+    - informasi tentang petunjuk pembayaran
+    - Untuk pembayaran [UKT](jenis_biaya) tranfer kemana ya kak
+    - Cara utk bayar [ukt](jenis_biaya) gmn min?
+    - saya camaba UIN Jakarta. jika saya ingin membayar [ukt](jenis_biaya) menggunakan nomor apa ya? dikarenakan belum mendapat NIM. terima kasih
+    - Mau bayar [ukt](jenis_biaya) gimana caranya
+    - Untuk pembayarannya [UKT](jenis_biaya) [snbp](jalur_seleksi_jenjang) cara gimana ya Pak
+    - dan utk pembayaran [ukt](jenis_biaya) bisa [trf](metode_pembayaran) kemana ya?
+    - untuk pembayaran [UKT](jenis_biaya) dimana yaa
+    - saya ada kesulitan untuk bayar [UKT](jenis_biaya) anak saya...
+    - apa bisa di bantu untuk panduan nya kak..
+    - Kalo Mau pembayaran [UKT](jenis_biaya) mahasiswa baru ke mana ya ka
+    - Kalau mau bayar [UKT](jenis_biaya) kemana yaa kak?
+    - untuk pembayaran [ukt](jenis_biaya) maba itu pake NIM ya??
+    - Mau tanya pembayaran [ukt](jenis_biaya) lewat mana ya untuk mahasiswa baru
+    - kalo mau pembayaran [ukt](jenis_biaya), tahapan nya gimana ya
+    - Bagaimana cara melakukan pembayaran biaya [pendaftaran] (jenis_biaya)?
+    - buat bayar [pendaftaran](jenis_biaya) nya bisa lewat mana aja ya ka?
+    - Untuk pembayaran [pendaftaran](jenis_biaya) lewat mana ya
+
+- intent: daftar_ulang
+  examples: |
+    - sy mau menanyakan login untuk daftar ulang
+    - Kalau mau liat nomor pendaftaran buat daftar ulang gimana min
+    - Mengisi untuk daftar ulang [span](jalur_seleksi_jenjang) kak
+    - Saya ingin daftar ulang
+    - halo kak selamat pagi, saya ingin bertanya soal daftar ulang
+    - maaf kak jika saya lupa cetak bukti daftar ulang apa yang harus saya lakukan yaa
+    - tapi pas mau daftar ulang ga bisa fasword salah ka
+    - Daftar ulang nya dateng langsung ke sana apa lewat online
+    - Assalamualaikum selamat siang ka, izin bertanya mengenai daftar ulang
+    - Izin bertanya mengenai daftar ulang kaa
+    - Ka alhamdulillah saya sudah daftar ulang
+    - iya mas daftar ulang [spanptkin](jalur_seleksi_jenjang)
+    - daftar ulang kak
+    - ada gak ya kak daftar ulang nya lagi? soalnya tinggal konfirm
+    - Kak kan saya sudah daftar [ptkin](jalur_seleksi_jenjang) itu klo semisal lolos daftar ulang nya harus datang ke kampus apa bisa online kak?
+    - Waalaikumsalam Wr. Wb. Maaf sebelumnya kak mau bertanya tentang kalo semisal saya lolos [ptkin](jalur_seleksi_jenjang) apakah daftar ulang nya harus ke kampus atau bisa menggunakan via online?
+    - Baik ka terimakasih ka, kalo daftar ulang itu lihatnya dari UKT kah ka apa beda ka
+    - Saya mau tanya mengenai daftar ulang [SPAN PTKIN](jalur_seleksi_jenjang)
+    - Dan bagaimana cara daftar ulang nya
+    - Saya mau daftar ulang bagaimana caranya
+    - Izin bapak/ibu, mau bertanya regulasi daftar ulang [SPAN](jalur_seleksi_jenjang)
+    - Info tentang registrasi daftar ulang
+    - terkait daftar ulang gimana kak
+    - cara daftar ulang setelah keterima [span ptkin](jalur_seleksi_jenjang) gimana
+    - Halo, mau tanya untuk daftar ulang [span ptkin](jalur_seleksi_jenjang)
+    - halo cara daftar ulang [span ptkin](jalur_seleksi_jenjang) gmn
+    - Assalamualaikum min untuk daftar ulang yg lolos [span](jalur_seleksi_jenjang) gmn ya
+    - Min boleh bertanya gimana cara daftar ulang bagi peserta yang sudah lulus [spanptkin](jalur_seleksi_jenjang) gimana ya min? No pendaftaran nya dari diambil min?
+    - Web yg untuk daftar ulang kak?
+    - Assalamualaikum ka minta info daftar ulang
+    - Saya kan di terima di uin jkt jalur [spanptkin](jalur_seleksi_jenjang) nah saya mau daftar ulang, tpi caranya gimana ya
+    - aku mau daftar ulang, no pendaftaran nya tuh yg mana ya kak
+    - Maaf saya mau daftar ulang anak saya diterima melalui [SPAN PTKIN](jalur_seleksi_jenjang). Ambil formulirnya dimana pak
+    - Assalamualaikum maaf ganggu mimin saya mau daftar ulang jalur [span ptkin](jalur_seleksi_jenjang) jurusan [ekonomi syariah](prodi) gimana yah min daftar nya
+    - waalaikumussalam wr wb, saya ingin bertanya terkait daftar ulang
+    - Assalamualaikum ka permisi saya izin ingin bertanya mengenai tata cara daftar ulang di UIN jakarta prodi [hukum ekonomi syariah](prodi) ([muamalah](prodi)) gimana ya ka?
+    - Ingin menanyakan tentang daftar ulang bagi yang lolos [span ptkin](jalur_seleksi_jenjang)
+    - Assalamualaikum pak/bu mau nanya ini cara daftar ulang untuk [snbp](jalur_seleksi_jenjang) nya bagaimana ya?
+    - assalamu'alaikum, bapak/ibu saya mau tanya kalau untuk daftar ulang jalur [SNBP](jalur_seleksi_jenjang) gimana
+    - untuk daftar ulang bagaimana caranya?
+    - saya sudah daftar ulang, bagaimana langkah selanjutnya
+    - Min mau nanya untuk daftar ulang nya [span ptkin](jalur_seleksi_jenjang) gimana teknis nya
+    - Izin bertanya, untuk mahasiswa baru daftar ulang nya bagaimana ya?
+    - saya ingin daftar ulang di uin syarif tapi bagaimana cara mendapatkan no peserta nya
+    - maaf ka saya mau daftar ulang buat jalur [span](jalur_seleksi_jenjang) / [ptkin](jalur_seleksi_jenjang) gimana uaa
+    - Selamat pagi izin bertanya soal daftar ulang [SPAN PTKIN](jalur_seleksi_jenjang) apa bisa?
+    - Cara daftar ulang nya ka? Gimana?
+    - Bagaimana cara daftar ulang mahasiswa baru jalur [SNBP](jalur_seleksi_jenjang) kak?
+    - Saya mau nanya tentang daftar ulang kak
+    - info untuk daftar ulang min
+    - assalamulaiakum saya mau tanya soal daftar ulang
+
+- intent: tanya_jadwal
+  examples: |
+    - kalo daftar ulang [span ptkin](jalur_seleksi_jenjang) terakhirnya jam berapa ya min?
+    - Sekarang terakhir daftar ulang gapapa kak?
+    - ka terakhir daftar ulang beneran hari ini?
+    - assalamualaikum kak, boleh aku tau kapn terakhir daftar ulang, dan bayar [ukt](jenis_biaya) soalnya informasi kaya gitu gitu aku cari ga ketemu ketemu kak
+    - mau tanya untuk daftar ulang [SPAN PTKIN](jalur_seleksi_jenjang) itu dimulai tanggan berapa ya?
+    - Untuk mulai pendaftaran tanggal berapa ya kak
+    - pendaftarannya Masi buka ngga ya
+    - Pendaftaran [um ptkin](jalur_seleksi_jenjang) kapan buka kk
+    - Klo boleh tau apakah ada perubahan jadwal pendaftaran [mandiri](jalur_seleksi_jenjang) kak
+    - Assalamu'alaikum kak, selamat pagi. Maaf mengganggu waktunya. Saya izin bertanya untuk pembukaan mahasiswa baru [pendidikan profesi apoteker](prodi) tahun 2026/2027 di bulan berapa?
+    - Assalamu'alaikum kak, selamat siang. Maaf mengganggu waktunya. Saya izin bertanya untuk pembukaan pendaftaran mahasiswa baru [pendidikan profesi apoteker](prodi) di bulan berapa?
+    - Alhamdulillah kapan kk jalur nya dibuka dan brp harga pembayaran nya
+    - Halo KK kapan pendaftaran jalur [tahfiz](jalur_seleksi_jenjang)
+    - Assalamu'alaikum warohmatullahi wabarokatuh Izin tanya, kapan mulai pendaftaran mahasiswa baru?
+    - Assalamu'alaikum mas/mba untuk gelombang 2 dibukanya kapan ya?
+    - Dan kapan dibuka untuk jalur [mandiri](jalur_seleksi_jenjang) nya?
+    - Kapan [PTKIN](jalur_seleksi_jenjang)?
+    - Saya ingin bertanya mengenai pendaftaran online masih buka tidak kak?
+    - Pendaftaran di undur tgl 13 april ya kak
+    - assalamualaikum apakah [s2](jalur_seleksi_jenjang) [teknologi informasi](prodi) UIN masih di buka?
+    - halo kak mau bertanya pendaftaran [mandiri](jalur_seleksi_jenjang) uin syarif hidayatullah apa betul tanggal 8 April kak?
+    - Apakah masih buka pendaftarannya?
+    - Test nya tanggal 25 maret ya
+    - Assalamauallaikum kak, saya ingin bertanya tentang PMB tahun ini, apakah sudah buka?
+    - Pendaftaran jalur [mandiri](jalur_seleksi_jenjang) tahun ini kapan ya pak
+    - apakah pendaftaran sudah dibuka?
+    - mohon maaf sebelumnya izin bertanya terkait pendaftaran mahasiswa baru non akademik seperti [tahfidz quran](jalur_seleksi_jenjang) apakah masih di buka
+    - Mulai nya kapan
+    - Batas akhir nya kapan kak
+    - kak boleh di info tanggal untuk batas pendaftaran nya? dan waktu tes nya?
+    - kapan ya dibukanya
+    - ooh berarti klo sekarang belum dibuka ya
+    - Saya mau daftar ka apa masih pembukaan
+    - maaf ka untuk [spmb](jalur_seleksi_jenjang) kapan yah?
+    - untuk [umptkin](jalur_seleksi_jenjang) ini apakah sudah tutup?
+    - [Snbt](jalur_seleksi_jenjang) mulainya kapan y
+    - Untuk pendaftaran jalur [spmb](jalur_seleksi_jenjang) itu kapan yha min
+    - Bang mau nanya itu buat pembukaan pendaftaran calon maba jalur [mandiri](jalur_seleksi_jenjang) itu kapan yha
+    - mulai Pendaftaran nya kapan ya min
+    - Selamat siang ka Boleh informasi jadwal jalur [mandiri](jalur_seleksi_jenjang) uin jakarta kira kira kapan ya ka, terimakasih
+    - mulai Pendaftaran nya kapan ya,
+    - Wa'alaikumsalam, saya ingin menanyakan untuk beasiswa jalur [tahfidz](jalur_seleksi_jenjang) kapan dibuka yah
+    - yg [SNBT](jalur_seleksi_jenjang) bisa pembayaran tanggal 8 April kah?
+    - Apakah daftar menggunakan jalur ini masih bisa atau Masi buka?
+    - Itu pendaftaran nya tanggal 8 saja kak? Atau sampe tanggal brp?
+    - Stlh itu mulai masuk kuliah nya kapan kak
+    - pembayaran nya bisa di tanggal BRP kak kira kira?
+    - Untuk th ini pengumuman di tgl 7 april lan yaa kaa
+    - Malam, jalur [mandiri](jalur_seleksi_jenjang) nya kapan buka ya?
+    - untuk pendaftaran [FK](prodi) [mandiri](jalur_seleksi_jenjang) apakah sudah di buka?
+    - jadi tunggu tanggal 8 april ya?
+    - Maaf kak belom buka yaa untuk pendaftaran [umptkin](jalur_seleksi_jenjang)
+    - halo min, pembukaan pendaftaran jalur [mandiri](jalur_seleksi_jenjang) setelah [snbt](jalur_seleksi_jenjang) min?
+    - Klo boleh tau dsni cmn ada pelaksanaan [utbk](jalur_seleksi_jenjang) doang klo [snbt](jalur_seleksi_jenjang) kira kira Tgl brp ka
+    - Assalamu'alaikum selamat pagi, saya mau bertanya apa pendaftaran jalur [mandiri](jalur_seleksi_jenjang) sudah dibuka?
+    - Untuk [SPMB mandiri](jalur_seleksi_jenjang) kpn ya di bukanya?
+    - ka untuk pendaftaran jalur [mandiri](jalur_seleksi_jenjang) di buka kapan? apa setelah [snbt](jalur_seleksi_jenjang)?
+    - kalau ada, untuk pembukaan pendaftaran jalur beasiswa [kip-kuliah](jalur_seleksi_jenjang) nya kapan ya min
+    - Izin bertanya, untuk pendaftaran program [magister](jalur_seleksi_jenjang) beasiswa [BIB](jalur_seleksi_jenjang) apakah pembukaan pendaftaran nya sama seperti pembukaan pada program beasiswanya? Terima kasih
+    - assalamualaikum, selamat malam ini jadwal untuk [mandiri](jalur_seleksi_jenjang), pendaftaran dan pembayaran 8 april-5 juli sudah benar??? dan pembayarannya juga bisa sampai 5 juli kan ka??? tidak ditargetkan sebelum 5 juli??
+    - Pendaftaran jalur [mandiri](jalur_seleksi_jenjang) untk lulusan tahun ini kapan ya kak?
+    - Kalo pendaftaran jalur [mandiri](jalur_seleksi_jenjang) kapan ka?
+    - kalau pendaftaran mandiri uin non-reguler itu kapan yaa?
+    - Assalamualaikum min mau nanya pendaftaran [mandiri](jalur_seleksi_jenjang) waktunya kapan ya
+    - Bisa dibantu kapan daftar dan daya tampungnya
+    - Apakah [umptkin](jalur_seleksi_jenjang) masih bisa daftar, sampai tanggal berapa
+    - assalamualaikum, izin bertanya, masa orientasi untuk maba kapan ya kak?
+    - ka maaf pengumuman klarifikasi [ukt](jenis_biaya) udah keluar ya?
+    - pengumuman pengajuannya udh keluar blm ya kak?
+    - Halo ka izin bertanya terkait pendaftaran [apoteker](prodi) di UIN itu buka tanggal/bulan berapa ya ka?
+    - kalo terakhir pendaftaran kapan ya KA?
+    - Kak, terakhir pendaftaran kan tgl 20, jam brp yah Kak?
+    - Permisi tes di UIN kapan yah?
+    - Assalamualaikum warahmatullahi wabarakatuh kak apakah pendaftaran calon mahasiswa baru sudah di buka kak.
+    - Izin pak indra anak saya udh daftar ulang untuk pengumuman [UKT](jenis_biaya) kapan yah pak
+    - Untuk pendaftaran nya buka tanggal brp ya kak?
+    - untuk pengajuan klarifikasi [ukt](jenis_biaya) apa sudah ditutup?
+    - Klo boleh tau, untuk yg jalur [mandiri](jalur_seleksi_jenjang) buka nya sampe kapan kak
+    - Kira terakhir tanggal berapa ya ka untuk daftar ulang tersebut
+    - waktu paling terlambat nya kapan ya ka
+    - ka kalo terakhir daftar ulang kapan yaa
+    - Maaf pendaftaran udh di tutup blm
+    - Assalamualaikum min. saya mahasiswa baru, kapan jadwal daftar ulang nya?
+    - Mau tanya kak batas registrasi ulang [span-ptkin](jalur_seleksi_jenjang) sampai kapan yaa?
+    - min mau izin bertanya, untuk jadwal [umptkin](jalur_seleksi_jenjang) kapan di buka ya? dan dari tanggal brp sampai tgl brp untuk pendaftarannya? terimakasih
+    - untuk daftar ulang online nya kapan ya min?
+    - untuk cetak nim tunggu di tanggal 27 berarti yaa pak/buk? dan di web yg sama yaitu admisi uin?
+    - hari ini kan terakhir batas daftar ulang [span-ptkin](jalur_seleksi_jenjang)
+    - izin tanya untuk pendaftaran [apoteker](prodi) uin jakarta dibuka kapan ya ka
+    - oh pembukaan nya baru 8 april yaa ka
+    - kaloo daftar kira kira mulai kapan
+    - untuk jalur [mandiri](jalur_seleksi_jenjang) uin jakarta kapan dibuka ya? trs jalur [mandiri](jalur_seleksi_jenjang) nii pake nilai [utbk](jalur_seleksi_jenjang) dan tka ga?
+    - Apakah jalur PMB masih buka?
+    - Waalaikumsalam pak Pakkk pendaftran udh tutup ya pak?
+    - Kapan bukaa pakk
+    - Mau bertanya untuk pendaftaran mahasiswa baru jalur apa saja yg masi dibuka?
+    - assalamualaikum, permisi kak izin bertanya. apakah pendaftaran [S2](jalur_seleksi_jenjang) [manajemen dakwah](prodi) jalur [lpdp](jalur_seleksi_jenjang) akan dibuka lagi kak
+    - izin bertanya, pendaftaran [snbt](jalur_seleksi_jenjang) nya kapan?
+    - Waalaikumsalam, permisi kak izin bertanya. apakah pendaftaran [S2](jalur_seleksi_jenjang) [manajemen dakwah](prodi) jalur [lpdp](jalur_seleksi_jenjang) akan dibuka lagi kak
+    - kira kira bulan berapa ya kak dibuka lagi?
+    - pengumumannya ditanggal brpa sama [mandiri non reguler](jalur_seleksi_jenjang) juga
+    - pengumumannya disetiap jalurnya ka [snbp](jalur_seleksi_jenjang), [snbt](jalur_seleksi_jenjang), [mandiri](jalur_seleksi_jenjang) dan non mandiri itu ditanggal berapa aja
+    - Selamat sore mau bertanya pmb [apoteker](prodi) dibuka kapan ya?
+    - Jadwal pendaftaran mahasiswa baru melalui jalur ujian [mandiri](jalur_seleksi_jenjang) dibuka tanggal berapa ya min?
+    - Maaf mau bertanya untuk pmb [apoteker](prodi) dibuka kapan ya? Dan mulai perkuliahan nya kapan?
+    - Apakah pendaftaran jalur [mandiri](jalur_seleksi_jenjang) untuk mahasiswa baru sudah dibuka min?
+    - Assalamu'alaikum. Halo admin. Izin menanyakan terkait pendaftaran wisuda 140 sampai tanggal berapa ya?
+    - Yg hari ini buka pendaftaran jalur apa
+    - Kalau ini sampai tanggal berapa
+    - Ke 3 jalur ini apakah bisa diketahui kapan tanggal seleksi dan lain-lainnya?
+    - Klo yg ini kak, apakah sekarang sudah dibuka?
+    - Yg untk 2026 belum buka ya berarti?
+    - Mau tanya, pendaftaran jalur beasiswa [tahfidz](jalur_seleksi_jenjang) udah dibuka belum?
+    - Pendaftaran jalur beasiswa [tahfidz](jalur_seleksi_jenjang) udah dibuka belum ya?
+    - Assalamualaikum kak izin bertanya, apakah [PTKIN](jalur_seleksi_jenjang) masih di buka?
+    - Jadwal pendaftaran mahasiswa [magister](jalur_seleksi_jenjang) untuk jurusan [HKI](prodi) kapan dibuka ya?
+    - jadwal masuk kuliah anak uin angkatan 25 kapan ya min
+    - Kalau boleh tau, pendaftaran program [paska sarjana](jalur_seleksi_jenjang) nya di buka kapan ya min?
+    - Assalamu'alaikum. Selamat siang. Izin bertanya perihal jalur [talent scouting](jalur_seleksi_jenjang), itu sdh ditutup blm ya?
+    - Wa'alaikumussalam. Selamat siang. Izin bertanya perihal jalur [talent scouting](jalur_seleksi_jenjang), itu sdh ditutup blm ya?
+    - Permisi ka mau bertanya pendaftaran untuk [s2](jalur_seleksi_jenjang) ui kira pendaftarannya kapan ka
+    - Smpai tanggal berapa daftar ulang [span ptkin](jalur_seleksi_jenjang) dibuka ya?
+    - Apakah pendaftaran sudah dibuka
+    - Pendaftaran [mandiri](jalur_seleksi_jenjang) blm dibuka ya min?
+    - kalo sekarang dia udah dibuka pendaftarannya ya ka?
+    - Mau minta info kapan pembukaan pendaftaran untuk jalur [mandiri](jalur_seleksi_jenjang)?
+    - Daftar ulang untuk [span ptkin](jalur_seleksi_jenjang) paling lambat tanggal berapa ya
+    - Assalamualaikum pak/buk mau tanya pengumuman besarnya [UKT](jenis_biaya) apakah sdh keluar pengumannya?
+    - Mimin uin hanifah mau tanya, kalo pengelompokan [UKT](jenis_biaya) jalur [SNBP](jalur_seleksi_jenjang) kapan yaa?
+    - untuk mengetahui jumlah [ukt](jenis_biaya) itu tepat waktunya kapan yaa kak?
+    - Batas pendaftaran ulang nya sampai tanggal berapa kak
+    - Untuk terakhir daftar ulang pada tanggal brpa?
+    - untuk daftar ulang jalur [span ptkin](jalur_seleksi_jenjang) itu terakhir kapan ya?
+    - selamat pagi, maaf saya mau bertanya, untuk daftar ulang jalur [span](jalur_seleksi_jenjang) / [ptkin](jalur_seleksi_jenjang) paling lambat tanggal berapa ya?
+    - klo boleh tau batas nya sampe tanggal brp ya kak?
+    - Assalamu'alaikum Mau tanya daftar ulang nya tgl berapa?
+    - untuk [UM PTKIN](jalur_seleksi_jenjang) nya sudah di buka?
+    - Assmlkm, Bpk/Ibu izin bertanya, untuk daftar ulang bagi calon mahasiswa yg ktrma melalui jalur [SPAN](jalur_seleksi_jenjang) mulai kapan?
+    - untuk jadwal pendaftaran ulang bagi calon mahasiswa yang lolos [SPAN](jalur_seleksi_jenjang) kapan ya?
+    - untuk batas waktu daftar ulang sampai kapan ya ka
+    - pendaftarannya kapan ya kak yg jalur [tahfidz](jalur_seleksi_jenjang)?
+    - izin bertanya batas daftar ulang [snbp](jalur_seleksi_jenjang) sampai tanggal berapa ya kira-kira
+    - asalamualaikum, untuk pendaftaran jalur [mandiri](jalur_seleksi_jenjang), di laksanakan bulan dan tanggal berapa ya?
+    - Min klo daftar [mandiri](jalur_seleksi_jenjang) kira kira terakhir pendaftarannya kapan? Dan uang pendaftarannya brpa min
+    - untuk [SPAN PTKIN](jalur_seleksi_jenjang) dan SNPT jadawal ujiannya kapan kak
+    - assalamualaikum bapak/ibu izin bertanya apakah masih di buka pendaftaran [s2](jalur_seleksi_jenjang) [komunikasi dan penyiaran islam](prodi)
+    - mulai bayar [ukt](jenis_biaya) kapan kk
+    - Kalau jalur [mandiri](jalur_seleksi_jenjang) biasa kapan di buka?
+    - Assalamualaikum Admin UIN Jakarta Maaf, sy Suherman. Mau tanya jadwal penerimaan mahasiswa baru [S1](jalur_seleksi_jenjang) tahun 2026
+    - assalamu'alaikum ka aku mau tanya seputar pmb. untuk jalur [mandiri](jalur_seleksi_jenjang) di buka tgl berapa ya?
+    - kak pendaftaran ulang terakhir di tanggal berapa ya kak?
+    - permisi kak untuk pendaftaran ulang terakhir kapan kak
+    - jadwal pembayarannya kapan
+    - Jalur [mandiri](jalur_seleksi_jenjang) kapan dibuka
+    - sore kakk, pengumuman klarifikasi [ukt](jenis_biaya) kapan keluar yaa
+    - izin menanyakan prihal daftar ulang terakhir kapan? untuk [PAI](prodi)
+    - selamat sore apakah uin jakarta tahun ini membuka jalur [mandiri](jalur_seleksi_jenjang)?
+    - Wa'alaikumsalam, maaf mau tanya jika sudah mendaftar jalur [spmb mandiri](jalur_seleksi_jenjang) kira-kira ada batas waktu yang ditentukan tidak ya untuk membayar [biaya pendaftaran](jenis_biaya) tersebut?
+    - Untuk daftar ulang mulai kapan
+    - Daftar ulang sampai kapan?
+    - untuk pengajuan klarifikasi [ukt](jenis_biaya) apa sudah ditutup?
+    - Maaf mba di tutup pendaftaran nya smpai kpn
+    - waktu paling terlambat daftar ulang kapan ya ka
+    - kalo terakhir daftar ulang kapan yaa
+    - Telat pembayaran [ukt](jenis_biaya) kapan
+    - Permisi min, maaf mau tanya jika sudah mendaftar jalur [spmb mandiri](jalur_seleksi_jenjang) kira-kira ada batas waktu yang ditentukan tidak ya untuk membayar [biaya pendaftaran](jenis_biaya) tersebut?
+    - apakah masih buka kak pendaftaran calon mahasiswa baru
+    - untuk jadwal [um-ptkin](jalur_seleksi_jenjang) sama [mandiri reguler](jalur_seleksi_jenjang) itu kapan aja ya
+    - kapan terakhir daftar ulang nya
+    - untuk jalur [mandiri](jalur_seleksi_jenjang) dibuka kapan ya kak?
+    - Waalaikumsalam. Kak Indra untuk pengumuman golongan [UKT](jenis_biaya) untuk [SNBP](jalur_seleksi_jenjang) tanggal berapa ya
+    - Terakhir pendaftaran ulang kapan yain?
+    - maaf mau tanya persyaratan daftar ulang dan batas waktu kapan
+    - Assalamualaikum min terakhir pendaftaran [snbt](jalur_seleksi_jenjang) kapan min
+    - KA, untuk pendaftaran [spmb mandiri - reguler](jalur_seleksi_jenjang) ([SSE](jalur_seleksi_jenjang)) itu buka kapan?
+    - untuk jalur [Umptkin](jalur_seleksi_jenjang) nya blom di buka kan ya ka?
+    - Pendaftaran jalur [mandiri](jalur_seleksi_jenjang), tanggal berapa yah min
+    - untuk nanti masuknya [mandiri](jalur_seleksi_jenjang) itu bulan apa ya ka?
+    - kak saya mau nanya untuk [utbk](jalur_seleksi_jenjang) apakah dimulai besok?
+    - Untuk perkuliahan ajaran baru 2026-2027 d mulai bulan apa Ya?
+    - Izin tanya lagi pak indra kalau untuk mulai masuk kuliahnya bulan berapa yah pak
+    - Untuk ini bagaimana ya ka? Apakah terakhir hari ini?
+    - Untuk jam penutupannya di jam berapa yaaa
+    - Utk jamnya itu jam berapa?
+    - untuk timeline nya ada ngga ya kak?
+    - Kak mulai pendaftaran [UM-PTKIN](jalur_seleksi_jenjang) nya bulan april ya kak
+    - pendaftaran nya mulai 8 april ya ka?
+    - assalamualaikum min, mau tanya untuk daful [span](jalur_seleksi_jenjang) terakhir hari ini jam berapa yaa?
+
+- intent: kelas_karyawan
+  examples: |
+    - assalamualaikum min, maaf ganggu waktunya izin bertanya untuk kelas karyawan apakah tersedia min?
+    - waalaikumsalam kak maaf ganggu waktunya izin bertanya kak untuk kelas karyawan apakah tersedia ka?
+    - Permisi KA mau tanya UIN adain kelas karyawan gak ya?
+    - Baik ka. Apakah UIN ada kelas karyawan atau masuk Sabtu/Minggu?
+    - tidak ada kelas karyawan ya kak?
+    - Pak, mau nanya untuk program lanjut studi D3 ke S1 kesmas kelas khusus karyawan ada?
+    - Apakah dibuka kelas online atau kelas malam kelas karyawan untuk program pascasarjana?
+    - Jika hybrid, apakah ada jadwal tertentu untuk online atau offline nya kak? Atau tidak ada jadwal khusus?
+    - Baik. Untuk pelaksanaan kuliahnya sendiri jika S1 apakah bisa online atau ada kelas karyawan tidak ya?
+    - Apakah ada kelas karyawan, semisal online atau weekend?
+    - permisi min, maaf sebelumnya, mau tanya untuk jurusan PAI apakah ada kuliah karyawan nya untuk S1? terimakasih min sebelumnya
+    - saya mau daftar tetapi lewat kelas karyawan itu alurnya seperti apa ya kak?
+    - halo min, maaf ganggu. mau nanya dong, di kampus ini ada kelas karyawan gak?
+    - kak, ada info soal kelas karyawan gak ya? pengen lanjut kuliah tapi sambil kerja nih.
+    - assalamualaikum admin, mau nanya. apakah kampus ini ada kelas buat karyawan?
+    - min, saya rencana mau daftar, tapi kerjanya full-time. ada program kelas malam atau weekend gak ya?
+    - permisi, apakah kampus menyediakan kelas untuk mereka yang sudah bekerja?
+    - selamat siang kak, mau tanya. untuk jurusan  apakah ada opsi kelas karyawan?
+    - kak, kalo kuliah sambil kerja, di sini ada program khusus karyawan gitu gak?
+    - min, kalo saya mau ambil S1 tapi lewat kelas karyawan, apa ada?
+    - punten, mau tanya. apakah ada kelas ekstensi untuk pekerja?
+    - apakah ada pilihan kelas karyawan atau kuliah non-reguler di kampus ini?
+    - kak, kalo jadwal kuliahnya bisa disesuaikan buat yg kerja full time gitu ga?
+    - info dong min, untuk kelas karyawan itu jadwalnya gimana ya kak? fleksibel kah?
+    - mau daftar kuliah nih, tapi pengen yg kelas karyawan. itu sistemnya gmn kak?
+    - apakah kelas karyawannya beneran ol semua atau ada tatap muka juga?
+    - min, kalo kelas karyawan biasanya kuliahnya kapan aja? malam atau weekend?
+    - permisi kak, saya tertarik kelas karyawan. alur pendaftarannya gimana ya?
+    - kak, syarat buat masuk kelas karyawan apa aja ya?
+    - kalo mau lanjut D3 ke S1, ada kelas karyawan gak?
+    - apakah kelas karyawan juga tersedia untuk program pascasarjana?
+    - min, kalo kelas karyawannya ada pilihan kelas offline di hari sabtu/minggu gak?
+    - halo kak, saya butuh info terkait kelas karyawan. apakah masih dibuka pendaftarannya?
+    - kuliah untuk pegawai ada ga ya di sini?
+    - min, kalo kuliahnya bisa malem hari atau sabtu minggu aja ada gak?
+    - ka, mau nanya. ada program kuliah karyawan nggak ya di kampus ini?
+    - apakah ada kelas yang ditujukan khusus untuk para pekerja/karyawan?
+    - saya lagi cari info kelas karyawan, kampus ini ada gak ya?
+    - untuk jenjang S1, apakah ada kelas khusus bagi yang sudah bekerja?
+    - permisi, apakah ada jadwal kuliah yang disesuaikan untuk karyawan?
+    - kak, kalau mau daftar kuliah tapi saya sudah bekerja, ada solusi buat kelas karyawan?
+    - apakah kelas karyawan hanya tersedia untuk jurusan tertentu atau semua jurusan?
+    - min, apakah ada kelas untuk yang kerja? kek kuliah malam atau sabtu minggu?
+    - halo kak, mau nanya. kampus ini ada program kelas karyawan nya?
+    - saya berencana kuliah lagi, tapi udah kerja. ada kelas yang support karyawan gak ya?
+    - min, jadwal kelas karyawannya itu biasanya hari apa aja dan jam berapa ya?
+    - cara pendaftaran kelas karyawan itu gimana ya, kak? butuh info lengkap nya.
+    - apa ada kelas khusus karyawan yang bisa online atau hybrid?
+    - permisi, apakah UIN menyediakan kelas khusus untuk yang ingin kuliah sambil kerja?
+    - kak, kalo kelas karyawan itu prosesnya dari awal sampai akhir gimana?
+
+- intent: tanya_kontak
+  examples: |
+    - Ada nomornya gk min yg bisa dihubungi? Atau nomor admin BAK
+    - Ada no kontak nya kak
+    - boleh minta contact number [FEB](fakultas) UIN?
+    - Memang tidak ada nomor telepon nya ya ka?
+    - apakah ada no telp yang bs saya hubungin yah
+    - Apakah saya bisa melapor di kontak ini?
+    - adakah kontak nya kak? kalau ada boleh tolong infonya kak
+    - kakak punya kontak orang akademiknya ga ya kak
+    - Mohon maaf apakah ada kontak bagian humas nya yang bisa saya hubungi terlebih dahulu kak?
+    - Gmana kak? Ada kontak yang bisa kami hubungi geh?
+    - No wa ga ada ya kak?
+    - Boleh saya minta emailnya kak?
+    - ada nomornya ga ka
+    - apakah punya nomornya
+    - Ada no yg bisa saya hubungi?
+    - Izin meminta kontak [Fakultas syariah dan hukum](fakultas)
+    - Mohon info no telp utk [Fakultas Sains & Tehnologi](fakultas)
+    - Wa'alaykumussalam wrwb. Mohon info no telp utk [Fakultas Sains & Tehnologi](fakultas)
+    - apakah saya bisa berbicara dengan CS nya langsung
+    - Minta nomor WA admin dong kak.
+    - Boleh info kontak bagian pendaftaran mahasiswa baru?
+    - Punya email buat info pmb ga min?
+    - Kalo mau tanya-tanya pendaftaran, hubungin siapa ya kak?
+    - Nomor telepon [Fakultas Ekonomi Bisnis Islam](fakultas) berapa ya?
+    - Ada kontak PIC untuk bagian keuangan?
+    - Admin, bisa minta nomer telpon kampus?
+    - Maaf kak, bisa bantu kasih kontak untuk prodi [Ilmu Komunikasi](fakultas)?
+    - Saya butuh email resmi kampus, ada kah?
+    - Nomor yg bisa di-WA ada min?
+    - Kak, ini ada kontak yg bisa dihubungin buat urusan beasiswa?
+    - Boleh minta kontak admin kampus nya?
+    - Ada kontak hotline kampus nggak?
+    - Kalau mau nanya soal matkul, ke bagian mana ya dan kontaknya apa?
+    - Bisa minta nomor admin biar cepet responnya?
+    - Boleh tahu nomor kantor [Fakultas Dirasat Islamiyah](fakultas)?
+    - Ada kontak selain WA buat tanya-tanya?
+    - Punya email layanan mahasiswa?
+    - Minta nomor telpon yang aktif dong kak.
+    - Kalo mau ngehubungin bagian fakultas, kontak nya berapa ya?
+    - Tolong infoin dong kontak pendaftarannya.
+    - Ada no. hp yg bisa saya hubungin langsung?
+    - Boleh minta kontak [Fakultas Ilmu Tarbiyah dan Keguruan](fakultas) kak?
+    - Untuk kendala teknis bisa hubungi siapa ya? Ada kontaknya?
+    - Permisi, apakah ada kontak bagian kemahasiswaan?
+    - Kak, ada nomer pusat informasi?
+    - Mohon infonya ya kak, untuk kontak [Fakultas Ilmu Kesehatan](fakultas) itu ada atau tidak?
+    - Kalau saya mau telpon kantornya, nomer berapa ya?
+    - Ada email yang bisa saya kirimkan pertanyaan?
+    - Butuh kontak untuk bagian registrasi, ada?
+    - Nomer telpon atau WA nya ada min?
+
+- intent: tanya_kuota
+  examples: |
+    - Halo min mau tanya untuk daya tampung [SNBP](jalur_seleksi_jenjang) di UIN
+    - Mau tanya ka untuk daya tampung [SNBP](jalur_seleksi_jenjang) UIN Jakarta bisa dilihat dimana ya
+    - Waalaikumussalam, izin bertanya untuk daya tampung [SNBP](jalur_seleksi_jenjang) UIN Jakarta bisa dilihat dimana ya
+    - Apakah kuota untuk ikut seleksi ujian [snbt](jalur_seleksi_jenjang) mahasiswa di UIN Jakarta masih tersedia?
+    - Daya tampung [kedokteran](prodi) brp ya pak untuk [mandiri](jalur_seleksi_jenjang)
+    - Ka, untuk kuota ujian di UIN Syarif ada atau engga
+    - Min, kuota pendaftaran [SNPMB](jalur_seleksi_jenjang) buat UIN tahun ini berapa sih?
+    - Kak, info daya tampung [SNBT](jalur_seleksi_jenjang) di UIN Jakarta tahun ini dong.
+    - Pak, apakah kuota untuk prodi [hukum](prodi) jalur [mandiri](jalur_seleksi_jenjang) masih ada?
+    - Berapa sih daya tampung [soshum](prodi) lewat [SNBT](jalur_seleksi_jenjang) di UIN?
+    - Min, kuota buat [kedokteran](prodi) tahun ini lewat jalur [SNBP](jalur_seleksi_jenjang) berapa orang ya?
+    - Kak, kalau mau ikut [mandiri](jalur_seleksi_jenjang), kuotanya masih banyak gak?
+    - Assalamualaikum, mau tanya, kuota penerimaan [SNBT](jalur_seleksi_jenjang) UIN Jakarta berapa ya?
+    - Info daya tampung [ujian mandiri](jalur_seleksi_jenjang) [ilmu komunikasi](prodi) UIN Jakarta dong, min.
+    - Apakah kuota [SNBP](jalur_seleksi_jenjang) buat [Fakultas Ekonomi](prodi) UIN sudah penuh?
+    - Halo admin, boleh info daya tampung [SNPMB](jalur_seleksi_jenjang) UIN Jakarta?
+    - Kakak, untuk daya tampung prodi [manajemen](prodi) di jalur [SNBT](jalur_seleksi_jenjang) tahun ini berapa ya?
+    - Min, kuota buat mahasiswa baru [SNBP](jalur_seleksi_jenjang) UIN Syarif Hidayatullah Jakarta berapa orang?
+    - Ada info kuota buat [jalur mandiri](jalur_seleksi_jenjang) UIN tahun ini gak?
+    - Daya tampung [Teknik Informatika](prodi) lewat [SNBT](jalur_seleksi_jenjang) UIN tuh berapa?
+    - Bu, kuota untuk prodi [psikologi](prodi) jalur [SNBP](jalur_seleksi_jenjang) di UIN kira-kira berapa ya?
+    - Min, daya tampung [SNBT](jalur_seleksi_jenjang) UIN Jakarta buat [sains dan teknologi](prodi) itu berapa?
+    - Kak, mau tanya, kuota mahasiswa baru [SNBP](jalur_seleksi_jenjang) UIN tahun ini ada berapa?
+    - Untuk [kedokteran](prodi) di UIN, kuota [mandiri](jalur_seleksi_jenjang) nya masih ada?
+    - Info kuota penerimaan mahasiswa [SNBT](jalur_seleksi_jenjang) UIN Jakarta ya min.
+    - Berapa ya daya tampung [mandiri](jalur_seleksi_jenjang) [Fakultas Adab](prodi) di UIN?
+    - Min, kuota untuk [SNBP](jalur_seleksi_jenjang) prodi [pendidikan agama islam](prodi) berapa?
+    - Permisi, mau nanya daya tampung [SNPMB](jalur_seleksi_jenjang) UIN Jakarta tahun ini berapa ya?
+    - Kak, daya tampung [teknik informatika](prodi) jalur [SNBT](jalur_seleksi_jenjang) di UIN tuh berapa orang?
+    - Apakah kuota [jalur mandiri](jalur_seleksi_jenjang) untuk [ekonomi syariah](prodi) di UIN masih terbuka?
+    - Halo, mau cek daya tampung [SNBP](jalur_seleksi_jenjang) UIN Jakarta.
+    - Min, kuota [SNBT](jalur_seleksi_jenjang) UIN Jakarta untuk [Fakultas Syariah](prodi) berapa ya?
+    - Info daya tampung prodi [kedokteran](prodi) jalur [SNBT](jalur_seleksi_jenjang) UIN dong kak.
+    - Kira-kira kuota pendaftaran [mandiri](jalur_seleksi_jenjang) UIN masih ada banyak gak?
+    - Brp kuota [SNBP](jalur_seleksi_jenjang) [ilmu politik](prodi) di UIN Jakarta?
+    - Min, daya tampung [ujian mandiri](jalur_seleksi_jenjang) UIN itu sekitar berapa ya?
+    - Kak, untuk jurusan [akuntansi](prodi) jalur [SNBT](jalur_seleksi_jenjang) kuotanya berapa?
+    - Ada info daya tampung [SNPMB](jalur_seleksi_jenjang) buat [Fakultas Ilmu Kesehatan](prodi) UIN?
+    - Kakak, kuota [jalur mandiri](jalur_seleksi_jenjang) untuk [PGMI](prodi) di UIN masih ada kesempatan?
+    - Daya tampung [SNBP](jalur_seleksi_jenjang) buat UIN Jakarta, terutama [sastra inggris](prodi), berapa ya?
+    - Min, kuota untuk [ujian mandiri](jalur_seleksi_jenjang) UIN buat [Fakultas Ilmu Sosial](prodi) berapa?
+    - Info daya tampung [SNBT](jalur_seleksi_jenjang) UIN untuk jurusan [farmasi](prodi) dong kak.
+    - Apakah kuota [SNBP](jalur_seleksi_jenjang) untuk [fisika](prodi) di UIN udah full?
+    - Halo kak, mau nanya daya tampung [SNPMB](jalur_seleksi_jenjang) UIN untuk [pendidikan dokter](prodi) itu berapa?
+    - Kuota [mandiri](jalur_seleksi_jenjang) UIN [ilmu Al-Quran](prodi) berapa orang ya?
+    - Min, daya tampung [SNBT](jalur_seleksi_jenjang) [perbankan syariah](prodi) di UIN Jakarta tahun ini.
+    - Kak, kira-kira daya tampung [SNBP](jalur_seleksi_jenjang) [matematika](prodi) di UIN itu berapa?
+    - Assalamualaikum, kuota [jalur mandiri](jalur_seleksi_jenjang) [Fakultas Dakwah](prodi) UIN masih ada gak?
+    - Info kuota penerimaan [SNBT](jalur_seleksi_jenjang) [pendidikan bahasa arab](prodi) UIN ya.
+    - Admin, kuota mahasiswa baru [SNBP](jalur_seleksi_jenjang) [informatika](prodi) di UIN tahun ini berapa?
+
+- intent: tanya_profesi
+  examples: |
+    - Selamat pagi kak. Saya Gledys. Izin bertanya, kalo saya mau lanjut [ners](prodi) apa saja yang harus dibayar? dan berapa biayanya?
+    - Min untuk biaya profesi [apoteker](prodi) nya berapa ya persemester
+    - Mau nanya perihal [PPG prajabatan](prodi)
+    - Mau bertanya ka disini ada profesi [apoteker](prodi) gak ya?
+    - saya sebelumnya baru aja lulus [S1](jalur_seleksi_jenjang) di swasta jurusan [keperawatan](prodi), apakah saya bisa melanjutkan profesi [ners](prodi) di PTN?
+    - Waalaikumsalam permisi ka saya mau tanya, saya sebelumnya baru aja lulus [S1](jalur_seleksi_jenjang) di swasta jurusan [keperawatan](prodi), apakah saya bisa melanjutkan profesi [ners](prodi) di PTN?
+    - Assalamualaikum warahmatullahi wa barakatuh. Selamat siang min, izin bertanya untuk prodi profesi [apoteker](prodi) apakah tahun ini di UIN buka? Terimakasih
+    - Halo min, mau tanya profesi [ners](prodi) di sini ada ga ya?
+    - Kak, bisa kasih tau ga tentang profesi [apoteker](prodi) di UIN ini?
+    - Min, kalo [PPG](prodi) itu seperti apa ya di sini?
+    - Ada info ga ya buat profesi [dokter](prodi) di kampus ini?
+    - Pengen tau lebih banyak soal profesi [ners](prodi) deh, min.
+    - Permisi kak, program profesi [apoteker](prodi) itu gimana ya garis besarnya?
+    - Min, kalau mau ngambil [PPG](prodi) di UIN, itu gimana sih?
+    - Eh, ada profesi [dokter](prodi) juga ga di UIN?
+    - Saya lagi cari info tentang profesi [ners](prodi), boleh minta penjelasannya?
+    - Halo, mau nanya tentang [apoteker](prodi) di UIN dong.
+    - Min, bisa bantu jelasin gak tentang profesi [PPG](prodi) yang ada di sini?
+    - Kak, kalo profesi [dokter](prodi) di kampus ini kayak gimana ya?
+    - Info lengkap profesi [ners](prodi) dong kak.
+    - Apa benar ada profesi [apoteker](prodi) di UIN ini?
+    - Tertarik sama [PPG](prodi), pengen tau lebih banyak.
+    - Halo admin, mau tanya profesi [dokter](prodi) ada gak ya?
+    - Saya mau tau tentang program profesi [ners](prodi).
+    - Untuk profesi [apoteker](prodi), info umumnya apa saja ya?
+    - Gimana ya prospek profesi [PPG](prodi) di UIN?
+    - Kak, ada profesi [dokter](prodi) gak sih di UIN?
+    - Boleh share info tentang profesi [ners](prodi) yang ditawarkan?
+    - Min, profesi [apoteker](prodi) di sini gimana ya sistemnya?
+    - Pengen tau lebih detail tentang [PPG](prodi) dong.
+    - Ada [dokter](prodi) ga ya buat jenjang profesi?
+    - Min, tentang profesi [ners](prodi) di UIN, bisa dijelaskan?
+    - Halo, info profesi [apoteker](prodi) dong kak.
+    - Apakah UIN punya program profesi [dokter](prodi)?
+    - Saya tertarik dengan profesi [ners](prodi), ada penjelasan singkatnya?
+    - Min, profesi [apoteker](prodi) itu gimana ya di sini?
+    - Info profesi [dokter](prodi) di kampus ini dong.
+    - Kak, kalo saya udah [S1](jalur_seleksi_jenjang) keperawatan, ada profesi [ners](prodi) ga ya di UIN ini?
+    - Permisi, mau nanya profesi [apoteker](prodi) di UIN.
+    - Min, gimana tentang profesi [PPG](prodi) di sini?
+    - Apakah UIN menyediakan program profesi [dokter](prodi)?
+    - Info tentang profesi [ners](prodi) dong, admin.
+    - Kalo mau ambil profesi [apoteker](prodi) di UIN, itu gimana ya?
+    - Ada profesi [dokter](prodi) yang bisa diambil di sini gak?
+    - Info general tentang profesi [apoteker](prodi) dong kak.
+    - Halo, program profesi [dokter](prodi) ada di UIN kan?
+    - Saya mau tanya tentang profesi [ners](prodi).
+    - Admin, profesi [apoteker](prodi) itu ada di UIN kah?
+    - Kalo mau profesi [PPG](prodi) di UIN gimana?
+    - Profesi [dokter](prodi) di kampus ini ada apa aja?
+
+
+- intent: tanya_pascasarjana
+  examples: |
+    - Bisa tau lebih lanjut terkait mata kuliah untuk [SPs](jalur_seleksi_jenjang) konsentrasi [al-Quran dan tafsir](prodi)?
+    - Boleh ka, saya mau lanjut [pasca](jalur_seleksi_jenjang) di UIN saya perlu rincian itu ka
+    - [S2](jalur_seleksi_jenjang) [bahasa inggris](prodi)
+    - Min mau tanya untuk kuliah program [magister](jalur_seleksi_jenjang) [manajemen dakwah](prodi) ada online nya tidak min? Dari Makassar rencana mau kuliah jurusan itu tapi online karena kerjanya juga di Makassar
+    - Assalamualaikum. Mau nanya untuk program [magister](jalur_seleksi_jenjang) ada apa saja?
+    - Bagaimana tata cara pendaftaran [S2](jalur_seleksi_jenjang) untuk UIN Syarif?
+    - Selamat malam ka, saya minat untuk [s2](jalur_seleksi_jenjang) di UIN Jakarta boleh informasinya lebih lanjut ka
+    - waalaikumsalam ka. ya ka saya minat [S2](jalur_seleksi_jenjang) [perbankan Syariah](prodi) ka
+    - Assalamualaikum Min, minta info program [Doktor](jalur_seleksi_jenjang) dong!
+    - Minta info [S3](jalur_seleksi_jenjang) Min
+    - Assalamu'alaikum min. Mohon maaf menggangu waktunya min. Saya rencana ingin [S2](jalur_seleksi_jenjang) di UIN Syarif min untuk cara daftarnya bagaimana? Atau ada web yang bisa saya kunjungin agar tidak ketinggalan info terkini min? Dan juga kira kira [S2](jalur_seleksi_jenjang) [MPI](prodi) besaran UKT nya berapa min?
+    - Assalamu'alaikum izin menanyakan program [S2](jalur_seleksi_jenjang) di UIN Jakarta
+    - Ada masih informasi [S2](jalur_seleksi_jenjang) [hukum ekonomi syariah](prodi) beasiswa Indonesia bangkit kak
+    - Ada beasiswa kuliah [S2](jalur_seleksi_jenjang) [hukum ekonomi syariah](prodi) kak?
+    - Maaf kak kalau [pascasarjana](jalur_seleksi_jenjang) apakah terdapat kelas karyawan
+    - pendaftaran [magister](jalur_seleksi_jenjang) [PAU](prodi)
+    - Izin untuk informasi [S2](jalur_seleksi_jenjang)?
+    - ijin bertanya untuk fakultas [hukum keluarga islam](prodi) [doktor](jalur_seleksi_jenjang) waktu pembelajarannya apa bisa online?
+    - Bang [s2](jalur_seleksi_jenjang) jurusannya apa aja
+    - Assalamualaikum, mau tanya-tanya seputar pendidikan [s2](jalur_seleksi_jenjang) prodi [Hukum Keluarga Islam](prodi), untuk administrasi pendaftaran dan biaya kuliahnya?
+    - Untuk daftar [s2](jalur_seleksi_jenjang) ka
+    - Caranya untuk daftar [s2](jalur_seleksi_jenjang) gimna ka
+    - Hallo saya mau bertanya terkait sistem pembelajaran [Pascasarjana](jalur_seleksi_jenjang) [Magister](jalur_seleksi_jenjang) [Manajemen Pendidikan Islam](prodi)
+    - assalamualaikum selamat pagi, bisa minta info untuk [S2](jalur_seleksi_jenjang) [Magister Psikologi](prodi) yaa
+    - untuk PMB [S2](jalur_seleksi_jenjang) [Magister Psikologi](prodi)
+    - kalo fakultas [Magister](jalur_seleksi_jenjang) [PBA](prodi) alamat nya di Ciputat Kak?
+    - Bisa di infokan berapa biaya pendaftaran untuk daftar [magister](jalur_seleksi_jenjang) [PAI](prodi) min?
+    - apakah di uin ada [S2](jalur_seleksi_jenjang)
+    - Assalamualaikum warahmatullah. Saya tertarik untuk daftar kuliah [magister](jalur_seleksi_jenjang) disini. Apakah lulusan Lipia Jakarta bisa daftar di UIN Syarif? Apa saja persyaratannya?
+    - Assalamualaikum, kak mau tanya soal program [pasca sarjana](jalur_seleksi_jenjang) UIN
+    - Waalaikumsalam. Mau tanya soal [pascasarjana](jalur_seleksi_jenjang) kak
+    - Mau bertanya untuk pendaftaran [Magister](jalur_seleksi_jenjang) [B. Arab](prodi)
+    - Info beasiswa [doktor](jalur_seleksi_jenjang)
+    - Jurusan [s2](jalur_seleksi_jenjang) apa aja
+    - Assalamualaikum warahmatullahi wabarakatuh izin bertanya apakah di UIN Syarif membuka pendaftaran program [S2](jalur_seleksi_jenjang) [PAI](prodi)?
+    - Izin bertanya apakah di UIN Syarif membuka pendaftaran program [S2](jalur_seleksi_jenjang) [PAI](prodi)?
+    - Kak, untuk program [S2](jalur_seleksi_jenjang) [Ekonomi Syariah](prodi) pendaftarannya kapan dibuka?
+    - Min, mau tanya biaya kuliah [magister](jalur_seleksi_jenjang) [Komunikasi Penyiaran Islam](prodi) berapa ya?
+    - Assalamualaikum, apakah UIN Jakarta memiliki program [S3](jalur_seleksi_jenjang) [Studi Islam](prodi)?
+    - Saya ingin lanjut [pascasarjana](jalur_seleksi_jenjang), boleh minta info jurusan yang tersedia?
+    - Kak, untuk [S2](jalur_seleksi_jenjang) [Pendidikan Agama Islam](prodi) ada kelas malam atau weekend?
+    - Min, syarat daftar [magister](jalur_seleksi_jenjang) [Hukum Ekonomi Syariah](prodi) apa saja ya?
+    - Izin bertanya, untuk program [doktor](jalur_seleksi_jenjang) apakah tersedia beasiswa?
+    - Halo kak, saya mau tahu jadwal seleksi [S2](jalur_seleksi_jenjang) di UIN tahun ini.
+    - Untuk [pascasarjana](jalur_seleksi_jenjang) apakah bisa daftar secara online?
+    - Kak, [S2](jalur_seleksi_jenjang) [Manajemen Pendidikan Islam](prodi) akreditasinya apa ya?
+    - Min, kalau lulusan luar negeri mau daftar [magister](jalur_seleksi_jenjang), persyaratannya apa saja?
+    - Assalamualaikum, info biaya pendaftaran [S3](jalur_seleksi_jenjang) [Hukum Keluarga Islam](prodi) dong kak.
+    - Saya berminat daftar [S2](jalur_seleksi_jenjang) [Pengkajian Islam](prodi), bisa minta informasinya?
+    - Kak, untuk program [doktor](jalur_seleksi_jenjang) sistem kuliahnya offline atau hybrid?
+
+
+
+- intent: tanya_persyaratan
+  examples: |
+    - syarat apa saja
+    - persyaratan apa saja
+    - dokumen apa saja
+    - berkas apa saja
+    - ketentuan apa saja
+    - apakah wajib pakai sertifikat / slip gaji / SKL / ijazah
+    - minimal sertifikat berapa
+    - boleh pakai ijazah paket / pondok / SKL / surat keterangan atau tidak
+    - untuk [beasiswa tahfidz](jalur_seleksi_jenjang) apakah wajib memiliki sertifikat nasional?
+    - assalamualaikum ka maaf ganggu waktunya aku mau nanya lagi dong untuk [non reguler](jalur_seleksi_jenjang) prestasinya pakai sertifikat paskibra bisa ga tapi ga nasional atau kabupaten cuman tingkat sekolah?
+    - Kak saya kan ada 1 sertifikat juara kelas itu bisa juga gk dicantumin disini
+    - apakah saya bisa menggunakan sertifikat syahadah guru portofolio untuk mendaftarkan jalur [mandiri](jalur_seleksi_jenjang) tersebut?
+    - Kk saya mau bertanya bisa gk masuk UIN ini pake jalur sertifikat MTQ
+    - Maaf kk, kalo boleh tau, ada jumlah minimal gk brp sertifikat yg harus kita lampirkan?
+    - Assalamualaikum warohmatullihi wabarokatuh. Selamat siang Bapak/Ibu. Izin bertanya untuk daftar mahasiswa baru persyaratannya apa saja ya?
+    - persyaratan [mandiri](jalur_seleksi_jenjang) UIN jalur tes daring apa aja kak?
+    - kalau jalur [non reguler](jalur_seleksi_jenjang) berarti hanya perlu nilai raport dan beberapa bukti prestasi dan seleksi wawancara ya kak?
+    - Kalo lulusan kejar paket tahun ini gimana kk
+    - Mau nanya syarat-syarat mahasiswa tuh apayah
+    - Kalo syarat-syarat untuk daftar apa ya la
+    - Persyaratan nya apa aja kak
+    - dn utk persyaratan nya jg apa saja ya?
+    - kira-kira utk persyaratan nya jg apa saja ya min?
+    - Assalamualaikum wr. wb, selamat siang, izin bertanya, untuk pendaftaran mahasiswa baru santri shalafi sekolah paket jalur [mandiri](jalur_seleksi_jenjang), apa saja persyaratan yang harus disiapkan?
+    - Klo daftar [umptkin](jalur_seleksi_jenjang) pake ijazah yg udh dilegalisir atau yg biasa aja min
+    - Utk lulusan pesantren dgn ijazah paket C, apakah bisa mendaftar lwt jalur [um-ptkin](jalur_seleksi_jenjang)?
+    - Kan saya kelulusan tahun 2026 nih kak, nah di nomor 4 tertera salah satunya berarti kalo seumpama make KTP bisa kak ya
+    - Persyaratan
+    - Izin bertanya terkait daftar ulang mahasiswa baru [SPAN PTKIN](jalur_seleksi_jenjang), apakah wajib upload Surat Keterangan Lulus? Sedangkan belum lulus
+    - Apakah Rapor nilai diperlukan sebagai syarat pendaftaran ulang [span ptkin](jalur_seleksi_jenjang)
+    - apakah ijazah / SKL bisa digantikan dengan surat keterangan kelas 12 min?
+    - berkas apa saja yang diperlukan kan?
+    - Untuk ijazah atau SKL kalau belum ada boleh dikosongkan?
+    - kalo syarat-syarat dan seleksi jalur [SPMB mandiri](jalur_seleksi_jenjang) itu apa aja kak
+    - min, untuk yg jalur [tahfidz](jalur_seleksi_jenjang), syaratnya dokumen nya apa saja?
+    - Syarat menjadi mahasiswa UIN
+    - Kak syarat menjadi mahasiswa UIN apa saja ya
+    - Untuk Surat Keterangan Lulus atau ijazah belum bisa diterbitkan, apakah boleh pakai Surat keterangan aktif?
+    - Mohon informasi, apakah dalam pendaftaran jalur [mandiri SSE](jalur_seleksi_jenjang), tertera menggunakan ijazah. Nah saat ini ijazah belum ada, apakah dpt menggunakan surat keterangan lulus bahwa siswa ybs merupakan siswa kelas XII
+    - ada ketentuan atau syaratnya ga?
+    - halo min, mau tanya terkait jalur pendaftaran via [Tahfidz Qur'an](jalur_seleksi_jenjang), apakah wajib juga memiliki prestasi minimal peringkat 3 tingkat nasional?
+    - Apa persyaratan [UMPTKIN](jalur_seleksi_jenjang)
+    - Kak, untuk daftar jalur [mandiri](jalur_seleksi_jenjang), berkas yang harus diupload apa saja?
+    - Min, apakah pendaftaran [UM-PTKIN](jalur_seleksi_jenjang) wajib menggunakan ijazah asli?
+    - Kalau belum punya SKL, apakah masih bisa daftar jalur [SPAN PTKIN](jalur_seleksi_jenjang)?
+    - Izin bertanya, untuk jalur [non reguler](jalur_seleksi_jenjang) apakah sertifikat prestasi tingkat sekolah bisa digunakan?
+    - Kak, dokumen persyaratan untuk jalur [tahfidz](jalur_seleksi_jenjang) apa saja ya?
+    - Apakah lulusan paket C bisa mendaftar melalui jalur [mandiri](jalur_seleksi_jenjang)?
+    - Min, untuk jalur [SPMB mandiri](jalur_seleksi_jenjang), apakah wajib melampirkan rapor?
+    - Persyaratan daftar ulang jalur [SPAN PTKIN](jalur_seleksi_jenjang) apa saja kak?
+
+
+- intent: tanya_link
+  examples: |
+    - apakah daftar [SNBT](jalur_seleksi_jenjang) uin ada link nya?
+    - Assalamualaikum ka, untuk link pendaftaran bagaimana ya ka?
+    - Boleh minta link pendaftaran nya kak
+    - Maaf kak boleh bagi link nya?
+    - Assalamu'alaikum kak ada link buat masuk di UIN ga kak?
+    - Klo untuk link [UM-PTKIN](jalur_seleksi_jenjang) dan [Mandiri](jalur_seleksi_jenjang) nya mana kak
+    - Kak minta link pendaftaran
+    - Untuk link pendaftaran nya lewat link yang mana ya kak?
+    - Mohon info atau link utk saya membayar ukt
+    - Disini tdk ada keterangan link utk pembayaran
+    - untuk link pendaftaran [Mandiri Non-Reguler](jalur_seleksi_jenjang) dimana ya min?
+    - waalaikumsalam wr wb. ka aku mau tanya untuk pendaftaran [Mandiri Reguler](jalur_seleksi_jenjang) di mana yaa ka untuk link pendaftaran nya
+    - Mohon info link daftar ulang [SPAN-PTKIN](jalur_seleksi_jenjang) 2026
+    - apkah ada link ukt
+    - link pendaftaran UIN Syarif Hidayatullah Jakarta jalur [Mandiri](jalur_seleksi_jenjang) sudah ada belum
+    - Boleh Minta informasi dan link nya kak
+    - halo min link daftar ulang [SPAN-PTKIN](jalur_seleksi_jenjang) yg mana ya?
+    - Link pendaftaran [Mandiri Reguler](jalur_seleksi_jenjang) ada ga ka
+    - permisi kak, boleh minta link untuk info [SNBP](jalur_seleksi_jenjang) tahun depan?
+    - kak, ada link buat bayar [ukt](biaya) nya gak?
+    - min, tolong kasih link buat cek pengumuman [UM-PTKIN](jalur_seleksi_jenjang) dong.
+    - assalamualaikum, mau tanya link pendaftaran jalur [Mandiri](jalur_seleksi_jenjang) kapan dibuka ya kak?
+    - gimna cara daftar ulang [SNBP](jalur_seleksi_jenjang) kak? ada link nya?
+    - kak, untuk pendaftaran mahasiswa baru ada link khusus ga?
+    - tolong info link portal mahasiswa baru ya kak.
+    - link buat pembayaran SPP semester ini dimana ya?
+    - halo admin, bisa share link grup telegram maba UIN?
+    - permisi, link formulir pendaftaran apa ya kak?
+    - ka, klo mau liat persyaratan [SPAN-PTKIN](jalur_seleksi_jenjang) dimana ya linknya?
+    - aku mau daftar ulang snbp, itu linknya lewat mana ya?
+    - bagi link website utama kampus dong kak.
+    - min, ada link buat unduh brosur pendaftaran ga?
+    - buat jadwal pendaftaran [SNBT](jalur_seleksi_jenjang), link informasinya di mana ya?
+    - tolong kirim link buat pengisian biodata maba dong kak.
+    - kak, link daftar ulang [Mandiri](jalur_seleksi_jenjang) apa?
+    - min, link pembayaran buat daftar apa ya?
+    - assalamu'alaikum kak, link resmi pendaftaran UIN ada?
+    - aku mau liat status pendaftaran [UM-PTKIN](jalur_seleksi_jenjang) ku, linknya yg mana?
+    - kak, ada link [ukt](biaya) ga?
+    - untuk cek kelulusan [SNBT](jalur_seleksi_jenjang), link nya apa ya kak?
+    - link pendaftaran [Mandiri Non-Reguler](jalur_seleksi_jenjang) 2026 apa ya?
+    - mohon info link buat pendaftaran online kak.
+    - admin, minta link buat daftar seleksi mandiri ?
+    - bisa kasih link buat info beasiswa ka?
+    - permisi, link untuk upload berkas pendaftaran dimana?
+    - ka, link daftar ulang maba yang mana?
+    - halo kak, link pendaftaran program [pascasarjana](jenjang_pendidikan) ada?
+    - untuk info pendaftaran [D3](jenjang_pendidikan) dan [S1](jenjang_pendidikan), linknya sama apa beda kak?
+    - kak, mau nanya, ada link buat cek daya tampung [SNBT](jalur_seleksi_jenjang) gak?
+    - link pendaftaran buat [kedokteran](prodi) gimana ya kak?
+
+- intent: tanya_prosedur_pendaftaran
+  examples: |
+    - Saya mau bertanya kak kalo jalur [mandiri](jalur_seleksi_jenjang) daftarnya gimana  ya
+    - Cara PMB?
+    - dan kalau bisa, untuk prosedurnya gmn ya kaa?
+    - bgmn caranya kak?
+    - Kira-kira prosedur nya gmna ya?
+    - Bagaimana caranya kak
+    - cara daftar gimana ka?
+    - Bgmn cara nya
+    - Baik kak, utk caranya atau prosedurnya spt apa ya kak?
+    - Assalamualikum selamat sore, mohon maaf mengganggu waktunya disini saya izin bertanya untuk cara pendaftaran UIN Jakarta melalui jalur [SNBT](jalur_seleksi_jenjang) bagaimana ya kak?
+    - Untuk daftar jalur [SNBT](jalur_seleksi_jenjang) caranya gimana ya ka?
+    - kalau untuk daftar jalur [madiri](jalur_seleksi_jenjang) gimna ya
+    - mau daftar UIN jalur [mandiri](jalur_seleksi_jenjang) jurusan [PG MI](prodi) gimana ka?
+    - cara pendaftaran nya gimana kaaa jalur [mandiri](jalur_seleksi_jenjang)
+    - Assalamu'alaikum min, saya mau bertanya langkah-langkah untuk mendaftar di jalur [mandiri](jalur_seleksi_jenjang) gimana ya min
+    - Kak ini cara daftarnya gimana yh
+    - nah, cara daftarnya bagaimana kak?
+    - cara daftar nya gimanaa ya ka
+    - Kak cara daftar [snbt](jalur_seleksi_jenjang) THN 2026 Gimana ya kak?
+    - Cara daftar nya gmna yaa
+    - trus cara daftarnya gimana kaka?
+    - truss cara daftarnya gimana?
+    - cara daftar di UIN gmna kak
+    - Bagaimana cara daftarnya
+    - kak mau nanya cara daftarnya gimana ya
+    - Cara daftar nya gmn kak
+    - Cara daftar tanpa tes
+    - Cara daftar nya bagaimana ka?
+    - Cara daftar jalur [tahfiz](jalur_seleksi_jenjang) gimana ya kak
+    - Kak mohon ajar dong tata cara pendaftaran [mandiri prestasi](jalur_seleksi_jenjang) UIN Syarif
+    - cara daftar [umptkin](jalur_seleksi_jenjang) lewat mana ya
+    - Assalamualaikum saya dari Depok, ingin menanyakan untuk jalur [tahfiz](jalur_seleksi_jenjang) bagi anak sy 8 juz. Bagaimana daftarnya
+    - Oh ya KK untuk masuk ke UIN itu pendaftaran nya online apa offline?
+    - Gimana cara daftar nya kkv
+    - Kak, alur pendaftaran jalur [mandiri](jalur_seleksi_jenjang) itu seperti apa ya?
+    - Min, mau tanya tahapan daftar [SNBT](jalur_seleksi_jenjang) ke UIN gimana?
+    - Untuk pendaftaran [UM-PTKIN](jalur_seleksi_jenjang), langkah-langkahnya bagaimana kak?
+    - Kak, kalau mau daftar jalur [SPAN PTKIN](jalur_seleksi_jenjang) prosedurnya gimana?
+    - Saya mau daftar jalur [mandiri reguler](jalur_seleksi_jenjang), mulai dari mana ya kak?
+    - Min, cara daftar seleksi [mandiri non reguler](jalur_seleksi_jenjang) gimana ya?
+    - Kak, pendaftaran mahasiswa baru UIN dilakukan lewat online atau datang langsung?
+    - Mohon info alur daftar UIN dari awal sampai selesai kak.
+    - Assalamualaikum, saya mau tanya cara daftar jalur [tahfidz](jalur_seleksi_jenjang) di UIN.
+    - Kalau mau daftar prodi [kedokteran](prodi) lewat jalur [mandiri](jalur_seleksi_jenjang), caranya gimana kak?
+    - Min, prosedur pendaftaran untuk jalur [SNBP](jalur_seleksi_jenjang) di UIN seperti apa?
+    - Kak, saya masih bingung cara daftar [UMPTKIN](jalur_seleksi_jenjang), bisa dijelaskan tahapannya?
+    - Untuk calon mahasiswa baru, proses pendaftarannya gimana ya min?
+    - Kak, kalau daftar [S1](jalur_seleksi_jenjang) di UIN harus lewat jalur apa dan caranya gimana?
+    - Min, langkah pertama buat daftar jalur [mandiri prestasi](jalur_seleksi_jenjang) apa ya?
+    - Izin bertanya, tata cara pendaftaran jalur [mandiri](jalur_seleksi_jenjang) tahun ini bagaimana kak?
+
+
+
+- intent: tanya_prodi_fakultas
+  examples: |
+    - itu untuk jurusan nya apa saja ya kak?
+    - kalo untuk prodi [keperawatan](prodi) tidak ada ya kak?
+    - pagi min, izin bertanya terkait jurusan-jurusan di UIN Syarif Hidayatullah itu ada apa aja
+    - Ka mau tanya untuk jurusan di UIN apa aja ya?
+    - Assalamualaikum min maaf mengganggu waktu nya saya ingin menanyakan jurusan di UIN di bagian sosial karna saya jurusan nya waktu SMA IPS
+    - Waalaikumsalam saya mau nanya min jurusan yang ada buat anak IPS min
+    - katanya di UIN Jakarta sudah ada fakultas [menejemen haji dan umrah](fakultas) ya
+    - kalo itu termasuknya fakultas apa ya ka
+    - Jurusan [hukum Islam](prodi) / [ilmu syariah](prodi) konsentrasi [hukum ekonomi syariah](prodi)
+    - assalamualaikum permisi kak, maaf menganggu, aku ingin bertanya seputar jurusan [psikologi](prodi) [S1](jalur_seleksi_jenjang) bisa ngga ya?
+    - Lokasi dari prodi [manajemen pendidikan](prodi) itu dimana ya
+    - Prodi [akuntansi](prodi)
+    - apakah UIN Jakarta memiliki fakultas [managemen haji dan umroh](fakultas)?
+    - assalamualaikum ka ingin bertanya kalau jurusan [pendidikan agama islam](prodi) itu ada di [UTBK](jalur_seleksi_jenjang) ga sih kaa?
+    - halo izin bertanya untuk jurusan [psikologi](prodi) di UIN Jakarta itu umum atau Islam yaa? trimakasih
+    - Di UIN ada jurusan [ilmu komputer](prodi) gak min?
+    - fakultas kesehatan [farmasi](prodi) bisa ga ka?
+    - Min apakah di UIN ada jurusan komputer atau [ilmu komputer](prodi)?
+    - kalo fakultas [Hukum dan syariah](fakultas) gmn?
+    - Fakultas [sains dan teknologi](fakultas) kak
+    - Kalo ada bisa di fakultas apa saja
+    - Jurusannya apa semua ka kalau boleh tau
+    - min di UIN itu ada jurusan [keperawatan](prodi) kan?
+    - apakah di UIN Jakarta terdapat fakultas [kedokteran](fakultas)?
+    - hai min! apakah UIN Jakarta menyediakan fakultas [kedokteran](fakultas)?
+    - Dan ada fakultas apa aja kalo boleh tau
+    - Maaf ijin nanya untuk prodi [pendidikan Bahasa Inggris](prodi) itu terakreditasi apa kak
+    - Untuk jurusan nya ada apa aja ka?
+    - untuk jalur [umptkin](jalur_seleksi_jenjang) kira-kira ada prodi yang ga dibuka ga ya? kalau ada apa aja min?
+    - [kedokteran](prodi) apa buka di jalur [umptkin](jalur_seleksi_jenjang)?
+    - Maaf, kalau [farmasi](prodi) UIN JKT ada jalur [tahfidz](jalur_seleksi_jenjang) tidak ya? Terimakasih
+    - Halo min, saya mau tanya, adek saya tahfidz 30 juz, mau daftar beasiswa BLU, bisa masuk ke jurusan apa dan masuk melalui jalur apa ya min?
+    - halo min, apakah pada jalur ujian [SNBT](jalur_seleksi_jenjang) ada pilihan prodi [ilmu al-qur'an dan tafsir](prodi)?
+    - Kak, di UIN Jakarta ada prodi [teknik informatika](prodi) gak ya?
+    - Min, jurusan [sistem informasi](prodi) masuk fakultas apa kak?
+    - Assalamualaikum, mau tanya prodi [ilmu hukum](prodi) tersedia di UIN gak ya?
+    - Kak, untuk jurusan [komunikasi penyiaran islam](prodi) itu ada di fakultas apa?
+    - Min, kalau saya dari jurusan IPA, bisa ambil prodi [psikologi](prodi) gak?
+    - Apakah prodi [gizi](prodi) tersedia di UIN Jakarta kak?
+    - Kak, fakultas [ilmu tarbiyah dan keguruan](fakultas) punya jurusan apa saja?
+    - Min, untuk fakultas [ekonomi dan bisnis](fakultas), prodi yang tersedia apa aja ya?
+    - Saya mau tanya, jurusan [pendidikan dokter](prodi) ada di jalur [SNBT](jalur_seleksi_jenjang) gak?
+    - Kak, prodi [perbankan syariah](prodi) itu masuk fakultas mana ya?
+    - Di UIN ada jurusan [bahasa dan sastra arab](prodi) tidak kak?
+    - Min, untuk prodi [pendidikan matematika](prodi) akreditasinya apa ya?
+    - Kak, fakultas [adab dan humaniora](fakultas) jurusannya apa saja?
+    - Apakah jurusan [kesehatan masyarakat](prodi) tersedia di UIN Jakarta?
+    - Min, prodi [hukum keluarga islam](prodi) masuk fakultas [syariah dan hukum](fakultas) ya?
+    - Kak, kalau mau ambil [manajemen](prodi), fakultasnya apa ya?
+    - Untuk jalur [UM-PTKIN](jalur_seleksi_jenjang), prodi [pendidikan agama islam](prodi) dibuka gak kak?
+
+
+
+- intent: tanya_ujian
+  examples: |
+    - Assalamu'alaikum min, untuk tes [um-ptkin](jalur_seleksi_jenjang) online kah min?
+    - kalo saya minat, untuk test masuk full online atau gimana ka?
+    - Tes yang [mandiri](jalur_seleksi_jenjang) nya bisa secara offline dan online kan ka?
+    - Cara mengetahuinya kita tes online atau offline nya gimana kak?
+    - Pemilihan tes yang online sama offline nya ka
+    - Maksud saya kita tuh milih sendiri mau tes secara online atau offline atau dari pihak UIN nya sendiri yang nentuin?
+    - Tesnya pilih 1 hari saja ya
+    - Berapa jam kak test nya
+    - Kalo semisal ujian offline itu berarti datang ke tempatnya langsung bang?
+    - assalamu'alaikum minn, mau nanyaaa. ujian [mandiri](jalur_seleksi_jenjang) ga pake nilai UTBK kan?
+    - Mau nanya program tes kak
+    - utk materi yg akan diujikan itu apa aja yaa
+    - Ujiannya secara online atau offline yaa
+    - Bisa tes lagi lwt [mandiri](jalur_seleksi_jenjang) min?
+    - setiap pengetesan dilakukan semuanya secara luring minn
+    - kira-kira kalau [umptkin](jalur_seleksi_jenjang), daring di rumah atau online tapi datang ke tempat?
+    - maaf ka mau bertanya, kalo saya tinggal di Bandung dan tes [sse mandiri reguler](jalur_seleksi_jenjang) itu bisa dilaksanakan online dari rumah apa tidak?
+    - Selain tes apa aja kak yang ada
+    - Kalo tes yang [SSE](jalur_seleksi_jenjang) itu offline atau online ya kak?
+    - ka untuk ujiannya bisa pilih online atau offline ga? atau harus mendatangi UIN yang kita tuju?
+    - Saya ingin bertanya apakah saya bisa masuk UIN lewat tes UTBK saja atau harus menggunakan [umptikn](jalur_seleksi_jenjang) juga?
+    - untuk tes wawancara ini offline ya?
+    - kalo tes nya itu online atau offline min?
+    - Apakah tes dan asesmen nya bareng dgn umum
+    - untuk ujian [sse mandiri](jalur_seleksi_jenjang) UIN secara luring atau daring
+    - Kalau mau kuliah jalur [SNBT](jalur_seleksi_jenjang) test nya apa saja yaa
+    - assalamu'alaikum, maaf ganggu waktunyaa minnn. untuk tes jalur [mandiri](jalur_seleksi_jenjang) dari UIN ini mapel apa ajaa yaaa
+    - Kalau jalur [mandiri](jalur_seleksi_jenjang) tes nya online atau offline kak
+    - untuk jalur [mandiri](jalur_seleksi_jenjang) di UIN Jakarta di tesnya apa saja ya?
+    - Kalau jalur [mandiri](jalur_seleksi_jenjang) tes kedokteran harus luring di Jakarta ya kak
+    - Kak, untuk tes jalur [mandiri](jalur_seleksi_jenjang) sistemnya CBT atau tertulis ya?
+    - Min, ujian [UM-PTKIN](jalur_seleksi_jenjang) dilaksanakan online dari rumah atau harus datang ke lokasi?
+    - Kalau ikut jalur [SNBT](jalur_seleksi_jenjang), apakah masih perlu tes tambahan dari UIN?
+    - Kak, materi tes [mandiri](jalur_seleksi_jenjang) UIN itu meliputi apa saja?
+    - Untuk jalur [mandiri reguler](jalur_seleksi_jenjang), ujiannya dilaksanakan secara daring atau luring?
+    - Min, tes [SSE](jalur_seleksi_jenjang) itu wajib datang ke kampus atau bisa dari rumah?
+    - Kak, apakah peserta bisa memilih jadwal tes [mandiri](jalur_seleksi_jenjang) sendiri?
+    - Berapa lama durasi ujian jalur [UM-PTKIN](jalur_seleksi_jenjang) kak?
+    - Kalau daftar [kedokteran](prodi) lewat jalur [mandiri](jalur_seleksi_jenjang), tesnya apa aja ya?
+    - Min, untuk tes wawancara jalur [tahfidz](jalur_seleksi_jenjang) dilakukan online atau offline?
+    - Kak, ujian jalur [mandiri prestasi](jalur_seleksi_jenjang) ada tes tulis juga gak?
+    - Apakah tes jalur [non reguler](jalur_seleksi_jenjang) dilakukan secara langsung di UIN?
+    - Min, kalau saya di luar kota, bisa ikut tes [mandiri](jalur_seleksi_jenjang) secara online?
+    - Kak, untuk jalur [SNBT](jalur_seleksi_jenjang), tesnya cukup dari pusat atau ada tes kampus juga?
+    - Materi ujian [SSE Mandiri](jalur_seleksi_jenjang) UIN Jakarta apa saja ya min?
+    - Kalau tes [UMPTKIN](jalur_seleksi_jenjang), lokasi ujiannya ditentukan peserta atau panitia?
+    - Kak, apakah ujian [mandiri](jalur_seleksi_jenjang) menggunakan nilai rapor atau murni tes?
+    - Min, tes masuk UIN untuk jalur [mandiri](jalur_seleksi_jenjang) pakai sistem online gak?
+    - Apakah tes jalur [mandiri](jalur_seleksi_jenjang) bisa diikuti dari luar daerah kak?
+    - Kak, untuk program [S1](jalur_seleksi_jenjang), tes seleksinya ada berapa tahap?
+
+
+- intent: tanya_jalur
+  examples: |
+    - ka aku mau tanya tentang [japres tahfidz](jalur_seleksi_jenjang) itu gimana ya
+    - Untuk yg [mandiri](jalur_seleksi_jenjang) gmna ya ka
+    - bedanya [mandiri reguler](jalur_seleksi_jenjang) sama [non reguler](jalur_seleksi_jenjang) itu apa ya?
+    - Apa itu [reguler](jalur_seleksi_jenjang) dan [non reguler](jalur_seleksi_jenjang)
+    - Terus untuk wilayah Jawa Barat bisa mengikuti seleksi [mandiri](jalur_seleksi_jenjang) yang mana saja kak
+    - hallo min, selamat malam maaf ganggu waktunya. aku mau tanya apakah kalo gak ikut [utbk](jalur_seleksi_jenjang) tetep bisa ikut [mandiri](jalur_seleksi_jenjang) di UIN?
+    - Klo [UM PTKIN](jalur_seleksi_jenjang) boleh pilih 2 univ kah?
+    - [Mandiri reguler prestasi](jalur_seleksi_jenjang) bisa kak
+    - [umptkin](jalur_seleksi_jenjang) bisa untuk gap year ga ka?
+    - [mandiri](jalur_seleksi_jenjang) kak?
+    - Apa bedanya [SPAN-PTKIN](jalur_seleksi_jenjang) dengan [UM-PTKIN](jalur_seleksi_jenjang)
+    - Kalau kita ikut [umptkin](jalur_seleksi_jenjang) dan [mandiri non reguler](jalur_seleksi_jenjang) gmn ka
+    - Perbedaan [reguler](jalur_seleksi_jenjang) sama yang [non reguler](jalur_seleksi_jenjang) apa min?
+    - Beda nya [umptkin](jalur_seleksi_jenjang) sama [mandiri](jalur_seleksi_jenjang) apa ya ka?
+    - UIN Syarif ada jalur pendaftaran apa aja kak
+    - Assalamualaikum. Boleh tanya seputar [jalur prestasi tahfidz](jalur_seleksi_jenjang) 15 juz
+    - Assalamualaikum saya mau nanya apakah di UIN bisa masuk memakai [jalur tahfidz](jalur_seleksi_jenjang)?
+    - Yang lewat [jalur tahfidz](jalur_seleksi_jenjang) ada gak kak?
+    - [Jalur mandiri non reguler](jalur_seleksi_jenjang), beasiswa tahfidz
+    - [Jalur tahfidz](jalur_seleksi_jenjang)
+    - Terus kalau pakai [jalur tahfidz](jalur_seleksi_jenjang) bisa tidak
+    - ka aku mau tanya tentang [jalur prestasi tahfidz](jalur_seleksi_jenjang)
+    - mau tanya ada penerimaan dengan [jalur tahfidz](jalur_seleksi_jenjang) kan?
+    - kalo tahfidz itu pake jalur apa kak
+    - apakah ada [jalur al quran](jalur_seleksi_jenjang) ka?
+    - Ada [jalur al quran](jalur_seleksi_jenjang), tidak kak?
+    - Hallo kak mau daftar kuliah di UIN lewat [jalur tahfidz](jalur_seleksi_jenjang)
+    - Apakah bisa daftar menggunakan [jalur tahfidz](jalur_seleksi_jenjang) sekarang?
+    - Kak, mau nanya apakah ada pendaftaran lewat [jalur tahfidz](jalur_seleksi_jenjang) ini
+    - Hmm jadi yg bisa cuman jalur [mandiri](jalur_seleksi_jenjang) ya
+    - Mohon maaf bertanya informasi terkait jalur [mandiri](jalur_seleksi_jenjang) bisa pak?
+    - ka kalo jalur beasiswa ikutnya apa
+    - Assalamu'alaikum, mohon info jalur [mandiri](jalur_seleksi_jenjang)
+    - Aku mau nanya mengenai jalur masuk UIN Jakarta apa saja kak?
+    - Ada berapa jalur untuk masuk ke UIN saat ini
+    - permisi kak, untuk [kesmas](prodi) itu terdapat di jalur apa saja ya kak?
+    - perbedaan [snpmb mandiri](jalur_seleksi_jenjang) sama [mandiri reguler](jalur_seleksi_jenjang) apa aja ya ka?
+    - Untuk pendaftarannya bisa jalur apa saja ya ka? Dan bagaimana?
+    - Kak, jalur [SNBP](jalur_seleksi_jenjang) di UIN Jakarta itu tersedia untuk prodi apa saja?
+    - Min, kalau tidak lolos [SNBT](jalur_seleksi_jenjang), masih bisa ikut jalur [mandiri](jalur_seleksi_jenjang) gak?
+    - Assalamualaikum, mau tanya jalur masuk UIN selain [UM-PTKIN](jalur_seleksi_jenjang) apa saja ya?
+    - Kak, untuk prodi [kedokteran](prodi) bisa daftar lewat jalur [mandiri](jalur_seleksi_jenjang) gak?
+    - Min, jalur [SPAN-PTKIN](jalur_seleksi_jenjang) itu khusus sekolah tertentu atau umum?
+    - Apa bedanya jalur [mandiri prestasi](jalur_seleksi_jenjang) dengan [mandiri reguler](jalur_seleksi_jenjang) kak?
+    - Kak, kalau saya lulusan tahun lalu masih bisa daftar lewat [UM-PTKIN](jalur_seleksi_jenjang)?
+    - Untuk jalur [tahfidz](jalur_seleksi_jenjang), apakah termasuk seleksi [mandiri non reguler](jalur_seleksi_jenjang)?
+    - Min, kalau mau masuk prodi [farmasi](prodi), bisa lewat jalur apa saja?
+    - Kak, apakah jalur [SNBT](jalur_seleksi_jenjang) dan [UM-PTKIN](jalur_seleksi_jenjang) bisa diikuti bersamaan?
+    - Saya mau tanya, jalur [beasiswa tahfidz](jalur_seleksi_jenjang) masih dibuka gak ya?
+    - Kak, untuk masuk UIN Jakarta ada jalur [reguler](jalur_seleksi_jenjang) dan [non reguler](jalur_seleksi_jenjang) ya?
+
+
+- intent: uang_pangkal
+  examples: |
+    - ada uang pangkal g
+    - Assalammualaikum min kalo di uin ada IPI gak apa cuman UKT doang
+    - Min, kalo daftar mandiri ada uang gedung nya juga nggak?
+    - Kak, mau nanya nih, kalo lolos mandiri, cuma bayar UKT apa ada sumbangan lain?
+    - Apakah selain UKT, ada biaya uang pangkal untuk jalur mandiri?
+    - Kalo diterima lewat jalur mandiri, bayar IPI lagi nggak sih min?
+    - Mohon info dong, biaya masuk jalur mandiri itu cuma UKT atau ada uang bangunan?
+    - Halo admin, untuk jalur mandiri apa ada biaya awal selain UKT?
+    - Nanya nih, kalo di uin ini, mandiri ada uang pengembangan institusi gak?
+    - Berapa ya perkiraan uang pangkal untuk program studi tertentu?
+    - Kak, apa bener kalo mandiri itu gak kena uang gedung?
+    - Selain UKT, ada biaya IPI yang musti dibayar nggak?
+    - Untuk jalur mandiri, apakah ada biaya tambahan kaya uang pangkal?
+    - Min, mau tanya, kalo keterima jalur mandiri, apa ada uang pembangunan kampus?
+    - Gini min, mau mastiin aja, mandiri itu beneran cuma UKT aja kan ya? Gaada uang pangkalnya?
+    - Apakah ada sumbangan dana selain UKT untuk mahasiswa jalur mandiri?
+    - Min, adakah uang gedung di kampus ini untuk jalur mandiri?
+    - Kalo masuk lewat jalur mandiri, itu ada biaya awal lagi gak ya selain spp?
+    - Info dong kak, kalo mandiri ada uang IPI nya atau gimana cara bayarnya?
+    - Permisi, mau nanya, biaya masuk mandiri apakah sudah termasuk uang pangkal atau terpisah?
+    - Kak, mau tanya, uang pangkal di jurusan apa saja ya?
+    - Apakah kampus ini memberlakukan uang gedung untuk semua jalur mandiri?
+    - Selain UKT, ada biaya bangunan nggak kak di jalur mandiri?
+    - Min, bener ga sih kalo jalur mandiri itu ga ada uang pangkal?
+    - Mohon infonya, apakah ada biaya pengembangan institusi untuk maba jalur mandiri?
+    - Aku mau nanya nih, jalur mandiri itu ada biaya di luar UKT gak sih?
+    - Min, kalo mandiri cuma UKT doang apa ada uang pangkalnya?
+    - Apakah ada biaya sumbangan lain selain UKT untuk jalur mandiri?
+    - Nanya dong, kalo di universitas ini jalur mandiri itu ada uang gedung apa nggak?
+    - Untuk jurusan tertentu, apakah ada IPI yang harus dibayar?
+    - Kak, apa uang pangkal di jalur mandiri itu wajib dibayarkan?
+    - Selain UKT, aku harus bayar uang pangkal lagi nggak ya kak kalo masuk mandiri?
+    - Min, berapa biaya uang pembangunan untuk mahasiswa mandiri?
+    - Biaya masuk jalur mandiri, apakah ada uang gedung lagi?
+    - Kalo mandiri, ada biaya sumbangan yang besar nggak sih?
+    - Min, uang pangkal itu berapa ya kalo masuk fakultas kedokteran jalur mandiri?
+    - Ada biaya masuk awal yang gede gak sih selain UKT buat jalur mandiri?
+    - Apakah ada biaya gedung lagi kalau lewat jalur mandiri?
+    - Berapa besar uang pangkal untuk jalur mandiri?
+    - Biaya IPI untuk jalur mandiri di kampus ini berapa ya?
+    - Min, selain UKT, apakah ada biaya tambahan lainnya kaya uang bangunan gitu?
+    - Kalo lolos mandiri, ada bayar uang gedung apa cuma UKT doang?
+
+- intent: out_of_scope
+  examples: |
+    - Siapa presiden Indonesia pertama?
+    - Bagaimana cara memasak rendang?
+    - Cuaca hari ini di Bandung bagaimana?
+    - Tolong buatkan puisi tentang hujan.
+    - Harga iPhone terbaru berapa?
+    - Apa arti mimpi jatuh dari ketinggian?
+    - Jadwal konser Coldplay kapan?
+    - Cara top up e-wallet gimana?
+    - Bisa bantu translate bahasa Jepang?
+    - Siapa pemain terbaik Piala Dunia 2022?
+    - Ceritakan sejarah Majapahit.
+    - Saya mau pesan makanan.
+    - Tolong rekomendasikan laptop gaming.
+    - Cara mengobati flu secara alami?
+    - Berapa kurs dollar hari ini?
+    - Bagaimana cara daftar Shopee Affiliate?
+    - Apa manfaat olahraga pagi?
+    - Buatkan caption Instagram aesthetic.
+    - Kapan libur nasional berikutnya?
+    - Cara menghapus akun Facebook?
+    - Siapa founder Google?
+    - Apa itu bitcoin?
+    - Tolong buatkan CV kerja.
+    - Rekomendasi tempat wisata di Bali.
+    - Bagaimana cara diet cepat?
+    - Film horor terbaik tahun ini apa?
+    - Cara cek nomor BPJS.
+    - Saya ingin beli motor bekas.
+    - Apa penyebab gempa bumi?
+    - Buatkan pantun lucu.
+    - Bagaimana cara menjadi content creator?
+    - Tolong hitungkan 25 x 48.
+    - Apa hukum puasa saat sakit?
+    - Cara install Windows 11.
+    - Siapa penyanyi lagu Someone Like You?
+    - Berapa umur Cristiano Ronaldo?
+    - Apa manfaat minum kopi?
+    - Cara membuat website gratis.
+    - Rekomendasi drama Korea romantis.
+    - Bagaimana cara belajar saham?
+    - Apa itu machine learning?
+    - Tolong carikan resep seblak.
+    - Siapa gubernur Jawa Barat sekarang?
+    - Cara mendapatkan uang dari TikTok?
+    - Apa beda PDF dan DOCX?
+    - Kapan Ramadan tahun depan?
+    - Cara memperbaiki WiFi yang lemot.
+    - Apa arti kata random?
+    - Tolong buat surat izin sakit.
+    - Bagaimana cara ternak lele?
+    - Siapa pacar Taylor Swift?
+    - Cara download video YouTube.
+    - Rekomendasi skincare untuk kulit berminyak.
+    - Apa itu AI generatif?
+    - Bisa bantu ramalan zodiak?
+    - Bagaimana cara membuat akun Gmail?
+    - Tolong buat logo usaha saya.
+    - Cara mengurus SIM hilang.
+    - Apa makanan khas Korea?
+    - Berapa tinggi Menara Eiffel?
+
+
+- intent: inform
+  examples: |
+    - [UM-PTKIN](jalur_seleksi_jenjang)
+    - [umptkin](jalur_seleksi_jenjang)
+    - [SNBT](jalur_seleksi_jenjang)
+    - [SNBP](jalur_seleksi_jenjang)
+    - [SPAN-PTKIN](jalur_seleksi_jenjang)
+    - [span ptkin](jalur_seleksi_jenjang)
+    - [SPMB Mandiri](jalur_seleksi_jenjang)
+    - [Mandiri](jalur_seleksi_jenjang)
+    - [Pascasarjana S2/Magister](jalur_seleksi_jenjang)
+    - [Pascasarjana S3/Doktor](jalur_seleksi_jenjang)
+    - [Profesi](jalur_seleksi_jenjang)
+    - [Spesialis](jalur_seleksi_jenjang)
+    - kalo [UM-PTKIN](jalur_seleksi_jenjang)?
+    - kalau [UM-PTKIN](jalur_seleksi_jenjang)?
+    - kalo [umptkin](jalur_seleksi_jenjang)?
+    - kalau [umptkin](jalur_seleksi_jenjang)?
+    - kalo [SNBT](jalur_seleksi_jenjang)?
+    - kalau [SNBT](jalur_seleksi_jenjang)?
+    - kalo [SNBP](jalur_seleksi_jenjang)?
+    - kalau [SNBP](jalur_seleksi_jenjang)?
+    - kalo [SPAN-PTKIN](jalur_seleksi_jenjang)?
+    - kalau [SPAN-PTKIN](jalur_seleksi_jenjang)?
+    - kalo [SPMB Mandiri](jalur_seleksi_jenjang)?
+    - kalau [SPMB Mandiri](jalur_seleksi_jenjang)?
+    - kalo [Mandiri](jalur_seleksi_jenjang)?
+    - kalau [Mandiri](jalur_seleksi_jenjang)?
+    - yang [UM-PTKIN](jalur_seleksi_jenjang)
+    - yang [SNBT](jalur_seleksi_jenjang)
+    - yang [SNBP](jalur_seleksi_jenjang)
+    - yang [SPAN-PTKIN](jalur_seleksi_jenjang)
+    - yang [SPMB Mandiri](jalur_seleksi_jenjang)
+    - yang [Mandiri](jalur_seleksi_jenjang)
+    - untuk [UM-PTKIN](jalur_seleksi_jenjang)
+    - untuk [SNBT](jalur_seleksi_jenjang)
+    - untuk [SNBP](jalur_seleksi_jenjang)
+    - untuk [SPAN-PTKIN](jalur_seleksi_jenjang)
+    - untuk [SPMB Mandiri](jalur_seleksi_jenjang)
+    - untuk [Mandiri](jalur_seleksi_jenjang)
+    - jalur [UM-PTKIN](jalur_seleksi_jenjang)
+    - jalur [SNBT](jalur_seleksi_jenjang)
+    - jalur [SNBP](jalur_seleksi_jenjang)
+    - jalur [SPAN-PTKIN](jalur_seleksi_jenjang)
+    - jalur [SPMB Mandiri](jalur_seleksi_jenjang)
+    - jalur [Mandiri](jalur_seleksi_jenjang)
+    - [TI](prodi)
+    - [SI](prodi)
+    - [Teknik Informatika](prodi)
+    - [Sistem Informasi](prodi)
+    - [Fisika](prodi)
+    - [Kimia](prodi)
+    - [Biologi](prodi)
+    - [Matematika](prodi)
+    - [Akuntansi](prodi)
+    - [Manajemen](prodi)
+    - [Agribisnis](prodi)
+    - [Farmasi](prodi)
+    - [Kedokteran](prodi)
+    - [Kesehatan Masyarakat](prodi)
+    - [Ilmu Keperawatan](prodi)
+    - [Jurnalistik](prodi)
+    - [Manajemen Dakwah](prodi)
+    - [Komunikasi Penyiaran Islam](prodi)
+    - [Bimbingan dan Penyuluhan Islam](prodi)
+    - [Psikologi](prodi)
+    - [Ilmu Hukum](prodi)
+    - [Ilmu Politik](prodi)
+    - [Sosiologi](prodi)
+    - [Ekonomi Pembangunan](prodi)
+    - kalo [TI](prodi)?
+    - kalau [TI](prodi)?
+    - kalo [SI](prodi)?
+    - kalau [SI](prodi)?
+    - kalo [Teknik Informatika](prodi)?
+    - kalau [Teknik Informatika](prodi)?
+    - kalo [Sistem Informasi](prodi)?
+    - kalau [Sistem Informasi](prodi)?
+    - kalo [Fisika](prodi)?
+    - kalau [Fisika](prodi)?
+    - kalo [Kimia](prodi)?
+    - kalau [Kimia](prodi)?
+    - kalo [Biologi](prodi)?
+    - kalau [Biologi](prodi)?
+    - kalo [Matematika](prodi)?
+    - kalau [Matematika](prodi)?
+    - kalo [Akuntansi](prodi)?
+    - kalau [Akuntansi](prodi)?
+    - kalo [Manajemen](prodi)?
+    - kalau [Manajemen](prodi)?
+    - kalo [Agribisnis](prodi)?
+    - kalau [Agribisnis](prodi)?
+    - kalo [Farmasi](prodi)?
+    - kalau [Farmasi](prodi)?
+    - kalo [Kedokteran](prodi)?
+    - kalau [Kedokteran](prodi)?
+    - kalo [Manajemen Dakwah](prodi)?
+    - kalau [Manajemen Dakwah](prodi)?
+    - yang [TI](prodi)
+    - yang [SI](prodi)
+    - yang [Teknik Informatika](prodi)
+    - yang [Sistem Informasi](prodi)
+    - yang [Fisika](prodi)
+    - yang [Akuntansi](prodi)
+    - yang [Agribisnis](prodi)
+    - yang [Farmasi](prodi)
+    - yang [Kedokteran](prodi)
+    - yang [Manajemen Dakwah](prodi)
+    - untuk [TI](prodi)
+    - untuk [SI](prodi)
+    - untuk [Teknik Informatika](prodi)
+    - untuk [Sistem Informasi](prodi)
+    - untuk [Fisika](prodi)
+    - untuk [Akuntansi](prodi)
+    - untuk [Agribisnis](prodi)
+    - untuk [Farmasi](prodi)
+    - untuk [Kedokteran](prodi)
+    - untuk [Manajemen Dakwah](prodi)
+    - prodi [TI](prodi)
+    - prodi [SI](prodi)
+    - prodi [Teknik Informatika](prodi)
+    - prodi [Sistem Informasi](prodi)
+    - prodi [Fisika](prodi)
+    - prodi [Akuntansi](prodi)
+    - prodi [Agribisnis](prodi)
+    - prodi [Farmasi](prodi)
+    - prodi [Kedokteran](prodi)
+    - prodi [Manajemen Dakwah](prodi)
+    - [FST](fakultas)
+    - [FEB](fakultas)
+    - [FDIKOM](fakultas)
+    - [FITK](fakultas)
+    - [FAH](fakultas)
+    - [FSH](fakultas)
+    - [FUF](fakultas)
+    - [FISIP](fakultas)
+    - [FIKES](fakultas)
+    - [FK](fakultas)
+    - [Fakultas Sains dan Teknologi](fakultas)
+    - [Fakultas Ekonomi dan Bisnis](fakultas)
+    - [Fakultas Dakwah dan Ilmu Komunikasi](fakultas)
+    - [Fakultas Ilmu Tarbiyah dan Keguruan](fakultas)
+    - kalo [FST](fakultas)?
+    - kalau [FST](fakultas)?
+    - kalo [FEB](fakultas)?
+    - kalau [FEB](fakultas)?
+    - kalo [FDIKOM](fakultas)?
+    - kalau [FDIKOM](fakultas)?
+    - kalo [FITK](fakultas)?
+    - kalau [FITK](fakultas)?
+    - yang [FST](fakultas)
+    - yang [FEB](fakultas)
+    - yang [FDIKOM](fakultas)
+    - yang [FITK](fakultas)
+    - untuk [FST](fakultas)
+    - untuk [FEB](fakultas)
+    - untuk [FDIKOM](fakultas)
+    - untuk [FITK](fakultas)
+    - [UKT](jenis_biaya)
+    - [uang kuliah tunggal](jenis_biaya)
+    - [biaya pendaftaran](jenis_biaya)
+    - [pendaftaran](jenis_biaya)
+    - [matrikulasi](jenis_biaya)
+    - [biaya matrikulasi](jenis_biaya)
+    - [formulir](jenis_biaya)
+    - kalo [UKT](jenis_biaya)?
+    - kalau [UKT](jenis_biaya)?
+    - kalo [uang kuliah tunggal](jenis_biaya)?
+    - kalau [uang kuliah tunggal](jenis_biaya)?
+    - kalo [biaya pendaftaran](jenis_biaya)?
+    - kalau [biaya pendaftaran](jenis_biaya)?
+    - kalo [pendaftaran](jenis_biaya)?
+    - kalau [pendaftaran](jenis_biaya)?
+    - kalo [matrikulasi](jenis_biaya)?
+    - kalau [matrikulasi](jenis_biaya)?
+    - yang [UKT](jenis_biaya)
+    - yang [pendaftaran](jenis_biaya)
+    - yang [matrikulasi](jenis_biaya)
+    - untuk [UKT](jenis_biaya)
+    - untuk [biaya pendaftaran](jenis_biaya)
+    - untuk [matrikulasi](jenis_biaya)
+    - [KIP Kuliah](jenis_beasiswa)
+    - [KIP](jenis_beasiswa)
+    - [beasiswa](jenis_beasiswa)
+    - [KJMU](jenis_beasiswa)
+    - [beasiswa prestasi](jenis_beasiswa)
+    - [beasiswa tahfidz](jenis_beasiswa)
+    - kalo [KIP Kuliah](jenis_beasiswa)?
+    - kalau [KIP Kuliah](jenis_beasiswa)?
+    - kalo [KIP](jenis_beasiswa)?
+    - kalau [KIP](jenis_beasiswa)?
+    - kalo [beasiswa](jenis_beasiswa)?
+    - kalau [beasiswa](jenis_beasiswa)?
+    - kalo [KJMU](jenis_beasiswa)?
+    - kalau [KJMU](jenis_beasiswa)?
+    - yang [KIP Kuliah](jenis_beasiswa)
+    - yang [KIP](jenis_beasiswa)
+    - yang [beasiswa](jenis_beasiswa)
+    - untuk [KIP Kuliah](jenis_beasiswa)
+    - untuk [KIP](jenis_beasiswa)
+    - untuk [beasiswa](jenis_beasiswa)
+    - [transfer](metode_pembayaran)
+    - [transfer bank](metode_pembayaran)
+    - [transfer antar bank](metode_pembayaran)
+    - [teller](metode_pembayaran)
+    - [teller bank](metode_pembayaran)
+    - [mobile banking](metode_pembayaran)
+    - [m banking](metode_pembayaran)
+    - [m-banking](metode_pembayaran)
+    - [internet banking](metode_pembayaran)
+    - [virtual account](metode_pembayaran)
+    - [VA](metode_pembayaran)
+    - [ATM](metode_pembayaran)
+    - [online](metode_pembayaran)
+    - [allpayment](metode_pembayaran)
+    - [all payment](metode_pembayaran)
+    - kalo [transfer](metode_pembayaran)?
+    - kalau [transfer bank](metode_pembayaran)?
+    - kalo [teller](metode_pembayaran)?
+    - kalau [teller bank](metode_pembayaran)?
+    - kalo [mobile banking](metode_pembayaran)?
+    - kalau [m banking](metode_pembayaran)?
+    - kalo [internet banking](metode_pembayaran)?
+    - kalau [virtual account](metode_pembayaran)?
+    - kalo [VA](metode_pembayaran)?
+    - kalau [ATM](metode_pembayaran)?
+    - kalo [online](metode_pembayaran)?
+    - kalau [allpayment](metode_pembayaran)?
+    - lewat [transfer](metode_pembayaran)
+    - lewat [transfer bank](metode_pembayaran)
+    - lewat [teller](metode_pembayaran)
+    - lewat [mobile banking](metode_pembayaran)
+    - lewat [internet banking](metode_pembayaran)
+    - lewat [virtual account](metode_pembayaran)
+    - lewat [VA](metode_pembayaran)
+    - lewat [ATM](metode_pembayaran)
+    - via [transfer](metode_pembayaran)
+    - via [transfer bank](metode_pembayaran)
+    - via [teller](metode_pembayaran)
+    - via [mobile banking](metode_pembayaran)
+    - via [internet banking](metode_pembayaran)
+    - via [virtual account](metode_pembayaran)
+    - via [VA](metode_pembayaran)
+    - via [ATM](metode_pembayaran)
+    - [BNI](bank)
+    - [BRI](bank)
+    - [BSI](bank)
+    - [Mandiri](bank)
+    - [BTN](bank)
+    - kalo [BNI](bank)?
+    - kalau [BNI](bank)?
+    - kalo [BRI](bank)?
+    - kalau [BRI](bank)?
+    - kalo [BSI](bank)?
+    - kalau [BSI](bank)?
+    - kalo [Mandiri](bank)?
+    - kalau [Mandiri](bank)?
+    - lewat [ATM](metode_pembayaran) [BNI](bank)
+    - lewat [ATM](metode_pembayaran) [BRI](bank)
+    - lewat [mobile banking](metode_pembayaran) [BSI](bank)
+    - lewat [mobile banking](metode_pembayaran) [Mandiri](bank)
+    - via [virtual account](metode_pembayaran) [BNI](bank)
+    - via [virtual account](metode_pembayaran) [BRI](bank)
+    - via [teller](metode_pembayaran) [BSI](bank)
+    - kalo [UM-PTKIN](jalur_seleksi_jenjang)?
+    - kalau [UM-PTKIN](jalur_seleksi_jenjang)?
+    - kalo [SNBT](jalur_seleksi_jenjang)?
+    - kalau [SNBP](jalur_seleksi_jenjang)?
+    - kalo [SPMB Mandiri](jalur_seleksi_jenjang)?
+    - kalau [Mandiri](jalur_seleksi_jenjang)?
+    - kalo [TI](prodi)?
+    - kalau [SI](prodi)?
+    - kalo [Fisika](prodi)?
+    - kalau [Akuntansi](prodi)?

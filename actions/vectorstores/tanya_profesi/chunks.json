@@ -1,0 +1,704 @@
+[
+  {
+    "id": "baf0057dde4d1ac825ce09f6c7fa982e",
+    "source_file": "cara_bayar_pendaftaran_s2_s3.md",
+    "heading": "# Cara Bayar Pendaftaran S2 & S3 & Profesi BANK BTN",
+    "parent_context": "Cara Bayar Pendaftaran S2 & S3 & Profesi BANK BTN",
+    "intents": [
+      "cara_bayar",
+      "tanya_pascasarjana",
+      "tanya_profesi"
+    ],
+    "topik": "Tata Cara Pembayaran Pendaftaran S2 S3 Pascasarjana Magister Doktor Profesi Spesialis",
+    "alias_topik": [
+      "pembayaran pascasarjana",
+      "pembayaran S2",
+      "pembayaran S3",
+      "pembayaran magister",
+      "pembayaran doktor",
+      "pembayaran profesi",
+      "pembayaran spesialis",
+      "bayar pendaftaran pascasarjana",
+      "bayar pendaftaran S2",
+      "bayar pendaftaran S3",
+      "bayar pendaftaran profesi",
+      "bayar pendaftaran spesialis",
+      "cara bayar pascasarjana BTN",
+      "cara bayar S2 BTN",
+      "cara bayar S3 BTN",
+      "cara bayar profesi BTN",
+      "cara bayar spesialis BTN"
+    ],
+    "search_text": "Judul: Tata Cara Pembayaran Pendaftaran S2 S3 Pascasarjana Magister Doktor Profesi Spesialis\nKonteks: Cara Bayar Pendaftaran S2 & S3 & Profesi BANK BTN\nAlias: pembayaran pascasarjana, pembayaran S2, pembayaran S3, pembayaran magister, pembayaran doktor, pembayaran profesi, pembayaran spesialis, bayar pendaftaran pascasarjana, bayar pendaftaran S2, bayar pendaftaran S3, bayar pendaftaran profesi, bayar pendaftaran spesialis, cara bayar pascasarjana BTN, cara bayar S2 BTN, cara bayar S3 BTN, cara bayar profesi BTN, cara bayar spesialis BTN\nIntent: cara_bayar, tanya_pascasarjana, tanya_profesi\n\n# Cara Bayar Pendaftaran S2 & S3 & Profesi BANK BTN\n\nBank BTN\n1. Melalui Teller Bank BTN\nDatang ke kantor cabang Bank BTN terdekat.\nIsi slip setoran dengan mencantumkan salah satu nomor berikut:\nKode Bayar SPMB Mandiri (bagi Calon Mahasiswa Pascasarjana dan Profesi) — tertera setelah klik Generate Kode Bayar di spmb.uinjkt.ac.id\nNomor Ujian (bagi yang lulus seleksi) — tertera pada kartu ujian seleksi\nBawa slip setoran ke Teller.\nBayar sesuai jumlah yang ditentukan.\n\n2. Melalui ATM Bank BTN\nMasukkan Kartu ATM Bank BTN\nPilih Bahasa Indonesia → Lanjutkan\nKetik Nomor PIN ATM\nPilih Transaksi Lainnya → Pembayaran → Multipayment → Pendidikan\nMasukkan Kode UIN Syarif Hidayatullah Jakarta diikuti nomor Kode Bayar / Nomor Ujian / NIM\nTekan BENAR\nCek identitas dan jumlah pembayaran di layar, tekan BENAR jika sudah sesuai\nBukti pembayaran akan tercetak jika transaksi berhasil\n\n---",
+    "content": "# Cara Bayar Pendaftaran S2 & S3 & Profesi BANK BTN\n\nBank BTN\n1. Melalui Teller Bank BTN\nDatang ke kantor cabang Bank BTN terdekat.\nIsi slip setoran dengan mencantumkan salah satu nomor berikut:\nKode Bayar SPMB Mandiri (bagi Calon Mahasiswa Pascasarjana dan Profesi) — tertera setelah klik Generate Kode Bayar di spmb.uinjkt.ac.id\nNomor Ujian (bagi yang lulus seleksi) — tertera pada kartu ujian seleksi\nBawa slip setoran ke Teller.\nBayar sesuai jumlah yang ditentukan.\n\n2. Melalui ATM Bank BTN\nMasukkan Kartu ATM Bank BTN\nPilih Bahasa Indonesia → Lanjutkan\nKetik Nomor PIN ATM\nPilih Transaksi Lainnya → Pembayaran → Multipayment → Pendidikan\nMasukkan Kode UIN Syarif Hidayatullah Jakarta diikuti nomor Kode Bayar / Nomor Ujian / NIM\nTekan BENAR\nCek identitas dan jumlah pembayaran di layar, tekan BENAR jika sudah sesuai\nBukti pembayaran akan tercetak jika transaksi berhasil\n\n---"
+  },
+  {
+    "id": "cc1a21cb14e31f6ef1bfe8fca53a90cf",
+    "source_file": "cara_bayar_pendaftaran_s2_s3.md",
+    "heading": "# Cara Bayar Pendaftaran S2 & S3 & Profesi BANK MEGA SYARIAH",
+    "parent_context": "Cara Bayar Pendaftaran S2 & S3 & Profesi BANK MEGA SYARIAH",
+    "intents": [
+      "cara_bayar",
+      "tanya_pascasarjana",
+      "tanya_profesi"
+    ],
+    "topik": "Tata Cara Pembayaran Pendaftaran S2 S3 Pascasarjana Magister Doktor Profesi Spesialis via Bank Mega Syariah",
+    "alias_topik": [
+      "pembayaran pascasarjana mega syariah",
+      "pembayaran S2 mega syariah",
+      "pembayaran S3 mega syariah",
+      "pembayaran magister mega syariah",
+      "pembayaran doktor mega syariah",
+      "pembayaran profesi mega syariah",
+      "pembayaran spesialis mega syariah",
+      "bayar pendaftaran pascasarjana mega syariah",
+      "bayar pendaftaran S2 mega syariah",
+      "bayar pendaftaran S3 mega syariah",
+      "bayar pendaftaran profesi mega syariah",
+      "bayar pendaftaran spesialis mega syariah",
+      "cara bayar pascasarjana mega syariah",
+      "cara bayar S2 mega syariah",
+      "cara bayar S3 mega syariah",
+      "cara bayar profesi mega syariah",
+      "cara bayar spesialis mega syariah",
+      "cara bayar m syariah",
+      "pembayaran virtual account mega syariah"
+    ],
+    "search_text": "Judul: Tata Cara Pembayaran Pendaftaran S2 S3 Pascasarjana Magister Doktor Profesi Spesialis via Bank Mega Syariah\nKonteks: Cara Bayar Pendaftaran S2 & S3 & Profesi BANK MEGA SYARIAH\nAlias: pembayaran pascasarjana mega syariah, pembayaran S2 mega syariah, pembayaran S3 mega syariah, pembayaran magister mega syariah, pembayaran doktor mega syariah, pembayaran profesi mega syariah, pembayaran spesialis mega syariah, bayar pendaftaran pascasarjana mega syariah, bayar pendaftaran S2 mega syariah, bayar pendaftaran S3 mega syariah, bayar pendaftaran profesi mega syariah, bayar pendaftaran spesialis mega syariah, cara bayar pascasarjana mega syariah, cara bayar S2 mega syariah, cara bayar S3 mega syariah, cara bayar profesi mega syariah, cara bayar spesialis mega syariah, cara bayar m syariah, pembayaran virtual account mega syariah\nIntent: cara_bayar, tanya_pascasarjana, tanya_profesi\n\n# Cara Bayar Pendaftaran S2 & S3 & Profesi BANK MEGA SYARIAH\n\nBank Mega Syariah\n\nSebelum melakukan pembayaran, siapkan salah satu nomor berikut:\n- Kode Bayar SPMB Mandiri — tertera setelah klik Generate Kode Bayar di spmb.uinjkt.ac.id\n- Nomor Ujian (bagi yang lulus seleksi) — tertera pada kartu ujian seleksi\n\n1. Melalui Teller Bank Mega Syariah\nDatang ke Teller Bank Mega Syariah.\nTunjukkan Nomor Virtual Account kepada petugas.\nPetugas akan menginput data Nomor Virtual Account.\nInformasikan nominal transaksi pembayaran.\nTerima struk Bukti Pembayaran.\n\n2. Melalui ATM Bank Mega Syariah\nInput PIN ATM.\nPilih Menu E-Payment → Layar Berikutnya.\nPilih Menu Virtual Account.\nInput Nomor Virtual Account.\nInput Nominal Pembayaran.\nKonfirmasi transaksi → Pilih Bayar.\nStruk bukti bayar akan keluar.\n\n3. Melalui Aplikasi M-Syariah (Android & iOS)\nLogin ke aplikasi M-Syariah.\nPilih menu Pembayaran.\nPilih menu MS VA.\nMasukkan ID Virtual Account, simpan dan lanjutkan.\nMasukkan PIN Transaksi.\nTransaksi selesai — bukti pembayaran akan muncul di layar.",
+    "content": "# Cara Bayar Pendaftaran S2 & S3 & Profesi BANK MEGA SYARIAH\n\nBank Mega Syariah\n\nSebelum melakukan pembayaran, siapkan salah satu nomor berikut:\n- Kode Bayar SPMB Mandiri — tertera setelah klik Generate Kode Bayar di spmb.uinjkt.ac.id\n- Nomor Ujian (bagi yang lulus seleksi) — tertera pada kartu ujian seleksi\n\n1. Melalui Teller Bank Mega Syariah\nDatang ke Teller Bank Mega Syariah.\nTunjukkan Nomor Virtual Account kepada petugas.\nPetugas akan menginput data Nomor Virtual Account.\nInformasikan nominal transaksi pembayaran.\nTerima struk Bukti Pembayaran.\n\n2. Melalui ATM Bank Mega Syariah\nInput PIN ATM.\nPilih Menu E-Payment → Layar Berikutnya.\nPilih Menu Virtual Account.\nInput Nomor Virtual Account.\nInput Nominal Pembayaran.\nKonfirmasi transaksi → Pilih Bayar.\nStruk bukti bayar akan keluar.\n\n3. Melalui Aplikasi M-Syariah (Android & iOS)\nLogin ke aplikasi M-Syariah.\nPilih menu Pembayaran.\nPilih menu MS VA.\nMasukkan ID Virtual Account, simpan dan lanjutkan.\nMasukkan PIN Transaksi.\nTransaksi selesai — bukti pembayaran akan muncul di layar."
+  },
+  {
+    "id": "adf4df79871b641fb50aac8dfc63ea4b",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Pendaftaran",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Pendaftaran",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pendaftaran Program Profesi Dokter",
+    "alias_topik": [
+      "daftar profesi dokter",
+      "link pendaftaran profesi dokter"
+    ],
+    "search_text": "Judul: Pendaftaran Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Pendaftaran\nAlias: daftar profesi dokter, link pendaftaran profesi dokter\nIntent: tanya_profesi, tanya_prosedur_pendaftaran, tanya_link\n\n## Pendaftaran\n\nSelamat Datang, Calon Mahasiswa Program Profesi Dokter! Silakan melakukan pendaftaran dengan mengunjungi link berikut:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_pd.zul",
+    "content": "## Pendaftaran\n\nSelamat Datang, Calon Mahasiswa Program Profesi Dokter! Silakan melakukan pendaftaran dengan mengunjungi link berikut:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_pd.zul"
+  },
+  {
+    "id": "d41a28e0e3167c4ba75f259aedec7a84",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Prosedur Login Formulir Calon Mahasiswa",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Prosedur Login Formulir Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prosedur Login Formulir Calon Mahasiswa Program Profesi Dokter",
+    "alias_topik": [
+      "login formulir profesi dokter",
+      "ID PIN profesi dokter",
+      "kode bayar profesi dokter"
+    ],
+    "search_text": "Judul: Prosedur Login Formulir Calon Mahasiswa Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Prosedur Login Formulir Calon Mahasiswa\nAlias: login formulir profesi dokter, ID PIN profesi dokter, kode bayar profesi dokter\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n## Prosedur Login Formulir Calon Mahasiswa\n\n1. Calon mahasiswa sudah melakukan proses Generate Kode Bayar.\n2. Calon mahasiswa sudah mendapatkan ID dan PIN.\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx).",
+    "content": "## Prosedur Login Formulir Calon Mahasiswa\n\n1. Calon mahasiswa sudah melakukan proses Generate Kode Bayar.\n2. Calon mahasiswa sudah mendapatkan ID dan PIN.\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx)."
+  },
+  {
+    "id": "1e41a6bd160f448b925b80d67cbbb371",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Daftar Ulang",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Daftar Ulang",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang",
+      "tanya_jadwal"
+    ],
+    "topik": "Daftar Ulang Program Profesi Dokter",
+    "alias_topik": [
+      "daftar ulang profesi dokter",
+      "registrasi ulang profesi dokter"
+    ],
+    "search_text": "Judul: Daftar Ulang Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Daftar Ulang\nAlias: daftar ulang profesi dokter, registrasi ulang profesi dokter\nIntent: tanya_profesi, daftar_ulang, tanya_jadwal\n\n## Daftar Ulang\n\nLogin untuk Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah.\nJadwal Daftar Ulang akan diinformasikan lebih lanjut.",
+    "content": "## Daftar Ulang\n\nLogin untuk Daftar Ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah.\nJadwal Daftar Ulang akan diinformasikan lebih lanjut."
+  },
+  {
+    "id": "3095b5a8b4037cdeab705aee2fb9b387",
+    "source_file": "pendaftran_program_profesi_doktor_tagged.md",
+    "heading": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "parent_context": "Pendaftaran Program Profesi Dokter > Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Prosedur Login Pendaftaran Ulang Program Profesi Dokter",
+    "alias_topik": [
+      "login daftar ulang profesi dokter",
+      "pendaftaran ulang profesi dokter"
+    ],
+    "search_text": "Judul: Prosedur Login Pendaftaran Ulang Program Profesi Dokter\nKonteks: Pendaftaran Program Profesi Dokter > Prosedur Login Pendaftaran Ulang Calon Mahasiswa\nAlias: login daftar ulang profesi dokter, pendaftaran ulang profesi dokter\nIntent: tanya_profesi, daftar_ulang\n\n## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\n1. Calon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\n2. Calon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta.",
+    "content": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\n1. Calon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\n2. Calon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\n3. Calon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta."
+  },
+  {
+    "id": "be07a1517354f330cf4f2dacade76f1f",
+    "source_file": "ppds_pulmonologi_kedokteran_respirasi_tagged.md",
+    "heading": "## PULMONOLOGI & KEDOKTERAN RESPIRASI",
+    "parent_context": "PENERIMAAN PESERTA PROGRAM PENDIDIKAN DOKTER SPESIALIS (PPDS) > PULMONOLOGI & KEDOKTERAN RESPIRASI",
+    "intents": [
+      "tanya_profesi"
+    ],
+    "topik": "PPDS Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "pulmonologi",
+      "kedokteran respirasi",
+      "PPDS Pulmonologi"
+    ],
+    "search_text": "Judul: PPDS Pulmonologi dan Kedokteran Respirasi\nKonteks: PENERIMAAN PESERTA PROGRAM PENDIDIKAN DOKTER SPESIALIS (PPDS) > PULMONOLOGI & KEDOKTERAN RESPIRASI\nAlias: pulmonologi, kedokteran respirasi, PPDS Pulmonologi\nIntent: tanya_profesi\n\n## PULMONOLOGI & KEDOKTERAN RESPIRASI\n\nFakultas Kedokteran Universitas Islam Negeri Syarif Hidayatullah Jakarta\nTahun Ajaran 2025/2026\nLembaga/Instansi:\n- UIN Syarif Hidayatullah Jakarta\n- Integrated Quality Research in Academic Culture\n- Kemenkes RS Fatmawati\n- Kemenkes RSP Goenawan Partowidigdo",
+    "content": "## PULMONOLOGI & KEDOKTERAN RESPIRASI\n\nFakultas Kedokteran Universitas Islam Negeri Syarif Hidayatullah Jakarta\nTahun Ajaran 2025/2026\nLembaga/Instansi:\n- UIN Syarif Hidayatullah Jakarta\n- Integrated Quality Research in Academic Culture\n- Kemenkes RS Fatmawati\n- Kemenkes RSP Goenawan Partowidigdo"
+  },
+  {
+    "id": "5227eec2a478ee24eecaaf1aaeb41f5c",
+    "source_file": "ppds_pulmonologi_kedokteran_respirasi_tagged.md",
+    "heading": "## SYARAT PENDAFTARAN",
+    "parent_context": "PENERIMAAN PESERTA PROGRAM PENDIDIKAN DOKTER SPESIALIS (PPDS) > SYARAT PENDAFTARAN",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_profesi"
+    ],
+    "topik": "Syarat Pendaftaran PPDS Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "syarat PPDS",
+      "persyaratan PPDS Pulmonologi",
+      "dokumen PPDS"
+    ],
+    "search_text": "Judul: Syarat Pendaftaran PPDS Pulmonologi dan Kedokteran Respirasi\nKonteks: PENERIMAAN PESERTA PROGRAM PENDIDIKAN DOKTER SPESIALIS (PPDS) > SYARAT PENDAFTARAN\nAlias: syarat PPDS, persyaratan PPDS Pulmonologi, dokumen PPDS\nIntent: tanya_persyaratan, tanya_profesi\n\n## SYARAT PENDAFTARAN\n\n1. KTP & KK\n   - Usia maksimal 35 tahun bagi pendaftar umum.\n   - Usia maksimal 40 tahun bagi ASN/TNI/POLRI.\n2. Curriculum Vitae.\n3. Scan asli Ijazah Dokter.\n4. Scan asli Transkrip Nilai.\n   - Minimal IPK 2.75.\n5. Surat Rekomendasi untuk Melanjutkan Pendidikan.\n6. TOEFL ITP.\n   - Minimal 500 dari lembaga terakreditasi.\n7. Scan asli STR & SIP.\n   - Yang masih berlaku.\n8. Sertifikat ACLS.\n   - Yang masih berlaku.\n9. SKCK.\n   - Surat Keterangan Catatan Kepolisian.\n10. Surat Keterangan Pengalaman Kerja.\n    - Minimal 1 tahun dari institusi asal.\n11. Surat Keterangan Sehat Jasmani*.\n12. Surat Keterangan Bebas Narkoba*.\n13. Surat Keterangan Sehat Rohani (MMPI)*.\n14. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di seluruh Indonesia.\n15. Surat Pernyataan Kemampuan Finansial selama Masa Pendidikan.\n16. Surat Pernyataan Persetujuan Keluarga/Pasangan.\n17. Surat pernyataan keaslian dokumen.\nCatatan:\n*Dari RS Haji untuk pendaftar dari wilayah Jabodetabek atau RS Pemerintah terdekat untuk pendaftar dari wilayah luar Jabodetabek.",
+    "content": "## SYARAT PENDAFTARAN\n\n1. KTP & KK\n   - Usia maksimal 35 tahun bagi pendaftar umum.\n   - Usia maksimal 40 tahun bagi ASN/TNI/POLRI.\n2. Curriculum Vitae.\n3. Scan asli Ijazah Dokter.\n4. Scan asli Transkrip Nilai.\n   - Minimal IPK 2.75.\n5. Surat Rekomendasi untuk Melanjutkan Pendidikan.\n6. TOEFL ITP.\n   - Minimal 500 dari lembaga terakreditasi.\n7. Scan asli STR & SIP.\n   - Yang masih berlaku.\n8. Sertifikat ACLS.\n   - Yang masih berlaku.\n9. SKCK.\n   - Surat Keterangan Catatan Kepolisian.\n10. Surat Keterangan Pengalaman Kerja.\n    - Minimal 1 tahun dari institusi asal.\n11. Surat Keterangan Sehat Jasmani*.\n12. Surat Keterangan Bebas Narkoba*.\n13. Surat Keterangan Sehat Rohani (MMPI)*.\n14. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di seluruh Indonesia.\n15. Surat Pernyataan Kemampuan Finansial selama Masa Pendidikan.\n16. Surat Pernyataan Persetujuan Keluarga/Pasangan.\n17. Surat pernyataan keaslian dokumen.\nCatatan:\n*Dari RS Haji untuk pendaftar dari wilayah Jabodetabek atau RS Pemerintah terdekat untuk pendaftar dari wilayah luar Jabodetabek."
+  },
+  {
+    "id": "7537d12ab9f1efd2239467e0ee23021e",
+    "source_file": "ppg_tagged.md",
+    "heading": "## VISI",
+    "parent_context": "PPG > VISI",
+    "intents": [
+      "tanya_profesi"
+    ],
+    "topik": "Visi PPG",
+    "alias_topik": [
+      "visi PPG",
+      "visi Pendidikan Profesi Guru"
+    ],
+    "search_text": "Judul: Visi PPG\nKonteks: PPG > VISI\nAlias: visi PPG, visi Pendidikan Profesi Guru\nIntent: tanya_profesi\n\n## VISI\n\nMengembangkan kompetensi guru yang unggul, kompetitif dan profesional dengan mengintegrasikan keilmuan, keislamanan, dan keindonesiaan.",
+    "content": "## VISI\n\nMengembangkan kompetensi guru yang unggul, kompetitif dan profesional dengan mengintegrasikan keilmuan, keislamanan, dan keindonesiaan."
+  },
+  {
+    "id": "1a6e86a21f1e8b61ae47fd978e8b2550",
+    "source_file": "ppg_tagged.md",
+    "heading": "## MISI",
+    "parent_context": "PPG > MISI",
+    "intents": [
+      "tanya_profesi"
+    ],
+    "topik": "Misi PPG",
+    "alias_topik": [
+      "misi PPG",
+      "misi Pendidikan Profesi Guru"
+    ],
+    "search_text": "Judul: Misi PPG\nKonteks: PPG > MISI\nAlias: misi PPG, misi Pendidikan Profesi Guru\nIntent: tanya_profesi\n\n## MISI\n\n1. Menyelenggarakan pendidikan dan pengajaran berwawasan research.\n2. Melaksanakan penelitian dan pengembangan keilmuan untuk menghasilkan karya inovasi di bidangpendidikan.\n3. Mengembangkan pengabdian pada masyarakat melalui pembinaan pemberdayaan madrasah / sekolah\n4. Mengembangkan komitmen dan budaya akademik bagi para civitas akademika\n5. Mengembangkan layanan berbasis teknologi informatika /ICT.\n6. Mengembangkan jenjang dan kemitraan dengan berbagai lembaga nasional maupun internasional\n7. Melaksanakan evaluasi kinerja kelembagaan secara berkelanjutan",
+    "content": "## MISI\n\n1. Menyelenggarakan pendidikan dan pengajaran berwawasan research.\n2. Melaksanakan penelitian dan pengembangan keilmuan untuk menghasilkan karya inovasi di bidangpendidikan.\n3. Mengembangkan pengabdian pada masyarakat melalui pembinaan pemberdayaan madrasah / sekolah\n4. Mengembangkan komitmen dan budaya akademik bagi para civitas akademika\n5. Mengembangkan layanan berbasis teknologi informatika /ICT.\n6. Mengembangkan jenjang dan kemitraan dengan berbagai lembaga nasional maupun internasional\n7. Melaksanakan evaluasi kinerja kelembagaan secara berkelanjutan"
+  },
+  {
+    "id": "ae4c0b17efa4b8f0e908ced745b0c656",
+    "source_file": "ppg_tagged.md",
+    "heading": "## TUJUAN",
+    "parent_context": "PPG > TUJUAN",
+    "intents": [
+      "tanya_profesi"
+    ],
+    "topik": "Tujuan PPG",
+    "alias_topik": [
+      "tujuan PPG",
+      "kompetensi PPG",
+      "lulusan PPG"
+    ],
+    "search_text": "Judul: Tujuan PPG\nKonteks: PPG > TUJUAN\nAlias: tujuan PPG, kompetensi PPG, lulusan PPG\nIntent: tanya_profesi\n\n## TUJUAN\n\nProgram PPG ini bertujuan menghasilkan lulusan bidang pendidikan guru yang profesional yang memenuhi ompetensi keguruan, yaitu:\n1. Kompetensi Pedagogik\nMenguasai karakteristik peserta didik, menguasai teori belajar, mengembangkan kurikulum, memanfaatkan teknologi informasi dan komunikasi, menyelenggarakan evaluasi pembelajaran, dan melakukan tindakan reflektif untuk meningkatkan kualitas pendidikan.\n2. Kompetensi Kepribadian\nMemiliki etos kerja yang produktif dan menjunjung tinggi kode etik profesi guru.\n3. Kompetensi Sosial\nBersikap inklusif, objektif, empatik, dan berkomunikasi secara efektif dalam melaksanakan tugas profesi keguruan.\n4. Kompetensi Profesional\nMenguasai keilmuan, mengembangkan materi secara kreatif dan inovatif, serta mengembangkankeprofesionalan bidang pendidikan.",
+    "content": "## TUJUAN\n\nProgram PPG ini bertujuan menghasilkan lulusan bidang pendidikan guru yang profesional yang memenuhi ompetensi keguruan, yaitu:\n1. Kompetensi Pedagogik\nMenguasai karakteristik peserta didik, menguasai teori belajar, mengembangkan kurikulum, memanfaatkan teknologi informasi dan komunikasi, menyelenggarakan evaluasi pembelajaran, dan melakukan tindakan reflektif untuk meningkatkan kualitas pendidikan.\n2. Kompetensi Kepribadian\nMemiliki etos kerja yang produktif dan menjunjung tinggi kode etik profesi guru.\n3. Kompetensi Sosial\nBersikap inklusif, objektif, empatik, dan berkomunikasi secara efektif dalam melaksanakan tugas profesi keguruan.\n4. Kompetensi Profesional\nMenguasai keilmuan, mengembangkan materi secara kreatif dan inovatif, serta mengembangkankeprofesionalan bidang pendidikan."
+  },
+  {
+    "id": "196bcf213fa2ab00da8f982f43f6deff",
+    "source_file": "ppg_tagged.md",
+    "heading": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "parent_context": "PPG > Prosedur Login Pendaftaran Ulang Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Prosedur Login Pendaftaran Ulang Calon Mahasiswa PPG Profesi",
+    "alias_topik": [
+      "daftar ulang PPG",
+      "login daftar ulang PPG",
+      "pendaftaran ulang PPG"
+    ],
+    "search_text": "Judul: Prosedur Login Pendaftaran Ulang Calon Mahasiswa PPG Profesi\nKonteks: PPG > Prosedur Login Pendaftaran Ulang Calon Mahasiswa\nAlias: daftar ulang PPG, login daftar ulang PPG, pendaftaran ulang PPG\nIntent: tanya_profesi, daftar_ulang\n\n## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\nCalon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\nCalon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta.",
+    "content": "## Prosedur Login Pendaftaran Ulang Calon Mahasiswa\n\nCalon mahasiswa sudah dinyatakan Lulus (sesuai Jenjang yang didaftarkan) pada Universitas Islam Negeri Syarif Hidayatullah Jakarta.\nCalon mahasiswa sudah mendapatkan kelompok UKT (untuk Program Sarjana dan Program Profesi).\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Nomor Peserta."
+  },
+  {
+    "id": "01e4bde124539a3edd8aab21a1661df5",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## 1. Persyaratan",
+    "parent_context": "1. Persyaratan",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Program Studi Profesi Apoteker",
+    "alias_topik": [
+      "syarat profesi apoteker",
+      "persyaratan PSPA",
+      "dokumen profesi apoteker"
+    ],
+    "search_text": "Judul: Persyaratan Program Studi Profesi Apoteker\nKonteks: 1. Persyaratan\nAlias: syarat profesi apoteker, persyaratan PSPA, dokumen profesi apoteker\nIntent: tanya_profesi, tanya_persyaratan\n\n## 1. Persyaratan\n\nPersyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Profesi Apoteker (PSPA) FIKES UIN Syarif Hidayatullah Jakarta.",
+    "content": "## 1. Persyaratan\n\nPersyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Profesi Apoteker (PSPA) FIKES UIN Syarif Hidayatullah Jakarta."
+  },
+  {
+    "id": "b636b8c02210d21e561fa74ca41adcbb",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### A. Persyaratan Akademik",
+    "parent_context": "1. Persyaratan > A. Persyaratan Akademik",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Akademik Profesi Apoteker",
+    "alias_topik": [
+      "syarat akademik apoteker",
+      "IPK profesi apoteker",
+      "TOEFL profesi apoteker"
+    ],
+    "search_text": "Judul: Persyaratan Akademik Profesi Apoteker\nKonteks: 1. Persyaratan > A. Persyaratan Akademik\nAlias: syarat akademik apoteker, IPK profesi apoteker, TOEFL profesi apoteker\nIntent: tanya_profesi, tanya_persyaratan\n\n### A. Persyaratan Akademik\n\n1. Alumni S1 Prodi Farmasi UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 2,75\n2. Alumni S1 Prodi Farmasi Non UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 3,25\n3. Memiliki sertifikat Bahasa Inggris setara TOEFL 450 yang masih berlaku 2 (dua) tahun terakhir",
+    "content": "### A. Persyaratan Akademik\n\n1. Alumni S1 Prodi Farmasi UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 2,75\n2. Alumni S1 Prodi Farmasi Non UIN Syarif Hidayatullah Jakarta dengan IPK S1 ≥ 3,25\n3. Memiliki sertifikat Bahasa Inggris setara TOEFL 450 yang masih berlaku 2 (dua) tahun terakhir"
+  },
+  {
+    "id": "d58cde3c7bfb8ae8e5b12904f40a0ec9",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### B. Persyaratan Administratif",
+    "parent_context": "1. Persyaratan > B. Persyaratan Administratif",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Administratif Profesi Apoteker",
+    "alias_topik": [
+      "syarat administrasi apoteker",
+      "dokumen administratif apoteker"
+    ],
+    "search_text": "Judul: Persyaratan Administratif Profesi Apoteker\nKonteks: 1. Persyaratan > B. Persyaratan Administratif\nAlias: syarat administrasi apoteker, dokumen administratif apoteker\nIntent: tanya_profesi, tanya_persyaratan\n\n### B. Persyaratan Administratif\n\n1. Mengisi formulir yang sudah disediakan secara online;\n2. Salinan ijazah yang sudah dilegalisir/scan asli /Surat Keterangan Lulus (SKL) bagi yang belum mendapatkan Ijazah;\n3. Menyerahkan salinan ijazah yang sudah dilegalisir pada awal perkuliahan;\n4. Salinan transkrip nilai yang sudah dilegalisir/scan asli\n5. Scan sertifikat TOEFL atau setara, diperbolehkan menggunakan prediction test.\n6. Scan Kartu Tanda Penduduk (KTP) yang masih berlaku\n7. Bukti pembayaran pendaftaran",
+    "content": "### B. Persyaratan Administratif\n\n1. Mengisi formulir yang sudah disediakan secara online;\n2. Salinan ijazah yang sudah dilegalisir/scan asli /Surat Keterangan Lulus (SKL) bagi yang belum mendapatkan Ijazah;\n3. Menyerahkan salinan ijazah yang sudah dilegalisir pada awal perkuliahan;\n4. Salinan transkrip nilai yang sudah dilegalisir/scan asli\n5. Scan sertifikat TOEFL atau setara, diperbolehkan menggunakan prediction test.\n6. Scan Kartu Tanda Penduduk (KTP) yang masih berlaku\n7. Bukti pembayaran pendaftaran"
+  },
+  {
+    "id": "88be128641e1c775d728802195628018",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:",
+    "parent_context": "1. Persyaratan > Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Daftar Ulang Berkas Setelah Lulus Profesi Apoteker",
+    "alias_topik": [
+      "berkas lulus apoteker",
+      "daftar ulang apoteker",
+      "surat pernyataan apoteker"
+    ],
+    "search_text": "Judul: Daftar Ulang Berkas Setelah Lulus Profesi Apoteker\nKonteks: 1. Persyaratan > Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:\nAlias: berkas lulus apoteker, daftar ulang apoteker, surat pernyataan apoteker\nIntent: tanya_profesi, daftar_ulang\n\n### Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n\nJika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n1. Surat pernyataan kesanggupan untuk membayar biaya perkuliahan \n2. Surat pernyataan kesediaan mengikuti aturan akademik \n3. Surat izin atasan (bagi yang bekerja) / Surat Pernyataan Tidak Bekerja \n4. Surat pernyataan tidak mengundurkan diri (jika dinyatakan lulus)",
+    "content": "### Jika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n\nJika sudah dinyatakan LULUS, peserta WAJIB mengisi:\n1. Surat pernyataan kesanggupan untuk membayar biaya perkuliahan \n2. Surat pernyataan kesediaan mengikuti aturan akademik \n3. Surat izin atasan (bagi yang bekerja) / Surat Pernyataan Tidak Bekerja \n4. Surat pernyataan tidak mengundurkan diri (jika dinyatakan lulus)"
+  },
+  {
+    "id": "bdf5ff2933443df115873a5d4a95bccd",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "### Tata Cara Pendaftaran",
+    "parent_context": "1. Persyaratan > Tata Cara Pendaftaran",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Tata Cara Pendaftaran Profesi Apoteker",
+    "alias_topik": [
+      "cara daftar profesi apoteker",
+      "generate kode pembayaran apoteker",
+      "SPMB apoteker"
+    ],
+    "search_text": "Judul: Tata Cara Pendaftaran Profesi Apoteker\nKonteks: 1. Persyaratan > Tata Cara Pendaftaran\nAlias: cara daftar profesi apoteker, generate kode pembayaran apoteker, SPMB apoteker\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n### Tata Cara Pendaftaran\n\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Profesi, klik tombol “Profesi”\n3. Pada bagian kolom Apoteker, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Profesi”\n6. Pilih Fakultas “Ilmu Kesehatan”\n7. Pilih Jurusan “Profesi Apoteker”\n8. Mengisi:\n   I. Data Calon Mahasiswa;\n   II. Data Universitas Asal;\n   III. Data Orang Tua/Wali;\n   IV. Pilihan Program Studi.\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”.\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”\n11. Biaya registrasi sebesar Rp 345.000, – (tiga ratus empat puluh lima ribu rupiah).\n12. Lalu ikuti prosedur selanjutnya.",
+    "content": "### Tata Cara Pendaftaran\n\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Profesi, klik tombol “Profesi”\n3. Pada bagian kolom Apoteker, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Profesi”\n6. Pilih Fakultas “Ilmu Kesehatan”\n7. Pilih Jurusan “Profesi Apoteker”\n8. Mengisi:\n   I. Data Calon Mahasiswa;\n   II. Data Universitas Asal;\n   III. Data Orang Tua/Wali;\n   IV. Pilihan Program Studi.\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”.\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”\n11. Biaya registrasi sebesar Rp 345.000, – (tiga ratus empat puluh lima ribu rupiah).\n12. Lalu ikuti prosedur selanjutnya."
+  },
+  {
+    "id": "e75abd3b4c2b31231ea1ca4a6a70e67a",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## Informasi Tambahan",
+    "parent_context": "Informasi Tambahan",
+    "intents": [
+      "tanya_profesi",
+      "tanya_kontak",
+      "tanya_ujian",
+      "tanya_link"
+    ],
+    "topik": "Informasi Tambahan Profesi Apoteker",
+    "alias_topik": [
+      "kontak profesi apoteker",
+      "ujian profesi apoteker",
+      "materi ujian apoteker"
+    ],
+    "search_text": "Judul: Informasi Tambahan Profesi Apoteker\nKonteks: Informasi Tambahan\nAlias: kontak profesi apoteker, ujian profesi apoteker, materi ujian apoteker\nIntent: tanya_profesi, tanya_kontak, tanya_ujian, tanya_link\n\n## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian.",
+    "content": "## Informasi Tambahan\n\nInformasi terkait teknis pelaksanaan ujian dll akan disampaikan melalui email masing-masing peserta.\nMore informasi:\nWA: +62 857-6733-1111 (Chat Only)\nEmail: fikes@apps.uinjkt.ac.id\n\nPeserta terdaftar pada Peserta Seleksi PMB Apoteker di database UINJKT\nData peserta diumumkan di web https://fikes.uinjkt.ac.id bersamaan dengan tata tertib ujian seleksi\n\nMateri yang diujikan (CBT dan Ujian Tulis) adalah materi-materi terkait ilmu kefarmasian."
+  },
+  {
+    "id": "53855030749550152bc4c0c16dae7267",
+    "source_file": "profesi_apoteker_tagged.md",
+    "heading": "## Bagi Peserta yang Lulus Seleksi PMB",
+    "parent_context": "Bagi Peserta yang Lulus Seleksi PMB",
+    "intents": [
+      "tanya_profesi",
+      "daftar_ulang"
+    ],
+    "topik": "Daftar Ulang Profesi Apoteker",
+    "alias_topik": [
+      "lulus seleksi apoteker",
+      "daftar ulang apoteker",
+      "pengisian KRS apoteker"
+    ],
+    "search_text": "Judul: Daftar Ulang Profesi Apoteker\nKonteks: Bagi Peserta yang Lulus Seleksi PMB\nAlias: lulus seleksi apoteker, daftar ulang apoteker, pengisian KRS apoteker\nIntent: tanya_profesi, daftar_ulang\n\n## Bagi Peserta yang Lulus Seleksi PMB\n\nBagi peserta yang lulus Seleksi dapat melakukan proses berikut:\n1. Pendaftaran Ulang\n2. Pengumpulan berkas (bagi yang belum lengkap)\n3. Pengisian KRS bagi yang dinyatakan LULUS",
+    "content": "## Bagi Peserta yang Lulus Seleksi PMB\n\nBagi peserta yang lulus Seleksi dapat melakukan proses berikut:\n1. Pendaftaran Ulang\n2. Pengumpulan berkas (bagi yang belum lengkap)\n3. Pengisian KRS bagi yang dinyatakan LULUS"
+  },
+  {
+    "id": "17239e12671fe7678c619d1dc7f0d602",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## PERSYARATAN",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > PERSYARATAN",
+    "intents": [
+      "tanya_profesi",
+      "tanya_persyaratan"
+    ],
+    "topik": "Persyaratan Pendidikan Profesi Ners",
+    "alias_topik": [
+      "syarat profesi ners",
+      "persyaratan ners",
+      "dokumen ners"
+    ],
+    "search_text": "Judul: Persyaratan Pendidikan Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > PERSYARATAN\nAlias: syarat profesi ners, persyaratan ners, dokumen ners\nIntent: tanya_profesi, tanya_persyaratan\n\n## PERSYARATAN\n\nPersyaratan Akademik dan Administrasi untuk Pendaftaran Calon Mahasiswa Baru Program Studi Pendidikan Profesi Ners, Fakultas Ilmu Kesehatan, UIN Syarif Hidayatullah Jakarta.\nPendaftar merupakan lulusan Program Studi Ilmu Keperawatan UIN Syarif Hidayatullah Jakarta.\nIPK Sarjana Keperawatan pendaftar minimal 2,75.\nPendaftar harus terdaftar sebagai peserta aktif BPJS.\nPendaftar harus memiliki surat keterangan lulus atau ijazah.\nPendaftar harus memiliki izin mengikuti Pendidikan Profesi Ners dari orang tua atau wali, menggunakan template yang telah disediakan.",
+    "content": "## PERSYARATAN\n\nPersyaratan Akademik dan Administrasi untuk Pendaftaran Calon Mahasiswa Baru Program Studi Pendidikan Profesi Ners, Fakultas Ilmu Kesehatan, UIN Syarif Hidayatullah Jakarta.\nPendaftar merupakan lulusan Program Studi Ilmu Keperawatan UIN Syarif Hidayatullah Jakarta.\nIPK Sarjana Keperawatan pendaftar minimal 2,75.\nPendaftar harus terdaftar sebagai peserta aktif BPJS.\nPendaftar harus memiliki surat keterangan lulus atau ijazah.\nPendaftar harus memiliki izin mengikuti Pendidikan Profesi Ners dari orang tua atau wali, menggunakan template yang telah disediakan."
+  },
+  {
+    "id": "17551b7ba25ad401c4c18e3e164c61ed",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## PENDAFTARAN",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > PENDAFTARAN",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran",
+      "tanya_link"
+    ],
+    "topik": "Pendaftaran Pendidikan Profesi Ners",
+    "alias_topik": [
+      "daftar profesi ners",
+      "link pendaftaran ners"
+    ],
+    "search_text": "Judul: Pendaftaran Pendidikan Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > PENDAFTARAN\nAlias: daftar profesi ners, link pendaftaran ners\nIntent: tanya_profesi, tanya_prosedur_pendaftaran, tanya_link\n\n## PENDAFTARAN\n\nPendaftaran Calon Mahasiswa Baru untuk Program Studi Pendidikan Profesi Ners telah dibuka. Untuk mendaftar, silakan kunjungi link di bawah ini:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_ners.zul",
+    "content": "## PENDAFTARAN\n\nPendaftaran Calon Mahasiswa Baru untuk Program Studi Pendidikan Profesi Ners telah dibuka. Untuk mendaftar, silakan kunjungi link di bawah ini:\nhttps://spmb.uinjkt.ac.id/spmbv2/public/generate_formulir_ners.zul"
+  },
+  {
+    "id": "b84c25fa68a416064fe0145923320ec7",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## CETAK KARTU BUKTI PENDAFTARAN",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > CETAK KARTU BUKTI PENDAFTARAN",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Cetak Kartu Bukti Pendaftaran Profesi Ners",
+    "alias_topik": [
+      "cetak kartu ners",
+      "kartu bukti pendaftaran ners"
+    ],
+    "search_text": "Judul: Cetak Kartu Bukti Pendaftaran Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > CETAK KARTU BUKTI PENDAFTARAN\nAlias: cetak kartu ners, kartu bukti pendaftaran ners\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n## CETAK KARTU BUKTI PENDAFTARAN\n\nSetelah berhasil mendaftar, silakan login untuk melengkapi data lanjutan dan mencetak Kartu Bukti Pendaftaran.",
+    "content": "## CETAK KARTU BUKTI PENDAFTARAN\n\nSetelah berhasil mendaftar, silakan login untuk melengkapi data lanjutan dan mencetak Kartu Bukti Pendaftaran."
+  },
+  {
+    "id": "e7d9e0281e4603c721e28094eefaa3de",
+    "source_file": "profesi_ners_tagged.md",
+    "heading": "## prosedur Login Formulir Calon Mahasiswa",
+    "parent_context": "Pendaftaran Mahasiswa Profesi Ners > prosedur Login Formulir Calon Mahasiswa",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prosedur_pendaftaran"
+    ],
+    "topik": "Prosedur Login Formulir Calon Mahasiswa Profesi Ners",
+    "alias_topik": [
+      "login formulir ners",
+      "kode bayar ners",
+      "ID PIN ners"
+    ],
+    "search_text": "Judul: Prosedur Login Formulir Calon Mahasiswa Profesi Ners\nKonteks: Pendaftaran Mahasiswa Profesi Ners > prosedur Login Formulir Calon Mahasiswa\nAlias: login formulir ners, kode bayar ners, ID PIN ners\nIntent: tanya_profesi, tanya_prosedur_pendaftaran\n\n## prosedur Login Formulir Calon Mahasiswa\n\nCalon mahasiswa sudah melakukan proses Generate Kode Bayar.\nCalon mahasiswa sudah mendapatkan ID dan PIN.\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx).\nPembayaran biaya kuliah dapat dilakukan melalui bank BTN (via Teller dan ATM) dan Bank Mega Syariah ( Teller, ATM, dan M-Syariah Mobile).",
+    "content": "## prosedur Login Formulir Calon Mahasiswa\n\nCalon mahasiswa sudah melakukan proses Generate Kode Bayar.\nCalon mahasiswa sudah mendapatkan ID dan PIN.\nCalon mahasiswa sudah melakukan pembayaran di bank Mitra UIN Syarif Hidayatullah Jakarta, menggunakan Kode Bayar (99xxxxxxxxxxxx).\nPembayaran biaya kuliah dapat dilakukan melalui bank BTN (via Teller dan ATM) dan Bank Mega Syariah ( Teller, ATM, dan M-Syariah Mobile)."
+  },
+  {
+    "id": "ab3595ac028f9560fd11ebecc06dcd22",
+    "source_file": "program_profesi_tagged.md",
+    "heading": "# Program Profesi",
+    "parent_context": "Program Profesi",
+    "intents": [
+      "tanya_profesi",
+      "tanya_prodi_fakultas"
+    ],
+    "topik": "Program Profesi UIN Syarif Hidayatullah Jakarta",
+    "alias_topik": [
+      "program profesi",
+      "profesi UIN Jakarta",
+      "PPG",
+      "Profesi Apoteker",
+      "Profesi Ners",
+      "Profesi Dokter"
+    ],
+    "search_text": "Judul: Program Profesi UIN Syarif Hidayatullah Jakarta\nKonteks: Program Profesi\nAlias: program profesi, profesi UIN Jakarta, PPG, Profesi Apoteker, Profesi Ners, Profesi Dokter\nIntent: tanya_profesi, tanya_prodi_fakultas\n\n# Program Profesi\n\nProgram profesi oleh UIN Syarif Hidayatullah terdiri dari Program Studi Profesi Guru, Program Profesi Apoteker, Program Profesi Ners dan Program Profesi Dokter. Program profesi dari masing-masing fakultas telah menghadirkan inovasi terbaik untuk mewujudkan sistem pembelajaran yang dapat menunjang calon mahasiswa untuk mendapatkan hasil terbaik dari program studi profesi ini.",
+    "content": "# Program Profesi\n\nProgram profesi oleh UIN Syarif Hidayatullah terdiri dari Program Studi Profesi Guru, Program Profesi Apoteker, Program Profesi Ners dan Program Profesi Dokter. Program profesi dari masing-masing fakultas telah menghadirkan inovasi terbaik untuk mewujudkan sistem pembelajaran yang dapat menunjang calon mahasiswa untuk mendapatkan hasil terbaik dari program studi profesi ini."
+  },
+  {
+    "id": "cd2b8043dba9cfebc7b36a0722d8ef70",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 1. Persyaratan",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 1. Persyaratan",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_profesi"
+    ],
+    "topik": "Persyaratan Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "syarat Obgin",
+      "persyaratan spesialis Obgin",
+      "dokumen Obgin"
+    ],
+    "search_text": "Judul: Persyaratan Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 1. Persyaratan\nAlias: syarat Obgin, persyaratan spesialis Obgin, dokumen Obgin\nIntent: tanya_persyaratan, tanya_profesi\n\n## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Obstetri dan Ginekologi (Obgin) Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta:\n1. KTP & KK (usia maksimal 35 tahun bagi staf FK/RS dan maksimal 40 tahun bagi TNI/Polri)\n2. Curriculum Vitae\n3. Scan asli ijazah dokter\n4. Scan asli transkrip nilai (minimal IPK 2.75)\n5. Surat rekomendasi untuk melanjutkan Pendidikan\n6. TOEFL ITP (minimal 500 dari Lembaga terakreditasi)\n7. Scan asli STR & SIP (yang masih berlaku)\n8. Sertifikat ACLS (yang masih berlaku)\n9. SKCK (Surat Keterangan Catatan Kepolisian) dengan masa berlaku 6 bulan\n10. Asuransi Kesehatan yang aktif dan dapat digunakan selama Pendidikan (BPJS Kesehatan)\n11. Surat keterangan pengalaman kerja (minimum 6 bulan) dari institusi asal\n12. Surat pernyataan kesediaan ditempatkan sebagai staf pengajar FK UIN di seluruh Indonesia\n13. Surat pernyataan kemampuan finansial selama masa Pendidikan\n14. Surat pernyataan persetujuan keluarga/pasangan\n15. Surat pernyataan keaslian dokumen\n16. Surat pernyataan menunda kehamilan selama Pendidikan (selama 1 tahun)\n17. Surat pernyataan tidak melakukan perundungan, perbuatan asusila dan perbuatan yang melanggar norma agama\n18. Calon Peserta hanya boleh melamar 2 (dua) kali di program studi yang sama\n19. Hasil seleksi bersifat mutlak dan tidak dapat diganggu gugat (Surat pernyataan bersedia menerima hasil seleksi)",
+    "content": "## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Obstetri dan Ginekologi (Obgin) Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta:\n1. KTP & KK (usia maksimal 35 tahun bagi staf FK/RS dan maksimal 40 tahun bagi TNI/Polri)\n2. Curriculum Vitae\n3. Scan asli ijazah dokter\n4. Scan asli transkrip nilai (minimal IPK 2.75)\n5. Surat rekomendasi untuk melanjutkan Pendidikan\n6. TOEFL ITP (minimal 500 dari Lembaga terakreditasi)\n7. Scan asli STR & SIP (yang masih berlaku)\n8. Sertifikat ACLS (yang masih berlaku)\n9. SKCK (Surat Keterangan Catatan Kepolisian) dengan masa berlaku 6 bulan\n10. Asuransi Kesehatan yang aktif dan dapat digunakan selama Pendidikan (BPJS Kesehatan)\n11. Surat keterangan pengalaman kerja (minimum 6 bulan) dari institusi asal\n12. Surat pernyataan kesediaan ditempatkan sebagai staf pengajar FK UIN di seluruh Indonesia\n13. Surat pernyataan kemampuan finansial selama masa Pendidikan\n14. Surat pernyataan persetujuan keluarga/pasangan\n15. Surat pernyataan keaslian dokumen\n16. Surat pernyataan menunda kehamilan selama Pendidikan (selama 1 tahun)\n17. Surat pernyataan tidak melakukan perundungan, perbuatan asusila dan perbuatan yang melanggar norma agama\n18. Calon Peserta hanya boleh melamar 2 (dua) kali di program studi yang sama\n19. Hasil seleksi bersifat mutlak dan tidak dapat diganggu gugat (Surat pernyataan bersedia menerima hasil seleksi)"
+  },
+  {
+    "id": "ccb45562939108cd4aa34cdb17775c1f",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 3. Pendaftaran",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 3. Pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Tata Cara Pendaftaran Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "daftar Obgin",
+      "jadwal pendaftaran Obgin",
+      "cara daftar spesialis Obgin"
+    ],
+    "search_text": "Judul: Tata Cara Pendaftaran Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 3. Pendaftaran\nAlias: daftar Obgin, jadwal pendaftaran Obgin, cara daftar spesialis Obgin\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_profesi\n\n## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Obstetri dan Ginekologi (Obgin) UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Obstetri dan Ginekologi (Obgin), klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “Obstetri dan Ginekologi (Obgin)”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”.",
+    "content": "## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Obstetri dan Ginekologi (Obgin) UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Obstetri dan Ginekologi (Obgin), klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “Obstetri dan Ginekologi (Obgin)”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”."
+  },
+  {
+    "id": "5e50af893729ca965f95282914766532",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 4. Pengumuman Kelulusan Tahap Administrasi",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 4. Pengumuman Kelulusan Tahap Administrasi",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Tahap Administrasi Obgin",
+    "alias_topik": [
+      "pengumuman administrasi Obgin",
+      "hasil administrasi Obgin"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Tahap Administrasi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 4. Pengumuman Kelulusan Tahap Administrasi\nAlias: pengumuman administrasi Obgin, hasil administrasi Obgin\nIntent: tanya_jadwal, tanya_profesi\n\n## 4. Pengumuman Kelulusan Tahap Administrasi\n\nHasil kelulusan tahap Administrasi telah diumumkan pada tanggal: 28 April 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman.",
+    "content": "## 4. Pengumuman Kelulusan Tahap Administrasi\n\nHasil kelulusan tahap Administrasi telah diumumkan pada tanggal: 28 April 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman."
+  },
+  {
+    "id": "b1bb5ad1129518ddd902a9133c0cf276",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 6. Ujian Seleksi",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 6. Ujian Seleksi",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Ujian Seleksi Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "ujian Obgin",
+      "jadwal ujian Obgin",
+      "TPA Obgin",
+      "CBT Obgin",
+      "OSCE Obgin"
+    ],
+    "search_text": "Judul: Ujian Seleksi Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 6. Ujian Seleksi\nAlias: ujian Obgin, jadwal ujian Obgin, TPA Obgin, CBT Obgin, OSCE Obgin\nIntent: tanya_ujian, tanya_jadwal, tanya_profesi\n\n## 6. Ujian Seleksi\n\n1. Tes Kesehatan: 18 Mei 2026\n2. Tes Potensi Akademik (TPA): 19 Mei 2026\n3. Ujian CBT: 20 Mei 2026\n4. MMPI dan Wawancara Psikiater: 21 Mei 2026\n5. Wawancara Umum: 25 Mei 2026\n6. OSCE: 26 Mei 2026",
+    "content": "## 6. Ujian Seleksi\n\n1. Tes Kesehatan: 18 Mei 2026\n2. Tes Potensi Akademik (TPA): 19 Mei 2026\n3. Ujian CBT: 20 Mei 2026\n4. MMPI dan Wawancara Psikiater: 21 Mei 2026\n5. Wawancara Umum: 25 Mei 2026\n6. OSCE: 26 Mei 2026"
+  },
+  {
+    "id": "4c0971f35263b54696d9e9db84a99c5d",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 7. Pengumuman Kelulusan Akhir",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 7. Pengumuman Kelulusan Akhir",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Akhir Obgin",
+    "alias_topik": [
+      "pengumuman akhir Obgin",
+      "kelulusan Obgin"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Akhir Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 7. Pengumuman Kelulusan Akhir\nAlias: pengumuman akhir Obgin, kelulusan Obgin\nIntent: tanya_jadwal, tanya_profesi\n\n## 7. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir.",
+    "content": "## 7. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 13.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir."
+  },
+  {
+    "id": "1a748094efac46596ead18e68fe58258",
+    "source_file": "spesialis_obstetri_dan_ginekologi_obgin_tagged.md",
+    "heading": "## 8. Daftar Ulang",
+    "parent_context": "Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang",
+    "intents": [
+      "daftar_ulang",
+      "tanya_profesi",
+      "tanya_jadwal",
+      "tanya_link"
+    ],
+    "topik": "Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin",
+    "alias_topik": [
+      "daftar ulang Obgin",
+      "registrasi ulang spesialis",
+      "link daftar ulang Obgin"
+    ],
+    "search_text": "Judul: Daftar Ulang Spesialis Obstetri dan Ginekologi Obgin\nKonteks: Obstetri dan Ginekologi (Obgin) > 8. Daftar Ulang\nAlias: daftar ulang Obgin, registrasi ulang spesialis, link daftar ulang Obgin\nIntent: daftar_ulang, tanya_profesi, tanya_jadwal, tanya_link\n\n## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul",
+    "content": "## 8. Daftar Ulang\n\nLogin untuk daftar ulang dapat diakses setelah Anda melakukan pembayaran biaya kuliah. Daftar Ulang: 17 - 30 Juni 2026. Jika sudah melewati tanggal maka pendaftaran ulang akan ditutup.\nLink pengumuman kelulusanhttps://kelulusan.uinjkt.ac.id/spesialis/\nLink daftar ulang spesialis\nhttps://spmb.uinjkt.ac.id/spmbv2/public/login_registrasi.zul"
+  },
+  {
+    "id": "dff3f1e93015f4e4ccacb84d7bff87b9",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 1. Persyaratan",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 1. Persyaratan",
+    "intents": [
+      "tanya_persyaratan",
+      "tanya_profesi"
+    ],
+    "topik": "Persyaratan Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "syarat pulmonologi",
+      "syarat spesialis pulmonologi",
+      "dokumen pulmonologi",
+      "PPDS pulmonologi"
+    ],
+    "search_text": "Judul: Persyaratan Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 1. Persyaratan\nAlias: syarat pulmonologi, syarat spesialis pulmonologi, dokumen pulmonologi, PPDS pulmonologi\nIntent: tanya_persyaratan, tanya_profesi\n\n## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Pulmonologi dan Kedokteran Respirasi Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta.\n1. Data Pribadi\n2. Kartu Tanda Penduduk (KTP) dengan usia maksimal 35 Tahun ⁠bagi staf FK/RS dan maksimal 40 Tahun bagi TNI/POLRI\n3. Kartu Keluarga (KK)\n4. Curriculum Vitae (Unduh template di sini)\n5. Formulir Pendaftaran Spesialis (mengisi di website pendaftaran)\n6. Scan asli Ijazah Dokter\n7. Scan asli Transkrip Nilai (IPK minimal 2,75)\n8. Surat Rekomendasi untuk Melanjutkan Pendidikan (dari Institusi layanan kesehatan/Pendidikan yang menjadi tujuan setelah pendidikan) → diutamakan dari institusi pemerintah/PNS/TNI/POLRI\n9. TOEFL Institutional Testing Program (ITP) dengan skor minimal 500 yang dikeluarkan oleh lembaga terakreditasi/LIA\n10. Scan asli Surat Tanda Registrasi (STR) yang masih berlaku\n11. Scan asli Surat Izin Praktik (SIP) yang masih berlaku\n12. Scan asli Sertifikat Advanced Cardiovascular Life Support (ACLS) yang masih berlaku\n13. SKCK (Surat Keterangan Catatan Kepolisian)\n14. Surat Keterangan Pengalaman Kerja (minimal 1 tahun) dari Institusi asal\n15. Surat Keterangan Kesehatan (dari RS Haji Jakarta untuk domisili Jabodetabek atau RS Pemerintah daerah setempat jika domisili luar Jabodetabek)\n16. Surat Keterangan Bebas Narkoba\n17. Surat Keterangan Sehat Jasmani (wajib ada foto Toraks, OT, PT, Ur, Cr, HbA1c, HIV, HBsAg, DL, EKG, tes buta warna)\n18. Surat Keterangan Sehat Rohani (MMPI) (harus menyertakan hasil yang berupa grafik, bukan hanya hasil akhir)\n19. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di Seluruh Indonesia setelah lulus, bila Peserta bukan PNS/TNI/POLRI → (Unduh template di sini)\n20. Surat Pernyataan Kemampuan Finansial Selama Masa Pendidikan (bermaterai) → (Unduh template di sini)\n21. Surat Pernyataan Persetujuan Keluarga/Pasangan → (Unduh template di sini)\n22. Surat Pernyataan Keaslian Dokumen (bermaterai) → (Unduh template di sini)",
+    "content": "## 1. Persyaratan\n\nDokumen Persyaratan Akademik dan Administrasi Pendaftaran Calon Mahasiswa Baru Program Studi Pulmonologi dan Kedokteran Respirasi Fakultas Kedokteran UIN Syarif Hidayatullah Jakarta.\n1. Data Pribadi\n2. Kartu Tanda Penduduk (KTP) dengan usia maksimal 35 Tahun ⁠bagi staf FK/RS dan maksimal 40 Tahun bagi TNI/POLRI\n3. Kartu Keluarga (KK)\n4. Curriculum Vitae (Unduh template di sini)\n5. Formulir Pendaftaran Spesialis (mengisi di website pendaftaran)\n6. Scan asli Ijazah Dokter\n7. Scan asli Transkrip Nilai (IPK minimal 2,75)\n8. Surat Rekomendasi untuk Melanjutkan Pendidikan (dari Institusi layanan kesehatan/Pendidikan yang menjadi tujuan setelah pendidikan) → diutamakan dari institusi pemerintah/PNS/TNI/POLRI\n9. TOEFL Institutional Testing Program (ITP) dengan skor minimal 500 yang dikeluarkan oleh lembaga terakreditasi/LIA\n10. Scan asli Surat Tanda Registrasi (STR) yang masih berlaku\n11. Scan asli Surat Izin Praktik (SIP) yang masih berlaku\n12. Scan asli Sertifikat Advanced Cardiovascular Life Support (ACLS) yang masih berlaku\n13. SKCK (Surat Keterangan Catatan Kepolisian)\n14. Surat Keterangan Pengalaman Kerja (minimal 1 tahun) dari Institusi asal\n15. Surat Keterangan Kesehatan (dari RS Haji Jakarta untuk domisili Jabodetabek atau RS Pemerintah daerah setempat jika domisili luar Jabodetabek)\n16. Surat Keterangan Bebas Narkoba\n17. Surat Keterangan Sehat Jasmani (wajib ada foto Toraks, OT, PT, Ur, Cr, HbA1c, HIV, HBsAg, DL, EKG, tes buta warna)\n18. Surat Keterangan Sehat Rohani (MMPI) (harus menyertakan hasil yang berupa grafik, bukan hanya hasil akhir)\n19. Surat Pernyataan Kesediaan Ditempatkan sebagai Staf Pengajar FK UIN di Seluruh Indonesia setelah lulus, bila Peserta bukan PNS/TNI/POLRI → (Unduh template di sini)\n20. Surat Pernyataan Kemampuan Finansial Selama Masa Pendidikan (bermaterai) → (Unduh template di sini)\n21. Surat Pernyataan Persetujuan Keluarga/Pasangan → (Unduh template di sini)\n22. Surat Pernyataan Keaslian Dokumen (bermaterai) → (Unduh template di sini)"
+  },
+  {
+    "id": "3c3b7a9f73ba70d00412118cb483c3b8",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 3. Pendaftaran",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 3. Pendaftaran",
+    "intents": [
+      "tanya_prosedur_pendaftaran",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Tata cara Pendaftaran Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "daftar pulmonologi",
+      "pendaftaran spesialis pulmonologi",
+      "jadwal pulmonologi"
+    ],
+    "search_text": "Judul: Tata cara Pendaftaran Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 3. Pendaftaran\nAlias: daftar pulmonologi, pendaftaran spesialis pulmonologi, jadwal pulmonologi\nIntent: tanya_prosedur_pendaftaran, tanya_jadwal, tanya_profesi\n\n## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Pulmonologi dan Kedokteran Respirasi UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Pulmonologi dan Kedokteran Respirasi, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “ Pulmonologi dan Kedokteran Respirasi”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”.",
+    "content": "## 3. Pendaftaran\n\nJadwal Pendaftaran Calon Mahasiswa Baru Program Studi Spesialis Pulmonologi dan Kedokteran Respirasi UIN Syarif Hidayatullah Jakarta :1 Maret - 21 April 2026\n1. Buka laman web https://spmb.uinjkt.ac.id.\n2. Pada bagian kolom Program Spesialis, klik tombol “Spesialis”\n3. Pada bagian kolom Pulmonologi dan Kedokteran Respirasi, klik tombol “Daftar”\n4. Pada bagian kolom Pendaftaran, klik tombol “Daftar”\n5. Pada Jenjang, pilih “Spesialis”\n6. Pilih Fakultas “Kedokteran”\n7. Pilih Jurusan “ Pulmonologi dan Kedokteran Respirasi”\n8. Mengisi : I. Data Calon Mahasiswa; II. Data Universitas Asal; III. Data Orang Tua/Wali; IV. Data Penanggung Biaya Pendidikan; V.Pilihan Program Studi (Prodi); VI. Upload Berkas;\n9. Selanjutnya, conteng pernyataan “Saya menyatakan telah membaca dan memahami syarat dan ketentuan pada laman ini, serta saya menyatakan setuju terhadap syarat dan ketentuan tersebut”\n10. Lalu tekan tombol “Generate Kode Pembayaran SPMB Mandiri”."
+  },
+  {
+    "id": "3974533faed5a531f60c57b7ea145e34",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 4. Pengumuman Kelulusan Tahap I",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 4. Pengumuman Kelulusan Tahap I",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Tahap I Spesialis Pulmonologi",
+    "alias_topik": [
+      "pengumuman tahap I pulmonologi",
+      "kelulusan tahap I pulmonologi"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Tahap I Spesialis Pulmonologi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 4. Pengumuman Kelulusan Tahap I\nAlias: pengumuman tahap I pulmonologi, kelulusan tahap I pulmonologi\nIntent: tanya_jadwal, tanya_profesi\n\n## 4. Pengumuman Kelulusan Tahap I\n\nHasil kelulusan tahap I telah diumumkan pada tanggal: 28 April 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman.",
+    "content": "## 4. Pengumuman Kelulusan Tahap I\n\nHasil kelulusan tahap I telah diumumkan pada tanggal: 28 April 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman."
+  },
+  {
+    "id": "0dc639676860013316d13e9137d790e7",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 6. Ujian Seleksi",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 6. Ujian Seleksi",
+    "intents": [
+      "tanya_ujian",
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Ujian Seleksi Spesialis Pulmonologi dan Kedokteran Respirasi",
+    "alias_topik": [
+      "ujian pulmonologi",
+      "SSE pulmonologi",
+      "TPA pulmonologi",
+      "CBT pulmonologi"
+    ],
+    "search_text": "Judul: Ujian Seleksi Spesialis Pulmonologi dan Kedokteran Respirasi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 6. Ujian Seleksi\nAlias: ujian pulmonologi, SSE pulmonologi, TPA pulmonologi, CBT pulmonologi\nIntent: tanya_ujian, tanya_jadwal, tanya_profesi\n\n## 6. Ujian Seleksi\n\n1. Uji Coba SSE (Sistem Seleksi Elektronik) Online: 18 Mei 2026\n2. Ujian SSE Online - TPA: 19 Mei 2026\n3. Ujian CBT Pulmonologi Dasar: 20 Mei 2026",
+    "content": "## 6. Ujian Seleksi\n\n1. Uji Coba SSE (Sistem Seleksi Elektronik) Online: 18 Mei 2026\n2. Ujian SSE Online - TPA: 19 Mei 2026\n3. Ujian CBT Pulmonologi Dasar: 20 Mei 2026"
+  },
+  {
+    "id": "70376ea9b3a9caededdf8253c5771911",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 7. Pengumuman Kelulusan Tahap II",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 7. Pengumuman Kelulusan Tahap II",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Tahap II Spesialis Pulmonologi",
+    "alias_topik": [
+      "pengumuman tahap II pulmonologi",
+      "kelulusan tahap II pulmonologi"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Tahap II Spesialis Pulmonologi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 7. Pengumuman Kelulusan Tahap II\nAlias: pengumuman tahap II pulmonologi, kelulusan tahap II pulmonologi\nIntent: tanya_jadwal, tanya_profesi\n\n## 7. Pengumuman Kelulusan Tahap II\n\nHasil kelulusan tahap II telah diumumkan pada tanggal: 29 Mei 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman.",
+    "content": "## 7. Pengumuman Kelulusan Tahap II\n\nHasil kelulusan tahap II telah diumumkan pada tanggal: 29 Mei 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman."
+  },
+  {
+    "id": "26575edcc70baa5e7bf4801df67f5cd5",
+    "source_file": "spesialis_pulmonologi_dan_kedokteran_respirasi_tagged.md",
+    "heading": "## 8. Pengumuman Kelulusan Akhir",
+    "parent_context": "Spesialis Pulmonologi dan Kedokteran Respirasi > 8. Pengumuman Kelulusan Akhir",
+    "intents": [
+      "tanya_jadwal",
+      "tanya_profesi"
+    ],
+    "topik": "Pengumuman Kelulusan Akhir Spesialis Pulmonologi",
+    "alias_topik": [
+      "pengumuman akhir pulmonologi",
+      "kelulusan akhir pulmonologi"
+    ],
+    "search_text": "Judul: Pengumuman Kelulusan Akhir Spesialis Pulmonologi\nKonteks: Spesialis Pulmonologi dan Kedokteran Respirasi > 8. Pengumuman Kelulusan Akhir\nAlias: pengumuman akhir pulmonologi, kelulusan akhir pulmonologi\nIntent: tanya_jadwal, tanya_profesi\n\n## 8. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir.",
+    "content": "## 8. Pengumuman Kelulusan Akhir\n\nHasil kelulusan akhir diumumkan pada tanggal: 16 Juni 2026 pukul 14.00 WIB.Klik tombol di bawah ini untuk melihat pengumuman kelulusan akhir."
+  },
+  {
+    "id": "95dc29c72ba230f87bcce7757b9ac5c6",
+    "source_file": "tarif_layanan_akademik_program_magister_doktoral_profesi_dan_spesialis_tagged.md",
+    "heading": "## C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |",
+    "parent_context": "C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |",
+    "intents": [
+      "tanya_biaya",
+      "tanya_profesi"
+    ],
+    "topik": "Tarif Uang Kuliah / UKT Program Profesi dan Spesialis",
+    "alias_topik": [
+      "biaya profesi",
+      "biaya spesialis",
+      "biaya ners",
+      "biaya apoteker",
+      "biaya pulmonologi",
+      "biaya obgyn"
+    ],
+    "search_text": "Judul: Tarif Uang Kuliah / UKT Program Profesi dan Spesialis\nKonteks: C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |\nAlias: biaya profesi, biaya spesialis, biaya ners, biaya apoteker, biaya pulmonologi, biaya obgyn\nIntent: tanya_biaya, tanya_profesi\n\n## C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis\n1.a.1 Kelompok I | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 400.000 | \n1.a.1 Kelompok II | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 16.000.000 | \n1.a.1 Kelompok III | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 23.000.000 | \n1.a.1 Kelompok IV | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 30.000.000 | \n1.a.1 Kelompok V | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 38.000.000 | \n1.a.1 Kelompok VI | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 42.000.000 | \n1.a.1 Kelompok VII | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 50.000.000 | \n1.a.1 KIP Kuliah | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 2.400.000 | \n1.a.1 Mahasiswa asing | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester |  | 65.000.000\n1.a.2 Modul Minor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 4.500.000 | 4.500.000\n1.a.2 Modul Mayor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 7.000.000 | 7.000.000\n1.b | Program Profesi - Ners | Per Mahasiswa/Semester | 13.000.000 | \n1.c.1 | Program Profesi - Apoteker - Lulusan S1 Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 15.000.000 | \n1.c.2 | Program Profesi - Apoteker - Lulusan S1 Non- Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 25.000.000 | \n1.c.3 | Program Profesi - Apoteker - Biaya mengulang mata kuliah Semester III s.d. VI | Per Mahasiswa/SKS | 1.920.000 | \n2.a | Program Spesialis - Pulmonologi | Per Mahasiswa/Semester | 25.000.000 | 25.000.000\n2.b | Program Spesialis - OBSGYN | Per Mahasiswa/Semester | 36.250.000 | 36.250.000",
+    "content": "## C | Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis | Per Mahasiswa/Semester |  |\n\nBiaya Sumbangan Pembinaan Pendidikan Tunggal Program Profesi dan Spesialis\n1.a.1 Kelompok I | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 400.000 | \n1.a.1 Kelompok II | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 16.000.000 | \n1.a.1 Kelompok III | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 23.000.000 | \n1.a.1 Kelompok IV | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 30.000.000 | \n1.a.1 Kelompok V | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 38.000.000 | \n1.a.1 Kelompok VI | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 42.000.000 | \n1.a.1 Kelompok VII | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 50.000.000 | \n1.a.1 KIP Kuliah | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester | 2.400.000 | \n1.a.1 Mahasiswa asing | Program Profesi - Kedokteran - Sumbangan Pembinaan Pendidikan | Per Mahasiswa/Semester |  | 65.000.000\n1.a.2 Modul Minor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 4.500.000 | 4.500.000\n1.a.2 Modul Mayor | Program Profesi - Kedokteran - Modul Minor - Mayor | Per Mahasiswa/Modul | 7.000.000 | 7.000.000\n1.b | Program Profesi - Ners | Per Mahasiswa/Semester | 13.000.000 | \n1.c.1 | Program Profesi - Apoteker - Lulusan S1 Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 15.000.000 | \n1.c.2 | Program Profesi - Apoteker - Lulusan S1 Non- Prodi Farmasi FIKES UIN Jakarta | Per Mahasiswa/Semester | 25.000.000 | \n1.c.3 | Program Profesi - Apoteker - Biaya mengulang mata kuliah Semester III s.d. VI | Per Mahasiswa/SKS | 1.920.000 | \n2.a | Program Spesialis - Pulmonologi | Per Mahasiswa/Semester | 25.000.000 | 25.000.000\n2.b | Program Spesialis - OBSGYN | Per Mahasiswa/Semester | 36.250.000 | 36.250.000"
+  }
+]
